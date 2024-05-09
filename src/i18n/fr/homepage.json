@@ -1,0 +1,16 @@
+{
+  "cardSection": {
+    "cardOne": {
+      "title": "Théorie",
+      "description": "Apprenez notamment au sujet des principes physiques, de l'équipement utilisé et de la terminologie"
+    },
+    "cardTwo": {
+      "title": "Protocoles",
+      "description": "Physiographie dispose d'une collection de protocoles d'imagerie par ultrasonographie musculosquelettique qui ne cesse de croître."
+    },
+    "cardThree": {
+      "title": "Par où commencer ?",
+      "description": "Apprenez à qui est destiné Physiographie, les principes de navigation et d'utilisation du site et bien plus encore"
+    }
+  }
+}
