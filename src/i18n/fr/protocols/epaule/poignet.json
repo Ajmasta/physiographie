@@ -1,0 +1,14 @@
+{
+    "rows":[
+        [{"data":"Compartiment"},{"data":"Tendon(s)"},{"data":"Abbréviation"}],
+        [{"data":"1","rowspan":2},{"data":"Court extenseur du pouce"},{"data":"CEP"}],
+        [{"data":"Long abducteur du pouce"},{"data":"LAP"}],
+        [{"data":"2","rowspan":2},{"data":"Court extenseur radial du carpe"},{"data":"CERC"}],
+        [{"data":"Long extenseur radial du carpe"},{"data":"LERC"}],
+        [{"data":"3"},{"data":"Long extenseur du pouce"},{"data":"LEP"}],
+        [{"data":"4","rowspan":2},{"data":"Extenseur commun des doigts"},{"data":"ECD"}],
+        [{"data":"Extenseur propre de l'index"},{"data":"EPI"}],
+        [{"data":"5"},{"data":"Extenseur propre du cinquième doigt"},{"data":"EP5"}],
+        [{"data":"6"},{"data":"Extenseur ulnaire du carpe"},{"data":"EUC"}]
+    ]
+}
