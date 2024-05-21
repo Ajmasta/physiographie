@@ -1,27 +1,28 @@
-import React from 'react';
+import React from "react";
 
 interface TableCellData {
-  data: string; 
-  colspan?: number; 
-  rowspan?:number;
+  data: string;
+  colspan?: number;
+  rowspan?: number;
 }
 
 interface TableProps {
-  rows: TableCellData[][]; 
+  rows: TableCellData[][];
 }
 
 const Generalites: React.FC<TableProps> = (props) => {
-      console.log(props)
-
-    return (
+  return (
     <table>
       <tbody>
-        {props?.rows?.map((row,i) => (
+        {props?.rows?.map((row, i) => (
           <tr key={i}>
-            {row.map((cell,y) => (
-              <td   colSpan={cell.colspan || 1}
-              rowSpan={cell.rowspan || 1} key={cell.data+i+y}
-              className={"border-white border-2 p-2"}>
+            {row.map((cell, y) => (
+              <td
+                colSpan={cell.colspan || 1}
+                rowSpan={cell.rowspan || 1}
+                key={cell.data + i + y}
+                className={"border-white border-2 p-2"}
+              >
                 {cell.data}
               </td>
             ))}

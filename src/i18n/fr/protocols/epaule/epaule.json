@@ -1,61 +1,178 @@
 {
-    "technique":[
-        {
-        "title":"Positionnement du Sujet",
-        "text":
-            ["Assis avec l'épaule découverte","Épaule: ",
-            ["Neutre de flexion-abduction","Une légère rotation externe peut permettre de centrer davantage les structures dans l'écran"],
-            "Coude",
-            ["90° de flexion","Pleine supination"]]
-            }
-        ,
-        {    
-        "title":"Repérage anatomique et palpation",
-        "text":
-                [
-                    "Le tendon du long chef du biceps se trouve au sein du sillon intertuberculaire",
-                    "Le sillon intertuberculaire se trouve entre la petite et la grosse tubérosité, situées respectivement à l'aspect antérieur et latéral de la tête humérale"
-                ]
-            }
+  "images": {
+    "anatomie": [
+      "anatomie.gif",
+      "Joelouistear.png",
+      "anatomie.gif",
+      "anatomie.gif",
+      "anatomie.gif"
     ],
-    "anatomyDescription":[
-        "Les tendons extenseurs du poignet sont classés selon le compartiment auquel ils appartiennent. Ces compartiments sont des tunnels anatomiques qui sont disposés majoritairement sur la face dorsale du poignet, mais également sur les faces radiale et ulnaire.",
-        "Premier compartiment [CEP-LAP]",
-        "Le premier compartiment est situé au niveau de l'aspect radial du poignet, vis-à-vis la styloïde radiale, qui représente d'ailleurs le principal repère osseux utilisé lors de la palpation. Ce compartiment forme également le rebord latéral (radial) de la tabatière anatomique. La gaine synoviale et les tendons qu'elle contient (LAP et CEP) sont impliqués dans le syndrome de De Quervain (voir la section Pertinence clinique ci-bas).",
-        "Deuxième compartiment [CERC-LERC]",
-        "Le second compartiment contient les tendons des deux extenseurs radiaux du carpe (long et court). On le retrouve au sein de la tabatière anatomique, soit tout juste en ulnaire (médial) de la styloïde radiale.",
-        "Troisième compartiment [LEP]",
-       " Le long extenseur du pouce est le seul tendon présent au sein du troisième compartiment, qui peut aismément être localisé en raison du fait qu'il forme le rebord ulnaire (médial) de la tabatière anatomique. Aussi, il est à noter que les compartiments #2 et #3 sont séparés par le tubercule de Lister, un relief osseux présent au niveau du radius palmaire distal.",
-       "Quatrième compartiment [ECD-EPI]",
-       "Il s'agit généralement du compartiment le plus volumineux, puisqu'il renferme les (quatre) tendons du muscle extenseur commun des doigts, en plus du tendon de l'extenseur propre de l'index, qui est parfois plus difficile à identifier lors de l'examen ultrasonographique.",
-       "Cinquième compartiment [EP5]",
-       "L'extenseur propre du cinquième doigt, unique tendon présent dans le cinquième compartiment, est situé sur la face palmaire de l'ulna, tout juste en médial (ulnaire) de l'articulation radio-ulnaire distale.",
-       "Sixième compartiment [EUC]",
-       "Finalement, l'extenseur ulnaire du carpe, un muscle déviateur ulnaire et relativement faible extenseur du poignet, se trouve au sein du sixième et dernier compartiment, qu'il occupe seul."
+    "vueTransversale": []
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du Sujet",
+        "text": [
+          "Assis avec l'épaule découverte",
+          "Épaule: ",
+          [
+            "Neutre de flexion-abduction",
+            "Une légère rotation externe peut permettre de centrer davantage les structures dans l'écran"
+          ],
+          "Coude",
+          ["90° de flexion", "Pleine supination"]
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Le tendon du long chef du biceps se trouve au sein du sillon intertuberculaire",
+          "Le sillon intertuberculaire se trouve entre la petite et la grosse tubérosité, situées respectivement à l'aspect antérieur et latéral de la tête humérale"
+        ]
+      }
     ]
-,
-    "rows": [
-      [
-        { "data": "Type de muscle", "colspan": 2 },
-        {"data":"Bi-articulaire, digastrique","colspan":1}
-      ],
-      [
-        { "data": "Origine", "rowspan": 2 },
-        { "data": "Chef Long", "colspan": 1 },
-        {"data":"Tubercule supra-glénoïdien (scapula)","colspan":1}
-      ],
-     [
+  },
+  "vueTransversale": {
+    "objectifs": [
+      "Examen du tendon du long chef du biceps brachial",
+      "Examen du ligament transverse huméral"
+    ],
+    "parametres": ["Profondeur: 3-4cm", "Gain: 70-75", "D/4/2"],
+    "positionnement": [
+      "Placer la sonde en vue transversale au niveau du sillon intertuberculaire"
+    ],
+    "imagePositionnement": ["positionnement1.jpg", "positionnement2.jpg"],
+    "identification": [
+      {
+        "acronymes": ["D"],
+        "texte": ["Le deltoïde apparaît au haut de l'image"]
+      },
+      {
+        "acronymes": ["PT", "GT"],
+        "texte": [
+          "La petite tubérosité et la grosse tubérosité (des reliefs de la tête humérale, zone hypoéchoïque circulaire) occupent la partie centrale de l'écran respectivement à gauche et à droite."
+        ]
+      },
+      {
+        "acronymes": ["LTH"],
+        "texte": [
+          "Le ligament transverse huméral (mince couche hypoéchoïque) forme le 'toît' du canal ostéofibreux qu'est la coulisse bicipitale. Ceux-ci sont situés en antéro-externe de la tête humérale, soit à la partie supérieure/gauche de l'image (selon le positionnement de la sonde)"
+        ]
+      },
+      {
+        "acronymes": ["TLB"],
+        "texte": [
+          "Le tendon du long biceps est visible au sein de la coulisse bicipitalee"
+        ]
+      },
+      {
+        "acronymes": ["SS"],
+        "texte": [
+          "Le tendon du sous-scapulaire peut être aperçu à la gauche de l'image, sur la petite tubérosité humérale"
+        ]
+      }
+    ],
+    "imageIdentification": [
+      "identification1.jpg",
+      "identification2.jpg",
+      "identification3.jpg",
+      "identification4.jpg",
+      "identification5.jpg",
+      "identification6.jpg",
+      "identification7.jpg"
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Description anatomique",
+    "content": [
+      {
+        "subtitle": "ads",
+        "text": [
+          "Les tendons extenseurs du poignet sont classés selon le compartiment auquel ils appartiennent. Ces compartiments sont des tunnels anatomiques qui sont disposés majoritairement sur la face dorsale du poignet, mais également sur les faces radiale et ulnaire.",
+          "Premier compartiment [CEP-LAP]",
+          "Le premier compartiment est situé au niveau de l'aspect radial du poignet, vis-à-vis la styloïde radiale, qui représente d'ailleurs le principal repère osseux utilisé lors de la palpation. Ce compartiment forme également le rebord latéral (radial) de la tabatière anatomique. La gaine synoviale et les tendons qu'elle contient (LAP et CEP) sont impliqués dans le syndrome de De Quervain (voir la section Pertinence clinique ci-bas).",
+          "Deuxième compartiment [CERC-LERC]",
+          "Le second compartiment contient les tendons des deux extenseurs radiaux du carpe (long et court). On le retrouve au sein de la tabatière anatomique, soit tout juste en ulnaire (médial) de la styloïde radiale.",
+          "Troisième compartiment [LEP]",
+          " Le long extenseur du pouce est le seul tendon présent au sein du troisième compartiment, qui peut aismément être localisé en raison du fait qu'il forme le rebord ulnaire (médial) de la tabatière anatomique. Aussi, il est à noter que les compartiments #2 et #3 sont séparés par le tubercule de Lister, un relief osseux présent au niveau du radius palmaire distal.",
+          "Quatrième compartiment [ECD-EPI]",
+          "Il s'agit généralement du compartiment le plus volumineux, puisqu'il renferme les (quatre) tendons du muscle extenseur commun des doigts, en plus du tendon de l'extenseur propre de l'index, qui est parfois plus difficile à identifier lors de l'examen ultrasonographique.",
+          "Cinquième compartiment [EP5]",
+          "L'extenseur propre du cinquième doigt, unique tendon présent dans le cinquième compartiment, est situé sur la face palmaire de l'ulna, tout juste en médial (ulnaire) de l'articulation radio-ulnaire distale.",
+          "Sixième compartiment [EUC]",
+          "Finalement, l'extenseur ulnaire du carpe, un muscle déviateur ulnaire et relativement faible extenseur du poignet, se trouve au sein du sixième et dernier compartiment, qu'il occupe seul."
+        ]
+      }
+    ]
+  },
+  "generalites": {
+    "sectionTitle": "Généralités",
+    "content": [
+      {
+        "subtitle": "Test",
+        "text": []
+      },
+      {
+        "subtitle": "Test",
+        "text": []
+      },
+      {
+        "subtitle": "Test",
+        "text": []
+      },
+      {
+        "subtitle": "Test",
+        "text": []
+      }
+    ]
+  },
+  "valeursNormatives": {
+    "sectionTitle": "Valeurs normatives",
+    "content": [
+      {
+        "subtitle": "Test",
+        "text": []
+      },
+      {
+        "subtitle": "Test",
+        "text": []
+      },
+      {
+        "subtitle": "Test",
+        "text": []
+      },
+      {
+        "subtitle": "Test",
+        "text": []
+      }
+    ]
+  },
+  "pertinenceClinique": [],
+  "voirAussi": [],
+  "references": [],
+  "rows": [
+    [
+      { "data": "Type de muscle", "colspan": 2 },
+      { "data": "Bi-articulaire, digastrique", "colspan": 1 }
+    ],
+    [
+      { "data": "Origine", "rowspan": 2 },
+      { "data": "Chef Long", "colspan": 1 },
+      { "data": "Tubercule supra-glénoïdien (scapula)", "colspan": 1 }
+    ],
+    [
       { "data": "Chef court", "colspan": 1 },
-      {"data":"Apex du processus coracoïde (scapula)","colspan":1}
-      ],
-      [
-        { "data": "Insertion Commune", "colspan": 2 },
-        {"data":"Tubérosité bicipitale (radius)","colspan":1}
-      ],
-      [
-        { "data": "Innervation", "colspan": 2 },
-        {"data":"Nerf musculocutané (C5-C6)","colspan":1}
-      ]
+      { "data": "Apex du processus coracoïde (scapula)", "colspan": 1 }
+    ],
+    [
+      { "data": "Insertion Commune", "colspan": 2 },
+      { "data": "Tubérosité bicipitale (radius)", "colspan": 1 }
+    ],
+    [
+      { "data": "Innervation", "colspan": 2 },
+      { "data": "Nerf musculocutané (C5-C6)", "colspan": 1 }
     ]
-  }
-  
+  ]
+}

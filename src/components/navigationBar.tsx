@@ -1,25 +1,25 @@
 import logo from "../assets/logo.png";
 
 export const NavigationBar = () => {
-
-  const createVerticalMenu = (name:string,itemsList :String[])=> {
-
-
-    return    (
-
+  const createVerticalMenu = (name: string, itemsList: string[]) => {
+    return (
       <li className="dropdown dropdown-hover">
-      <div tabIndex={0} role="button" className="text-slate-400">
-        {name}
-      </div>
-      <ul
-        tabIndex={0}
-        className=" cursor-pointer dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-52"
-      >
-      {itemsList.map((item)=><li><a>{item}</a></li>)}
-      </ul>
-    </li>
-    )
-  }
+        <div tabIndex={0} role="button" className="text-slate-400">
+          {name}
+        </div>
+        <ul
+          tabIndex={0}
+          className=" cursor-pointer dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-52"
+        >
+          {itemsList.map((item) => (
+            <li>
+              <a>{item}</a>
+            </li>
+          ))}
+        </ul>
+      </li>
+    );
+  };
   return (
     <div className="sticky top-0 left-0 z-20">
       <div className=" bg-navBlack navbar">
@@ -77,18 +77,17 @@ export const NavigationBar = () => {
         <div className="hidden navbar-center lg:flex">
           <img src={logo} width={80} />
           <ul className="px-1 menu menu-horizontal">
-     
+            {createVerticalMenu("Théorie", [
+              "Terminologie et conventions",
+              "Principes physiques",
+              "La technique",
+              "L'équipement",
+            ])}
 
-           {createVerticalMenu("Théorie",["Terminologie et conventions", "Principes physiques","La technique","L'équipement"])}
-
-           {createVerticalMenu("Protocoles",["Tronc","Jambe"])}
-           {createVerticalMenu("Formation",["Tronc","Jambe"])}
-           {createVerticalMenu("Protocoles",["Tronc","Jambe"])}
-           {createVerticalMenu("Pour en savoir plus",["Tronc","Jambe"])}
-
-
-
-   
+            {createVerticalMenu("Protocoles", ["Tronc", "Jambe"])}
+            {createVerticalMenu("Formation", ["Tronc", "Jambe"])}
+            {createVerticalMenu("Protocoles", ["Tronc", "Jambe"])}
+            {createVerticalMenu("Pour en savoir plus", ["Tronc", "Jambe"])}
           </ul>
         </div>
         <div className="navbar-end"></div>

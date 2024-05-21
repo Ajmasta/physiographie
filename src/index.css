@@ -2,8 +2,34 @@
 @tailwind components;
 @tailwind utilities;
 
+ul {
+  list-style: disc;
+}
 
-ul{
-    list-style: disc;
+.subsection-enter {
+  opacity: 0;
+  max-height: 0px;
+  overflow: hidden;
+}
+.subsection-enter-done {
+  opacity: 1;
+  max-height: 100px;
 
+  transition: all 0.5s ease;
+}
+
+.subsection-appear-done {
+  opacity: 1;
+  max-height: 100px;
+
+  overflow: hidden;
+}
+
+.subsection-exit {
+  opacity: 0;
+  max-height: 0px;
+  overflow: hidden;
+}
+html {
+  scroll-behavior: smooth;
 }
