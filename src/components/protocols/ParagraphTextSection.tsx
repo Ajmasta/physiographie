@@ -1,5 +1,6 @@
 import React from "react";
 import ImageViewer from "./ImageViewer";
+import TextGenerator from "../TextGenerator";
 type Props = {
   content: string[];
   images: string[];
@@ -20,7 +21,7 @@ const ParagraphTextSection = ({ content, images }: Props) => {
           <div>
             {content.map((paragraph) => (
               <>
-                <p>{paragraph}</p>
+                <TextGenerator text={paragraph} />
                 <br />
               </>
             ))}

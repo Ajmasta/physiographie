@@ -1,50 +1,58 @@
-import { useState, useEffect, useRef, useMemo } from "react";
-import tableData from "../../i18n/fr/protocols/epaule/epaule.json";
+import { useState, useEffect, useMemo, useRef } from "react";
+import tableData from "../../i18n/fr/protocols/epaule/bicepsBrachial.json";
 import Generalites from "../../components/protocols/Generalites";
 import ListTextSection from "../../components/protocols/ListTextSection";
 import ParagraphTextSection from "../../components/protocols/ParagraphTextSection";
 import { useInView } from "react-intersection-observer";
-import { CSSTransition } from "react-transition-group";
-import VueSection from "../../components/protocols/VueSection";
+import { Vue } from "../../components/protocols/VueSection";
+import Menu from "../../components/protocols/Menu";
 
-const INVIEW_TRESHOLD = 0.2;
+const INVIEW_THRESHOLD = 0.2;
 
 const Protocol = () => {
   const [activeSection, setActiveSection] = useState("");
   const [activeSubsection, setActiveSubsection] = useState([]);
 
-  const [inProp, setInProp] = useState(false);
-  const nodeRef = useRef(null);
-
-  const getSubsections = (key) => {
+  const getSubsections = (key: string): string[] | undefined => {
+    let subtitlesContent = [];
+    let subtitlesVues = [];
     if (tableData[key]?.content?.[0]?.subtitle) {
-      const subtitles = tableData[key].content.map(
-        (section) => section.subtitle
+      subtitlesContent = tableData[key].content.map(
+        (section: any) => section.subtitle
       );
-      return subtitles;
     }
+    if (tableData[key]?.vues) {
+      subtitlesVues = tableData[key].vues.map((vue: Vue) => vue.title);
+    }
+
+    return [...subtitlesContent, ...subtitlesVues];
   };
 
   const { ref: refTechnique, inView: inViewTechnique } = useInView({
-    threshold: INVIEW_TRESHOLD,
+    threshold: INVIEW_THRESHOLD,
     triggerOnce: false,
   });
   const { ref: refAnatomy, inView: inViewAnatomy } = useInView({
-    threshold: INVIEW_TRESHOLD,
+    threshold: INVIEW_THRESHOLD,
     triggerOnce: false,
   });
   const { ref: refGeneralites, inView: inViewGeneralites } = useInView({
-    threshold: INVIEW_TRESHOLD,
+    threshold: INVIEW_THRESHOLD,
     triggerOnce: false,
   });
   const { ref: refValeursNormatives, inView: inViewValeursNormatives } =
     useInView({
-      threshold: INVIEW_TRESHOLD,
+      threshold: INVIEW_THRESHOLD,
       triggerOnce: false,
     });
 
   const sectionEntries = useMemo(
     () => [
+      {
+        key: "generalites",
+        inView: inViewGeneralites,
+        subsections: getSubsections("generalites"),
+      },
       {
         key: "technique",
         inView: inViewTechnique,
@@ -55,24 +63,14 @@ const Protocol = () => {
         inView: inViewAnatomy,
         subsections: getSubsections("descriptionAnatomique"),
       },
-      {
-        key: "generalites",
-        inView: inViewGeneralites,
-        subsections: getSubsections("generalites"),
-      },
-      {
-        key: "valeursNormatives",
-        inView: inViewValeursNormatives,
-        subsections: getSubsections("valeursNormatives"),
-      },
     ],
-    [inViewTechnique, inViewAnatomy, inViewGeneralites, inViewValeursNormatives]
+    [inViewTechnique, inViewAnatomy, inViewGeneralites]
   );
 
   useEffect(() => {
     const mostVisibleSection = sectionEntries.reduce(
       (prev, current) => (current.inView ? current : prev),
-      {}
+      { key: "", subsections: [] }
     );
 
     if (mostVisibleSection.key) {
@@ -97,52 +95,36 @@ const Protocol = () => {
 
   return (
     <div className="flex">
-      <div
-        className="sticky top-0 left-0 z-20 self-start"
-        style={{ width: "20%", top: "200px" }}
-      >
-        <ul>
-          {menuContent.map((section, index) => (
-            <>
-              <li
-                key={index}
-                style={{
-                  fontWeight:
-                    activeSection === sectionEntries[index].key
-                      ? "bold"
-                      : "normal",
-                }}
-              >
-                <a href={`#${section.key}`}> {section.sectionTitle}</a>
-              </li>
-              <CSSTransition
-                nodeRef={nodeRef}
-                in={activeSection === sectionEntries[index].key}
-                timeout={0}
-                classNames="subsection"
-                unmountOnExit
-              >
-                <div ref={nodeRef}>
-                  <ul className="ml-4 list-none">
-                    {activeSubsection &&
-                      activeSection === sectionEntries[index].key &&
-                      activeSubsection.map((subsection, idx) => (
-                        <li key={idx}>{subsection}</li>
-                      ))}
-                  </ul>
-                </div>
-              </CSSTransition>
-            </>
-          ))}
-        </ul>
-      </div>
+      <Menu
+        menuContent={menuContent}
+        activeSection={activeSection}
+        activeSubsection={activeSubsection}
+        sectionEntries={sectionEntries}
+      />
 
       <div style={{ width: "60%", maxWidth: "1200px" }}>
+        <div ref={refGeneralites} className="relative">
+          <span
+            id="generalites"
+            className="absolute"
+            style={{ top: "-110px" }}
+          />
+          <Generalites
+            rows={tableData.generalites.rangees}
+            sectionTitle={tableData.generalites.sectionTitle}
+          />
+          <Generalites
+            rows={tableData.valeursNormatives.rangees}
+            sectionTitle={tableData.valeursNormatives.sectionTitle}
+          />
+        </div>
+
         <div ref={refTechnique} className="relative">
           <span id="technique" className="absolute" style={{ top: "-110px" }} />
           <ListTextSection
             content={tableData.technique.content}
             sectionTitle={tableData.technique.sectionTitle}
+            vues={tableData.technique.vues}
           />
         </div>
 
@@ -152,23 +134,11 @@ const Protocol = () => {
             className="absolute"
             style={{ top: "-110px" }}
           />
-
           <ParagraphTextSection
             content={tableData.descriptionAnatomique.content[0].text}
             images={tableData.images.anatomie}
           />
         </div>
-        <div ref={refGeneralites}>
-          <Generalites rows={tableData.rows} />
-          <br /> <br /> <br /> <br /> <br />
-        </div>
-        <div ref={refValeursNormatives}>
-          <ParagraphTextSection
-            content={tableData.descriptionAnatomique.content[0].text}
-            images={tableData.images.anatomie}
-          />
-        </div>
-        <VueSection vue={tableData.vueTransversale} />
       </div>
     </div>
   );

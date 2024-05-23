@@ -1,5 +1,6 @@
 import { FaGraduationCap, FaBook } from "react-icons/fa6";
 import Text from "../i18n/fr/homepage.json";
+import TextGenerator from "./TextGenerator";
 export const HeroSection = () => {
   return (
     <div className="flex flex-wrap justify-center bg-white">
@@ -12,8 +13,14 @@ export const HeroSection = () => {
           </div>
         </figure>
         <div className="items-center text-center card-body">
-          <h2 className="card-title"> {Text.cardSection.cardOne.title}</h2>
-          <p>{Text.cardSection.cardOne.description}</p>
+          <h2>
+            <TextGenerator
+              classes={"card-title"}
+              span
+              text={Text.cardSection.cardOne.title}
+            />
+          </h2>
+          <TextGenerator text={Text.cardSection.cardOne.description} />
         </div>
       </div>
       <div className="mx-2 card w-96">
@@ -25,11 +32,18 @@ export const HeroSection = () => {
           </div>
         </figure>
         <div className="items-center text-center card-body">
-          <h2 className="card-title"> {Text.cardSection.cardTwo.title}</h2>
-          <p>{Text.cardSection.cardTwo.description}</p>
+          <h2 className="card-title">
+            <TextGenerator
+              classes={"card-title"}
+              span
+              text={Text.cardSection.cardTwo.title}
+            />
+          </h2>
+          <p>
+            <TextGenerator text={Text.cardSection.cardTwo.description} />
+          </p>
         </div>
       </div>
-      
     </div>
   );
 };

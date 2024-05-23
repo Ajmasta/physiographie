@@ -1,4 +1,5 @@
 import React from "react";
+import TextGenerator from "../TextGenerator";
 
 interface TableCellData {
   data: string;
@@ -6,30 +7,39 @@ interface TableCellData {
   rowspan?: number;
 }
 
-interface TableProps {
+interface Props {
   rows: TableCellData[][];
+  sectionTitle: string;
 }
 
-const Generalites: React.FC<TableProps> = (props) => {
+const Generalites = ({ rows, sectionTitle }: Props) => {
   return (
-    <table>
-      <tbody>
-        {props?.rows?.map((row, i) => (
-          <tr key={i}>
-            {row.map((cell, y) => (
-              <td
-                colSpan={cell.colspan || 1}
-                rowSpan={cell.rowspan || 1}
-                key={cell.data + i + y}
-                className={"border-white border-2 p-2"}
-              >
-                {cell.data}
-              </td>
+    <div tabIndex={0} className="bg-white collapse collapse-arrow">
+      <input type="checkbox" defaultChecked={true} />
+      <div className="text-xl font-medium collapse-title">
+        <TextGenerator classes="text-xl font-medium" span text={sectionTitle} />
+      </div>
+      <div className="collapse-content">
+        <table>
+          <tbody>
+            {rows?.map((row, i) => (
+              <tr key={i}>
+                {row.map((cell, y) => (
+                  <td
+                    colSpan={cell.colspan || 1}
+                    rowSpan={cell.rowspan || 1}
+                    key={cell.data + i + y}
+                    className={"border-black border-2 p-2"}
+                  >
+                    <TextGenerator text={cell.data} />
+                  </td>
+                ))}
+              </tr>
             ))}
-          </tr>
-        ))}
-      </tbody>
-    </table>
+          </tbody>
+        </table>
+      </div>
+    </div>
   );
 };
 

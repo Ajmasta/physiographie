@@ -1,4 +1,5 @@
 import logo from "../assets/logo.png";
+import { Link } from "react-router-dom";
 
 export const NavigationBar = () => {
   const createVerticalMenu = (name: string, itemsList: string[]) => {
@@ -13,7 +14,7 @@ export const NavigationBar = () => {
         >
           {itemsList.map((item) => (
             <li>
-              <a>{item}</a>
+              <Link to="/protocols">{item}</Link>
             </li>
           ))}
         </ul>
