@@ -1,0 +1,372 @@
+{
+  "title": "Terminologie & Conventions",
+  "content": [
+    {
+      "tableTitle": "Principes Physiques",
+      "rangees": [
+        [
+          { "data": "Piézoélectrique", "header": true },
+          {
+            "data": "Phénomène où de l’électricité est générée par la compression d’un matériau (dans le cadre de l’ultrasonographie, ce matériau est un cristal)"
+          }
+        ],
+        [
+          { "data": "Réflexion (acoustique)", "header": true },
+          {
+            "data": "Lorsqu’une onde sonore change de direction à l’interface de deux milieux, et qu’elle retourne dans le premier milieu"
+          }
+        ],
+        [
+          { "data": "Réfraction (acoustique)", "header": true },
+          {
+            "data": "Lorsqu’une onde sonore change de direction à l’interface de deux milieux (en raison d’une différence d’impédance acoustique) et qu’elle continue (en tout ou en partie) dans le second milieu"
+          }
+        ],
+        [
+          { "data": "Angle d’incidence", "header": true },
+          {
+            "data": "Angle formé par le faisceau d’ultrasons et la surface du tissu d’intérêt"
+          }
+        ],
+        [
+          { "data": "Cohérence spatiale d’un faisceau", "header": true },
+          {
+            "data": "On peut imager qu’un faisceau à la cohérence spatiale parfaite verrait toutes les ondes qui le constitue être parfaitement parallèles les unes par rapport aux autres. Au contraire, un faisceau possédant une cohérence spatiale faible est très hétérogène quant à la direction des ondes qui le compose"
+          }
+        ],
+        [
+          { "data": "Dispersion scattering", "header": true },
+          {
+            "data": "lorsqu’une surface exposée à des ondes est irrégulière dans son relief et/ou composition, les ondes réfléchies/réfractées sont forcées à dévier de manière non-uniforme les unes par rapport aux autres"
+          }
+        ],
+        [
+          { "data": "Temporisation, latence timing", "header": true },
+          {
+            "data": "Concept qui réfère à la différence de temps entre l’émission d’une onde et le moment où cette onde est captée par le transducteur"
+          }
+        ],
+        [
+          { "data": "Absorption", "header": true },
+          {
+            "data": "Phénomène où l’énergie contenue dans les ondes sonores est absorbée par les molécules du milieu, puis convertie en énergie thermique (chaleur)"
+          }
+        ],
+        [
+          { "data": "Atténuation (acoustique)", "header": true },
+          {
+            "data": "Diminution graduelle d’intensité du d’ondes sonores réfléchies en raison de l’absorption (surtout), de la réfraction et de la dispersion"
+          }
+        ],
+        [
+          { "data": "Interface", "header": true },
+          {
+            "data": "Surface formée par une limite commune entre deux tissus. Par exemple, entre un muscle un os sous-jacent, on retrouve l’interface muscle-os."
+          }
+        ],
+        [
+          { "data": "Zone focale", "header": true },
+          {
+            "data": "Point où le diamètre du faisceau est à son plus minimum, où la résolution latérale est optimale (en raison d’une convergence accrue du faisceau d’ultrasons sur une surface restreinte). Cette zone focale peut être ajustée mécaniquement (en modifiant l’intensité et la fréquence des ultrasons, entre autres) ou électroniquement"
+          }
+        ],
+        [
+          { "data": "Faisceau (sonore)", "header": true },
+          {
+            "data": "Ensemble d’ondes sonores émis par une source et progressant dans une direction donnée"
+          }
+        ],
+        [
+          { "data": "Pénétration d’un faisceau", "header": true },
+          {
+            "data": "Degré auquel un faisceau peut traverser une grande épaisseur de tissu en subissant un degré variable d’atténuation. Une atténuation plus grande diminue l’intensité du faisceau, ce qui diminue la pénétration de ce dernier."
+          }
+        ],
+        [
+          { "data": "Impédance acoustique", "header": true },
+          {
+            "data": "On peut imager ce concept en le décrivant comme la résistance qu’un milieu impose au passage d’ondes sonores. Il s’agit en fait d’une propriété caractéristique d’un milieu physique (p.ex. : un tissu comme du muscle) qui réfère à la quantité d’ondes sonores produites par un milieu lorsqu’il est soumis une vibration."
+          }
+        ]
+      ]
+    },
+    {
+      "tableTitle": "Nomenclature des plans",
+      "rangees": [
+        [
+          { "data": "Vue / Plan", "header": true },
+          {
+            "data": "Dans le contexte de l’ultrasonographie, les plans orthogonaux purs (sagittal, frontal, transversal) ne sont pas utilisés comme on le ferait avec d’autres méthodes d’imagerie. On réfère plutôt à une nomenclature relative aux structures observées"
+          }
+        ],
+        [
+          { "data": "Vue longitudinale", "header": true },
+          {
+            "data": "Une vue longitudinale est utilisée lorsque le long axe de la sonde est parallèle au long axe de la structure. Pour le bras, une vue longitudinale réfère à une sonde dont le long axe est parallèle à la diaphyse humérale"
+          }
+        ],
+        [
+          { "data": "Vue transversale", "header": true },
+          {
+            "data": "Cette vue désigne classiquement (en échographie) une rotation de la sonde de 90° par rapport à une vue longitudinale, donc dans « l’axe court » de la structure observée."
+          }
+        ],
+        [
+          {
+            "data": "Convention de positionnement de la sonde",
+            "header": true
+          },
+          {
+            "data": "Une convention de positionnement (voir ci-dessous) est utilisée dans la plupart des manuels de référence, et sur Physiographie, sauf mention contraire"
+          }
+        ],
+        [
+          { "data": "Vue longitudinale", "header": true },
+          {
+            "data": "Sur l’écran, le côté gauche réfère à l’aspect crânial (proximal) de la structure, alors que le côté droit réfère logiquement à l’aspect caudal (distal)"
+          }
+        ],
+        [
+          { "data": "Vue transversale", "header": true },
+          {
+            "data": "Le côté gauche de l’image correspond au côté droit de la structure, alors que la droite de l’image correspond au côté gauche"
+          }
+        ]
+      ]
+    },
+    {
+      "tableTitle": "Caractéristiques d'imagerie",
+      "rangees": [
+        [
+          { "data": "Échogénique", "header": true },
+          {
+            "data": "Terme qui réfère à la capacité qu’a une structure de générer un écho, c.-à-d. de réfléchir les ultrasons. Plus une structure est échogénique, plus elle apparaîtra claire à l’écran"
+          },
+          {
+            "data": "Exemple : la majorité des structures d’intérêt dans un contexte musculosquelettique sont échogéniques (os et tissus mous)"
+          }
+        ],
+        [
+          { "data": "Hyperéchoïque", "header": true },
+          {
+            "data": "Lorsqu’une structure apparaît plus claire (réfléchit davantage les ultrasons) qu’une autre structure à laquelle elle est comparée"
+          },
+          {
+            "data": "Exemple : Les tendons sont normalement hyperéchoïques par rapport aux muscles"
+          }
+        ],
+        [
+          { "data": "Hypoéchoïque", "header": true },
+          {
+            "data": "Lorsqu’une structure apparaît plus sombre (réfléchit donc moins les ultrasons) qu’une autre structure à laquelle elle est comparée"
+          },
+          {
+            "data": "Exemple : Le tissu adipeux est hypoéchoïque par rapport au tissu musculaire"
+          }
+        ],
+        [
+          { "data": "Anéchoïque", "header": true },
+          {
+            "data": "Qui ne génère aucun écho (donc très sombre ou invisible à l’écran). Ce peut être en raison de caractéristiques intrinsèques au tissu(p.ex. : qui absorbe fortement les ultrasons) où en raison de structures plus superficielles qui réfléchissent les ultrasons de manière importante"
+          },
+          {
+            "data": "Exemple : L’os sous-cortical est anéchoïque, lui qui est sous-jacent à l’os cortical qui lui apparaît fortement hyperéchoïque"
+          }
+        ],
+        [
+          { "data": "Anisotropie", "header": true, "rowspan": 2 },
+          {
+            "data": "Propriété qu’on certains tissus (comme les tendons et les ligaments) de voir leur échogénicité apparente être modifiée selon l’angle auquel les ultrasons les atteignent",
+            "rowspan": 2
+          },
+          {
+            "data": "Selon le cas, une structure normalement hypoéchoïque peut paraître hyperéchoïque et vice-versa. Cette propriété peut permettre, par exemple, de distinguer un ligament de tissu adipeux qui, lui, est uniformément hypoéchoïque"
+          }
+        ],
+        [
+          {
+            "data": "Dans certains cas, cette propriété peut mener à de fausses observations si l’angle de la sonde n’est pas réglé précisément en fonction de la structure anisotropique d’intérêt"
+          }
+        ],
+        [
+          { "data": "Artéfact", "header": true, "rowspan": 2 },
+          {
+            "data": "Ce terme utilisé dans plusieurs domaines et réfère à toute altération des données recueillies qui est causée par une mauvaise technique/manipulation ou à l’équipement qui a servi à recueillir ces données. Voir la rubrique Technique pour en savoir plus sur les artéfacts",
+            "rowspan": 2
+          },
+          {
+            "data": "Exemple en ultrasonographie : avec un tissu anisotropique, une mauvaise angulation de la sonde pourrait faire croire à une échogénicité erronée (risque de faux-positif ou de faux-négatif)"
+          }
+        ],
+        [{ "data": "Artéfactuel : qui est la conséquence d’un artéfact" }],
+        [
+          { "data": "Faux-positif", "header": true },
+          {
+            "data": "Quand un résultat devrait être négatif et qu’il est interprété, ou perçu, comme étant positif"
+          },
+          { "data": "P.ex. : Un ligament intact qui serait déclaré rupturé" }
+        ],
+        [
+          { "data": "Faux-négatif", "header": true },
+          {
+            "data": "Par opposition au faux-positif, il s’agit d’un résultat faussement négatif (qui devrait être positif)"
+          },
+          { "data": "P.ex. : Un ligament rupturé qui serait déclaré intact" }
+        ],
+        [
+          { "data": "Résolution", "header": true },
+          {
+            "data": "En ultrasonographie, ce terme peut référer à deux concepts (voir ci-dessous)"
+          },
+          { "data": "" }
+        ],
+        [
+          { "data": "Résolution latérale", "header": true },
+          {
+            "data": "Capacité de distinguer des structures dans un plan perpendiculaire au faisceau d’ultrasons, donc à une profondeur commune les unes par rapport aux autres"
+          },
+          {
+            "data": "Celle-ci est meilleure avec des transducteurs de petite taille et avec de hautes fréquences"
+          }
+        ],
+        [
+          { "data": "Résolution axiale", "header": true },
+          {
+            "data": "Capacité de distinguer des structures superposées à différentes profondeurs"
+          },
+          { "data": "" }
+        ],
+        [
+          { "data": "Force du signal", "header": true },
+          {
+            "data": "Réfère à l’intensité des ultrasons réfléchis qui sont captés par le transducteur"
+          },
+          { "data": "" }
+        ],
+        [
+          {
+            "data": "Rapport signal sur bruit signal-to-noise ration",
+            "header": true
+          },
+          {
+            "data": "Ce ratio sert à décrire la qualité du signal perçu par un transducteur en mettant en relation le signal provenant des tissus évalués avec le « bruit de fond », considéré nuisible. Ainsi, un ratio supérieur à 1 :1 correspond à davantage de signal que de bruit"
+          },
+          {
+            "data": "Ce rapport peut être affecté (à la hausse ou à la baisse) par plusieurs facteurs tels que la taille et la qualité du transducteur et les caractéristiques du faisceau (p.ex. : fréquence et amplitude)"
+          }
+        ],
+        [
+          {
+            "data": "Échotexture/structure classique des tissus normaux (sains)",
+            "header": true,
+            "rowspan": 10
+          },
+          {
+            "data": "Tendon: Structure fibrillaire ou fibreuse, hyperéchoïque"
+          },
+          { "data": "" }
+        ],
+        [
+          {
+            "data": "Ligament: Structure striée, hyperéchoïque plus compacte que celle d’un tendon"
+          },
+          { "data": "" }
+        ],
+        [
+          {
+            "data": "Muscle: Relativement hypoéchoïque (par rapport au tendon). Il est possible d’observer les fascicules musculaires (hypoéchoïques) entourés de leur périmysium (hyperéchoïque)"
+          },
+          { "data": "" }
+        ],
+        [
+          {
+            "data": "Os cortical (surface) ou calcifications: Fortement hyperéchoïque, avec un fond hypoéchoïque ou anéchoïque (os sous-cortical)"
+          },
+          { "data": "" }
+        ],
+        [
+          {
+            "data": "Cartilage hyalin: Hypoéchoïque et uniforme"
+          },
+          { "data": "" }
+        ],
+        [
+          {
+            "data": "Labrum: Hyperéchoïque"
+          },
+          { "data": "" }
+        ],
+        [
+          {
+            "data": "Tissu adipeux: Hypoéchoïque et uniforme"
+          },
+          { "data": "" }
+        ],
+        [
+          {
+            "data": "Fibres nerveuses périphériques: Apparence fasciculaire où les nerfs sont eux-mêmes sont hypoéchoïques et entourés de tissu conjonctif hyperéchoïque"
+          },
+          { "data": "" }
+        ],
+        [
+          {
+            "data": "Épiderme et derme: Collectivement hyperéchoïques"
+          },
+          { "data": "" }
+        ],
+        [
+          {
+            "data": "Hypoderme: Hypoéchoïque (tissu adipeux) et hyperéchoïque (septum fibreux)"
+          },
+          { "data": "" }
+        ]
+      ]
+    },
+    {
+      "tableTitle": "L'équipement et ses paramètres (réglages)",
+      "rangees": [
+        [
+          { "data": "Profondeur depth", "header": true },
+          {
+            "data": "Ce paramètre détermine la profondeur désirée du faisceau d’ultrasons, qui, idéalement, devrait engendrer une zone focale englobant les structures d’intérêt"
+          }
+        ],
+        [
+          { "data": "Gain", "header": true },
+          {
+            "data": "Permet d’ajuster la luminosité globale des structures apparaissant à l’écran"
+          }
+        ],
+        [
+          { "data": "Fréquence", "header": true },
+          {
+            "data": "Paramètre qui a un impact sur la profondeur et la résolution voulue en fonction des structures à observer (généralement ajusté par l’entremise de la profondeur)"
+          }
+        ],
+        [
+          { "data": "Transducteur / sonde", "header": true },
+          {
+            "data": "Partie de l’appareil d’ultrasonographie qui a pour fonction l’émission (production) des ultrasons, ainsi que la réception des ultrasons réfléchis"
+          }
+        ]
+      ]
+    },
+    {
+      "tableTitle": "Utilisation de l'ultrasonographe",
+      "rangees": [
+        [
+          { "data": "Application statique", "header": true },
+          {
+            "data": "Réfère à l’application de la sonde sur des structures immobiles. Par opposition avec l’application dynamique."
+          }
+        ],
+        [
+          { "data": "Application dynamique", "header": true },
+          {
+            "data": "Ce terme est utilisé lorsque les structures visualisées via ultrasonographie sont simultanément mobilisées (activement ou passivement). Dans la région de l’épaule, ce type d’application peut, entre autres choses, être très utile dans le contexte d’un syndrome d’abutement ou d’une capsulite rétractile"
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,11 +1,14 @@
 import { useRef } from "react";
 import { CSSTransition } from "react-transition-group";
+import { SectionEntry } from "../../pages/protocols/Protocol";
+import { ProtocolKeys } from "../../interfaces/protocol";
+import { Link } from "react-router-dom";
 
 interface MenuProps {
-  menuContent: { sectionTitle: string; key: string }[];
+  menuContent: { sectionTitle?: string; key?: ProtocolKeys }[];
   activeSection: string;
   activeSubsection: string[];
-  sectionEntries: [];
+  sectionEntries: SectionEntry[];
 }
 
 const Menu = ({
@@ -15,20 +18,38 @@ const Menu = ({
   sectionEntries,
 }: MenuProps) => {
   const nodeRef = useRef(null);
+  const removeAnchorTags = (input: string) => {
+    return input?.replace(/<a[^>]*>.*?<\/a>/gi, "");
+  };
+
   return (
     <div
-      className="sticky top-0 left-0 z-20 self-start"
+      className="sticky top-0 z-20 self-start hidden left-12 md:block"
       style={{ width: "20%", top: "200px" }}
     >
-      <ul>
+      <ul className="list-none">
         {menuContent.map((section, index) => (
           <li
             key={index}
             style={{
-              fontWeight: activeSection === section.key ? "bold" : "normal",
+              fontWeight: activeSection === section.key ? "900" : "normal",
             }}
+            className={
+              activeSection === section.key
+                ? "text-xl text-physioBlue"
+                : "text-xl"
+            }
           >
-            <a href={`#${section.key}`}>{section.sectionTitle}</a>
+            <div className="flex flex-row items-center mb-2">
+              <div
+                className={
+                  activeSection === section.key
+                    ? "w-1 h-7 mr-2 bg-physioBlue transition-all ease-in duration-600"
+                    : "w-1  h-7 mr-2 bg-slate-200 ease-in duration-600"
+                }
+              />
+              <Link to={`#${section.key}`}>{section.sectionTitle}</Link>
+            </div>
             <CSSTransition
               nodeRef={nodeRef}
               in={activeSection === sectionEntries[index].key}
@@ -40,11 +61,14 @@ const Menu = ({
                 {activeSection === section.key && (
                   <ul className="ml-4 list-none">
                     {activeSubsection.map((subsection, idx) => (
-                      <a href={`#${subsection}`}>
-                        <li key={idx} style={{ fontWeight: "normal" }}>
-                          {subsection}
+                      <Link to={`#${subsection}`}>
+                        <li
+                          key={idx}
+                          className="text-base font-normal text-black"
+                        >
+                          {removeAnchorTags(subsection)}
                         </li>
-                      </a>
+                      </Link>
                     ))}
                   </ul>
                 )}

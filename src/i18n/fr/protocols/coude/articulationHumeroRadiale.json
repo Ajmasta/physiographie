@@ -1,0 +1,349 @@
+{
+  "title": "",
+  "latinName": "",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Type d'articulation", "header": true },
+          { "data": "Énarthrose modifiée" }
+        ],
+        [
+          { "data": "Surfaces articulaires", "header": true, "rowspan": 2 },
+          { "data": "Capitulum huméral" }
+        ],
+        [{ "data": "Fosse radiale (tête radiale)" }],
+        [
+          {
+            "data": "Structures stabilisatrices",
+            "header": true,
+            "rowspan": 3
+          },
+          { "data": "Ligament annulaire" }
+        ],
+        [{ "data": "Capsule articulaire du coude" }],
+        [{ "data": "Ligament collatéral latéral (externe)" }],
+        [
+          { "data": "Sollicitée lors de", "header": true },
+          { "data": "Surtout flexion-extension du coude" }
+        ],
+        [
+          { "data": "Degrés de liberté", "header": true },
+          { "data": "2: Flexion-extension & Pronation-supination" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          {
+            "data": "Aucune valeur normative dans la littérature",
+            "header": true
+          }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Sujet assis face à l'évaluateur, membre supérieur déposé sur la surface d'examen",
+          "L'examen l'articulation huméro-radiale débutera ici par l'approche antérieure, qui nécessite d'avoir le coude du sujet en pleine extension",
+          "Pour plus de confort, la surface d'examen (p.ex.: table électrique à hauteur ajustable) peut être levée, et un oreiller peut être placé sous le coude du sujet",
+          "Pour l'aspect latéral de l'articulation huméro-radiale, placer le coude du sujet en légère flexion<a href='#ref2' class='reference'>[2]</a>"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer et palper la tête radiale et l'épicondyle (latéral) de l'humérus",
+          "Pour confirmer qu'il s'agit bel et bien de la tête radiale, il est possible de demander au sujet d'effectuer quelques mouvements en pro-supination en palpant la tête radiale"
+        ]
+      }
+    ],
+
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/articulationHumeroRadiale/vueLongitudinale/",
+        "objectifs": ["Observation de l'articulation huméro-radiale", ""],
+        "parametres": ["Profondeur : 2-4 cm", "Gain : 70", "G/3/2"],
+        "positionnement": [
+          "Aspect antérieur",
+          [
+            "En vue longitudinale (parallèle au long axe l'avant-bras), placer l'extrémité proximale de la sonde en proximal de la tête radiale, dans le tiers externe du coude"
+          ],
+          "Aspect latéral",
+          [
+            "Toujours en vue longitudinale, placer l'extrémité proximale de la sonde sur l'épicondyle (externe) de l'humérus"
+          ]
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Position de la sonde, approche antérieure, vue longitudinale"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Position de la sonde, approche latérale, vue longitudinale"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["CH"],
+                "texte": [
+                  "Le capitulum huméral apparaît dans la portion inférieure gauche de l'image. On le reconnaît par son relief semi-circulaire, de même que par sa localisation proximale à l'espace articulaire adjacent"
+                ]
+              },
+              {
+                "acronymes": ["R"],
+                "texte": [
+                  "Le radius, qui est visible à la droite de l'humérus, possède un profil clairement défini par un trait hyperéchoïque et qui permet de distinguer clairement la diaphyse, le col et la tête du radius"
+                ]
+              },
+              {
+                "acronymes": ["TR"],
+                "texte": [
+                  "La tête radiale est le segment le plus proximal (le plus à gauche) du radius, tout juste à la droite de l'espace articulaire qui sépare le capitulum huméral du radius."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Capitulum huméral"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Radius"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Tête radiale"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          },
+          {
+            "legend": [
+              {
+                "acronymes": ["H"],
+                "texte": [
+                  "L'humérus apparaît dans la portion supérieure gauche de l'image comme une zone délimitée vers le haut par un trait hyperéchoïque incurvé, et à la droite par l'espace articulaire."
+                ]
+              },
+              {
+                "acronymes": ["EE"],
+                "texte": [
+                  "L'épicondyle externe est l'extrémité convexe de l'aspect latéral de l'humérus distal."
+                ]
+              },
+              {
+                "acronymes": ["R"],
+                "texte": [
+                  "Le radius est visible à la droite de l'humérus sous la forme d'une vaste zone délimitée vers le haut par un trait hyperéchoïque incurvé."
+                ]
+              },
+              {
+                "acronymes": ["TR"],
+                "texte": [
+                  "La tête radiale est la portion la plus proximale (à la gauche) du radius, et possède un profil convexe bien visible sur ce cliché."
+                ]
+              },
+              {
+                "acronymes": ["TE"],
+                "texte": [
+                  "Les tendons extenseurs sont ici visibles en superficie de la tête humérale. On peut constater leur échotexture fibrillaire, de même que la présence de fibres constituantes d'échotexture hétérogène, ce qui suggère l'appartenance à différents muscles."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification6.jpg" },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Humérus"
+              },
+              {
+                "path": "identification8.jpg",
+                "descriptionText": "Épicondyle externe"
+              },
+              {
+                "path": "identification9.jpg",
+                "descriptionText": "Radius"
+              },
+              {
+                "path": "identification10.jpg",
+                "descriptionText": "Tête radiale"
+              },
+              {
+                "path": "identification11.jpg",
+                "descriptionText": "Tendons extenseurs"
+              },
+              {
+                "path": "identification12.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/articulationHumeroRadiale/vueTransversale/",
+        "objectifs": [
+          "Visualisation de l'articulation huméro-radiale",
+          "Observation du ligament annulaire du coude"
+        ],
+        "parametres": ["Profondeur : 4 cm", "Gain : 70", "G/3/2"],
+        "positionnement": [
+          "Tourner la sonde de 90° par rapport à la vue longitudinale (approche antérieure)",
+          "",
+          ""
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["TR"],
+                "texte": [
+                  "La tête radiale est visible sous la forme d'une vaste zone hyperéchoïque circulaire au centre de l'image"
+                ]
+              },
+              {
+                "acronymes": ["LA"],
+                "texte": [
+                  "Le ligament annulaire, mince couche hyperéchoïque qui épouse le contour de la tête radiale, est ici visible dans le quadrant supérieur droit de la tête radiale."
+                ]
+              },
+              {
+                "acronymes": ["BR"],
+                "texte": [
+                  "Le brachioradial se trouve dans la portion supérieure droite de l'image. On le reconnait à son échotexture typiquement musculaire (lorsque la sonde est orientée perpendiculaire par rapport au trajet des fibres) et par sa localisation à l'aspect antéro-latéral de la tête radiale."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Tête radiale"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Ligament annulaire"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Brachioradial"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "L'articulation huméro-radiale est une des trois articulations qui forment l'articulation du coude (les deux autres : l'articulation huméro-ulnaire et l'articulation radio-ulnaire proximale). Ces trois articulations sont recouvertes par la même capsule articulaire, dont les principaux points d'attache sont :",
+          "<ul><li>L'aspect antérieur de la diaphyse humérale (en proximal des fosses coronoïde et radiale);</li><li>L'aspect antérieur du processus coronoïde</li><li>Le ligament annulaire</li></ul>",
+          "Malgré la grande stabilité de l'articulation du coude, il s'agit là d'un complexe très mobile (environ 0-150° de flexion, 75° de pronation et 85° de supination). Lors de la flexion extension du coude, la tête radiale s'articule avec le capitulum huméral (ou 'capitellum') à la manière d'une charnière <a href='#ref2' class='reference'>[2]</a>.",
+          "Considérant le fait que cette articulation superficielle est accessible tant par la face antérieure que latérale du coude, elle sera donc ici visualisée à l'aide de ces deux approches."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Arthrose et dommages ostéochondraux",
+        "text": [
+          "Les cas d'arthrose au coude sont pratiquement toujours post-traumatiques, qu'il s'agisse d'un événement traumatique isolé ou de micro-traumatismes répétés. Les fractures mal-alignées sont assez fréquemment associées à la présence d'arthrose au coude, en raison d'une altération de la disposition des surfaces articulaires et, conséquemment, d'une distribution sub-optimable du stress mécanique articulaire<a href='#ref2' class='reference'>[2]</a>.",
+          "En ce qui concerne les micro-traumatismes, mentionnons les sujets avec une histoire de travail manuel avec des instruments générant des vibrations, ou la pratique d'une activité sportive comportant une sur-utilisation potentielle du membre supérieur. Typiquement, les sujets aux prises avec ce type de condition sont des hommes, et le membre affecté est fréquement le membre supérieur dominant<a href='#ref2' class='reference'>[2]</a>.",
+          "En raison de la présence du valgus physiologique normalement présent au coude, l'articulation huméro-radiale (étant dans le compartiment externe) est davantage à risque d'être victime de processus dégénératifs que les structures du compartiment interne<a href='#ref2' class='reference'>[2]</a>.",
+          "Le terme 'arthrose primaire du coude' ('primary elbow osteoarthritis'), communément utilisé dans la littérature scientifique, réfère à un phénomène où l'ensemble de surfaces articulaires du coude sont affectées par un processus dégénératif. Ces sujets présentent donc des signes radiologiques d'arthrose à l'olécrâne, au processus coronoïde, à la tête radiale, etc. Certains auteurs suggèrent qu'il s'agirait là d'un processus associé au vieillissement normal, qui affecterait entre 1,3% et 7% de la population<a href='#ref4' class='reference'>[4]</a>."
+        ]
+      },
+      {
+        "subtitle": "Fractures occultes",
+        "text": [
+          "Le complexe articulaire du coude étant constitué de nombreuses structures possédant des reliefs relativement complexes, il est possible que certaines fractures non-déplacées passent inaperçu lorsque observées à l'aide d'une radiographie standard (même lorsque plusieurs projections sont effectuées). Parmi les structures potentiellement sujettes à des fractures occultes, notons la tête et le col du radius.",
+          "Lorsqu'aucune fracture n'est mise en évidence suite à un traumatisme, il est commun de ne pas faire usage d'une atelle (plâtrée ou non) dans le but d'éviter toute immobilisation inutile. Malgré un traitement conservateur, certains sujets demeurent aux prises avec douleur incapacitante au coude, ce qui peut pousser à l'utilisation de l'imagerie par ultrasonographie. Dans ce cas, l'objectif premier est de mettre en évidence la présence de lésions aux tissus mous qui pourraient expliquer la symptomatologie. S'il est fait usage d'une technique et d'un équipement adéquat (sonde à haute résolution), il est possible de mettre en évidence certains signes de fracture, p.ex.: déformation de type 'step-off' (quand deux segments osseux normalement alignés sont hors d'alignement) ou une discontinuité du trait hyperéchoïque (qui suggère la présence d'une lésion à l'os cortical)."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Tendon extenseur commun",
+          "link": "/protocoles/coude/tendon-extenseur-commun"
+        },
+        {
+          "linkTitle": "Tendon distal du biceps brachial",
+          "link": "/protocoles/coude/tendon-distal-biceps"
+        },
+        {
+          "linkTitle": "Tendon fléchisseur commun",
+          "link": "/protocoles/coude/tendon-flechisseur-commun"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Abe, M., T. Ishizu, T. Nagaoka, et T. Onomura. « Recurrent Posterior Dislocation of the Head of the Radius in Post-Traumatic Cubitus Varus. » Journal of Bone & Joint Surgery, British Volume 77-B, nᵒ 4 (1 juillet 1995): 582‑85."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angelo Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. « Musculoskeletal Ultrasound Technical Guidelines (II. Elbow). » Eureopean Society of Muscloskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Dalal, Sam, Matthew Bull, et David Stanley. « Radiographic changes at the elbow in primary osteoarthritis: A comparison with normal aging of the elbow joint. » Journal of Shoulder and Elbow Surgery 16, nᵒ 3 (mai 2007): 358‑61. doi:10.1016/j.jse.2006.08.005."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Loftice, Jeremy, Glenn S. Fleisig, Nigel Zheng, et James R. Andrews. « Biomechanics of the Elbow in Sports. » Clinics in Sports Medicine 23, nᵒ 4 (octobre 2004): 519‑30, vii ‑ viii. doi:10.1016/j.csm.2004.06.003."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Pratical [sic] Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Sugimoto, Mizuo, Takeshi Yoshida, Keiji Kitano, Tohru Hosoya, et Koichi Tada. « Voluntary dislocation of the radial head. » Journal of Shoulder and Elbow Surgery 5, nᵒ 3 (mai 1996): 228‑30. doi:10.1016/S1058-2746(05)80012-6."
+        },
+        {
+          "text": "Takatori, Kazuhiro, Hiroyuki Hashizume, Hirofumi Wake, Hajime Inoue, et Noriyuki Nagayama. « Analysis of Stress Distribution in the Humeroradial Joint. » Journal of Orthopaedic Science 7, nᵒ 6 (décembre 2002): 650‑57. doi:10.1007/s007760200116."
+        },
+        {
+          "text": "Thompson, J.D., et A.B. Lipscomb. « Recurrent Radial Head Subluxation Treated with Annular Ligament Reconstruction. A Case Report and Follow-up Study. » Clinical Orthopaedics and Related Research, nᵒ 246 (1989): 131‑35."
+        },
+        {
+          "text": "Wiley, J.J., J. Pegington, et J.P. Horwich. « Traumatic Dislocation of the Radius at the Elbow. » Journal of Bone and Joint Surgery - Series B 56, nᵒ 3 (1974): 501‑7."
+        }
+      ]
+    }
+  }
+}

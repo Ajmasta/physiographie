@@ -1,0 +1,200 @@
+{
+  "title": "Ligament talo-fibulaire antérieur",
+  "latinName": "Ligamentum talofibulare anterius",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Points d'attache", "header": true, "rowspan": 2 },
+          {
+            "data": "Proximal: Fibula distale (aspect antérieur de la malléole externe)"
+          }
+        ],
+        [{ "data": "Distal : Col du talus (aspect latéral)" }],
+        [
+          { "data": "Mis en tension par", "header": true },
+          {
+            "data": "Flexion plantaire et inversion ; glissement antérieur du talus"
+          }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Mesure", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Valeur", "header": true }
+        ],
+        [
+          { "data": "Largeur moyenne (mm)" },
+          { "data": "LTFA" },
+          { "data": "2 <a href='#ref8' class='reference'>[8]</a>'" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Décubitus dorsal, cheville et pied en légère flexion plantaire et inversion",
+          "Pour davantage de sensibilité dans la détection de lésions ligamentaires, il est possible d'effectuer un glissement antérieur du talus surajouté à une flexion plantaire passive<a href='#ref2' class='reference'>[2]</a>"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": ["Repérer et palper la malléole externe et le dôme du talus"]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/ligamentTaloFibulaireAnterieur/vueLongitudinale/",
+        "objectifs": [
+          "Examen de l'intégrité du ligament talo-fibulaire antérieur"
+        ],
+        "parametres": ["Profondeur : 2 cm", "Gain : 85", "G/3/3"],
+        "positionnement": [
+          "Placer la sonde de manière à ce que l'extrémité proximale de la sonde recouvre partiellement l'aspect antérieur de la pointe de la malléole externe",
+          "Si le pied est placé en légère flexion plantaire et inversion, le LTFA est généralement parallèle à la plante du pied",
+          "Si, au contraire, le pied est en flexion plantaire maximale, le LTFA sera presque vertical (dans l'axe de la jambe). Il faut donc ajuster l'angle de rotation de la sonde en conséquence<a href='#ref1' class='reference'>[1]</a>"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["ME"],
+                "texte": [
+                  "La malléole externe apparaît à la gauche de l'image sous la forme d'une zone aux contours hyperéchoïque relativement arrondie. On reconnaît qu'il s'agit ici de la pointe de la malléole, que l'on voit de terminer vers le centre de l'image."
+                ]
+              },
+              {
+                "acronymes": ["T"],
+                "texte": [
+                  "Le col du talus (aspect latéral) apparaît à la droite de la malléole comme un long trait hyperéchoïque, sous lequel se trouve une zone d'ombre acoustique (ce qui suggère fortement la présence d'une structure osseuse)."
+                ]
+              },
+              {
+                "acronymes": ["LTFA"],
+                "texte": [
+                  "Le ligament talo-fibulaire antérieur apparaît comme une zone hypoéchoïque triangulaire d'apparence fibrillaire"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "initial.jpg" },
+              { "path": "ME.jpg", "descriptionText": "Malléole externe" },
+              { "path": "T.jpg", "descriptionText": "Talus" },
+              {
+                "path": "LTFA.jpg",
+                "descriptionText": "Ligament talo-fibulaire antérieur"
+              },
+              { "path": "final.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Le ligament talo-fibulaire antérieur (anciennement appelé 'péronéo-astragalien antérieur') appartient au complexe ligamentaire latéral de la cheville (CLLC), qui comprend deux autres structures : le ligament calcanéo-fibulaire (LCF) ainsi que le ligament talo-fibulaire postérieur (LTFP). Parmi les ligaments du CLLC, le LCF est le plus long, et le LTFP est le plus profond et le plus solide.",
+          "Le ligament talo-fibulaire antérieur (LTFA) est le plus faible et, incidemment, le plus fréquemment lésé des ligaments latéraux de cheville. Tel que mentionné dans le tableau ci-haut, le LTFA relie le talus à la malléole externe et, au cours de son trajet, vient se fusionner à la capsule de l'articulation de la cheville.",
+          "Les ligaments appartenant au CLLC sont sollicités par les mouvements qui possèdent une composante d'inversion/adduction de cheville, et le degré de flexion/extension détermine normalement quel ligament est mis en tension. Par exemple, en flexion maximale de cheville, l'inversion sollicitera davantage le LTFA, alors qu'en extension maximale, la mise en tension sera préférentielle pour le LCF. En terme de mouvements accessoires, le LTFA prévient un glissement antérieur du talus par rapport à la fibula, le LTFP freine le glissement postérieur du talus ('posterior talar shift') alors que le LCF entre en jeu lors d'une inversion 'maximale' (qui n'est pas, à proprement parler, un mouvement accessoire)<a href='#ref1' class='reference'>[1]</a>."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.jpg" }],
+    "source": "/Protocols/ligamentTaloFibulaireAnterieur/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Ruptures du ligament talo-fibulaire antérieur",
+        "text": [
+          "Tel que mentionné ci-haut, l'intérêt clinique qui est porté au LTFA est en grande partie dû au fait qu'il est le ligament externe de la cheville le plus fréquemment rupturé et, conséquemment, le ligament le plus fréquemment impliqué dans les blessures en inversion<a href='#ref8' class='reference'>[8]</a>.",
+          "L'efficacité de détection de ruptures du LTFA via imagerie par ultrasonographie a été démontrée : une précision de plus de 90% a été obtenue (lors d'une comparaison avec l'examen arthroscopique, qui considéré comme étant le gold standard)<a href='#ref6' class='reference'>[6]</a>.",
+          "Les blessures en inversion de cheville (qui sont les plus fréquentes) touchent presque toujours les mêmes structures : le LTFA est fréquemment le premier et le seul ligament atteint, puis le ligament calcanéo-fibulaire (LCF) et finalement le ligament talo-fibulaire postérieur (LTFP)<a href='#ref8' class='reference'>[8]</a>.",
+          "En flexion plantaire maximale, le LTFA (alors presque vertical) est le premier et principal ligament prévenant une instabilité en varus/inversion. Considérant la relative faiblesse structurale de ce ligament et les forces impliquées sur celui-ci lors d'activités telles que la course à pied, on comprend ainsi la grande prévalence de ce type de lésion."
+        ]
+      },
+      {
+        "subtitle": "Choix de la stratégie diagnostique",
+        "text": [
+          "Au point de vue clinique, l'histoire (mécanisme de blessure), et l'examen physique (observation, palpation, tests spécifiques) sont souvent considérés suffisants pour poser un diagnostic de lésion au LTFA. Une étude fort intéressante a été effectée aux Pays-Bas, où ont été comparées 13 'stratégies diagnostiques' au niveau de leur sensibilité, spécificité et coût financier<a href='#ref10' class='reference'>[10]</a>.",
+          "<table border='4' align='center'><tr><th class='table-cell'>Évaluateur*</th><th class='table-cell' align='center'>Stratégie***</th><th class='table-cell'>Sensibilité (%)</th><th class='table-cell'>Spécificité (%)</th><th class='table-cell'>Coût (USD)</th></tr><tr><td class='table-cell'>E</td><td class='table-cell'>1. Examen physique (EP) &lt; 48h</td><td class='table-cell red-text'>71</td><td class='table-cell red-text'>33</td><td class='table-cell green-text'>23</td></tr><tr><td class='table-cell'>E</td><td class='table-cell'>2. Si EP non-concluant, arthrographie</td><td class='table-cell'>82</td><td class='table-cell red-text'>33</td><td class='table-cell green-text'>36</td></tr><tr><td class='table-cell'>E</td><td class='table-cell'>3. Si EP non-concluant, radiographie de stress</td><td class='table-cell'>79</td><td class='table-cell red-text'>33</td><td class='table-cell green-text'>30</td></tr><tr><td class='table-cell'>E</td><td class='table-cell'>4. Si EP non-concluant, échographie</td><td class='table-cell'>81</td><td class='table-cell red-text'>33</td><td class='table-cell green-text'>34</td></tr><tr><td class='table-cell'>E</td><td class='table-cell'>5. Arthrographie</td><td class='table-cell green-text'>96</td><td class='table-cell green-text'>71</td><td class='table-cell red-text'>141</td></tr><tr><td class='table-cell'>E</td><td class='table-cell'>6. Radiographie de stress</td><td class='table-cell red-text'>68</td><td class='table-cell green-text'>71</td><td class='table-cell red-text'>78</td></tr><tr><td class='table-cell'>E</td><td class='table-cell'>7. Échographie</td><td class='table-cell green-text'>92</td><td class='table-cell'>64</td><td class='table-cell red-text'>111</td></tr><tr><td class='table-cell'>E</td><td class='table-cell'>8. EP &gt; 48h</td><td class='table-cell green-text'>96</td><td class='table-cell green-text'>84</td><td class='table-cell green-text'>44</td></tr><tr><td class='table-cell'>E</td><td class='table-cell'>9. Si EP &gt; 48h non-concluant, radiographie de stress</td><td class='table-cell green-text'>99</td><td class='table-cell green-text'>75</td><td class='table-cell green-text'>56</td></tr><tr><td class='table-cell'>E</td><td class='table-cell'>10. Si EP &gt; 48h non-concluant, échographie</td><td class='table-cell green-text'>100</td><td class='table-cell green-text'>72</td><td class='table-cell green-text'>55</td></tr><tr><td class='table-cell'>I</td><td class='table-cell'>11. EP &gt; 48h</td><td class='table-cell'>89</td><td class='table-cell green-text'>70</td><td class='table-cell green-text'>40</td></tr><tr><td class='table-cell'>I</td><td class='table-cell'>12. Si EP &gt; 48h non-concluant, radiographie de stress</td><td class='table-cell green-text'>94</td><td class='table-cell'>63</td><td class='table-cell green-text'>49</td></tr><tr><td class='table-cell'>I</td><td class='table-cell'>13. Si EP &gt; 48h non-concluant, échographie</td><td class='table-cell green-text'>97</td><td class='table-cell'>61</td><td class='table-cell green-text'>52</td></tr></table>",
+          "*  E: Évaluateur (chirurgien orthopédique) expérimenté ;  I: Évaluateur inexpérimenté",
+          "***  Les temps (< 48h ou > 48h) réfèrent au temps écoulé depuis la lésion",
+          "Bien que très informative et méthodologiquement rigoureuse, certains résultats de cette étude doivent être nuancés, dont le prix, qui peut être fort variable d'un milieu (privé vs publique) et d'un pays à l'autre. De plus, le salaire de l'évaluateur expérimenté (chirurgien orthopédique) doit être prix en compte.",
+          "Malgré tout, certains résultats portent un grand intérêt pour les professionnels de la physiothérapie dont :",
+          "L'examen physique < 48h post-lésion est moins sensible et très peu spécifique",
+          "Lorsque exécutée par un évaluateur expérimenté, l'échographie est une modalité de choix en raison de sa grande sensibilité et spécificité (si > 48h post-lésion)",
+          "Sans la meilleure option, l'examen physique > 48h post-lésion, lorsque appliqué seul, demeure abordable et sensible et spécifique"
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Tibial antérieur",
+          "link": "/protocoles/cheville-pied/tibial-anterieur/"
+        },
+        {
+          "linkTitle": "Tendons fibulaires",
+          "link": "/protocoles/cheville-pied/tendons-fibulaires/"
+        },
+        {
+          "linkTitle": "Canal tarsien",
+          "link": "/protocoles/cheville-pied/canal-tarsien/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Campbell, David G., Anthony Menz, and John Isaacs. 'Dynamic Ankle Ultrasonography: A New Imaging Technique for Acute Ankle Ligament Injuries.' The American Journal of Sports Medicine 22, no. 6 (December 1, 1994): 855–58. doi:10.1177/036354659402200620."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Martinoli, Carlo. 'Musculoskeletal Ultrasound: Technical Guidelines.' Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Oae, Kazunori, Masato Takao, Yuji Uchio, and Mitsuo Ochi. 'Evaluation of Anterior Talofibular Ligament Injury with Stress Radiography, Ultrasonography and MR Imaging.' Skeletal Radiology 39, no. 1 (August 15, 2009): 41–47. doi:10.1007/s00256-009-0767-x."
+        },
+        {
+          "text": "O’Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        },
+        {
+          "text": "Peetrons, Philippe, Viviane Creteur, and Christian Bacq. 'Sonography of Ankle Ligaments.' Journal of Clinical Ultrasound 32, no. 9 (November 1, 2004): 491–99. doi:10.1002/jcu.20068."
+        },
+        {
+          "text": "Silvestri, Enzo, Alessandro Muda, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System: A Practical Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Van Dijk, C. N., B. W. Mol, L. S. Lim, R. K. Marti, and P. M. Bossuyt. 'Diagnosis of Ligament Rupture of the Ankle Joint: Physical Examination, Arthrography, Stress Radiography and Sonography Compared in 160 Patients after Inversion Trauma.' Acta Orthopaedica Scandinavica 67, no. 6 (December 1996): 566–70."
+        }
+      ]
+    }
+  }
+}

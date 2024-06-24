@@ -1,0 +1,389 @@
+{
+  "title": "Tendon fléchisseur commun & Ligament latéral interne",
+  "latinName": "",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Point d'attache osseux", "header": true },
+          { "data": "Épitrochlée (ou épicondyle interne) humérale" }
+        ],
+        [
+          {
+            "data": "Muscles participant à la formation du tendon",
+            "header": true,
+            "rowspan": 5
+          },
+          { "data": "Rond pronateur" }
+        ],
+        [{ "data": "Fléchisseur radial du carpe" }],
+        [{ "data": "Long palmaire" }],
+        [{ "data": "Fléchisseur superficiel des doigts" }],
+        [{ "data": "Fléchisseur ulnaire du carpe" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Type de sujet", "header": true },
+          { "data": "Mesure", "header": true },
+          { "data": "Manoeuvre de stress (oui/non)", "header": true },
+          { "data": " Moyenne ± écart-type", "header": true }
+        ],
+        [
+          {
+            "data": "Ligament latéral interne (bande antérieure)",
+            "rowspan": 9
+          },
+          { "data": "Symptomatique" },
+          { "data": "Longueur (mm)", "rowspan": 3 },
+          { "data": "Non" },
+          { "data": "2,62 ± 2,3 <a href='#ref13' class='reference'>[13]</a>" }
+        ],
+        [
+          { "data": "Asymptomatique", "rowspan": 2 },
+          { "data": "Non" },
+          { "data": "2,51 ± 0,34 <a href='#ref13' class='reference'>[13]</a>" }
+        ],
+        [
+          { "data": "oui" },
+          { "data": "2,54 ± 0,31 <a href='#ref13' class='reference'>[13]</a>" }
+        ],
+        [
+          { "data": "Symptomatique" },
+          { "data": "Largeur (mm)", "rowspan": 3 },
+          { "data": "Non" },
+          { "data": "2,14 ± 0,44 <a href='#ref13' class='reference'>[13]</a>" }
+        ],
+        [
+          { "data": "Asymptomatique", "rowspan": 2 },
+          { "data": "Non" },
+          { "data": "1,94 ± 0,24" }
+        ],
+        [
+          { "data": "oui" },
+          { "data": "1,82 ± 0,27 <a href='#ref13' class='reference'>[13]</a>" }
+        ],
+        [
+          { "data": "Symptomatique" },
+          { "data": "Épaisseur (mm)", "rowspan": 3 },
+          { "data": "Non" },
+          { "data": "4,01 ± 0,87 <a href='#ref13' class='reference'>[13]</a>" }
+        ],
+        [
+          { "data": "Asymptomatique", "rowspan": 2 },
+          { "data": "Non" },
+          { "data": "4,60 ± 0,69 <a href='#ref13' class='reference'>[13]</a>" }
+        ],
+        [
+          { "data": "oui" },
+          { "data": "4,59 ± 0,50 <a href='#ref13' class='reference'>[13]</a>" }
+        ]
+      ],
+      "text": [
+        "Pour le tendon fléchisseur commun, l'examen ultrasonographique repose surtout sur des observations subjectives (et non pas quantitatives), p.ex: perte de l'échotexture fibrillaire, présence d'une zone hypoéchoïque focale ou d'hyperhémie, etc. Malgré qu'il soit possible de mesurer l'épaisseur du tendon, il semble y avoir très peu de mesures recensées dans la littérature puisque celles-ci sont fortement affectées par le positionnement de la sonde et la technique utilisée par l'évaluateur<a href='#ref9' class='reference'>[9]</a>."
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Sujet assis face à l'évaluateur, membre supérieur déposé sur la surface d'examen, avec une serviette ou un oreiller sous le coude",
+          "L'examen du tendon fléchisseur commun requiert l'accès à l'aspect médial du coude, idéalement avec le coude fléchi à environ 60° et l'épaule en rotation externe (en prenant soin de respecter les limites articulaires du sujet)<a href='#ref1' class='reference'>[1]</a>"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer l'épitrochlée, une protubérance osseuse qui se trouve tout juste en médial de l'olécrane"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/tendonFlechisseurCommun/vueLongitudinale/",
+        "objectifs": [
+          "Observation du tendon fléchisseur commun",
+          "Visualiation du ligament latéral interne"
+        ],
+        "parametres": ["Profondeur : 3 cm", "Gain : 60", "G/3/2"],
+        "positionnement": [
+          "Tel que démontré dans l'image ci-jointe, en vue longitudinale (presque parallèle au long axe de l'avant-bras), placer l'extrémité proximale de la sonde sur l'épitrochlée",
+          "Balayer ('scan') légèrement en proximal et en distal jusqu'à l'obtention d'une image optimale"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "title": "[Tendon fléchisseur commun]",
+            "legend": [
+              {
+                "acronymes": ["E"],
+                "texte": [
+                  "L'épitrochlée, à la gauche de l'image, correspond à la vaste zone arrondie délimitée vers le haut et la droite par un trait hyperéchoïque (os cortical)"
+                ]
+              },
+              {
+                "acronymes": ["U"],
+                "texte": [
+                  "L'ulna possède ici une apparence similaire à l'épitrochlée et se trouve à la droite de cette dernière"
+                ]
+              },
+              {
+                "acronymes": ["TFC"],
+                "texte": [
+                  "Le tendon fléchisseur commun, en distal (à la droite) de l'épitrochlée, possède un patron fibrillaire bien visible sur ce cliché"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Épitrochlée"
+              },
+              { "path": "identification3.jpg", "descriptionText": "Ulna" },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Tendon fléchisseur commun"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          },
+          {
+            "title": "[Ligament latéral interne]",
+            "legend": [
+              {
+                "acronymes": ["E"],
+                "texte": [
+                  "L'épitrochlée correspond à la zone hyperéchoïque convexe à la gauche de l'image"
+                ]
+              },
+              {
+                "acronymes": ["U"],
+                "texte": [
+                  "L'ulna est ici visible à la droite de l'image sous la forme d'une zone hyperéchoïque arrondie"
+                ]
+              },
+              {
+                "acronymes": ["LLI"],
+                "texte": [
+                  "Le ligament latéral interne est situé entre l'épitrochlée et l'ulna. On peut également distinguer son échotexture fibrillaire"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification6.jpg" },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Épitrochlée"
+              },
+              { "path": "identification8.jpg", "descriptionText": "Ulna" },
+              {
+                "path": "identification9.jpg",
+                "descriptionText": "Ligament latéral interne"
+              },
+              { "path": "identification10.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Le tendon fléchisseur commun est une structure qui sert de point d'attache proximal (origine) pour plusieurs muscle de l'avant-bras antérieur. Parmi ces muscles, on compte quatre muscles fléchisseurs (fléchisseur radial du carpe, fléchisseur ulnaire du carpe, long palmaire et fléchisseur superficiel des doigts) et le muscle rond pronateur (qui possède également un second tendon proximal)<a href='#ref2' class='reference'>[2]</a>. La plupart des grands muscles fléchisseur du poignet et des doigts (extrinsèques) ont donc une insertion commune sur l'épitrochlée, à l'exception du muscle fléchisseur profond des doigts, qui prend plutôt origine sur les 3/4 proximaux de la surface antéro-médiale de l'ulna et de la membrane interosseuse <a href='#ref10' class='reference'>[10]</a>.",
+          "Le ligament latéral interne du coude est aussi connu sous les noms de ligament 'collatéral ulnaire', 'collatéral médial' ou 'collatéral interne'. Ce ligament, qui est en fait un complexe ligamentaire, est composé de trois bandes, toutes adjacentes les unes par rapport aux autres :",
+          "<ul class='margin-left'><li>Bande antérieure : la plus évidente lors de l'examen ultraonographique, elle s'étend de l'épitrochlée à l'aspect médial du processus coronoïde de l'ulna. Il s'agit là du plus important frein lors d'un stress en valgus au coude.</li><li>Bande postérieure : s'étend de l'aspect postérieur de l'épitrochlée jusqu'au rebord médial de l'olécrâne</li><li>Bande oblique : aussi connu sous le nom de 'ligament de Cooper', la plus faible (mécaniquement) parmi les trois bandes. Elle relie les insertions ulnaires des deux bandes antérieure et postérieure.</li></ul>",
+          "Les muscles de l'avant-bras sont classifiées selon leur appartenance aux compartiments médial ou latéral, selon leur localisation anatomique. La masse musculaire de l'avant-bras étant potentiellement complexe au point de vue anatomique, il importe de connaître l'anatomie normale afin de pouvoir identifier les structures visualisées lors de l'examen ultrasonographique (adapté de Walz et al, 2010)."
+        ]
+      }
+    ],
+    "table": [
+      [
+        { "data": "Nom du muscle", "header": true, "rowspan": 2 },
+        { "data": "Nom latin", "header": true, "rowspan": 2 },
+        { "data": "Fonction", "header": true, "rowspan": 2 },
+        { "data": "Origine", "header": true, "colspan": 2 },
+        { "data": "Insertion", "header": true, "rowspan": 2 }
+      ],
+      [
+        { "data": "1e chef", "header": true },
+        { "data": "2e chef (le cas échéant)", "header": true }
+      ],
+      [
+        { "data": "Rond pronateur" },
+        { "data": "Pronator teres" },
+        { "data": "Pronation de l'avant-bras" },
+        { "data": "Épitrochlée (via tendon commun)", "rowspan": 5 },
+        { "data": "Processus coronoïde" },
+        { "data": "Aspect latéral du radius" }
+      ],
+      [
+        { "data": "Fléchisseur radial du carpe" },
+        { "data": "Flexor carpi radialis" },
+        { "data": "Flexion et abduction (déviation radiale) du poignet" },
+        { "data": "N/A", "rowspan": 2 },
+        { "data": "Face antérieur de la base du 2e et 3e os métacarpiens" }
+      ],
+      [
+        { "data": "Long palmaire" },
+        { "data": "Palmaris longus" },
+        {
+          "data": "Flexion du poignet, mise sous tension de l'aponévrose palmaire"
+        },
+        { "data": "Rétinaculum des fléchisseurs, aponévrose palmaire" }
+      ],
+      [
+        { "data": "Fléchisseur ulnaire du carpe" },
+        { "data": "Flexor carpi ulnaris" },
+        { "data": "Flexion et adduction (déviation radiale) de la main" },
+        {
+          "data": "Chef ulnaire : Olécrane et aspect dorsal de l'ulna proximal"
+        },
+        { "data": "Pisiforme, hamatum et base du 5e os métacarpien" }
+      ],
+      [
+        { "data": "Fléchisseur superficiel des doigts" },
+        { "data": "Flexor digitorum superficialis" },
+        {
+          "data": "Flexion de la phalange moyenne et de l'articulation métacarpo-phalangienne"
+        },
+        {
+          "data": "Processus coronoïde Ligne oblique (radius). (Il possède en fait 3 chefs : huméral, radial et ulnaire)"
+        },
+        { "data": "Aspect palmaire de la phalange moyenne des doigts 2 à 5" }
+      ],
+      [
+        { "data": "Fléchisseur profond des doigts" },
+        { "data": "Flexor digitorum profundus" },
+        {
+          "data": "Flexion de la phalange distale (Accessoire) Flexion de poignet & phalanges prox."
+        },
+        {
+          "data": "3/4 proximaux de l'aspect antéro-médial de l'ulna et de la MI",
+          "colspan": 2
+        },
+        { "data": "Aspect dorsal de la phalange distale des doigts 2 à 5" }
+      ],
+      [
+        { "data": "Long fléchisseur du pouce" },
+        { "data": "Flexor pollicis longus" },
+        { "data": "Flexion du pouce" },
+        {
+          "data": "Portion moyenne de l'aspect antérieur du radius et de la MI & aspect médial du processus coronoïde",
+          "colspan": 2
+        },
+        { "data": "Aspect palmaire de la base de la phalange distale du pouce" }
+      ],
+      [
+        { "data": "Brachioradial" },
+        { "data": "Brachioradialis" },
+        { "data": "Flexion du coude" },
+        {
+          "data": "Ligne supracondylaire supérieure latérale (humérus)",
+          "colspan": 2
+        },
+        { "data": "Aspect latéral de la styloïde radiale" }
+      ]
+    ],
+
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Épicondylite interne (ou 'épitrochléite', 'golfer's elbow')",
+        "text": [
+          "La condition communément connue sous le terme anglais de golfer's elbow consiste en une atteinte du tendon fléchisseur commun au niveau de l'épitrochlée (et non pas d'une atteinte de l'épitrochlée, tel que le nom pourrait laisser croire).",
+          "Tel que le surnom golfer's elbow le suggère, la pratique de certains sports (dont le golf) semble être associée au portrait clinique. Parmi les autres sports couramment associés, mentionnons les sports de raquette (p.ex.: tennis, badminton), les sports de lancer au-dessus de la tête ('overhead throwing sports').",
+          "Typiquement, les sujets aux prises avec une épicondylite interne [ÉI] présentent une douleur à l'aspect interne du coude qui se développe de manière assez insidieuse, car il n'existe généralement pas d'histoire de traumatisme évident pouvant expliquer les symptômes. En plus de la douleur, les sujets rapportent souvent une diminution de la force de préhension, et, pour les adeptes de sports de raquette, une difficulté à effectuer des services ou des coups droits. La palpation du tendon fléchisseur commun (soit 5 à 10mm en distal et en antérieur de l'aspect médial de l'épitrochlée) suscite normalement une douleur. Tous les mouvements du coude/poignet qui nécessitent une contraction ou un étirement du tendon fléchisseur commun sont généralement douloureux, soit la flexion résistée et l'extension passive du poignet ou encore la pronation active à un angle de 90° ou moins<a href='#ref12' class='reference'>[12]</a>.",
+          "Selon un consensus d'experts de la European Society of Musculoskeletal Radiology, l'imagerie par ultrasonographie est reconnue comme étant une modalité d'imagerie de premier choix pour l'examen des structures impliquées dans une ÉI. Cependant, puisque la littérature scientifique comporte très peu d'études sur le sujet, le niveau d'évidence est actuellement indéterminé<a href='#ref5' class='reference'>[5]</a>."
+        ]
+      },
+      {
+        "subtitle": "Blessure au ligament latéral interne",
+        "text": [
+          "Le ligament latéral interne [LLI] étant le principal stabilisateur du coude lors de stress en varus, il est donc une des structures les plus fréquemment lésées lors de stress excessif en varus. La bande antérieure du LLI est fréquemment touchée, et est fréquemment la cause d'arrêt de jeu pour les athlètes pratiquant des sports de lancer, dont le baseball<a href='#ref13' class='reference'>[13]</a>.",
+          "La stabilité du LLI peut être évaluée lors de l'examen physique, et l'imagerie par résonnance magnétique [IRM] est couramment utilisée pour investiguer les cas plus incertains. Selon un consensus établi par la société européenne de radiologie musculosquelettique ('European Society of Musculoskeletal Radiology'), l'usage de l'échographie musculosquelettique pour la visualisation du ligament latéral interne du coudeest recommandé. En effet, cette l'imagerie par ultrasonographie est considérée équivalente à d'autre techniques (dont l'IRM), en raison d'un niveau d'évidence '2' (selon l'échelle du 'Oxford Centre for Evidence-Based Medicine'). Finalement, il faut préciser que la majorité de la littérature repose sur des études de cas, ou sur des extrapolations d'études rétrospectives (cote 'C' pour la méthodologie)<a href='#ref5' class='reference'>[5]</a>"
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Tendon distal du biceps brachial",
+          "link": "/protocoles/epaule/biceps-brachial"
+        },
+        {
+          "linkTitle": "Articulation huméro-radiale",
+          "link": "/protocoles/coude/articulation-humero-radiale"
+        },
+        {
+          "linkTitle": "Tendon extenseur commun",
+          "link": "/protocoles/coude/tendon-extenseur-commun"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angelo Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. « Musculoskeletal Ultrasound Technical Guidelines (II. Elbow). » Eureopean Society of Muscloskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Finlay, K., M. Ferri, et L. Friedman. « Ultrasound of the Elbow. » Skeletal Radiology 33, nᵒ 2 (9 janvier 2004): 63‑79. doi:10.1007/s00256-003-0680-7."
+        },
+        {
+          "text": "Khoury, Viviane, Étienne Cardinal, et Nathalie J. Bureau. « Musculoskeletal Sonography: A Dynamic Tool for Usual and Unusual Disorders. » American Journal of Roentgenology 188, nᵒ 1 (janvier 2007): W63‑73. doi:10.2214/AJR.06.0579."
+        },
+        {
+          "text": "Klauser, Andrea S., Alberto Tagliafico, Gina M. Allen, Natalie Boutry, Rob Campbell, Michel Court-Payen, Andrew Grainger, et al. « Clinical Indications for Musculoskeletal Ultrasound: A Delphi-Based Consensus Paper of the European Society of Musculoskeletal Radiology. » European Radiology 22, nᵒ 5 (mai 2012): 1140‑48. doi:10.1007/s00330-011-2356-3."
+        },
+        {
+          "text": "Leijnse, J.N.A.L., E.T. Walbeehm, G.J. Sonneveld, S.E.R. Hovius, et J.M.G. Kauer. « Connections between the Tendons of the Musculus Flexor Digitorum Profundus Involving the Synovial Sheaths in the Carpal Tunnel. » Cells Tissues Organs 160, nᵒ 2 (1997): 112‑22. doi:10.1159/000148003."
+        },
+        {
+          "text": "Lynch, Garrett J., John F. Meyers, Terry L. Whipple, et Richard B. Caspari. « Neurovascular anatomy and elbow arthroscopy: Inherent risks. » Arthroscopy: The Journal of Arthroscopic & Related Surgery 2, nᵒ 3 (septembre 1986): 191‑97. doi:10.1016/S0749-8063(86)80067-6."
+        },
+        {
+          "text": "Martinoli, Carlo, Stefano Bianchi, Francesco Giovagnorio, et Francesca Pugliese. « Ultrasound of the Elbow. » Skeletal Radiology 30, nᵒ 11 (30 août 2001): 605‑14. doi:10.1007/s002560100410."
+        },
+        {
+          "text": "Park, Gi-Young, Sung-Moon Lee, et Michael Y. Lee. « Diagnostic Value of Ultrasonography for Clinical Medial Epicondylitis. » Archives of Physical Medicine and Rehabilitation 89, nᵒ 4 (avril 2008): 738‑42. doi:10.1016/j.apmr.2007.09.048."
+        },
+        {
+          "text": "Perotto, Aldo, et Edward F. Delagi. Anatomical Guide for the Electromyographer: The Limbs and Trunk. Charles C Thomas Publisher, 2005."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, et Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Pratical [sic] Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Walz, Daniel M., Joel S. Newman, Gabrielle P. Konin, et Glen Ross. « Epicondylitis: Pathogenesis, Imaging, and Treatment. » RadioGraphics 30, nᵒ 1 (1 janvier 2010): 167‑84. doi:10.1148/rg.301095078."
+        },
+        {
+          "text": "Ward, Sabrina I., Sharlene A. Teefey, George A. Paletta, William D. Middleton, Charles F. Hildebolt, David A. Rubin, et Ken Yamaguchi. « Sonography of the Medial Collateral Ligament of the Elbow: A Study of Cadavers and Healthy Adult Male Volunteers. » American Journal of Roentgenology 180, nᵒ 2 (1 février 2003): 389‑94. doi:10.2214/ajr.180.2.1800389."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "title": "Tendon quadricipital",
+  "latinName": "Quadriceps tendinis",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Attaches", "header": true, "rowspan": 2 },
+          { "data": "En proximal : 4 chefs du quadriceps" }
+        ],
+        [{ "data": "En distal : tubérosité tibiale via le tendon patellaire" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Mesure", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plan / Site", "header": true },
+          { "data": "Type de sujet", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [
+          { "data": "Longueur", "rowspan": 2 },
+          { "data": "Tendon quadricipital", "rowspan": 8 },
+          {
+            "data": "Pôle supérieur de la patella ad partie supérieure du repli supra-patellaire",
+            "rowspan": 2
+          },
+          { "data": "Homme" },
+          { "data": "50 ± 9" }
+        ],
+        [{ "data": "Femme" }, { "data": "49 ± 7" }],
+
+        [
+          { "data": "Épaisseur antéro-postérieure (mm)", "rowspan": 6 },
+          {
+            "data": "Aspect supérieur du repli supra-patellaire",
+            "rowspan": 2
+          },
+          { "data": "Homme" },
+          { "data": "7 ± 1" }
+        ],
+        [{ "data": "Femme" }, { "data": "8 ± 1" }],
+        [
+          {
+            "data": "Au centre du tendon",
+            "rowspan": 2
+          },
+          { "data": "Homme" },
+          { "data": "7 ± 1" }
+        ],
+        [{ "data": "Femme" }, { "data": "8 ± 1" }],
+        [
+          {
+            "data": "À la base de la patella",
+            "rowspan": 2
+          },
+          { "data": "Homme" },
+          { "data": "7 ± 1" }
+        ],
+        [{ "data": "Femme" }, { "data": "8 ± 1" }]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Décubitus dorsal, avec le genou et le tiers inférieur de la cuisse découvert",
+          "Une flexion de genoux de 20-30° (à l'aide d'un oreiller sous le creux poplité) permet une légère mise en tension du mécanisme extenseur, ce qui réduit ainsi les problèmes reliés à l'anisotropie des tendons antérieurs (causée par leur profil concave lorsque le genou est en pleine extension)<a href='#ref1' class='reference'>[1]</a><a href='#ref4' class='reference'>[4]</a>"
+        ],
+        "images": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Position du sujet, jambe allongée"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "  Position du sujet, jambe légèrement fléchie"
+          }
+        ],
+        "source": "/Protocols/tendonQuadricipital/"
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer et palper la patella",
+          "En demandant une contraction isométrique au sujet, repérer et palper les trois chefs superficiels du quadriceps"
+        ]
+      }
+    ],
+    "applicationDynamique": {
+      "title": "Application Dynamique",
+      "iframe": "<iframe width=\"395\" height=\"296\" src=\"https://www.youtube.com/embed/pAxBthKboiY\" title=\"Échographie dynamique du tendon quadricipital\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/tendonQuadricipital/vueLongitudinale/",
+        "objectifs": [
+          "Examen du tendon quadricipital (et de ses faisceaux constituants)",
+          "Rechercher la présence d'épanchement au sein du repli synovial supra-patellaire"
+        ],
+        "parametres": ["Profondeur : 3 cm", "Gain : 55", "G/3/2"],
+        "positionnement": [
+          "En vue longitudinale (parallèle au long axe de la cuisse), placer l'extrémité distale de la sonde sur la patella",
+          "Au besoin, ajuster l'angle de rotation et de bascule ('tilt') afin de minimiser l'anisotropie qui pourrait affecter le tendon quadricipital"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["F"],
+                "texte": [
+                  "Le fémur apparaît comme long trait hyperéchoïque à la portion inférieure de l'image."
+                ]
+              },
+              {
+                "acronymes": ["P"],
+                "texte": [
+                  "La patella (dôme supérieur) se trouve à la droite de l'image, et peut être décrite comme zone hyperéchoïque assez petite, inclinée de la droite vers la gauche et du haut vers le bas"
+                ]
+              },
+              {
+                "acronymes": ["TQ"],
+                "texte": [
+                  "Le tendon quadricipital est une épaisse zone hyperéchoïque traversant ce cliché dans toute sa largeur (gauche à droite). On peut noter que l'échotexture striée bien visible"
+                ]
+              },
+              {
+                "acronymes": ["FS-FM-FP"],
+                "texte": [
+                  "Les faisceaux superficiel, moyen et profond (consituants du tendon quadricipital) sont assez clairement visibles sur ce cliché. On peut apercevoir le tissu probablement collagénique (hyperéchoïque) qui sépare chacun des faisceaux (moins hyperéchoïque)"
+                ]
+              },
+              {
+                "acronymes": ["CGPF"],
+                "texte": [
+                  "Le coussinet graisseux préfémoral est assez peu défini sur ce cliché, mais on peut tout de même identifier le site anatomique qu'il occupe normalement (forme ovale pointillée annotée)."
+                ]
+              },
+              {
+                "acronymes": ["CGSP"],
+                "texte": [
+                  "Le coussinet graisseux supra-patellaire, tout comme le CGPF, est difficilement identifiable, mais on peut ici aussi reconnaître sa localisation."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Fémur" },
+              { "path": "identification3.jpg", "descriptionText": "Patella" },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Tendon quadricipital"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Faisceaux superficiel, moyen et profond"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Coussinet graisseux préfémoral"
+              },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Coussinet graisseux supra-patellaire"
+              },
+              { "path": "identification8.jpg" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/tendonQuadricipital/vueTransversale/",
+        "objectifs": [
+          "Examen du tendon quadricipital (et de ses faisceaux constituants)"
+        ],
+        "parametres": ["Profondeur : 3-4 cm", "Gain : 70-74", "F/1/3"],
+        "positionnement": [
+          "Tourner la sonde de 90° par rapport à la vue longitudinale"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["VM"],
+                "texte": [
+                  "Le muscle vaste médial apparaît comme une zone hypoéchoïque à la gauche de l'image."
+                ]
+              },
+              {
+                "acronymes": ["TQ"],
+                "texte": [
+                  "Le tendon quadricipital, lorsqu'observé sur l'image 'normale' (sans anisotropie) apparaît comme une large zone hyperéchoïque fusiforme. On peut également observer une structure fibrillaire (alternance de fascicules hyper- et hypoéchoéchoïques au sein du tendon)."
+                ]
+              },
+              {
+                "acronymes": [""],
+                "texte": [
+                  "Sur l'image avec anisotropie (image 7/8), le tendon apparaît comme une zone hypoéchoïque, alors que les structures qui l'entourent (p.ex.: fascias, tissu adipeux) conservent leur apparence davantage hyperéchoïque.."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Vaste médial"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Tendon quadricipital"
+              },
+              {
+                "path": "identification4.jpg"
+              },
+              {
+                "path": "identification5.jpg"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Vaste médial"
+              },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Tendon quadricipital (*avec anisotropie*)"
+              },
+              { "path": "identification8.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Le tendon quadricipital (TQ) (à ne pas confondre avec le tendon patellaire) est une des trois structures composant l'appareil extenseur du genou (les deux autres structures étant le tendon patellaire et la patella).",
+          "Le TQ est le résultat de la convergence des tendons individuels des quatres chefs du muscle quadriceps fémoral. Ces quatre tendons forment donc un complexe dit 'trilaminaire' (c.-à-d. qui comprend trois couches), où chaque composante est à une profondeur donnée : la couche profonde (vaste intermédiaire), la couche moyenne (fusion des tendons des vastes médial et latéral) et la couche superficiel (droit fémoral). Ce n'est qu'à approximativement 1cm en proximal de la patella que les trois couches fusionnent, pour aller finalement rejoindre la base de la patella (extrémité crâniale).",
+          "Selon le sujet et l'expérience de l'évaluateur, il est généralement possible d'observer une certaine quantité de tissu fibro-adipeux se trouve entre les différentes couches du complexe, permettant ainsi un meilleur glissement lors des mouvements de flexion-extension du genou. De plus, il est à noter que certaines fibres tendineuses en provenance du droit fémoral poursuivent leur chemin vers le tibia sans participer au complexe trilaminaire (en passant en superficie de la patella)<a href='#ref1' class='reference'>[1]</a>.",
+          "Entre la surface antérieure du fémur distal et le TQ se trouvent 3 structures principales : le coussinet graisseux préfémoral (CGPF), le coussinet graisseux supra-patellaire (CGSP) ainsi que le repli synovial supra-patellaire (RSSP). Le CGPF est situé à la surface du fémur au niveau de la portion proximale (crâniale) du tendon quadricipital, alors que le CGSP, lui, se trouve tout juste au niveau de la portion distale du TQ. Finalement, le RSSP est situé à l'interface des deux coussinets graisseux, et tend à être un site d'accumulation de fluides lors d'épanchements intra-articulaires<a href='#ref1' class='reference'>[1]</a><a href='#ref4' class='reference'>[4]</a>. Afin de pouvoir mieux visualiser la disposition de ces structures, il vous est possible de visiter cette page de l'Université de Washington (dans la section 'Suprapatellar Fat Pads'), qui possède d'excellents clichés obtenus à l'aide d'imagerie par résonnance magnétique.",
+          "Pour plus d'information sur le système extenseur du genou, nous vous invitons à visiter le <a href='/protocoles/cuisse-et-genou/ligament-patellaire class='underline> protocole sur le tendon (ou ligament) patellaire. </a>"
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Tendinopathie quadricipitale",
+        "text": [
+          "Surtout causés par une activité physique ardue, les cas de tendinopathie quadricipitale sont nettement plus rares que les cas de tendinopathie patellaire. Au point de vue clinique, la douleur est située au tendon distal et est généralement causée/accentuée par une extension de genou résistée ou par une pression ferme au niveau du site douloureux. L'examen physique ne démontre normalement pas d'oedème intra-articulaire et l'examen ultrasonographique peut être utile pour guider le diagnostic de tendinopathie<a href='#ref1' class='reference'>[1]</a>.",
+          "Dans les stades initiaux, il est commun qu'une seule couche du tendon soit affectée, au centre ou aux rebords de celle-ci. Il est assez rare que le tendon entier présente des signes de changements pathologiques<a href='#ref1' class='reference'>[1]</a>.",
+          "Tendinose :",
+          [
+            "Le terme 'tendinose' est utilisé (plutôt que 'tendinite') car ce type de condition représente davantage un mécanisme dégénératif qu'inflammatoire.",
+            "La présence de tendinose du tendon quadricipital peut être attestée à l'aide d'imagerie par ultrasonographie. La région atteinte peut démontrer une apparence hypoéchoïque et tuméfiée sans discontinuité au niveau des fibres du muscle ou du tendon<a href='#ref3' class='reference'>[3]</a>."
+          ]
+        ]
+      },
+      {
+        "subtitle": "Rupture du tendon quadricipital",
+        "text": [
+          "Les ruptures du tendon quadricipital peuvent survenir suite à un traumatisme ou à une maladie systémique (incluant les conditions auto-immunes) lorsqu'elles ne sont pas classifiées comme idiopathiques<a href='#ref2' class='reference'>[2]</a>.",
+          "Les ruptures partielles apparaissent, lors de l'examen ultrasonographique, comme une discontinuité d'une ou deux couches composant le tendon quadricipital (voir la section anatomie ci-haut)<a href='#ref3' class='reference'>[3]</a>.",
+          "La rupture complète du tendon quadricipital peut être accompagnée d'une apparence ondulée du tendon, en raison de l'absence point d'attache distal capable de le maintenir tendu et donc rectiligne. De plus, selon la nature/cause de la rupture, il peut y avoir présence de fragment d'os avulsé, associé à une zone hyperéchoïque en crânial de la patellaRéf..",
+          "Cliniquement, les patients se présentent généralement avec un oedème et une douleur importante dans la région de la patella, ce qui peut parfois rendre l'examen physique plus difficile à exécuter<a href='#ref2' class='reference'>[2]</a>"
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Ligament patellaire",
+          "link": "/protocoles/cuisse-genou/ligament-patellaire"
+        },
+        {
+          "linkTitle": "Quadriceps",
+          "link": "/protocoles/cuisse-genou/quadriceps"
+        },
+        {
+          "linkTitle": "Tubérosité tibiale",
+          "link": "/protocoles/cuisse-genou/tuberosite-tibiale"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Bianchi, S, A Zwass, I F Abdelwahab, and A Banderali. “Diagnosis of Tears of the Quadriceps Tendon of the Knee: Value of Sonography.” American Journal of Roentgenology 162, no. 5 (May 1994): 1137–40. doi:10.2214/ajr.162.5.8165998."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Martinoli, Carlo. “Musculoskeletal Ultrasound: Technical Guidelines.” Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Practical Guide. Milan; New York: Springer Milan, 2012."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "title": "Canal tarsien",
+  "latinName": "Canalis tarsi",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Formé par", "header": true, "rowspan": 4 },
+          { "data": "Tibia distal (malléole interne)" }
+        ],
+        [{ "data": "Aspect médial du calcanéum" }],
+        [{ "data": "Aspect médial du talus" }],
+        [{ "data": "Rétinaculum des fléchisseurs" }],
+        [
+          {
+            "data": "Contenu <br /> (antérieur → postérieur)",
+            "header": true,
+            "rowspan": 6
+          },
+          { "data": "Tendon du muscle tibial postérieur (le plus antérieur)" }
+        ],
+        [{ "data": "Tendon du muscle long fléchisseur des orteils" }],
+        [{ "data": "Veine tibiale postérieure" }],
+        [{ "data": "Artère tibiale postérieure" }],
+        [{ "data": "Nerf tibial" }],
+        [
+          {
+            "data": "Tendon du muscle long fléchisseur de l'hallux (le plus postérieur)"
+          }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [],
+      "text": ["Aucune donnée disponible"]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Décubitus dorsal, membre inférieur en rotation externe, et une serviette/oreiller sous l'aspect latéral du pied (le plaçant ainsi en légère inversion) afin d'augmenter la surface de contact de la sonde",
+          "Alternativement, il est possible de positionner le sujet assis sur la table d'examen, en 'position de grenouille', donc avec la plante du pied orientée vers l'intérieur"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer et palper la malléole interne, le sustentaculum tali et le calcanéum"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/canalTarsien/vueTransversale/",
+        "objectifs": [
+          "Examen de l'intégrité du paquet vasculo-nerveux du canal tarsien"
+        ],
+        "parametres": ["Profondeur : 2 cm", "Gain : 80", "G/3/2"],
+        "positionnement": [
+          "Position #1 : Sonde en rétro-malléolaire",
+          [
+            "Placer la sonde derrière la malléole interne, de manière à recouvrir (le plus possible) la pointe de la malléole et le calcanéum",
+            "L'angle de la sonde doit être perpendiculaire au tendon du tibial postérieur, c.-à-d. un peu plus de 45° par rapport au plan formé par la plante du pied. Alternativement, on peut aussi orienter l'extrémité postérieure de la sonde vers l'insertion du tendon d'Achille sur le calcanéum",
+            "Balayer ('scan') et incliner ('tilt') légèrement afin d'obtenir la meilleure image possible"
+          ],
+          "Position #2 : Sonde en infra-malléolaire",
+          [
+            "En conservant la même angulation de sonde qu'à la position #1, déplacer la sonde en antérieur et légerement en inférieur (caudal) afin que l'extrémité caudale de la sonde chevauche le sustentaculum tali"
+          ]
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Position de la sonde en rétro-malléolaire"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Position de la sonde en infra-malléolaire"
+          }
+        ],
+        "identification": [
+          {
+            "title": "[Position #1 : Sonde en rétro-malléolaire]",
+            "legend": [
+              {
+                "acronymes": ["MI"],
+                "texte": [
+                  "La malléole interne apparaît à la gauche de l'image, que l'on reconnaît par sa localisation très superficielle et par sa surface hyperéchoïque (os cortical)"
+                ]
+              },
+              {
+                "acronymes": ["RF"],
+                "texte": [
+                  "Le rétinaculum des fléchisseurs, limite superficielle du canal tarsien, est visible à la portion supérieure de l'image depuis son insertion sur la malléole interne (à gauche). On peut apprécier sa fonction de stabilisateur du paquet vasculo-nerveux derrière la malléole interne"
+                ]
+              },
+              {
+                "acronymes": ["TP"],
+                "texte": [
+                  "Le tendon du muscle tibial postérieur, zone hyperéchoïque arrondie, est le tendon le plus antérieur. Il est accolé à la surface de la malléole interne, à la gauche de l'image, au sein de la 'gouttière/sillon du tibial postérieur'."
+                ]
+              },
+              {
+                "acronymes": ["LFO"],
+                "texte": [
+                  "Le tendon du muscle long fléchisseur des orteils, similaire au tendon du tibial postérieur (mais plus petit) est situé tout juste à la droite (en postérieur) de ce dernier."
+                ]
+              },
+              {
+                "acronymes": ["LFH"],
+                "texte": [
+                  "Le tendon du muscle long fléchisseur de l'hallux, zone hyperéchoïque ovale d'apparence fibrillaire, est situé en profondeur de la gouttière rétro-malléolaire, tout juste sous les artères et veines tibiales postérieures. On le reconnaît principalement grâce à la gaine de son tendon qui est plus hyperéchoïque que le tendon lui-même."
+                ]
+              },
+              {
+                "acronymes": ["V"],
+                "texte": [
+                  "Les veines tibiales postérieures, au nombre de 3 sur cette image, sont visibles en surface du tendon du long fléchisseur de l'hallux. Leur apparence hypoéchoïque circulaire ne permet pas de les distinguer d'une artère (ou parfois même d'un nerf) sur un cliché statique, mais durant l'examen ultrasonographique, la distinction est possible. Voir la capsule sur la <a href='/protocoles/cheville-et-pied/mortaise-tibiale' class='underline'> mortaise tibiale </a> (dans la section 'Vue transversale' puis 'Identification des repères') pour plus d'informations."
+                ]
+              },
+              {
+                "acronymes": ["A"],
+                "texte": [
+                  "L'artère tibiale postérieure se trouve au centre des 3 veines identifiées ci-haut. Tel qu'expliqué, sur une vue statique, l'artère et les veines ont ici une apparence très similaire (voire identique)"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Malléole interne"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Rétinaculum des fléchisseurs"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Tendon muscle tibial postérieur"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Tendon du muscle long fléchisseur des orteils"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Tendon du muscle long fléchisseur de l'hallux"
+              },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Veines tibiales postérieures"
+              },
+              {
+                "path": "identification8.jpg",
+                "descriptionText": "Artère tibiale postérieure"
+              },
+              { "path": "identification9.jpg" }
+            ]
+          },
+          {
+            "title": "[Position #2 : Sonde déplacée en infra-malléolaire]",
+            "legend": [
+              {
+                "acronymes": ["ST"],
+                "texte": [
+                  "Le sustentaculum tali, principal point de repère osseux sur ce cliché, apparaît à la gauche de l'image et est facilement reconnaissable grâce à son relief convexe caractéristique"
+                ]
+              },
+              {
+                "acronymes": ["LFO"],
+                "texte": [
+                  "Le tendon du long fléchisseur des orteils apparaît tout juste à la droite du sustentaculum tali sous la forme d'une zone hyperéchoïque fibrillaire"
+                ]
+              },
+              {
+                "acronymes": ["LFH"],
+                "texte": [
+                  "Le tendon du long fléchisseur de l'hallux, lui, est visible à la droite (donc en postéro-inférieur) du long fléchisseur des orteils. Ces deux tendons possède une apparence similaire."
+                ]
+              },
+              {
+                "acronymes": ["NT"],
+                "texte": [
+                  "Le nerf tibial, zone hyperéchoïque circulaire, est situé en profondeur des veines et de l'artière tibiale postérieure. Lors de l'examen ultrasonographique, on peut s'assurer qu'il s'agit bien d'un nerf en appliquant une pression à l'aide de la sonde et en confirmant que cette structure n'est pas compressible."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification10.jpg" },
+              {
+                "path": "identification11.jpg",
+                "descriptionText": "Sustentaculum tali"
+              },
+              {
+                "path": "identification12.jpg",
+                "descriptionText": "Tendon du muscle long fléchisseur des orteils"
+              },
+              {
+                "path": "identification13.jpg",
+                "descriptionText": "Tendon du muscule long fléchisseur de l'hallux"
+              },
+              {
+                "path": "identification14.jpg",
+                "descriptionText": "Nerf tibial"
+              },
+              {
+                "path": "identification15.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Le canal tarsien est un tunnel ostéofibreux formé par la rencontre du tibia distal, du talus et du rétinaculum des fléchisseurs. Cet espace renferme le paquet vasculo-nerveux rétrotibial, et, à l'instar du tunnel carpien (au membre supérieur), est fort important au point de vue clinique. Par définition, le canal tarsien est situé en postérieur de la malléole interne, et non pas en inférieur de celle-ci.",
+          "Légende de l'animation ci-contre:",
+          "<ul class='margin-left'><li>Orangé: Long fléchisseur de l'hallux</li><li>Vert: Long fléchisseur des orteils</li><li>Rose: Muscle tibial postérieur</li><li>Rouge: Artère tibiale postérieure</li><li>Bleu: Veine tibiale postérieure</li></ul>",
+          "N.b.: Le rétinaculum des fléchisseurs ainsi que le nerf tibial ne sont pas représentés dans l'animation.",
+          "Bien que la disposition (ordre, emplacement) des structures du paquet vasculo-nerveux soit bien connue dans la littérature, il existe tout de même un potentiel de variabilité anatomique, et c'est pour cette raison qu'il est parfois nécessaire de balayer la région infra-malléolaire (voire même antéro-malléolaire) afin de bien pouvoir réellement observer l'ensemble des structures attendues. En effet, il peut arriver que le nerf tibial soit peu visible en rétro-malléolaire, car celui-ci est généralement situé sous les tendons, veines et artères, qui engendre donc une atténuation du faisceau d'ultrasons qui les traverse. Par opposition, en infra-malléolaire, le nerf tibial est nettement plus superficiel et tend à être inférieur (ou caudal, plus près de la plante du pied) aux autres structures du paquet vasculo-nerveux."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/canalTarsien/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Compressions nerveuses",
+        "text": [
+          "Parmi les différents types de compressions nerveuses pouvant se produire à la cheville, la condition la plus connue (et la plus traitée dans la littérature scientifique) est le syndrome du tunnel/canal tarsien<a href='#ref1' class='reference'>[1]</a>",
+          "Ce terme réfère à une compression du nerf tibial ou d'une de ses branches, qui sont<a href='#ref2' class='reference'>[2]</a> :",
+          ["Nerf plantaire médial", "Nerf plantaire latéral", "Nerf calcanéen"],
+          "Selon le site de compression, qui dicte la symptomatologie (dont l'étendue des paresthésies et les résultats des examens électromyographiques), le syndrome peut être classifié comme étant de type<a href='#ref2' class='reference'>[2]</a>:",
+          [
+            "Proximal: Compression du tronc principal du nerf tibial",
+            "Distal: Compression d'une des branches du nerf tibial."
+          ],
+          "Malheureusement, il n'est pas toujours possible d'identifier la source de la compression au moyen de l'imagerie par ultrasonographie. Typiquement, la compression tend à être causée par la présence d'une masse (p.ex.: ténosynovite des fléchisseurs, lipome, présence d'un muscle accessoire) ou par une lésion traumatique, pénétrante ou non<a href='#ref2' class='reference'>[2]</a>.",
+          "Dans certains cas, l'échographie dynamique peut permettre la mise ne évidence d'un accrochage du nerf durant l'exécution de certains mouvements (flexion plantaire, dorsale avec mouvements latéraux). De plus, si l'application d'une pression sur le nerf (à l'aide de la sonde) reproduit les symptômes (manoeuvre dite de 'Ultrasound-guided Tinel test'), ceci augmente la suspicions d'un diagnostic du syndrome du canal tarsien."
+        ]
+      },
+      {
+        "subtitle": "Tendinopathies",
+        "text": [
+          "Parmis toutes les lésions tendineuses de la cheville médiale, les lésions du tendon du tibial postérieur sont les plus fréquentes, et se produisent surtout en distal de la malléole interne. Les ruptures peuvent être aiguës ou chroniques, et ce sont les ruptures chroniques spontanées qui sont les plus fréquentes<a href='#ref4' class='reference'>[4]</a>. Cliniquement, une rupture complète du tendon du tibial postérieur engendre déformation en aplatissement du pied (via la perte de l'arche longitudinale médiale), puisque le tibial postérieur est un stabilisateur majeur de l'avant pied<a href='#ref2' class='reference'>[2]</a>.",
+          "Classiquement, les lésions au tendon du tibial postérieur surviennent chez des femmes d'âge mûr avec un surpoids, ou chez les personnes aux prises avec des conditions rhumatologiques (polyarthrite rhumatoïde, spondylarthropathie séronégative<a href='#ref6' class='reference'>[6]</a>. Finalement, certains types de fracture de la cheville peuvent conduire à des lésions tendineuses diverses, donc une rupture du tendon du tibial postérieur.",
+          "Les atteintes des tendons des long fléchisseurs des orteils et de l'hallux, quoique possibles, sont nettement plus rares."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Mortaise tibiale",
+          "link": "/protocoles/cheville-pied/mortaise-tibiale/"
+        },
+        {
+          "linkTitle": "Tibial antérieur",
+          "link": "/protocoles/cheville-pied/tibial-anterieur/"
+        },
+        {
+          "linkTitle": "Ligament talo-fibulaire antérieur",
+          "link": "/protocoles/cheville-pied//"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Barrett, Stephen L., and John Tassone, eds. Diagnostic Ultrasound of the Foot and Ankle. Brooklandville, Md: Data Trace Pub. Co, 2013."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Martinoli, Carlo. 'Musculoskeletal Ultrasound: Technical Guidelines.' Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Fessell, D P, G M Vanderschueren, J A Jacobson, R Y Ceulemans, A Prasad, J G Craig, J A Bouffard, K K Shirazi, and M T van Holsbeeck. 'US of the Ankle: Technique, Anatomy, and Diagnosis of Pathologic Conditions.' RadioGraphics 18, no. 2 (March 1, 1998): 325–40. doi:10.1148/radiographics.18.2.9536481."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Johnson, Kenneth A. 'Tibialis Posterior Tendon Rupture. Clinical Orthopaedics and Related Research.' Clinical Orthopaedics and Related Research, 1983. http://journals.lww.com/corr/Fulltext/1983/07000/Tibialis_Posterior_Tendon_Rupture_.21.aspx."
+        },
+        {
+          "text": "Martinoli, Carlo. 'Musculoskeletal Ultrasound: Technical Guidelines.' Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "O’Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        },
+        {
+          "text": "Silvestri, Enzo, Alessandro Muda, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Practical Guide. Milan; New York: Springer Milan, 2012."
+        }
+      ]
+    }
+  }
+}

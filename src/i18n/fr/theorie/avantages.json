@@ -1,0 +1,98 @@
+{
+  "title": "Avantages & limites",
+  "sections": {
+    "sectionOne": {
+      "title": "Comparatif : IRM vs ÉMS",
+      "text": [
+        "L'échographie musculosquelettique [ÉMS] est comparée à l'imagerie par résonnance magnétique [IRM] puisque ces deux méthodes d'imagerie sont les plus sensibles pour visualiser les tissus mous (muscles, tendons, ligaments)."
+      ]
+    },
+    "sectionTwo": {
+      "title": "Avantages de l'ÉMS",
+      "subsections": {
+        "subsectionOne": {
+          "title": "En général",
+          "text": [
+            "La résolution de l’ÉMS est supérieure à la résolution de l’IRM",
+            "Coût moindre, portable et facilité relative d’accès",
+            "Très peu/pas de dangers connus (p.ex. : possibilité d’utiliser l’ultrasonographie en présence de fixateurs orthopédiques)",
+            "Facilité de comparer avec le côté opposé",
+            "Possibilité d’utiliser des plans (vues) hors des plans orthogonaux purs",
+            "Possibilité de suivre une structure (p.ex. : nerf périphérique) sur toute sa longueur",
+            "Possibilité d’interagir avec la structure per-échographie, p.ex. :",
+            [
+              "Application dynamique",
+              "Mobilisations, mises en tension",
+              "Test de provocation de symptômes",
+              "Mouvements résistés isométriques (RISOM)",
+              "Palpation"
+            ]
+          ]
+        },
+        "subsectionTwo": {
+          "title": "Par structure",
+          "text": [
+            "Muscles",
+            [
+              "Possibilité d’évaluer l’architecture du muscle",
+              "Possibilité d’évaluer en appliquant une résistance"
+            ],
+            "Tendons",
+            [
+              "Possibilité d’évaluer la structure des fibres",
+              "Permet d’observer des changements dégénératifs",
+              "Permet d’observer des ruptures longitudinales"
+            ],
+            "Ligaments",
+            [
+              "Possibilité d’évaluer la structure des fibres",
+              "Possibilité de mise en tension per-échographie"
+            ],
+            "Bourses",
+            [
+              "Possibilité de visualiser la formation de septa, la présence de débris"
+            ]
+          ]
+        }
+      }
+    },
+    "sectionThree": {
+      "title": "Limites de l'ÉMS",
+      "subsections": {
+        "subsectionOne": {
+          "title": "En général",
+          "text": [
+            "La qualité de l'image repose davantage sur l'expérience/compétence de l'évaluateur",
+            "Toute structure localisée sous un os ne peut être visualisée",
+            "Potentiel limité lorsqu'une épaisse couche de tissus adipeux doit être traversée, car :",
+            [
+              "Atténuation excessive des ultrasons avant d'atteindre les tissus musculosquelettiques",
+              "Difficulté d'obtention d'une zone focale adéquate"
+            ]
+          ]
+        },
+        "subsectionTwo": {
+          "title": "Par structure",
+          "text": [
+            "Surfaces/structures articulaires : difficile (parfois impossible) à visualiser",
+            "Structures osseuses : impossibilité d'atteindre/visualiser l'os sous-cortical",
+            "Système respiratoire : impossibilité de traverser les interfaces 'tissus-air' (poumons)"
+          ]
+        }
+      }
+    }
+  },
+  "sectionFour": {
+    "title": "Applications spécifiques à l'ÉMS",
+    "text": [
+      "Rétroaction biologique biofeedback pour aider au recrtuement de muscles stabilisateurs, dont :",
+      ["Transverse de l'abdomen", "Multifides lombaires"],
+      "Visualisation de problématiques 'dynamiques' (donc impossible à visualiser en statique), dont :",
+      [
+        "Problème de contrôle moteur au niveau de la ceinture scapulaire (rythme scapulo-huméral)",
+        "Syndrome d'abutement acromio-huméral",
+        "Instabilité du tendon du long chef du biceps brachial"
+      ]
+    ]
+  }
+}

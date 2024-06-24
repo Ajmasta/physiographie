@@ -1,0 +1,272 @@
+{
+  "title": "Sus-épineux & espace sous-acromial",
+  "latinName": "Application dynamique",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Type de muscle", "header": true },
+          { "data": "Mono-articulaire, unipenné" }
+        ],
+        [
+          { "data": "Origine", "header": true },
+          { "data": "Fosse supra-épineuse (scapula)" }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          { "data": "Grosse tubérosité (humérus)" }
+        ],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Nerf supra-scapulaire (C5-C6)" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Mesure", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plan", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [
+          { "data": "Épaisseur du tendon (mm)", "rowspan": 2 },
+          { "data": "Sus-épineux", "rowspan": 2 },
+          { "data": "Plan transverse" },
+          { "data": "5,97 ± 1,20 <a href='#ref3' class='reference'>[3]</a>" }
+        ],
+        [
+          { "data": "Plan longitudinal" },
+          { "data": "5,90 ± 1,03 <a href='#ref3' class='reference'>[3]</a>" }
+        ],
+        [
+          {
+            "data": "Épaisseur de la bourse sous-acromiale sous-deltoïdienne (mm)",
+            "colspan": 2
+          },
+          { "data": "Plan sagittal" },
+          { "data": "0,5 ± 0,3 <a href='#ref4' class='reference'>[4]</a>" }
+        ],
+        [
+          { "data": "Distance (cm)", "rowspan": 3 },
+          {
+            "data": "Acromion (bord latéral) et grosse tubérosité (apex, au point le plus proximal de l'acromion)",
+            "rowspan": 2,
+            "colspan": 2
+          },
+          { "data": "2,25 ± 0,38  <a href='#ref5' class='reference'>[5]</a>" }
+        ],
+        [{ "data": "1,91 - 2,84  <a href='#ref6' class='reference'>[6]</a>" }],
+        [
+          { "data": "Acromion (bord latéral) et tête humérale", "colspan": 2 },
+          { "data": "1,09 ± 0,21 <a href='#ref4' class='reference'>[4]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Position de départ",
+          ["Assis, épaule découverte et bras au repos le long du corps"],
+          "Consignes au sujet (selon le cas)",
+          [
+            "Lever lentement le bras dans un plan antérolatéral (scaption) avec la paume vers le plafond ;",
+            "Si applicable : effectuer l'arc d'élévation de l'épaule qui reproduit les symptômes ;"
+          ],
+          "Épaule: Maintenir en légère rotation externe (d'où la paume vers le plafond)",
+          "Coude: Peut être fléchi ou non"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Palper l’articulation acromio-claviculaire (voir la capsule sur <a class='underline' href='/protocoles/epaule/articulation-acromioclaviculaire'> l’articulation acromio-claviculaire </a>)",
+          "Repérer et palper la grosse tubérosité (voir la capsule sur le <a class='underline' href='/protocoles/epaule/biceps-brachial'> biceps brachial) </a>"
+        ]
+      }
+    ],
+    "applicationDynamique": {
+      "title": "Application Dynamique",
+      "iframe": "<iframe width=\"395\" height=\"296\" src=\"https://www.youtube.com/embed/k0MfHW7PwiE\" title=\"Échographie dynamique de l&#39;espace sous-acromial\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/susEpineuxEtEspace/vueLongitudinale/",
+        "objectifs": [
+          "Observer le glissement normal du sous-épineux sous l'acromion (si aucune pathologie)",
+          "Observer les structures délimitant l'espace sous-acromial (ainsi que le contenu)"
+        ],
+        "parametres": ["Profondeur : 3 cm", "Gain : 80", "G/3/2"],
+        "positionnement": [
+          "Placer la sonde dans un plan frontal (coronal) oblique qui permet de visualiser, dans le même champ, tant le bord latéral de l’acromion que la grosse tubérosité humérale <a href='#ref2' class='reference'>[2]</a>."
+        ],
+        "imagePositionnement": [
+          {
+            "path": "imagePositionnement1.jpg",
+            "descriptionText": "Position de la sonde au départ (au repos)"
+          },
+          {
+            "path": "imagePositionnement2.jpg",
+            "descriptionText": "Position de la sonde, bras élevé"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["DM"],
+                "texte": [
+                  "Le deltoïde moyen, zone hypoéchoïque triangulaire ayant une échotexture de striation musculaire typique, est visible dans le quadrant supérieur droit"
+                ]
+              },
+              {
+                "acronymes": ["A"],
+                "texte": [
+                  "L’acromion, épaisse couche à la surface supérieure hyperéchoïque, apparaît à la portion supérieure-gauche de l’image"
+                ]
+              },
+              {
+                "acronymes": ["SuE"],
+                "texte": [
+                  "Le tendon du sus-épineux se trouve entre la tête humérale (grosse tubérosité) et le deltoïde. On l’aperçoit sous la forme d’une zone hyperéchoïque longiligne, apparaissant puis disparaissant de la moitié droite de l’image"
+                ]
+              },
+              {
+                "acronymes": ["TH"],
+                "texte": [
+                  "La tête humérale (grosse tubérosité), dont le glissement normal sous l’acromion peut être observé, apparaît comme une zone hyperéchoïque presque triangulaire"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "imageIdentification1.jpg" },
+              {
+                "path": "imageIdentification2.jpg",
+                "descriptionText": "Deltoïde moyen"
+              },
+              {
+                "path": "imageIdentification3.jpg",
+                "descriptionText": "Acromion"
+              },
+              {
+                "path": "imageIdentification4.jpg",
+                "descriptionText": "Sus-épineux"
+              },
+              {
+                "path": "imageIdentification5.jpg",
+                "descriptionText": "Tête humérale"
+              },
+              { "path": "imageIdentification6.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Il est important, tout d'abord, de définir les termes qui seront utilisés dans cette capsule :",
+          "Le volume de l'espace sous-acromiale est délimité principalement par:",
+          "<ul class='margin-left'><li>Limite supérieure (crâniale) : arche coracoacromiale, laquelle comprend:</li><ul class='margin-left'><li>Articulation acromio-claviculaire</li><li>Processus coracoïde</li><li>Ligament coraco-acromial</li></ul><li>Limite inférieure (caudale) : Tête humérale</li></ul>",
+          "L'espace sous-acromiale contient:",
+          "<ul class='margin-left'><li>Les tendons de la coiffe des rotateurs</li><li>Le long chef du biceps brachial</li><li>La bourse sous-acromiale sous-deltoïdienne</li><li>Une quantité variable de tissus adipeux et conjonctif</li></ul>",
+          "Distance acromio-humérale: notion radiologique, distance entre la marge inférieure (caudale) de l'acromion et la marge supérieure (crâniale) de la tête humérale. Dans la littérature, on retrouve parfois des définitions alternatives (repères légèrement différents) qui sont normalement clairement définis par les auteurs. Le terme « espace acromio-huméral » est parfois utilisé pour référer aux structures enclavées entre l'acromion et la tête humérale",
+          "Le terme « espace sous-acromial » est souvent utilisé lors de la description d’une pathologie musculosquelettique commune de l’épaule : le syndrome d’abutement (« impingement syndrome »). Simplement, ce syndrome peut être défini comme étant un conflit entre un contenant et son contenu, c.-à-d., respectivement, l’espace sous-acromial et les structures qui y prennent place. Lorsque le volume du contenant diminue, par exemple dans le cas d’ostéophytes inférieurs au niveau de l’articulation acromio-claviculaire, le contenu, normalement constant dans ses dimensions, se voit comprimé par les structures adjacentes. Lorsqu’un facteur de chronicité s’ajoute au mécanisme déjà en place, des problématiques plus sérieuses peuvent subvenir (p.ex. : bursite sous-acromio-deltoïdienne, découlant en une tendinose du sus-épineux jusqu’à une possible rupture du tendon) <a href='#ref2' class='reference'>[2]</a>",
+          "Rappel sur l'anatomie du sus-épineux (voir la capsule sur le <a class='underline' href='/protocoles/epaule/sus-epineux'>sus-épineux</a>)",
+          "Le muscle sus-épineux est un petit muscle situé à la face postéro-supérieure de l’épaule. Il est l’un des quatre muscles composant la coiffe des rotateurs, avec le sous-scapulaire (face antérieure), le sous-épineux et le petit rond (tous deux à l’aspect postérieur). Le sus-épineux prend origine au niveau de la fosse supra-épineuse, dont le nom fait référence à l’épine de la scapula, située en inférieur (caudal) de ce site. La face supérieure de la grosse tubérosité humérale accueille l’insertion distale de ce muscle. Le sous-scapulaire ne possède qu’un seul ventre musculaire et possède un axe origine-insertion (lorsqu’en position anatomique) orienté de l’intérieur vers l’extérieur, de l’arrière vers l’avant et légèrement du haut vers le bas. Ainsi, ce muscle possède donc une action de rotation externe (surtout) et d’abduction de l’articulation gléno-humérale.",
+          "Une bonne connaissance de l’orientation du muscle est impérative, tout spécialement lorsqu’un examen ultrasonographique est entrepris. Pour visualiser le parcours du tendon du sus-épineux, on peut se repérer en débutant avec la portion intra-articulaire du long biceps. En effet, ces deux tendons sont parallèles (uniquement à cet endroit) et le tendon du long biceps jouit d’une échotexture et une échogénicité qui font de lui un point de référence facilement reconnaissable.",
+          "Lorsqu’examiné avec une épaule en position de repos, seule la portion distale du tendon du sus-épineux est accessible , la différence étant masquée l’arche acromio-claviculaire et la tête humérale. Dans le cadre d’une évaluation ultrasonographique, on demande souvent au patient d’aller porter la face palmaire de sa main à l’aspect supérieur de sa crête iliaque ipsilatérale. Cette position (parfois désignée sous le nom de position de Middleton ou position de Crass modifiée) a pour effet de rendre le sus-épineux plus antérieur, ce qui donne accès à l’ensemble de son tendon ainsi que sa jonction musculo-tendineuse.",
+          "À son tiers distal, le muscle sous-épineux passe dans l’espace sous-acromial, tout juste avant la jonction musculo-tendineuse distale. L’espace sous-acromial est une entité principalement délimitée par l’arche coracoacromiale et la tête humérale. Cet espace contient entre autres les tendons de la coiffe des rotateurs, du long biceps ainsi que la bourse sous-acromiale/sous-deltoïdienne. Le volume de cet espace varie d’un individu à l’autre en raison de plusieurs facteurs, dont :",
+          "<ul class='margin-left' ><li>Une variabilité anatomique bien documentée ;</li><li>La position de l’épaule (neutre vs rotation / flexion / abduction) ;</li><li>L’âge (possible composante dégénérative) ;</li><li>La présence potentielle d’une des nombreuses pathologies de l’épaule</li></ul>",
+          "Cette variabilité anatomique est souvent soumise à une classification qui reconnaît 3 types d’acromion, soit : plat (type I, 4.7 % de la population) ; courbé (type II, 51.76% de la population) et en crochet (type III, 43,52% de la population). Il existe également une corrélation intéressante entre la morphologie de l’acromion (définie selon la classification sus-mentionnée) et l’incidence de ruptures complètes de la coiffe des rotateurs, qui a été étudiée sur 140 épaules dans une étude de Bigliani et al , résumée dans le tableau 1 ci-dessous.",
+          "Incidence de ruptures complètes de la coiffe des rotateurs: <ul class='margin-left'> <li>Type I (plat): 3%</li><li> Type II (courbé):24.2%</li><li>Type III (en crochet): 69.8%</li> </ul>",
+          "Plusieurs autres mesures et classifications (alternatives ou complémentaires) décrivent la morphologie de l’acromion et de l’espace sous-acromial, dont l’index acromial (AI, acromion index), l’angle acromial latéral (LAA, lateral acromial angle), l’angle critique de l’épaule (CSA, critical shoulder angle) ainsi que la pente acromiale (AS, acromial slope)."
+        ]
+      }
+    ],
+    "images": [{ "path": "anatomieDescriptive.gif" }],
+    "source": "/Protocols/susEpineuxEtEspace/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Capsulite rétractile (adhésive):",
+        "text": [
+          "Lors de l'examen dynamique, si le tendon du sus-épineux ne glisse pas facilement, sous l’acromion, il s’agit là d’un signe pouvant suggérer la présence d’une capsulite adhésive <a href='#ref2' class='reference'>[2]</a>."
+        ]
+      },
+      {
+        "subtitle": "Bursite sous-acromiale sous-deltoïdienne:",
+        "text": [
+          "Bursite sous-acromio-deltoïdienne : en cas d’accumulation de liquide au sein de la bourse sous-acromio-deltoïdienne (pas le cas chez un sujet sain), on peut être en présence d’un syndrome d’accrochage"
+        ]
+      },
+      {
+        "subtitle": "Syndrome d'accrochage du sus-épineux :",
+        "text": [
+          "L'application qui, sans aucun doute, est la plus évidente est la visualisation de l'accrochage sous-épineux, qui peut être aisément observé en application dynamique, tel que démontré ci-dessus."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Sus-épineux, région scapulaire",
+          "link": "/protocoles/epaule/sus-epineux-post/"
+        },
+        {
+          "linkTitle": "Sus-épineux (région antéro-latérale)",
+          "link": "/protocoles/epaule/sus-epineux/"
+        },
+        {
+          "linkTitle": "Articulation acromio-claviculaire",
+          "link": "/protocoles/epaule/articulation-acromio-claviculaire/"
+        },
+        {
+          "linkTitle": "Biceps brachial",
+          "link": "/protocoles/epaule/biceps-brachial"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Jacobson, Jon A. “Shoulder US: Anatomy, Technique, and Scanning Pitfalls.” Radiology 260, no. 1 (July 1, 2011): 6–16. doi:10.1148/radiol.11101082."
+        },
+        {
+          "text": "Yu, Tung-Yang, Wen-Chung Tsai, Ju-Wen Cheng, Yun-Ming Yang, Fang-Chen Liang, and Chien-Hung Chen. “The Effects of Aging on Quantitative Sonographic Features of Rotator Cuff Tendons.” Journal of Clinical Ultrasound: JCU 40, no. 8 (October 2012): 471–78. doi:10.1002/jcu.21919."
+        },
+        {
+          "text": "Schmidt, W A. «Standard Reference Values for Musculoskeletal Ultrasonography.» Annals of the Rheumatic Diseases 63, nᵒ 8 (April 13, 2004): 988–94. doi:10.1136/ard.2003.015081."
+        },
+        {
+          "text": "Kumar, Praveen, Jo Chetwynd, Arwel Evans, Gemma Wardle, Caroline Crick, et Belinda Richardson. «Interrater and Intrarater Reliability of Ultrasonographic Measurements of Acromion-Greater Tuberosity Distance in Healthy People.» Physiotherapy Theory and Practice 27, nᵒ 2 (February 2011): 172–75. doi:10.3109/09593985.2010.481012."
+        },
+        {
+          "text": "Cholewinski, Jerzy J., Damian J. Kusz, Piotr Wojciechowski, Lukasz S. Cielinski, et Miroslaw P. Zoladz. «Ultrasound Measurement of Rotator Cuff Thickness and Acromio-Humeral Distance in the Diagnosis of Subacromial Impingement Syndrome of the Shoulder.» Knee Surgery, Sports Traumatology, Arthroscopy 16, nᵒ 4 (April 2008): 408–14. doi:10.1007/s00167-007-0443-4."
+        }
+      ]
+    }
+  }
+}

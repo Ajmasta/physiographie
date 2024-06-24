@@ -1,0 +1,332 @@
+{
+  "title": "Mortaise Tibiale",
+  "latinName": "",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Noms équivalents", "header": true },
+          {
+            "data": "Articulation tibio-talaire, mortaise talaire, mortaise de la cheville"
+          }
+        ],
+        [
+          { "data": "Surfaces articulaires", "header": true, "rowspan": 3 },
+          { "data": "Tibia distal (plafond et malléole interne)" }
+        ],
+        [{ "data": "Fibula distale (malléole externe)" }],
+        [{ "data": "Talus (dôme)" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [[]],
+      "text": ["Aucune donnée disponible"]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Décubitus dorsal, cheville en légère flexion plantaire, membre inférieur supporté par la table (ne dépassant pas)",
+          "Il est également possible fléchir le genou à 45° avec le pied à plat sur la table, mais cette position ne permet pas de moblisation de la cheville per-échographie"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer et palper les malléoles externe et interne ainsi que le dôme du talus<a href='#ref1' class='reference'>[1]</a>"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/mortaiseTibiale/vueLongitudinale/",
+        "objectifs": [
+          "Examen de l'enveloppe péritendineuse du tendon d'Achille<a href='#ref1' class='reference'>[1]</a>",
+          ""
+        ],
+        "parametres": ["Profondeur : 2 cm", "Profondeur : 2 cm", "G/3/3"],
+        "positionnement": [
+          "Placer la sonde en vue longitudinale (dans l’axe long de la jambe), en s'assurant de recouvrir l'articulation tibio-talaire",
+          "Balayer lentement la sonde en médio-latéral de l'articulation afin de le couvrir sur toute sa superficie"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["Ti"],
+                "texte": [
+                  "Le tibia, large zone hyperéchoïque clairement définie, est visible à la gauche de l'image"
+                ]
+              },
+              {
+                "acronymes": ["Ta"],
+                "texte": [
+                  "Le talus apparaît à la droite de l'image, dont la marge hyperéchoïque (os cortical) est bien visible. On peut apercevoir le dôme [Dt] et la tête [Tt] du talus, respectivement au centre et à la droite de l'image."
+                ]
+              },
+              {
+                "acronymes": ["RA"],
+                "texte": [
+                  "Le repli antérieur ('anterior recess') peut être observé à la rencontre du tibia et du talus, au centre de l'image"
+                ]
+              },
+              {
+                "acronymes": ["CGA"],
+                "texte": [
+                  "Le coussinet graisseux antérieur ('anterior fat pad') occupe l'espace concave créé par le relief du tibia et du talus, au centre de l'image"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Tibia" },
+              { "path": "identification3.jpg", "descriptionText": "Talus" },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Dôme du talus"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Tête du talus"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Replis antérieur ('anterior recess')"
+              },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Coussinet graisseux antérieur ('anterior fat pad')"
+              },
+              { "path": "identification8.jpg" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/mortaiseTibiale/vueTransversale/",
+        "objectifs": [
+          "Observation transversale des tendons du tibial antérieur et de l'extenseur de l'hallux",
+          "Examen de la surface articulaire du talus"
+        ],
+        "parametres": ["Profondeur : 2 cm", "Gain : 70", "G/3/3"],
+        "positionnement": [
+          "Tourner la sonde à 90° par rapport à la vue longitudinale",
+          "Balayer lentement la sonde en crânio-caudal (vers le haut et vers le bas) afin de couvrir toutes les structures recherchées (voir ci-bas)"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpeg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["Ta"],
+                "texte": [
+                  "Le talus apparaît au centre de l'image comme un vaste plateau à la surface (os cortical) clairement délimitée par un trait hyperéchoïque"
+                ]
+              },
+              {
+                "acronymes": ["TiA"],
+                "texte": [
+                  "Le tendon du muscle tibial antérieur, zone ovoïde d'échogénicité mixte entourée d'un mince trait hypoéchoïque (gaine du tendon) se trouve au coin supérieur gauche de l'image. Il s'agit du plus médial (et volumineux) des tendons visibles sur ce cliché."
+                ]
+              },
+              {
+                "acronymes": ["EHa"],
+                "texte": [
+                  "Le tendon du long muscle extenseur de l'hallux possède une apparence similaire au tibial antérieur, à la différence près qu'il est plus aplati (moins circulaire). De plus, sa localisation plus centrale (par rapport au tibial antérieur) concorde avec cette identification."
+                ]
+              },
+              {
+                "acronymes": ["ATA"],
+                "texte": [
+                  "L'artère tibiale antérieure, zone hypoéchoïque ovoïde, est visible à mi-chemin entre le talus et le long extenseur de l'hallux."
+                ]
+              },
+              {
+                "acronymes": ["VTA"],
+                "texte": [
+                  "La veine tibiale antérieure, située à la droite de l'artère, possède un diamètre inférieur à cette dernière"
+                ]
+              },
+              {
+                "acronymes": ["NFP"],
+                "texte": [
+                  "Le nerf fibulaire profond, sur cette image, peut être distingué de la veine tibiale antérieure par son contenu d'apparence hyperéchoïque (vs l'intérieur de la veine est hypoéchoïque)"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Talus" },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Tibial antérieur"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Long extenseur de l'hallux"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Artère tibiale antérieure"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Veine tibiale antérieure"
+              },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Nerf fibulaire profond"
+              },
+              { "path": "identification8.jpg" }
+            ]
+          }
+        ],
+        "extraText": [
+          "N.b.: [Au sujet de la distinction entre nerfs, artères et veines] Un cliché statique (tel que ceux présentés ici) ne facilite pas la distinction de ces structures. En effet, lors de l'exécution de l'échographie, il est possible d'obtenir d'avantage d'informations en palpant (à la recherche d'un pouls), en appliquant une pression sur les tissus à l'aide de la sonde (les veines sont facilement collabées, les artères difficilement, et les nerfs sont très peu compressibles) ou, si l'appareil le permet, en utilisant le mode Doppler (afin de visualiser le flot sanguin)."
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Le terme 'mortaise tibiale', selon la nomenclature utilisée (voir section 'Généralités' ci-dessus'), réfère normalement à la partie supérieure (crâniale) de l'articulation tibio-talaire. Le mot 'mortaise' est utilisée car la portion proximale de cette articulation rappelle une forme utilisée en mécanique, ébénisterie, etc.",
+          "Selon le dictionnaire Larousse :",
+          "Mortaise : Cavité de section généralement rectangulaire, pratiquée dans une pièce de bois ou de métal, pour recevoir le tenon d'une autre pièce assemblée.<a href='#ref5' class='reference'>[5]</a>",
+          "Tenon : Extrémité d'une pièce de bois qu'on a façonnée pour la faire entrer dans une mortaise, pratiquée dans une autre pièce destinée à être assemblée à la première.<a href='#ref6' class='reference'>[6]</a>",
+          "La mortaise, à proprement parler, est en fait circonscrite par les repères suivants : la malléole interne (tibia), la malléole externe (fibula) ainsi que le 'plafond' tibial. Face à la mortaise se trouve le tenon formé par le talus (anciennement connu sous le nom 'd'astragale'), qui vient s'emboîter dans la cavité décrite ci-haut.",
+          "La disposition 'emboîtée' de cette articulation permet une mobilité appréciable en flexion-extension (tibio-talaire). De plus, lorsque cette articulation est en position de flexion maximale, un certain mouvement latéral est possible puisque le talus est plus étroit dans sa moitié antérieure et qu'il se forme ainsi un espace (un 'jeu') entre les malléoles et le talus.<a href='#ref3' class='reference'>[3]</a>",
+          "Plusieurs structures (tendons, vaisseaux sanguins, nerfs) 'traversent' la mortaise tibiale à sa surface antérieure, et sont donc visibles lors de l'observation par imagerie ultrasonographique de l'interface articulaire. Les plus pertinentes/importantes de ces structures sont, de médial en latéral :",
+          "<ul class='margin-left'><li>Tendon du muscle tibial antérieur (normalement deux fois plus volumineux que le tendon du long extenseur de l'hallux)<a href='#ref7' class='reference'>[7]</a></li><li>Veine tibiale antérieure (possède un parcours très oblique, et peut donc être observée plus en latéral)</li><li>Nerf fibulaire/péronier profond</li><li>Tendon du long extenseur de l'hallux</li><li>Artère tibiale antérieure</li><li>Tendon du long extenseur des orteils (qui, à ce point, commence à se séparer en plusieurs digitations)</li><li>Nerf fibulaire/péronier superficiel (qui possède aussi un parcours oblique et qui peut donc également être retrouvé plus en médial)</li></ul>",
+          "D'un point de vue pédagogique, cette région présente un intérêt puisqu'elle est aisément accessible à l'aide de l'imagerie par ultrasonographie, en plus de posséder une topographie relativement facile à reconnaître."
+        ]
+      }
+    ],
+    "images": [
+      { "path": "descriptionAnatomique1.gif" },
+      { "path": "descriptionAnatomique2.jpg" }
+    ],
+    "source": "/Protocols/mortaiseTibiale/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Pathologie des tendons de la cheville antérieure",
+        "text": [
+          "En comparaison avec les tendons des autres régions de la cheville, les tendons de la cheville antérieure sont rarement impliqués dans des processus pathologiques<a href='#ref3' class='reference'>[3]</a>, ce que certains auteurs expliquent par la vascularisation dense de ces tissus<a href='#ref7' class='reference'>[7]</a>. Parmi l'éventail des atteintes possibles aux tendons des extenseurs de la cheville (c.-à-d. les tendons antérieurs), on retrouve : ténosynovites, tendinoses, ruptures/lacérations et déchirures intra-substance<a href='#ref2' class='reference'>[2]</a>.",
+          "Le tendon extenseur le plus souvent touché est le tendon du muscle tibial antérieur. La rupture de ce tendon (condition la plus fréquente) peut être aiguë (traumatique, coup direct), classiquement chez des sujets plus jeunes, ou spontanée, davantage chez une population âgée de plus de 45 ans. Le site de rupture le plus fréquent se trouve entre le rétinaculum des extenseurs et l'insertion au niveau du 1er métatarsien et 1er cunéiforme<a href='#ref3' class='reference'>[3]</a>.",
+          "La seconde condition la plus fréquente est la tendinopathie distale du tibial antérieur. Cette pathologie se caractériste, à l'échographie, par une apparence hypoéchoïque et tuméfiée du tendon du tibial antérieur, tout juste avant son insertion distale<a href='#ref3' class='reference'>[3]</a>.",
+          "D'autres conditions plus rares (p.ex.: ténosynovite du long extenseur de l'hallux) peuvent être décelées à l'aide de l'imagerie par ultrasonographie, via un examen attentif de la région où se trouvent les symptômes<a href='#ref3' class='reference'>[3]</a>."
+        ]
+      },
+      {
+        "subtitle": "Les syndromes d'interposition et de conflit",
+        "text": [
+          "Cette grande famille de pathologies est aussi connue sous le nom de 'pincement antérieur de cheville' (ou 'anterior ankle impingement')",
+          "Ces conditions peuvent être classifiées selon leur origine : les conflits d'origine osseuse (scénario classique) et ceux d'origine ligamentaire, capsulaire ou fibreuse<a href='#ref4' class='reference'>[4]</a>.",
+          "Les conflits osseux possèdent généralement la même présentation clinique : oedème, douleurs mécaniques à la mise en charge, perte de flexion dorsale, et peut aller jusqu'à l'apparition d'une boiterie<a href='#ref4' class='reference'>[4]</a>. Selon Bouysset, on retrouve deux scénarios possibles:",
+          [
+            "Le syndrome de la bordure [...] correspond à une hypertrophie osseuse de la marge tibiale entrant dans le cadre d'une dégénérescence articulaire débutante.",
+            "Le conflit par eperons osseux (ou 'tibiotalar spurs') [...], est souvent rencontré chez le sportif [...] aux suites de sollicitations capsulo-périostées microtraumatiques ou d'un traumatisme en flexion dorsale ou plantaire forcée."
+          ],
+          "Il existe une classification des éperons tibiaux et taliens en 4 stades, qui est basée sur la taille et la distribution des éperons : le type I étant le plus bénin, et le type IV le plus grave<a href='#ref4' class='reference'>[4]</a>.",
+          "Les interpositions de tissus mous (ou 'soft-tissue impingement') sont des dérangements intra-articulaires classiquement causés par des lésions non-osseuses ou cartilagineuses (p.ex.: entorse du ligament talo-fibulaire antérieur). Cette pathologie est dite 'post-traumatique', et entraînement normalement douleur locale, oedème et raideur. Les sujets ayant subi des lésions répétés aux tissus mous sont particulièrement sujets aux interpositions, lesquelles sont fréquemment associées aux problèmes d'instabilité de cheville (quoiqu'il ne s'agisse en rien d'un critère diagnostic)<a href='#ref3' class='reference'>[3]</a><a href='#ref4' class='reference'>[4]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Canal tarsien",
+          "link": "/protocoles/cheville-pied/canal-tarsien"
+        },
+        {
+          "linkTitle": "Ligament talo-fibulaire antérieur",
+          "link": "/protocoles/cheville-pied/ligament-talo-fibulaire-anterieur"
+        },
+        {
+          "linkTitle": "Tibial antérieur",
+          "link": "/protocoles/cheville-pied/tibial-anterieur/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angelo Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. 'Musculoskeletal Ultrasound Technical Guidelines (VI. Ankle).' Eureopean Society of Muscloskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Barrett, Stephen L., and John Tassone, eds. Diagnostic Ultrasound of the Foot and Ankle. Brooklandville, Md: Data Trace Pub. Co, 2013."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Bouysset, Maurice, A. Bardot, M. Bonnin, M. Bouvier, and B. Daum. Pathologie ostéo-articulaire du pied et de la cheville: Approche médico-chirurgicale. Springer Science & Business Media, 2004."
+        },
+        {
+          "text": "'Définitions: Mortaise - Dictionnaire de Français Larousse.' Accessed May 4, 2015. http://www.larousse.fr/dictionnaires/francais/mortaise/52710."
+        },
+        {
+          "text": "'Définitions: Tenon - Dictionnaire de Français Larousse.' Accessed May 4, 2015. http://www.larousse.fr/dictionnaires/francais/tenon/77312."
+        },
+        {
+          "text": "Fessell, D P, G M Vanderschueren, J A Jacobson, R Y Ceulemans, A Prasad, J G Craig, J A Bouffard, K K Shirazi, and M T van Holsbeeck. 'US of the Ankle: Technique, Anatomy, and Diagnosis of Pathologic Conditions.' RadioGraphics 18, no. 2 (March 1, 1998): 325–40. doi:10.1148/radiographics.18.2.9536481."
+        },
+        {
+          "text": "Hollenberg, G. M., M. J. Adams, and E. P. Weinberg. 'Sonographic Appearance of Nonoperatively Treated Achilles Tendon Ruptures.' Skeletal Radiology 29, no. 5 (May 1, 2000): 259–64. doi:10.1007/s002560050604."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013. http://site.ebrary.com/id/10604953."
+        },
+        {
+          "text": "Kainberger, F M, A Engel, P Barton, P Huebsch, A Neuhold, and E Salomonowitz. 'Injury of the Achilles Tendon: Diagnosis with Sonography.' American Journal of Roentgenology 155, no. 5 (November 1, 1990): 1031–36. doi:10.2214/ajr.155.5.2120931."
+        },
+        {
+          "text": "Martinoli, Carlo. 'Musculoskeletal Ultrasound: Technical Guidelines.' Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Movin, T., P. Guntner, A. Gad, and C. Rolf. 'Ultrasonography-Guided Percutaneous Core Biopsy in Achilles Tendon Disorder.' Scandinavian Journal of Medicine & Science in Sports 7, no. 4 (August 1, 1997): 244–48. doi:10.1111/j.1600-0838.1997.tb00147.x."
+        },
+        {
+          "text": "Movin, Tomas, Adel Gad, Finn P Reinholt, and Christer Rolf. 'Tendon Pathology in Long-Standing Achillodynia: Biopsy Findings in 40 Patients.' Acta Orthopaedica 68, no. 2 (January 1, 1997): 170–75. doi:10.3109/17453679709004002."
+        },
+        {
+          "text": "Rolf, Christer, and Tomas Movin. 'Etiology, Histopathology, and Outcome of Surgery in Achillodynia.' Foot & Ankle International 18, no. 9 (September 1, 1997): 565–69. doi:10.1177/107110079701800906."
+        },
+        {
+          "text": "O’Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        },
+        {
+          "text": "Sandelin, J., O. Kiviluoto, S. Santavirta, and R. Honkanen. 'Outcome of Sports Injuries Treated in a Casualty Department.' British Journal of Sports Medicine 19, no. 2 (June 1, 1985): 103–6. doi:10.1136/bjsm.19.2.103."
+        },
+        {
+          "text": "Sandelin, J., S. Santavirta, and O. Kiviluoto. 'Acute Soccer Injuries in Finland in 1980.' British Journal of Sports Medicine 19, no. 1 (March 1, 1985): 30–33. doi:10.1136/bjsm.19.1.30."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Pratical [sic] Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Stenroth, Lauri, Jussi Peltonen, Neil J. Cronin, Sarianna Sipilä, and Taija Finni. 'Age-Related Differences in Achilles Tendon Properties and Triceps Surae Muscle Architecture in Vivo.' Journal of Applied Physiology 113, no. 10 (November 15, 2012): 1537–44. doi:10.1152/japplphysiol.00782.2012."
+        }
+      ]
+    }
+  }
+}

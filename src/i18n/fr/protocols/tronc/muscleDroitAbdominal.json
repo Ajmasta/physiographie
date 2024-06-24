@@ -1,0 +1,372 @@
+{
+  "title": "Droit abdominal",
+  "latinName": "Rectus abdominis",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Points d'attache", "header": true, "rowspan": 4 },
+          { "data": "Supérieur et latéral : Cartilage costal des côtes 5 à 7" }
+        ],
+        [{ "data": "Supérieur et médial : Apophyse xyphoïde" }],
+        [{ "data": "Médial : Ligne blanche" }],
+        [{ "data": "Inférieur : Crête du pubis" }],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Nerfs T7 à T11 (innervation segmentaire)" }
+        ],
+        [
+          { "data": "Action", "header": true },
+          { "data": "Flexion du rachis lombaire" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Mesure", "header": true },
+          { "data": "Au niveau de", "colspan": 2, "header": true },
+          { "data": "Valeur", "header": true }
+        ],
+        [
+          { "data": "Muscle droit de l'abdomen", "rowspan": 4 },
+          { "data": "Épaisseur (cm)", "rowspan": 2 },
+          { "data": "Homme" },
+          {
+            "data": "Tout juste en crânial et en latéral du nombril",
+            "rowspan": 4
+          },
+          {
+            "data": "G:  0,76 - 1,72 <br />D:  0,81 - 1,69 <a href='#ref6' class='reference'>[6]</a>"
+          }
+        ],
+        [
+          { "data": "Femme" },
+          {
+            "data": "G:  0,72 - 1,32 <br /> D:  0,70 - 1,34 <a href='#ref6' class='reference'>[6]</a>"
+          }
+        ],
+        [
+          { "data": "Aire de section transversale (cm2)", "rowspan": 2 },
+          { "data": "Homme" },
+          {
+            "data": "G:  4,89 - 11,41<br />D:  5,13 - 11,41 <a href='#ref6' class='reference'>[6]</a>"
+          }
+        ],
+        [
+          { "data": "Femme" },
+          {
+            "data": "G:  3,72 - 7,24 <br /> D:  3,44 - 7,44 <a href='#ref6' class='reference'>[6]</a>"
+          }
+        ],
+        [
+          { "data": "Ligne blanche", "rowspan": 13 },
+          { "data": "Longueur moyenne (cm)", "colspan": 2 },
+          { "data": "Apophyse xyphoïde ad pubis" },
+          { "data": "29,11<a href='#ref1' class='reference'>[1]</a>" }
+        ],
+        [
+          { "data": "Chez une femme nullipare", "rowspan": 6 },
+          {
+            "data": "Largeur à la limite de la normale (90e percentile) (mm)",
+            "rowspan": 3
+          },
+          { "data": "Apophyse xyphoïde" },
+          { "data": "15 <a href='#ref8' class='reference'>[8]</a>" }
+        ],
+        [
+          { "data": "3 cm au-dessus du nombril" },
+          { "data": "22 <a href='#ref8' class='reference'>[8]</a>" }
+        ],
+        [
+          { "data": "2 cm sous le nombril" },
+          { "data": "16 <a href='#ref8' class='reference'>[8]</a>" }
+        ],
+        [
+          { "data": "Largeur moyenne (mm)", "rowspan": 3 },
+          { "data": "Apophyse xyphoïde" },
+          { "data": "7 ± 5 <a href='#ref8' class='reference'>[8]</a>" }
+        ],
+        [
+          { "data": "3 cm au-dessus du nombril" },
+          { "data": "13 ± 7<a href='#ref8' class='reference'>[8]</a>" }
+        ],
+        [
+          { "data": "2 cm sous le nombril" },
+          { "data": "8 ± 6 <a href='#ref8' class='reference'>[8]</a>" }
+        ],
+        [
+          { "data": "Largeur diastatique (mm)", "rowspan": 6 },
+          { "data": "Adulte < 45 ans", "rowspan": 3 },
+          { "data": "Supra-ombilical" },
+          { "data": "10 <a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Anneau ombilical" },
+          { "data": "27 <a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Infra-ombilical" },
+          { "data": "9 <a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Adulte > 45 ans", "rowspan": 3 },
+          { "data": "Supra-ombilical" },
+          { "data": "15 <a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Anneau ombilical" },
+          { "data": "27 <a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Infra-ombilical" },
+          { "data": "14 <a href='#ref7' class='reference'>[7]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": ["Décubitus dorsal, jambes allongées", "Abdomen découvert"]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer l'apophyse xyphoïde, les côtes inférieures et les crêtes iliaques"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/droitAbdominal/vueTransversale/",
+        "objectifs": [
+          "Point de départ de l'examen ultrasonographique des muscles de l'abdomen",
+          "Mesure des muscles droits de l'abdomen (épaisseur, aire de section transversale)"
+        ],
+        "parametres": ["Profondeur : 5 cm", "Gain : 80", "G/3/2"],
+        "positionnement": [
+          "Position 1 : Placer la sonde en vue transversale (horizontale) au niveau du nombril",
+          "Position 2 : Déplacer la sonde légèrement en latéral du nombril et balayer tout corps musculaire du muscle droit abdominal afin de le visualiser en entier. N.b: la largeur de ce muscle dépasse fréquemment la largeur de la sonde et donc, de la fenêtre de visualisation",
+          "Position 3 : Déplacer la sonde en crânial, afin de recouvrir un autre segment du droit de l'abdomen",
+          "Position 4 : Déplacer de nouveau la sonde en crânial dans le but de voir un segment encore plus haut du droit de l'abdomen"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Position de départ de la sonde, au-dessus du nombril"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Sonde déplacée en latéral, au-dessus d'un muscle droit abdominal"
+          },
+          {
+            "path": "positionnement3.jpg",
+            "descriptionText": "Sonde déplacée en crânial, au-dessus d'un autre segment du muscle droit abdominal"
+          },
+          {
+            "path": "positionnement4.jpg",
+            "descriptionText": "Sonde déplacée davantage crânial, au-dessus d'un autre segment du muscle droit abdominal"
+          }
+        ],
+        "identification": [
+          {
+            "title": "[Position 1 : Au-dessus du nombril]",
+            "legend": [
+              {
+                "acronymes": ["N"],
+                "texte": [
+                  "Le nombril apparaît au centre de l'image, tout en haut, sous la forme d'une zone hypoéchoïque (puisqu'elle est remplie de gel de conduction) triangulaire, bordée d'une marge hyperéchoïque"
+                ]
+              },
+              {
+                "acronymes": ["G"],
+                "texte": [
+                  "Du gras sous-cutané peut être observé à la portion supérieure de l'image, et peut être reconnu par son échotexture typique au tissus adipeux (larges lobules de taille irrégulière sans organisation claire)"
+                ]
+              },
+              {
+                "acronymes": ["DAD/DAG"],
+                "texte": [
+                  "Les muscles droits abdominaux (droit et gauche) se trouvent de part et d’autre du nombril, sous le gras sous-cutané. Ces muscles apparaissent sous la forme de zones hyperéchoïques fusiformes bordées de fascias qui convergentau centre de l'image."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Nombril" },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Gras sous-cutané"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Muscles droits abdominaux gauche et droit"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          },
+          {
+            "title": "[Position 2 : Sonde déplacée en latéral, au-dessus d'un muscle droit abdominal]",
+            "legend": [
+              {
+                "acronymes": ["DA"],
+                "texte": [
+                  "Le muscle droit abdominal se trouve au centre de l'image, sous une couche de gras sous-cutané. Ce muscle apparaît ici aussi sous la forme d'une zone hyperéchoïque fusiforme bordée de fascias clairement délimités."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification6.jpg" },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Droit abdominal"
+              }
+            ]
+          },
+          {
+            "title": "[Position 3 : Sonde déplacée en crânial, au-dessus d'un autre segment du muscle droit abdominal]",
+            "legend": [
+              {
+                "acronymes": ["DA"],
+                "texte": [
+                  "Le muscle droit abdominal se trouve au haut de l'image, sous une mince couche de gras sous-cutané. Comme pour les autres sites, il apparaît sous la forme d'une zone hyperéchoïque fusiforme."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification8.jpg" },
+              {
+                "path": "identification9.jpg",
+                "descriptionText": "Droit abdominal"
+              }
+            ]
+          },
+          {
+            "title": "[Position 4 : Sonde déplacée davantage en crânial, au-dessus d'un autre segment du muscle droit abdominal]",
+            "legend": [
+              {
+                "acronymes": ["DA"],
+                "texte": [
+                  "Le muscle droit abdominal se trouve au centre de l'image, sous une couche de gras sous-cutané. Ce muscle apparaît ici aussi sous la forme d'une zone hyperéchoïque fusiforme bordée de fascias clairement délimités."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification10.jpg" },
+              {
+                "path": "identification11.jpg",
+                "descriptionText": "Droit abdominal"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Les muscles droits de l'abdomen parcourent la surface antérieur du tronc, en reliant la cage thoracique inférieure à la région pubienne. Ce muscle possède une structure polygastrique comportant 3 à 5 segments, lesquels sont délimités par des bandes fibreuses. Cet arrangement est un rappel de la segmentation métamérique primitive, qui peut être considérée analogue à la disposition des côtes abdominales. Les bandes fibreuses sont incomplètes tant dans l'axe antéro-postérieur que médio-latéral<a href='#ref1' class='reference'>[1]</a>. Les droits abdominaux sont les plus épais de tous les muscles abdominaux, suivis des obliques internes, externes et du transverse abdominal. De plus, chez des sujets sains, l'épaisseur des muscles abdominaux est normalement très symétrique, avec une différence moyenne (gauche vs droite) de 1,5 %.",
+          "Les droits abdominaux sont entourés par une structure nommée 'gaine des muscles droits abdominaux' ('rectus sheath'). Cette gaine est quant à elle constituée des aponévroses des trois muscles abdominaux plats (le transverse et les deux obliques) et renferme, comme son nom le suggère, les muscles droit et pyramidal de l’abdomen<a href='#ref5' class='reference'>[5]</a>.",
+          "Selon une étude menée sur plus de 100 sujets<a href='#ref5' class='reference'>[5]</a>, une corrélation a pu être établie entre la dimension des muscles droits de l'abdomen ainsi que certaines caractéristiques des sujets. Il a été démontré par exemple, que les hommes tendent à avoir des muscles abdominaux nettement plus volumineux, même lorsque le volume musculaire est normalisé (ajusté) en fonction de la masse corporelle des sujets. De plus, les résultats n'ont pas trouvé de corrélation significative entre l'âge et l'épaisseur/aire de section transversale des muscles droits de l'abdomen. Les données actuelles indiquent qu'aucune donnée anthropométrique (parmi celles qui ont été évaluées, comme l'épaisseur de l'abdomen ou la masse corporelle) ne possède de corrélation assez forte avec l'épaisseur des muscles abdominaux pour posséder une réelle valeur prédictive de cette dernière.",
+          "Les muscles droits de l'abdomen gauche et droit sont reliés par la ligne blanche, qui est un raphé (c.-à-d. : ligne réunissant les fibres de deux structures symétriques) formé par la gaine des muscles droits abdominaux<a href='#ref1' class='reference'>[1]</a>. Son attache postérieure étant plus large que sa face antérieure, elle prend donc un aspect triangulaire lorsqu’observée dans une coupe transversale (horizontale). Le rôle primaire de la ligne blanche est de fournir un site d’insertion pour les trois muscles abdominaux plats (obliques interne, externe et transverse de l'abdomen), en plus de sa fonction d’attache mutuelle entre les muscles abdominaux <a href='#ref1' class='reference'>[1]</a>. La ligne blanche possède une construction (enchevêtrement de fascias, épaisseur et largeur) différente selon si on l’observe en crânial ou en caudal du nombril/de la ligne arquée. En effet, en crânial du nombril, l’aponévrose du transverse de l’abdomen ainsi qu’une portion de celle de l’oblique interne passent en dessous du muscle droit abdominal, alors que l’oblique externe, lui, court à la surface de ce dernier. Cependant, en dessous du nombril, les aponévroses des trois muscles empruntent toutes le même chemin, c.-à-d. en superficie du muscle droit abdominal. Ceci résulte en une ligne blanche généralement plus étroite sous le nombril, et, conséquemment, à des muscles droits abdominaux plus rapprochés l’un de l’autre."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/droitAbdominal/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Asymétrie de la musculature abdominale",
+        "text": [
+          "Les asymétries entre les muscles abdominaux gauche et droit ne sont pas nécessairement associées à des processus pathologiques, tel que dans le cas de :",
+          [
+            "Pratique d'activités sportives asymétriques",
+            "Altération des courbures vertébrales (p.ex.: scoliose)",
+            "Asymétries anthropométriques (p.ex.: différence de longueur des membres inférieurs)"
+          ],
+          "Cependant, plusieurs études ont démontré une symétrie presque parfaite des muscles abdominaux chez les sujets sains. En présence d'asymétries musculaires chez des sujets symptomatiques, ces auteurs recommendent généralement de rechercher d'éventuels débalancements musculaire et/ou pathologies unilatérales<a href='#ref5' class='reference'>[5]</a>."
+        ]
+      },
+      {
+        "subtitle": "Pubalgie athlétique (ou 'pubalgie du sportif', 'hernie de hockey', 'aine de Gilmore')",
+        "text": [
+          "La pubalgie athlétique est une condition caractérisée une douleur chronique à la région de l'aine ou de l'abdomen inférieur, et qui est aussi régulièrement retrouvée chez des sujets non-athlètes<a href='#ref3' class='reference'>[3]</a>.",
+          "Il s'agit d'une atteinte de l'insertion du muscle droit de l'abdomen au niveau du tubercule pubien, qui est auto-résolutive en 3 semaines ou moins chez la plupart des sujets",
+          "L'imagerie par ultrasonographie possède une sensibilité d'approximativement 92% pour la détection d'hernies abdominales de tout type, et d'environ 75% lorsqu'aucune protrusion n'est palpable<a href='#ref4' class='reference'>[4]</a>, et a donc été démontrée comme étant un outil fort utile pour diriger la prise en charge de sujets aux prises avec une aine douloureuse.",
+          "Au point de vue de la physiothérapie, si une pubalgie athlétique est suspectée, il convient de référer le patient en médecine afin que davantage d'investigations soient effectuées, puisqu'il s'agit là d'une condition qui nécessite un diagnostic médical."
+        ]
+      },
+      {
+        "subtitle": "Diastasis des muscles droits abdominaux",
+        "text": [
+          "Le diastasis des muscles droits abdominaux ('distasis recti') est une condition dans laquelle les muscles droits abdominaux sont séparés par un espace plus grand que 1,5 cm (soit environ deux doigts de largeur), sans qu’il n’y ait présence d’une hernie <a href='#ref1' class='reference'>[1]</a>. Cette condition peut être le résultat d’une malformation congénitale ou, assez communément, chez l’adulte suite des étirements excessifs répétés <a href='#ref1' class='reference'>[1]</a>. La ligne blanche possède un potentiel d’étirement relativement limité, normalement entre 3 et 6 cm<a href='#ref2' class='reference'>[2]</a>. Il est à noter que la largeur de la ligne blanche varie fortement selon le point où la mesure est prise (voir tableau de dimensions moyennes ci-haut)."
+        ]
+      },
+      {
+        "subtitle": "Hernie incisionnelle",
+        "text": [
+          "La ligne blanche étant la voie d’approche la plus commune pour les chirurgies abdominales, il s’agit également du site où se retrouvent le plus d’hernies incisionnelles. Ces entités peuvent être observées à l’aide d’une investigation ultrasonographique. Malgré que leur diagnostic ne relève pas de la pratique de la physiothérapie, leur découverte peut être le fruit d’une découverte fortuite<a href='#ref5' class='reference'>[5]</a><a href='#ref7' class='reference'>[7]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Transverse de l'abdomen",
+          "link": "/protocoles/tronc/transverse-abdominal"
+        },
+        {
+          "linkTitle": "Multifides",
+          "link": "/protocoles/tronc/multifides/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Bendavid, Robert. Abdominal Wall Hernias: Principles and Management. Springer Science & Business Media, 2001."
+        },
+        {
+          "text": "Brauman, Daniel. “Diastasis Recti: Clinical Anatomy:” Plastic and Reconstructive Surgery 122, no. 5 (November 2008): 1564–69. doi:10.1097/PRS.0b013e3181882493."
+        },
+        {
+          "text": "Litwin, Demetrius E. M., Erica B. Sneider, Patrick M. McEnaney, and Brian D. Busconi. “Athletic Pubalgia (Sports Hernia).” Clinics in Sports Medicine, Sports-related Injuries of the Hip, 30, no. 2 (April 2011): 417–34. doi:10.1016/j.csm.2010.12.010."
+        },
+        {
+          "text": "Morales-Conde, S., M. Socas, and A. Barranco. “Sportsmen Hernia: What Do We Know?” Hernia 14, no. 1 (January 8, 2010): 5–15. doi:10.1007/s10029-009-0613-z."
+        },
+        {
+          "text": "Platzer, Werner. Color Atlas of Human Anatomy. Thieme, 2011."
+        },
+        {
+          "text": "Rankin, Gabrielle, Maria Stokes, and Dianne J. Newham. “Abdominal Muscle Size and Symmetry in Normal Subjects.” Muscle & Nerve 34, no. 3 (September 1, 2006): 320–26. doi:10.1002/mus.20589."
+        },
+        {
+          "text": "Rath, A. M., P. Attali, J. L. Dumas, D. Goldlust, J. Zhang, and J. P. Chevrel. “The Abdominal Linea Alba: An Anatomo-Radiologic and Biomechanical Study.” Surgical and Radiologic Anatomy 18, no. 4 (December 1, 1996): 281–88. doi:10.1007/BF01627606."
+        },
+        {
+          "text": "Beer, Gertrude M., Antonius Schuster, Burkhardt Seifert, Mirjana Manestar, Daniela Mihic-Probst, et Sina A. Weber.“ The Normal Width of the Linea Alba in Nulliparous Women.. » Clinical Anatomy 22, nᵒ 6 (2009): 706–11. doi:10.1002/ca.20836."
+        }
+      ]
+    }
+  }
+}

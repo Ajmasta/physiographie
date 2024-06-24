@@ -1,0 +1,385 @@
+{
+  "title": "Transverse abdominal",
+  "latinName": "Transversus abdominis",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          {
+            "data": "Points d'attache principaux",
+            "header": true,
+            "rowspan": 4
+          },
+          { "data": "Crânial : Cartilage des côtes 5 à 7, apophyse xyphoïde" }
+        ],
+        [{ "data": "Caudal : Os pubiens, crête iliaque, ligament inguinal" }],
+        [{ "data": "Latéral : Fascia thoraco-lombaire" }],
+        [{ "data": "Autre: Digitations au niveau du diaphragme" }],
+        [
+          { "data": "Innervation", "header": true },
+          {
+            "data": "Nerfs intercostaux inférieur, iliohypogastrique et ilioinguinal (racines T7-T11)"
+          }
+        ],
+        [
+          { "data": "Action", "header": true },
+          { "data": "Compression du contenu abdominal" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Mesure", "header": true, "colspan": 2 },
+          { "data": "Au niveau de", "header": true },
+          { "data": "Valeur", "header": true }
+        ],
+        [
+          { "data": "Muscle transverse de l'abdomen", "rowspan": 6 },
+          { "data": "Épaisseur (cm)", "rowspan": 4 },
+          { "data": "Homme" },
+          {
+            "data": "Tout juste sous la cage thoracique, aligné sur l'épine iliaque antéro-supérieure",
+            "rowspan": 2
+          },
+          {
+            "data": "G:  0,35 - 0,79 <br /> D:  0,32 - 0,76 <a href='#ref7' class='reference'>[7]</a>"
+          }
+        ],
+        [
+          { "data": "Femme" },
+          {
+            "data": "G:  0,28 - 0,60 <br /> D:  0,23 - 0,55 <a href='#ref7' class='reference'>[7]</a>"
+          }
+        ],
+        [
+          { "data": "Homme" },
+          {
+            "data": "Au point milieu d'une ligne reliant l'épine iliaque antéro-supérieure et la limite inférieure de la cage thoracique au niveau de la ligne mi-axillaire",
+            "rowspan": 2
+          },
+          {
+            "data": "G:  0,25 - 0,77 <br /> D:  0,19 - 0,71 <a href='#ref7' class='reference'>[7]</a>"
+          }
+        ],
+        [
+          { "data": "Femme" },
+          {
+            "data": "G:  0,17 - 0,57 <br /> D:  0,18 - 0,58 <a href='#ref7' class='reference'>[7]</a>"
+          }
+        ],
+        [
+          { "data": "Épaisseur au repos (mm)", "colspan": 2 },
+          {
+            "data": "Intersection de la ligne horizontale traversant le nombril et de la ligne verticale traversant le pli axillaire",
+            "rowspan": 2
+          },
+          { "data": "3,0 ± 0,9 <a href='#ref3' class='reference'>[3]</a>" }
+        ],
+        [
+          { "data": "Épaisseur lors d'une contraction (mm)", "colspan": 2 },
+          { "data": "3,7 ± 1,3 <a href='#ref3' class='reference'>[3]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": ["Décubitus dorsal, jambes allongées", "Abdomen découvert"]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer l'apophyse xyphoïde, les côtes inférieures et les épines iliaques antéro-supérieures"
+        ]
+      }
+    ],
+    "applicationDynamique": {
+      "title": "Application Dynamique",
+      "iframe": "<iframe width=\"395\" height=\"296\" src=\"https://www.youtube.com/embed/pLeSqAvoIZE\" title=\"Échographie dynamique du muscle transverse de l&#39;abdomen\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "vues": [
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/transverseAbdominal/vueTransversale/",
+        "objectifs": [
+          "Observation statique du muscle transverse de l'abdomen",
+          "Visualisation dynamique d'une contraction du muscle transverse de l'abdomen : rétroaction biologique ('biofeedback')"
+        ],
+        "parametres": [
+          "Profondeur : 4-5 cm",
+          "Gain : 80",
+          "G/3/2",
+          "N.b.: Ces paramètres seront différents selon la physionomie du sujet (en particulier la profondeur). Bien que ce soit toujours le cas, la variabilité observée pour la région abdominale sera encore plus importante, particulièrement en présence d’un sujet obèse, enceinte, etc."
+        ],
+        "positionnement": [
+          "N.b.: Il est recommandé de commencer en localisant le muscle droit antérieur est les structures l'entourant, tel que décrit dans <a href='/protocoles/tronc/droit-abdominal/' class='underline'> la capsule sur le muscle droit de l'abdomen </a>",
+          "Position 1 : Placer la sonde en vue longitudinale au niveau du sillon intertuberculaire",
+          "Position 2 : Déplacer la sonde légèrement en latéral afin de localiser le transverse de l'abdomen (afin qu'il occupe une plus grande partie de l'image)",
+          "Position 3 : Effectuer une légère rotation de la sonde afin de l'aligner avec les fibres du transverse de l'abdomen. Selon le positionnement crânio-caudal de la sonde, la rotation de la sonde peut être plus ou moins importante. Un repère visuel simple peut être d'aligner le côté médial de la sonde en direction du nombril (afin de s'orienter approximativement)"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Position de départ de la sonde, au niveau de la ligne semi-lunaire"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Sonde déplacée en latéral, afin de mieux voir le muscle transverse abdominal"
+          },
+          {
+            "path": "positionnement3.jpg",
+            "descriptionText": "Rotation de la sonde afin de l'aligner avec les fibres du transverse abdominal"
+          }
+        ],
+        "identification": [
+          {
+            "title": "[Position 1 : Au-dessus de la ligne semi-lunaire]",
+            "legend": [
+              {
+                "acronymes": ["GSC"],
+                "texte": [
+                  "Du gras sous-cutané peut être observé à la portion supérieure de l'image sous la forme d'une épaisse couche hypoéchoïque sans organisation tissulaire particulière"
+                ]
+              },
+              {
+                "acronymes": ["DA"],
+                "texte": [
+                  "Le muscle droit abdominal se trouve à la droite de l'image, sous le gras sous-cutané. Ce muscle apparaît sous la forme d'une zone légèrement hyperéchoïques de forme arrondie, bordée en profondeur d'un fascia fortement hyperéchoïque"
+                ]
+              },
+              {
+                "acronymes": ["OEx"],
+                "texte": [
+                  "Le muscle oblique externe, zone légèrement hyperéchoïque longiligne, apparaît à la gauche de l'image, tout juste sous le gras sous-cutané. On le reconnaît en raison du fait qu'il est le plus superficiel, et on peut apprécier les fascias clairement délimités qui l'entourent"
+                ]
+              },
+              {
+                "acronymes": ["OIn"],
+                "texte": [
+                  "Le muscle oblique interne prend l'apparence d'une épaisse zone tout juste en profondeur de l'oblique externe dont le rebord médial (à la droite de l'image) est adjacent à la ligne semi-lunaire"
+                ]
+              },
+              {
+                "acronymes": ["TrA"],
+                "texte": [
+                  "Le muscle transverse de l'abdomen est le muscle le plus profond sur cette image, tout juste sous l'oblique interne. Lorsque la sonde est ainsi positionnée, il est assez similaire en apparence à l'oblique externe"
+                ]
+              },
+              {
+                "acronymes": ["LSL"],
+                "texte": [
+                  "La ligne semi-lunaire est la structure qui sépare le muscle droit de l'abdomen de l'oblique interne au centre de l'image, et peut être décrite comme étant une étroite zone hyperéchoïque triangulaire"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Gras sous-cutané"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Muscle droit abdominal"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Muscle oblique externe"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Muscle oblique interne"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Muscle transverse abdominal"
+              },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Ligne semi-lunaire"
+              },
+              { "path": "identification8.jpg" }
+            ]
+          },
+          {
+            "title": "[Position 2 : Sonde déplacée en latéral, au-dessus du transverse abdominal]",
+            "legend": [
+              {
+                "acronymes": ["OEx"],
+                "texte": [
+                  "Le muscle oblique externe est présent à la partie supérieure gauche de l'image, et peut être décrit comme une zone fusiforme hyperéchoïque"
+                ]
+              },
+              {
+                "acronymes": ["OIn"],
+                "texte": [
+                  "Le muscle oblique interne, quant à lui, est ici aussi situé sous l'oblique externe, et prend l'apparence d'une épaisse zone hyperéchoïque rectangulaire légèrement ondulée"
+                ]
+              },
+              {
+                "acronymes": ["TrA"],
+                "texte": [
+                  "Le muscle transverse de l'abdomen, apparaît encore une fois comme une mince zone hyperéchoïque de forme longiligne, en profondeur du muscle oblique interne"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification9.jpg" },
+              {
+                "path": "identification10.jpg",
+                "descriptionText": "Muscle oblique externe"
+              },
+              {
+                "path": "identification11.jpg",
+                "descriptionText": "Muscle oblique interne"
+              },
+              {
+                "path": "identification12.jpg",
+                "descriptionText": "Muscle transverse abdominal"
+              },
+              {
+                "path": "identification13.jpg"
+              }
+            ]
+          },
+          {
+            "title": "[Position 3 : Sonde tournée afin de l'orienter parallèle aux fibres du transverse abdominal]",
+            "legend": [
+              {
+                "acronymes": ["OEx"],
+                "texte": [
+                  "Le muscle oblique externe apparaît maintenant comme une zone hyperéchoïque fusiforme assez épaisse, dans le quadrant supérieur gauche de l'image. On le reconnaît en raison du fait qu'il est le plus superficiel. Cette image permet une observation optimale des enveloppes myofasciales des 3 muscles abdominaux plats."
+                ]
+              },
+              {
+                "acronymes": ["OIn"],
+                "texte": [
+                  "Le muscle oblique interne prend l'apparence d'une épaisse zone tout juste en profondeur de l'oblique externe dont la convergence médiale sur la ligne semi-lunaire est ici bien visible"
+                ]
+              },
+              {
+                "acronymes": ["TrA"],
+                "texte": [
+                  "Le muscle transverse, par opposition aux images prises aux positions 1 et 2, apparaît maintenant comme une longue et assez épaisse zone hyperéchoïque longiligne, en raison de l'orientation de la sonde qui permet d'apprécier le muscle sur une plus grande surface relative."
+                ]
+              },
+              {
+                "acronymes": ["LSL"],
+                "texte": [
+                  "La ligne semi-lunaire est ici évidente, de par son échotexture qui rappelle du tissu conjonctif (hyperéchoïque, organisation de fines fibres de collagène apparente) et par son positionnement au bord médial de l'oblique interne."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification14.jpg" },
+              {
+                "path": "identification15.jpg",
+                "descriptionText": "Muscle oblique externe"
+              },
+              {
+                "path": "identification16.jpg",
+                "descriptionText": "Muscle oblique interne"
+              },
+              {
+                "path": "identification17.jpg",
+                "descriptionText": "Muscle transverse abdominal"
+              },
+              {
+                "path": "identification18.jpg",
+                "descriptionText": "Ligne semi-lunaire"
+              },
+              {
+                "path": "identification19.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Le transverse de l'abdomen est un muscle dont le rôle mécanique principal est la stabilisation, par opposition aux autres muscles abdominaux, qui sont davantage utilisés dans un contexte de mobilisation. L'action principale du transverse abdominal est l'augmentation de la pression intra-abdominale, via une réduction de la circonférence de l'abdomen (que l'on peut comparer à une large ceinture qui se resserre). Au point de vue respiratoire, le muscle transverse de l'abdomen est considéré par certains auteurs comme étant l'antagoniste du diaphragme, et le principal muscle expiratoire <a href='#ref1' class='reference'>[1]</a>. Au point de vue postural, le transverse et le diaphragme sont synergiques d'une certaine manière, puisque tous deux contribuent à la stabilité du tronc en augmentant la pression intra-abdominale. Un autre rôle mécanique dont le transverse de l'abdomen est le principal acteur est la rétention des viscères abdominales.",
+          "L'intérêt particulier qui est porté à ce muscle s'explique en partie par son implication chez les sujets atteints de lombalgies chroniques. De nombreuses études<a href='#ref3' class='reference'>[3]</a> ont fait état d'une corrélation significative entre un recrutement problématique du transverse (contraction insuffisante, délai d'activation lors de réactions posturales) et la présence de lombalgies. Pour plus d'informations à ce sujet, nous vous invitons à consulter la section 'Pertinence Clinique' ci-après."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Évaluation de la stabilité lombaire (d'un point de vue mécanique)<a href='#ref3' class='reference'>[3]</a>",
+        "text": [
+          "L'imagerie par ultrasonographie peut être utilisée pour évaluer l'efficacité d'exercices d'activation (recrutement) des muscles profonds abdominaux et dorsaux, ainsi que pour des exercices de renforcement des muscles du tronc. Le niveau d'activation et l'efficacité du renforcement sont évalués à l'aide de mesures d'épaisseur, d'aire de section transversale et d'une analyse dynamique avec contraction volonaire et/ou diverses tâches motrices",
+          "La stabilité mécanique est définie simplement par l’habileté à soutenir des forces additionnelles sans altération importante de la position articulaire (mouvements inter vertébraux : hypermobilité) ou sans dommage des tissus entourant l’articulation.",
+          "La stabilité mécanique peut aussi définie par l'habileté d'un système à retourner à sa position initiale suite à une perturbation (définition théorique de la stabilité en mécanique)",
+          "D'un point de vue clinique, la stabilité peut aussi être vue par l'habilité de la colonne vertébtrale à limiter, sous l'effet de changements physiologiques, les déplacements articulaires de façon à ne pas endommager ou irriter les différents tissus de la colonne (définition par l'hypermobilité)",
+          "Les mesures cliniques basées sur l'imagerie 'statique' (amplitude articulaire) sont insuffisantes puisqu'elles ne considèrent pas le comportement dynamique de la colonne lombaire, alors que l'évaluation mécanique de la stabilité lombaire à l'examen clinique présente des problèmes de validité et de fidélité",
+          "Plusieurs revues de littérature ont clairement fait ressortir que les sujets aux prises avec des problèmes de lombalgie ont des déficits en ce qui a trait aux éléments fondamentaux de contrôle de la stabilité lombaire<a href='#ref3' class='reference'>[3]</a>"
+        ]
+      },
+      {
+        "subtitle": "Rétroaction biologique ('biofeedback')",
+        "text": [
+          "Pour la contraction du transverse de l’abdomen, dans le cadre du traitement de lombalgies :",
+          [
+            "L’échographie est une technique fiable pour mesurer le degré d’activité et les changements d’épaisseur du muscle transverse de l’abdomen<a href='#ref2' class='reference'>[2]</a><a href='#ref5' class='reference'>[5]</a>. Néanmoins, la valeur ajoutée réelle que fournit l’imagerie par ultrasonographie (au sujet de l’amélioration du recrutement) reste à prouver hors de tout doute<a href='#ref5' class='reference'>[5]</a>."
+          ]
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Droit de l'abdomen",
+          "link": "/protocoles/tronc/droit-abdominal/"
+        },
+        {
+          "linkTitle": "Multifides",
+          "link": "/protocoles/tronc/multifides"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Bendavid, Robert. Abdominal Wall Hernias: Principles and Management. Springer Science & Business Media, 2001."
+        },
+        {
+          "text": "Koppenhaver, Shane L., Jeffrey J. Hebert, Julie M. Fritz, Eric C. Parent, Deydre S. Teyhen, and John S. Magel. “Reliability of Rehabilitative Ultrasound Imaging of the Transversus Abdominis and Lumbar Multifidus Muscles.” Archives of Physical Medicine and Rehabilitation 90, no. 1 (January 2009): 87–94. doi:10.1016/j.apmr.2008.06.022."
+        },
+        {
+          "text": "Larivière, Christian, Dany Gagnon, Eros De Oliveira Jr., Sharon Henry, Jean-Pierre Dumas, Roger Vadeboncoeur. “Mesures Par Ultrasons Des Muscles Profonds Du Tronc - Évaluation de La Fidélité Intra et Interévaluateurs - Programme REPAR - IRSST,” (2012). http://www.irsst.qc.ca/-publication-irsst-mesures-par-ultrasons-des-muscles-profonds-du-tronc-evaluation-fidelite-intra-et-interevaluateurs-programme-repar-irsst-r-729.html."
+        },
+        {
+          "text": "Platzer, Werner. Color Atlas of Human Anatomy. Thieme, 2011."
+        },
+        {
+          "text": "Teyhen, Deydre S. “The Use of Ultrasound Imaging of the Abdominal Drawing-in Maneuver in Subjects With Low Back Pain.” Journal of Orthopaedic & Sports Physical Therapy 35, no. 6 (June 1, 2005): 346–55. doi:10.2519/jospt.2005.35.6.346."
+        },
+        {
+          "text": "Rankin, Gabrielle, Maria Stokes, et Dianne J. Newham. “Abdominal Muscle Size and Symmetry in Normal Subjects.” Muscle & Nerve 34, nᵒ 3 (September 1, 2006): 320–26. doi:10.1002/mus.20589."
+        }
+      ]
+    }
+  }
+}

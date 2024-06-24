@@ -1,0 +1,215 @@
+{
+  "title": "",
+  "latinName": "",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Type de muscle", "colspan": 2, "header": true },
+          { "data": "Bi-articulaire, digastrique" }
+        ],
+        [
+          { "data": "Origine", "rowspan": 2, "header": true },
+          { "data": "Chef Long" },
+          { "data": "Tubercule supra-glénoïdien (scapula)" }
+        ],
+        [
+          { "data": "Chef court" },
+          { "data": "Apex du processus coracoïde (scapula)" }
+        ],
+        [
+          { "data": "Insertion Commune", "colspan": 2, "header": true },
+          { "data": "Tubérosité bicipitale (aspect médial du radius)" }
+        ],
+        [
+          { "data": "Innervation", "colspan": 2, "header": true },
+          { "data": "Nerf musculocutané (C5-C6)" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Mesure", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [
+          { "data": "Tendon distal du biceps brachial", "rowspan": 2 },
+          { "data": "Longueur (mm)" },
+          { "data": "21,5 ± 2,3 <a href='#ref4' class='reference'>[4]</a>" }
+        ],
+        [
+          { "data": "Largeur (mm)" },
+          { "data": "7,1 ± 2,8 <a href='#ref4' class='reference'>[4]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Sujet assis face à l'évaluateur, membre supérieur déposé sur la surface d'examen",
+          "L'examen de l'insertion du biceps brachial requiert d'avoir le coude du sujet en pleine extension et l'avant-bras maintenu passivement en supination maximale",
+          "Pour plus de confort, la surface d'examen (p.ex.: table électrique à hauteur ajustable) peut être levée, et un oreiller peut être placé sous le coude du sujet",
+          "Le maintien prolongé de l'avant-bras en pleine supination peut être facilité en demandant au sujet d'incliner légèrement son tronc du côté de l'avant-bras examiné<a href='#ref3' class='reference'>[3]</a>"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "En demandant au sujet d'effectuer une flexion de coude résistée, repérer et palper le tendon distal et le ventre musculaire du biceps brachial",
+          "Repérer l'extrémité proximale du radius en demandant au sujet d'effectuer des mouvements en pro-supination et en palpant l'aspect postéro-latéral du coude"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/tendonDistalBiceps/vueLongitudinale/",
+        "objectifs": [
+          "Observation de l'insertion (distale) du biceps brachial",
+          ""
+        ],
+        "parametres": ["Profondeur : 4 cm", "Gain : 60", "G/3/2"],
+        "positionnement": [
+          "Tel que démontré dans l'image ci-jointe, en vue longitudinale oblique (presque parallèle au long axe du fémur), la sonde sur le col fémoral, soit légèrement en distal du grand trochanter [GT] (voire à la même hauteur, chez certains sujets)",
+          "Balayer ('scan') légèrement en proximal et en distal jusqu'à l'obtention d'une image optimale, c.-à-d. dans laquelle sont visibles la tête et le col fémoral"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["R"],
+                "texte": [
+                  "Le radius apparaît au bas de l'image comme une zone hyperéchoïque convexe. La tête radiale est également visible à la gauche du trait, bien que l'image soit légèrement floue à cet endroit (puisque les paramètres ont été optimisés pour la visualisation du tendon du biceps)"
+                ]
+              },
+              {
+                "acronymes": ["TB"],
+                "texte": [
+                  "La tubérosité bicipitale, un relief du radius, est située à l'apex de ce dernier. Il est à noter que si l'avant-bras du sujet n'est pas positionné en supination, il risque d'être impossible d'obtenir une image de la tubérosité radiale, puisque celle-ci sera alors orientée vers le milieu de l'avant-bras (donc vers l'ulna)"
+                ]
+              },
+              {
+                "acronymes": ["TBB"],
+                "texte": [
+                  "Le tendon du biceps brachial prend ici la forme d'une épaisse bande hyperéchoïque au sein de laquelle se dessine un patron fibrillaire assez bien défini. Les zones hypoéchoïques au sein du du tendon du biceps brachial sont le reflet d'artéfacts, probablement en raison de la proximité de structures telles que l'artère brachiale"
+                ]
+              },
+              {
+                "acronymes": ["B"],
+                "texte": [
+                  "Le muscle brachial,zone légèrement hypoéchoïque dans le coin inférieur gauche de l'iamge, est partiellement visible sous le tendon du biceps brachial"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Radius" },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Tubérosité bicipitale"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Tendon distal du biceps brachial"
+              },
+              { "path": "identification5.jpg", "descriptionText": "Brachial" },
+              { "path": "identification6.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Tel que mentionné dans le tableau ci-haut, le biceps brachial s'insère sur la tubérosité radiale, un relief osseux situé sur l'aspect médial radius proximal, tout juste sous son col. Contrairement au tendon distal du muscle brachial, le tendon distal du biceps [TDB], qui est relativement long (7cm), n'est pas entouré de muscle, ce qui le rend davantage vulnérable aux traumatismes directs à son endroit. Le muscle brachial étant situé en profondeur, le biceps est donc un muscle superficiel, ce qui fait de lui un excellent candidat pour l'examen à l'aide de l'imagerie par ultrasonographie.",
+          "Le biceps brachial étant un muscle supinateur (en plus d'être un puissant fléchisseur de l'avant-bras), son insertion est plus facilement visualisée lors l'avant-bras est positionné en supination, ce qui rend l'aspect médial du radius accessible aux faisceaux d'ultrasons.",
+          "Pour plus d'information sur la portion proximale du biceps brachiale, dans la région de l'épaule, nous vous invitons à <a href='/protocoles/epaule/biceps-brachial' class='underline'> consulter le protocole </a> qui lui est consacré<a href='#ref3' class='reference'>[3]</a>."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Rupture du tendon distal du biceps brachial",
+        "text": [
+          "Les ruptures du tendon distal du biceps brachial sont plutôt rares : en effet, parmi toutes les ruptures/blessures tendineuses qui surviennent au biceps, seulement 3% sont des ruptures du tendon distal<a href='#ref5' class='reference'>[5]</a>. Typiquement, ce genre de lésion survient lorsqu'une importante force en extension est appliquée à un coude fléchi, et affectent typiquement les hommes âgés de 40 à 60 ans, au membre supérieur du côté dominant<a href='#ref4' class='reference'>[4]</a>.",
+          "L'examen clinique révèle typiquement une rétraction proximale du galbe musculaire du biceps brachial, de même qu'une diminution évidente de la force en flexion de coude et en supination de l'avant-bras<a href='#ref4' class='reference'>[4]</a>.",
+          "Selon le consensus de la European Society of Musculoskeletal Radiology, aucun consensus n'a encore été établi quant au niveau d'évidence supportant l'utilisation de l'imagerie par ultrasonographie dans le contexte d'une rupture du tendon distal du biceps brachial. Néanmoins, les résultats actuellement disponibles semblent indiquer que l'échographie est de valeur comparable aux autres techniques d'imagerie équivalentes<a href='#ref7' class='reference'>[7]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Biceps brachial [section sur l'épaule]",
+          "link": "/protocoles/epaule/biceps-brachial"
+        },
+        {
+          "linkTitle": "Articulation huméro-radiale",
+          "link": "/protocoles/coude/articulation-humero-radiale"
+        },
+        {
+          "linkTitle": "Tendon fléchisseur commun & ligament latéral-interne",
+          "link": "/protocoles/coude/tendon-flechisseur-commun-et-ligament-lateral-interne"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Athwal, George S., Scott P. Steinmann, et Damian M. Rispoli. « The Distal Biceps Tendon: Footprint and Relevant Clinical Anatomy. » The Journal of Hand Surgery 32, nᵒ 8 (octobre 2007): 1225‑29. doi:10.1016/j.jhsa.2007.05.027."
+        },
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angelo Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. « Musculoskeletal Ultrasound Technical Guidelines (II. Elbow). » Eureopean Society of Muscloskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Forthman, Christopher L., Ryan M. Zimmerman, Michael J. Sullivan, et Gerard T. Gabel. « Cross-sectional anatomy of the bicipital tuberosity and biceps brachii tendon insertion: Relevance to anatomic tendon repair. » Journal of Shoulder and Elbow Surgery 17, nᵒ 3 (mai 2008): 522‑26. doi:10.1016/j.jse.2007.11.002."
+        },
+        {
+          "text": "Hamilton, W, et ML Ramsey. « Rupture of the distal tendon of the biceps brachii. » The University of Pennsylvania Orthopaedic Journal, nᵒ 12 (1999): 21‑26."
+        },
+        {
+          "text": "Hutchinson, Hank L., David Gloystein, et Martin Gillespie. « Distal biceps tendon insertion: An anatomic study. » Journal of Shoulder and Elbow Surgery 17, nᵒ 2 (mars 2008): 342‑46. doi:10.1016/j.jse.2007.05.005."
+        },
+        {
+          "text": "Klauser, Andrea S., Alberto Tagliafico, Gina M. Allen, Natalie Boutry, Rob Campbell, Michel Court-Payen, Andrew Grainger, et al. « Clinical Indications for Musculoskeletal Ultrasound: A Delphi-Based Consensus Paper of the European Society of Musculoskeletal Radiology. » European Radiology 22, nᵒ 5 (mai 2012): 1140‑48. doi:10.1007/s00330-011-2356-3."
+        },
+        {
+          "text": "Mazzocca, Augustus D., Mark Cohen, Eric Berkson, Gregory Nicholson, Bradley C. Carofino, Robert Arciero, et Anthony A. Romeo. « The anatomy of the bicipital tuberosity and distal biceps tendon. » Journal of Shoulder and Elbow Surgery 16, nᵒ 1 (janvier 2007): 122‑27. doi:10.1016/j.jse.2006.04.012."
+        },
+        {
+          "text": "Morrey, B. F., L. J. Askew, K. N. An, et J. H. Dobyns. « Rupture of the Distal Tendon of the Biceps Brachii. A Biomechanical Study. » The Journal of Bone & Joint Surgery 67, nᵒ 3 (1 mars 1985): 418‑21."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Pratical [sic] Guide. Milan; New York: Springer Milan, 2012."
+        }
+      ]
+    }
+  }
+}

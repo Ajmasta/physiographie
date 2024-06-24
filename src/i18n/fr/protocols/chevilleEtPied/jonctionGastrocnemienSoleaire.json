@@ -1,0 +1,326 @@
+{
+  "title": "",
+  "latinName": "",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "" },
+          { "data": "Gastrocnémiens", "header": true },
+          { "data": "Soléaire", "header": true }
+        ],
+        [
+          { "data": "Type de muscle", "header": true },
+          { "data": "Biarticulaire, bipenné" },
+          { "data": "Mono-articulaire, unipenné" }
+        ],
+        [
+          { "data": "Origine", "header": true },
+          {
+            "data": "Chef médial : Condyle fémoral médial (face supérieure)<br /> Chef latéral : Condyle fémoral latéral (face supérieure)"
+          },
+          { "data": "Fibula, tibia (face médiale)" }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          {
+            "data": "Calcanéum : Face postérieure, au centre (via le tendon d'Achille)",
+            "colspan": 2
+          }
+        ],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Nerf tibial (S1-S2)" },
+          { "data": "Nerf tibial (L5-S2)" }
+        ],
+        [
+          { "data": "Action", "header": true },
+          { "data": "Flexion plantaire, flexion de genou" },
+          { "data": "Flexion plantaire" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Mesure", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Site", "header": true },
+          { "data": "Autre information", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [
+          { "data": "Épaisseur (mm)", "rowspan": 10 },
+          { "data": "Gastrocnémiens + soléaire", "rowspan": 4 },
+          { "data": "Site de diamètre maximal du mollet", "rowspan": 4 },
+          { "data": "Femmes non-athlètes" },
+          { "data": "35,1 ± 5,6 <a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Femmes athlètes" },
+          { "data": "38,0 ± 3,9 <a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Hommes non-athlètes" },
+          { "data": "37,4 ± 6,5 <a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Hommes athlètes" },
+          { "data": "39,6 ± 6,4 <a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Gastrocnémien (chef médial)", "rowspan": 2 },
+          {
+            "data": "Point central du ventre musculaire (au point de vue médio-latéral et crânio-caudal)",
+            "rowspan": 6
+          },
+          { "data": "Repos" },
+          { "data": "17,1 ± 1,3 <a href='#ref8' class='reference'>[8]</a>" }
+        ],
+        [
+          { "data": "Contraction isométrique maximale" },
+          { "data": "16,9 ± 1,5 <a href='#ref8' class='reference'>[8]</a>" }
+        ],
+        [
+          { "data": "Gastrocnémien (chef latéral)", "rowspan": 2 },
+          { "data": "Repos" },
+          { "data": "15,2 ± 1,0 <a href='#ref8' class='reference'>[8]</a>" }
+        ],
+        [
+          { "data": "Contraction isométrique maximale" },
+          { "data": "22,0 ± 2,3 <a href='#ref8' class='reference'>[8]</a>" }
+        ],
+        [
+          { "data": "Soléaire", "rowspan": 2 },
+          { "data": "Repos" },
+          { "data": "15,1 ± 2,2 <a href='#ref8' class='reference'>[8]</a>" }
+        ],
+        [
+          { "data": "Contraction isométrique maximale" },
+          { "data": "21,0 ± 2,7 <a href='#ref8' class='reference'>[8]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Décubitus ventral, cheville et pied en dorsiflexion, et dépassant au bout de la table"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer et palper le point le plus large du galbe du mollet",
+          "Palper les deux ventres musculaires du gastrocnémien",
+          "Repérer le point où les deux chefs du gastrocnémien se fondent en une jonction musculo-tendineuse commune",
+          "Repérer le point où les deux chefs du gastrocnémien se fondent en une jonction musculo-tendineuse commune"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/jonctionGastrocnemienSoleaire/vueLongitudinale/",
+        "objectifs": [
+          "Pédagogique : Observation de la région de la jonction entre les gastrocnémiens et le soléaire",
+          ""
+        ],
+        "parametres": ["Profondeur : 6 cm", "Gain : 55-60", "G/3/3"],
+        "positionnement": [
+          "Placer la sonde en vue longitudinale (alignée avec l’axe long de la jambe), au point du mollet où le galbe est le plus large (environ 5-10 cm en crânial du point où les deux chefs du gastrocnémiens se fusionnent)",
+          "Déplacer la sonde légèrement en médial, afin de recouvrir exclusivement le chef médial du gastrocnémien (et non pas dans la zone où les deux chefs de chevauchent)"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["S"],
+                "texte": [
+                  "Le muscle soléaire occupe toute la partie inférieure et droite de l’image, avec son échogénicité mixte (mais globalement hypoéchoïque par rapport au gastrocnémien)"
+                ]
+              },
+              {
+                "acronymes": ["G"],
+                "texte": [
+                  "Le gastrocnémien (chef médial) apparaît immédiatement en superficie du soléaire (c.-à-d. en haut et à gauche de ce dernier), sous la forme d’une zone triangulaire à l’échotexture striée, typiquement musculaire. On peut également observer que l’orientation des fibres du gastrocnémien est profondément différente de celles du soléaire, d’où le fait que l’échotexture de ces deux régions soit si différente (voir la section Anatomie ci-haut)."
+                ]
+              },
+              {
+                "acronymes": ["P"],
+                "texte": [
+                  "Le muscle soléaire peut être observé tout juste au-dessus du tibia, que l’on peut décrire comme une épaisse zone hyperéchoïque dont les fibres musculaires incurvées sont aisément distinguables"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Soléaire" },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Gastrocnémien (chef médial)"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Muscle plantaire"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/jonctionGastrocnemienSoleaire/vueTransversale/",
+        "objectifs": [
+          "Pédagogique : Observation de la région de la jonction entre les gastrocnémiens et le soléaire"
+        ],
+        "parametres": ["Profondeur : 6 cm", "Gain : 55-60", "G/3/3"],
+        "positionnement": [
+          "Tourner la sonde de 90° par rapport à la vue longitudinale"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["GI"],
+                "texte": [
+                  "Le chef interne du gastrocnémien, le plus gros des deux chefs du gastrocnémien, apparaît au coin supérieur gauche de l’image, sous la forme d’une large zone triangulaire d’échogénicité mixte"
+                ]
+              },
+              {
+                "acronymes": ["GE"],
+                "texte": [
+                  "Le chef externe, quant à lui, est similaire au chef médial, quoique plus petit, et partiellement recouvert par son homologue médial à proximité de la ligne médiane"
+                ]
+              },
+              {
+                "acronymes": ["S"],
+                "texte": [
+                  "Le soléaire occupe la majorité de l’image, sous les gastrocnémiens, avec son échogénicité mixte et son contour incurvé à sa limite supérieure"
+                ]
+              },
+              {
+                "acronymes": ["T"],
+                "texte": [
+                  "Le tibia (face postérieure), interface hyperéchoïque plus ou moins rectiligne, se trouve au coin inférieur gauche de l’image"
+                ]
+              },
+              {
+                "acronymes": ["F"],
+                "texte": [
+                  "La fibula (face postérieure), à la partie inférieure droite de l’image, est d’apparence semblable au tibia"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Gastrocnémien, chef interne"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Gastrocnémien, chef externe"
+              },
+              { "path": "identification4.jpg", "descriptionText": "Soléaire" },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Tibia (face postérieure)"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Fibula (face postérieure)"
+              },
+              { "path": "identification7.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Consultez la section capsule sur le <a href=/protocoles/cheville-et-pied/tendon-d-achille/ class='underline'>tendon d’Achille.</a>",
+          "Le muscle gastrocnémien est composé de deux chefs (interne/médial et externe/latéral). Le chef médial est normalement plus volumineux et plus près de la ligne médiane que le chef latéral. Lorsqu’observé en vue transversale (axe court du muscle), le chef médial du gastrocnémien a normalement une forme triangulaire, en postérieur de la jambe. Le chef latéral (en postéro-latéral de la jambe), quant à lui, possède une forme davantage aplatie et moins volumineuse que son homologue médial<a href='#ref1' class='reference'>[1]</a>. En raison de son organisation poly-articulaire (puisqu'il traverse les articulations tibio-fémorale et tibio-calcanéenne), le gastrocnémien est un fléchisseur du genou et de la cheville. Par opposition, le soléaire, lui, possède sont origine sur le tibia permet donc seulement une flexion de cheville.",
+          "Contrairement au gastrocnémien, le muscle soléaire est constitué d'une majorité de fibres musculaires lentes<a href='#ref1' class='reference'>[1]</a>, ce qui suggère que ce muscle possède une fonction davantage tonique (posturale) que phasique. Ainsi, lorsque survient une atteinte du tendon d'Achille (tendinopathie, rupture partielle ou complète), le premier muscle qui tend à présenter une atrophie significative est le soléaire, puisqu'il est normalement presque toujours actif lors de simples activités de la vie quotidienne<a href='#ref3' class='reference'>[3]</a>.",
+          "Malgré leur apparente similarité fonctionnelle, le gastrocnémien et le soléaire sont forts différents au point de vue structural. En effet, les fibres de chacune des unités constituant le triceps sural (soléaire, chefs interne et externe du gastrocnémien) diffèrent au niveau de leur type (rapide vs lente), leur orientation ainsi que de leur angle de pennation <a href='#ref5' class='reference'>[5]</a>. Ceci comporte des conséquences fonctionnelles (au niveau de vitesse vs force de contraction vs fatigabilité) ainsi que pratiques lors de l’exécution de l’échographie de ces structures."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/jonctionGastrocnemienSoleaire/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Pédagogie",
+        "text": [
+          "L'examen de la jonction entre les gastrocnémiens et le soléaire, de la manière décrite dans cette capsule, ne fait pas partie de la routine classique d'évaluation ultrasonographique de la cheville et du pied.",
+          "Les techniques démontrées portent un intérêt davantage pédagogique (p.ex.: démonstration de l'anatomie, pratique de l'utilisation de l'équipement d'échographie) que clinique."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Tendon d'Achille",
+          "link": "/protocoles/cheville-pied/tendon-d-achille/"
+        },
+        {
+          "linkTitle": "Jonction soléaire / tendon d'Achille",
+          "link": "/protocoles/cheville-pied/jonction-soleaire-tendon-achille/"
+        },
+        {
+          "linkTitle": "Fascia plantaire",
+          "link": "/protocoles/cheville-pied/fascia-plantaire/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Martinoli, Carlo. “Musculoskeletal Ultrasound: Technical Guidelines.” Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Hartgerink, Phil, David P. Fessell, Jon A. Jacobson, and Marnix T. van Holsbeeck. “Full- versus Partial-Thickness Achilles Tendon Tears: Sonographic Accuracy and Characterization in 26 Cases with Surgical Correlation.” Radiology 220, no. 2 (August 1, 2001): 406–12. doi:10.1148/radiology.220.2.r01au41406."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Rana, Manku, Ghassan Hamarneh, and James M. Wakeling. “3D Fascicle Orientations in Triceps Surae.” Journal of Applied Physiology (Bethesda, Md.: 1985) 115, no. 1 (July 1, 2013): 116–25. doi:10.1152/japplphysiol.01090.2012."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Pratical [sic] Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Reimers, Carl D, Tobias Harder, et Helmut Saxe.“Age-Related Muscle Atrophy Does Not Affect All Muscles and Can Partly Be Compensated by Physical Activity: An Ultrasound study1.” Journal of the Neurological Sciences 159, nᵒ 1 (July 15, 1998): 60–66. doi:10.1016/S0022-510X(98)00134-8."
+        },
+        {
+          "text": "Milgrom, Maganaris, Constantinos N., Vasilios Baltzopoulos, et Anthony J. Sargeant. «In vivo measurements of the triceps surae complex architecture in man: implications for muscle function.” The Journal of Physiology 512, nᵒ 2 (October 1, 1998): 603–14. doi:10.1111/j.1469-7793.1998.603be.x."
+        }
+      ]
+    }
+  }
+}

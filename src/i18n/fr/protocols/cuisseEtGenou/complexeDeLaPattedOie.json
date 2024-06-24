@@ -1,0 +1,175 @@
+{
+  "title": "Complexe de la patte d'oie",
+  "latinName": "Pes anserinus",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Tendons constituants", "header": true, "rowspan": 3 },
+          { "data": "Sartorius" }
+        ],
+        [{ "data": "Gracile" }],
+        [{ "data": "Semi-tendineux" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [],
+      "text": ["Aucune donnée disponible"]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Décubitus dorsal, membre inférieur en légère rotation externe, avec le genou maintenu à environ 20-30° de flexion<a href='#ref3' class='reference'>[3]</a>"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer et palper l'interligne de l'articulation tibio-fémorale interne, le plateau tibial interne et la tubérosité tibiale"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/complexePattedOie/vueLongitudinale/",
+        "objectifs": [
+          "Examen des tendons constituant le complexe de la patte d'oie"
+        ],
+        "parametres": ["Profondeur : 2 cm", "Gain : 70", "G/3/3"],
+        "positionnement": [
+          "En vue longitudinale (parallèle au long axe du tibia), placer la sonde au niveau de l'aspect antéro-médial du plateau tibial interne",
+          "Pour guider l'angle de rotation nécessaire, il est possible de débuter avec un axe presque parallèle à celui formé par la diaphyse fémorale (voir l'image ci-contre), et d'ensuite ajuster l'angle de rotation jusqu'à l'obtention d'une image adéquate"
+        ],
+        "imagePositionnement": [
+          { "path": "positionnement1.jpg", "descriptionText": "" }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["T"],
+                "texte": [
+                  "Le tibia apparaît à la moitié inférieure de l'image, et son os cortical apparaît comme un épais trait hyperéchoïque horizontal."
+                ]
+              },
+              {
+                "acronymes": ["TPO"],
+                "texte": [
+                  "Les tendons du complexe de la patte d'oie, qu'on ne peut différencier les uns des autres, sont partiellement visibles tout juste en superficie du tibia. Même si les marges des tendons ne sont pas clairement définies, il est possible de suivre le trajet des tendons en reconnaissant leur échotexture fibrillaire typique à celle d'un tendon."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Tibia" },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Tendons du complexe de la patte d'oie"
+              },
+              { "path": "identification4.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Le terme 'complexe de la patte d'oie' réfère au site anatomique où s'insèrent un groupe trois muscles situés à l'apsect interne (médial) la cuisse. Dans l'ordre du plus antérieur au plus postérieur, on retrouve : le sartorius (anciennement appelé muscle du couturier) ; le gracilis (ou gracile) et le semi-tendineux. Ces trois muscles prennent origine au niveau de la ceinture pelvienne, voient leur ventre musculaire parcourir l'aspect interne du fémur et s'insèrent finalement en antéro-interne du tibia proximal. Le choix du terme s'explique par l'apparence globale que prennent les trois tendons applatis à leur insertion, qui rapelle vaguement l'allure de la patte d'une oie<a href='#ref3' class='reference'>[3]</a>.",
+          "Le complexe de la patte d'oie se situe approximativement 5-6 cm en distal (caudal) de l'interligne de l'articulation tibio-fémorale interne. Lorsque ces tendons sont observés distalement (tout près de leur insertion), il est à noter qu'ils sont très étroitement superposés les uns par rapports aux autres, et que l'évaluation à l'aide de l'imagerie par ultrasonographie ne permet pas de les différencier. Au contraire, si l'observation est effectuée à un site plus proximal (p.ex: vis-à-vis la portion crâniale du creux poplité), il est généralement aisé de différencier les tendons de ces trois muscles, qui peuvent (ou non) contenir du tissu musculaire, puisque la localisation des jonction musculo-tendineuse est sujette à une certaine variabilité<a href='#ref3' class='reference'>[3]</a>.",
+          "Sous le complexe de la patte d'oie se trouve l'attache distale du ligament collatéral interne, qui a d'ailleurs été l'objet d'un protocole sur Physiographie. De plus, il est fréquent de retrouver une bourse apposée entre la surface osseuse et les tendons du complexe de la patte d'oie, malgré que celle-ci soit assez inconstante<a href='#ref3' class='reference'>[3]</a>."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Tendinopathie/bursopathie de la patte d'oie",
+        "text": [
+          "Le terme 'tendino-bursite de la patte d'oie' ('Pes anserinus tendino-bursitis syndrome') est fréquemment utilisé dans la littérature scientifique, de même que le terme 'syndrome de la patte d'oie', ou 'tendinite / bursite de la patte d'oie'. Il est commun que le diagnostic clinique de cette condition soit uniquement basé sur des signes et symptômes qui, malheureusement, engendrent des interprétations et une nomenclature divergente<a href='#ref4' class='reference'>[4]</a>. Certains auteurs rapportent même que la structure anatomique à la source des symptômes n'est pas identifiée, d'où l'absence de consensus dans la littérature<a href='#ref2' class='reference'>[2]</a>.",
+          "La tendino-bursite de la patte d'oie est une cause fréquente de douleur à l'aspect médial du genou, surtout chez les gens obèses, diabétiques de type II, atteints de gonarthrose ou avec une déformation du genou en valgus<a href='#ref2' class='reference'>[2]</a>. Classiquement, la présentation clinique comporte une douleur à l'aspect médial du genou, accompagnée de sensibilité à la palpation de la région inféro-médiale du genou<a href='#ref1' class='reference'>[1]</a>.",
+          "En présence d'un sujet où une tendino-bursite de la patte d'oie est suspectée, l'imagerie par ultrasonographie est reconnue comme étant une technique fiable, capable de mettre en évidence une tendino-bursite de la patte d'oie. Selon un consensus établi par la société européenne de radiologie musculosquelettique ('European Society of Musculoskeletal Radiology'), cette technique d'imagerie est même fortement recommandée, en raison d'un niveau d'évidence '3' (selon l'échelle du 'Oxford Centre for Evidence-Based Medicine', qui signifie que l'échographie est une technique de premier choix, et que les autres techniques sont rarement davantage d'information. Cependant, il faut préciser que la majorité de la littérature repose sur des études de cas, ou sur des extrapolations d'études rétrospectives (cote 'C' pour la méthodologie)<a href='#ref7' class='reference'>[7]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Ligament collatéral interne",
+          "link": "cuisse-genou/ligament-collateral-interne"
+        },
+        {
+          "linkTitle": "Creux poplité",
+          "link": "cuisse-genou/creux-poplite"
+        },
+        {
+          "linkTitle": "Bandelette ilio-tibiale",
+          "link": "cuisse-genou/bandelette-ilio-tibiale"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Alvarez-Nemegyei, José. 'Risk Factors for Pes Anserinus Tendinitis/bursitis Syndrome: A Case Control Study.' Journal of Clinical Rheumatology: Practical Reports on Rheumatic & Musculoskeletal Diseases 13, no. 2 (April 2007): 63–65. doi:10.1097/01.rhu.0000262082.84624.37."
+        },
+        {
+          "text": "Alvarez-Nemegyei, Jose, and Juan J. Canoso. 'Evidence-Based Soft Tissue Rheumatology IV: Anserine Bursitis.' Journal of Clinical Rheumatology: Practical Reports on Rheumatic & Musculoskeletal Diseases 10, no. 4 (August 2004): 205–6. doi:10.1097/01.rhu.0000135561.41660.b0."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Helfenstein Jr, Milton, and Jorge Kuromoto. 'Anserine Syndrome.' Revista Brasileira de Reumatologia 50, no. 3 (June 2010): 313–27. doi:10.1590/S0482-50042010000300011."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Johnson, Donald Hugh, and Robert A. Pedowitz. Practical Orthopaedic Sports Medicine and Arthroscopy. Lippincott Williams & Wilkins, 2007."
+        },
+        {
+          "text": "Klauser, Andrea S., Alberto Tagliafico, Gina M. Allen, Natalie Boutry, Rob Campbell, Michel Court-Payen, Andrew Grainger, et al. 'Clinical Indications for Musculoskeletal Ultrasound: A Delphi-Based Consensus Paper of the European Society of Musculoskeletal Radiology.' European Radiology 22, no. 5 (May 2012): 1140–48. doi:10.1007/s00330-011-2356-3."
+        },
+        {
+          "text": "Martinoli, Carlo. 'Musculoskeletal Ultrasound: Technical Guidelines.' Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Meenagh, G., A. Iagnocco, E. Filippucci, L. Riente, A. Delle Sedie, S. Bombardieri, G. Valesini, and W. Grassi. 'Ultrasound Imaging for the Rheumatologist IV. Ultrasonography of the Knee.' Clinical and Experimental Rheumatology 24, no. 4 (August 2006): 357–60."
+        },
+        {
+          "text": "Ptasznik, Ronald. 'ULTRASOUND IN ACUTE AND CHRONIC KNEE INJURY.' Radiologic Clinics of North America 37, no. 4 (July 1, 1999): 797–830. doi:10.1016/S0033-8389(05)70130-5."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Pratical [sic] Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Unlu, Zeliha, Bilgin Ozmen, Serdar Tarhan, Sibel Boyvoda, and Cihan Goktan. 'Ultrasonographic Evaluation of Pes Anserinus Tendino-Bursitis in Patients with Type 2 Diabetes Mellitus.' The Journal of Rheumatology 30, no. 2 (February 1, 2003): 352–54."
+        },
+        {
+          "text": "J. Uson, P. Aguado, M. Bernad, L. Mayordomo, E. Naredo, A. Balsa, E. Martín-Mola. 'Pes Anserinus Tendino-Bursitis: What Are We Talking About?' Scandinavian Journal of Rheumatology 29, no. 3 (January 1, 2000): 184–86. doi:10.1080/030097400750002076."
+        }
+      ]
+    }
+  }
+}

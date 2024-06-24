@@ -1,0 +1,257 @@
+{
+  "title": "Articulation acromio-claviculaire",
+  "latinName": "Articulatio acromioclavicularis",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Type d'articulation", "header": true, "colspan": 2 },
+          { "data": "Synoviale plane (arthrodie)" }
+        ],
+        [
+          {
+            "data": "Surfaces articulaires",
+            "header": true,
+            "colspan": 2,
+            "rowspan": 2
+          },
+          { "data": "Bord médial de l'acromion (scapula)" }
+        ],
+        [{ "data": "Bord latéral de la clavicule" }],
+        [
+          {
+            "data": "Orientation des surfaces articulaires",
+            "header": true,
+            "colspan": 2
+          },
+          { "data": "Oblique : haut vers le bas, extérieur vers l'intérieur" }
+        ],
+        [
+          {
+            "data": "Structures stabilisatrices",
+            "header": true,
+            "rowspan": 6
+          },
+          { "data": "Intra-articulaires", "rowspan": 2 }
+        ],
+        [{ "data": "Ligament acromio-claviculaire" }],
+        [
+          { "data": "Intra-articulaires", "rowspan": 4 },
+          { "data": "Ligament conoïde (coraco-claviculaire)" }
+        ],
+        [{ "data": "Ligament trapézoïde (coraco-claviculaire)" }],
+        [{ "data": "Ligament coraco-claviculaire interne" }],
+        [{ "data": "Ligament acromio-coracoïdien" }],
+        [
+          { "data": "Sollicitée lors de", "header": true, "colspan": 2 },
+          { "data": "Surtout flexion-extension d'épaule" }
+        ],
+        [
+          { "data": "Degrés de liberté", "header": true, "colspan": 2 },
+          {
+            "data": "(Varie selon les auteurs) 2: Rotation (interne/externe),Bascule (antérieure/postérieure)"
+          }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Mesure", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plan", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [
+          { "data": "Distance (cm)", "rowspan": 3 },
+          {
+            "data": "Espace articulaire en crânial de la clavicule et de l’acromion"
+          },
+          { "data": "Plan Transverse", "rowspan": 3 },
+          { "data": "0,52 ± 0,16 <a href='#ref4' class='reference'>[4]</a>" }
+        ],
+        [
+          { "data": "Bord médial de l'acromion et la capsule" },
+          { "data": "0,25 ± 0,09 <a href='#ref5' class='reference'>[5]</a>" }
+        ],
+        [
+          { "data": "Bord médial de la clavicule et la capsule" },
+          { "data": "0,17 ± 0,07 <a href='#ref5' class='reference'>[5]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Assis avec l'épaule découverte",
+          "Épaule :",
+          ["Relâchées : neutre de flexion - abduction - rotation"],
+          "Coude :",
+          [
+            "90° de flexion",
+            "Pleine supination (dos de la main déposé sur la cuisse ipsilatérale)"
+          ]
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "L’articulation acromio-claviculaire peut être palpée en repérant l’acromion puis en effectuant se déplaçant légèrement en médial. La clavicule est généralement surélevée par rapport à l’acromion."
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/acromioClaviculaire/vueLongitudinale/",
+        "objectifs": [
+          "Examen du ligament acromio-claviculaire",
+          "Examen des ligaments coraco-claviculaires",
+          "Observation de l’espace acromio-claviculaire"
+        ],
+        "parametres": ["Profondeur : 2-3 cm", "Gain : 70-75", "H/2/3"],
+        "positionnement": [
+          "Placer la sonde dans le plan frontal (coronal), ou presque alignée avec le long axe de la clavicule (soit à l’aspect antérieur de l’articulation acromio-claviculaire)",
+          "Balayer légèrement la sonde en antéro-postérieur afin de bien évaluer l’ensemble de l’articulation"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Position de la sonde (face)"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Position de la sonde (dos)"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["A"],
+                "texte": [
+                  "L’acromion, situé à la droite de l’image, apparaît comme une zone hypoéchoïque presque triangulaire"
+                ]
+              },
+              {
+                "acronymes": ["C"],
+                "texte": [
+                  "La clavicule, tout juste à la gauche de l’acromion, a une apparence ultrasonographique très similaire à l’acromion. La clavicule est cependant souvent plus supérieure (crâniale) que l’acromion (peu évident ici)"
+                ]
+              },
+              {
+                "acronymes": ["LAC"],
+                "texte": [
+                  "Le ligament acromio-claviculaire (supérieur) est visible au haut de l’image, où on peut le voir relier l’extrémité médiale de l’acromion au bord latéral de la clavicule. On l’aperçoit sous la forme d’une zone hyperéchoïque en forme d’arche (les extrémités sont moins hyperéchoïques en raison de l’anisotropie propre aux ligaments)."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "longitudinale1.jpg", "descriptionText": "" },
+              { "path": "longitudinale2.jpg", "descriptionText": "Acromion" },
+              { "path": "longitudinale3.jpg", "descriptionText": "Clavicule" },
+              {
+                "path": "longitudinale4.jpg",
+                "descriptionText": "Ligament acromio-claviculaire"
+              },
+              { "path": "longitudinale5.jpg", "descriptionText": "" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "L’articulation acromio-claviculaire est située à la portion distale de l’épaule et est facilement palpable, de par sa localisation superficielle et des proéminences osseuses qui la constituent. Il s’agit d’une articulation intrinsèquement instable en raison de la faible congruence de ses surfaces articulaires, qui sont planes l’une par rapport à l’autre.",
+          "Les deux os formant cette articulation, la clavicule et la scapula, sont reliés de deux manières, soit par l’articulation acromio-claviculaire ainsi que par les ligaments coraco-claviculaires. De plus, dans environ 1/3 des cas, la congruence articulaire entre la clavicule et l’acromion est bonifiée par la présence d’un fibrocartilage intra-articulaire, ou ménisque .",
+          "Cette articulation participe à un degré variable aux divers mouvements de l’épaule, la flexion-extension étant le mouvement auquel on attache généralement le plus d’importance. Quoique le lien entre la dynamique des mouvements globaux de l’épaule et l’arthrocinématique de chacune des articulations ne fasse pas de consensus absolu, on peut affirmer qu’entre les positions extrêmes de l’épaule, l’articulation acromio-claviculaire possède une amplitude de mouvement aux environs de 20 à 30 degrés ",
+          "L’articulation acromio-claviculaire voit sa luxation inférieure (caudale) freinée par certaines fibres du ligament coraco-acromial. La stabilisation vers le haut, quant à elle, est assurée par les ligaments coraco-claviculaires.",
+          "En raison de l’obliquité des surfaces formant l’articulation acromio-claviculaire, tout déplacement de la scapula vers la ligne médiane (dans le plan frontal) induit un glissement externe et une élévation conjointe de la clavicule. Les deux ligaments coraco-claviculaires (conoïde et trapézoïde) ont comme fonction mécanique principale d’absorber le cisaillement crânial-caudial et médio-latéral qui est induit par l’activation de la musculaire de la ceinture scapulaire.",
+          "Les ligaments coraco-claviculaires sont généralement assez peu accessibles à l’évaluation ultrasonographique de l’épaule, en raison de l’ombre occasionnée par la clavicule, qui recouvre ces derniers."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/acromioClaviculaire/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Élargissement de l'espace acromio-claviculaire",
+        "text": [
+          "L’examen ultrasonographique de l’articulation acromio-claviculaire peut permettre de mettre en évidence un élargissement de l’espace au sein de l’articulation acromio-claviculaire"
+        ]
+      },
+      {
+        "subtitle": "Suspicion de rupture du ligament acromio-claviculaire",
+        "text": [
+          "Lors de traumatismes directs ou indirects à l’épaule, les stabilisateurs de l’articulation acromio-claviculaire peuvent être le sujet de ruptures partielles ou complètes. L’ultrasonographie peut aider le diagnostic en identifiant les structures lésées ainsi que leur degré d’atteinte respectif"
+        ]
+      },
+      {
+        "subtitle": "Évaluation de routine",
+        "text": [
+          "Les symptômes d’une atteinte de l’articulation acromio-humérale sont souvent proches de ceux d’une atteinte de la coiffe. Ainsi, l’articulation acromio-humérale fait partie de l’évaluation de routine de l’épaule."
+        ]
+      },
+      {
+        "subtitle": "Os acromial",
+        "text": [
+          "Souvent le fruit d’une découverte fortuite (car fréquemment asymptomatique), un os acromial peut être mis en évidence lors de l’évaluation de l’articulation acromio-claviculaire. Il s’agit là d’une variante anatomique présente chez environ 8% de la population où l’extrémité de l’acromion n’est pas fusionnée et peut donner lieu à une articulation cartilagineuse surnuméraire entre la clavicule et l’acromion"
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Sus-épineux & espace sous-acromial",
+          "link": "/protocoles/epaule/sus-epineux-et-espace-sous-acromial"
+        },
+        {
+          "linkTitle": "Sus-épineux (région antéro-latérale)",
+          "link": "/protocoles/epaule/sus-epineux"
+        },
+        {
+          "linkTitle": "Biceps brachial",
+          "link": "/protocoles/epaule/biceps-brachial"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Jacobson, Jon A. “Shoulder US: Anatomy, Technique, and Scanning Pitfalls.” Radiology 260, no. 1 (July 1, 2011): 6–16. doi:10.1148/radiol.11101082."
+        },
+        {
+          "text": "Yu, Tung-Yang, Wen-Chung Tsai, Ju-Wen Cheng, Yun-Ming Yang, Fang-Chen Liang, and Chien-Hung Chen. “The Effects of Aging on Quantitative Sonographic Features of Rotator Cuff Tendons.” Journal of Clinical Ultrasound: JCU 40, no. 8 (October 2012): 471–78. doi:10.1002/jcu.21919."
+        },
+        {
+          "text": "Kumar, Praveen, Jo Chetwynd, Arwel Evans, Gemma Wardle, Caroline Crick, et Belinda Richardson. «Interrater and Intrarater Reliability of Ultrasonographic Measurements of Acromion-Greater Tuberosity Distance in Healthy People. » Physiotherapy Theory and Practice 27, nᵒ 2 (February 2011): 172–75. doi:10.3109/09593985.2010.481012."
+        },
+        {
+          "text": "Schmidt, W A. «Standard Reference Values for Musculoskeletal Ultrasonography. » Annals of the Rheumatic Diseases 63, nᵒ 8 (April 13, 2004): 988–94. doi:10.1136/ard.2003.015081."
+        }
+      ]
+    }
+  }
+}

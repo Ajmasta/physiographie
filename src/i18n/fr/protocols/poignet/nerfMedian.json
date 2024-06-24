@@ -1,0 +1,366 @@
+{
+  "title": "",
+  "latinName": "",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Racines nerveuses", "header": true },
+          { "data": "C5 à T1", "colspan": 2 }
+        ],
+        [
+          { "data": "Tissus innervés", "header": true, "rowspan": 12 },
+          { "data": "Sensitifs", "rowspan": 2, "header": true },
+          {
+            "data": "Aspect palmaire : pouce, 2e doigt et portion radiale du 4e doigt (C5-C8)"
+          }
+        ],
+        [
+          {
+            "data": "Aspect dorsal : extrémité du pouce, 2e doigt et portion radiale du 4e doigt (C5-C8)"
+          }
+        ],
+        [
+          { "data": "Moteurs", "header": true, "rowspan": 10 },
+          { "data": "Rond pronateur (C6-C7)" }
+        ],
+        [{ "data": "Carré pronateur (C7-C8)" }],
+        [{ "data": "Fléchisseur radial du carpe (C6-C7)" }],
+        [{ "data": "Fléchisseur superficiel des doigts* (C8-T1)" }],
+        [{ "data": "Fléchisseur profond des doigts* (C8-T1)" }],
+        [{ "data": "Long fléchisseur du pouce (C8-T1)" }],
+        [{ "data": "Court abducteur du pouce (C8-T1)" }],
+        [{ "data": "Court fléchisseur du pouce (C8-T1)" }],
+        [{ "data": "Opposant du pouce (C8-T1)" }],
+        [{ "data": "1e - 2e lombricaux (C8-T1)" }]
+      ],
+      "text": ["*Seules les portions associées aux doigts correspondants "]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Mesure", "header": true },
+          { "data": "Plan / Site", "header": true },
+          { "data": "Type de sujet", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [
+          { "data": "Nerf médian", "rowspan": 8 },
+          { "data": "Aire de section transversale (cm2)", "rowspan": 8 },
+          { "data": "#1 : Limite distale du tunnel carpien", "rowspan": 2 },
+          { "data": "Avec STC*" },
+          { "data": "0,146 ± 0,047<a href='#ref9' class='reference'>[9]</a>" }
+        ],
+        [
+          { "data": "Sain" },
+          { "data": "0,094 ± 0,019<a href='#ref9' class='reference'>[9]</a>" }
+        ],
+
+        [
+          { "data": "#2 : Crochet du hamatum", "rowspan": 2 },
+          { "data": "Avec STC" },
+          { "data": "0,112 ± 0,024<a href='#ref9' class='reference'>[9]</a>" }
+        ],
+        [
+          { "data": "Sain" },
+          { "data": "0,084 ± 0,015<a href='#ref9' class='reference'>[9]</a>" }
+        ],
+        [
+          { "data": "#3 : Limite proximale du tunnel carpien", "rowspan": 2 },
+          { "data": "Avec STC" },
+          { "data": "0,144 ± 0,043<a href='#ref9' class='reference'>[9]</a>" }
+        ],
+        [
+          { "data": "Sain" },
+          { "data": "0,096 ± 0,024<a href='#ref9' class='reference'>[9]</a>" }
+        ],
+        [
+          { "data": "#4 : Tiers distal de l'avant-bras", "rowspan": 2 },
+          { "data": "Avec STC" },
+          { "data": "0,049 ± 0,010<a href='#ref9' class='reference'>[9]</a>" }
+        ],
+        [
+          { "data": "Sain" },
+          { "data": "0,048 ± 0,010<a href='#ref9' class='reference'>[9]</a>" }
+        ]
+      ],
+      "text": ["*STC : Syndrome du tunnel carpien"]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Assis confortablement, avec l'avant-bras en pleine supination (afin d'exposer l'aspect palmaire/ventral du poignet)",
+          "Le coude est fléchi à 90°, avec la main et les doigts relâchés<a href='#ref6' class='reference'>[6]</a>"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Identifier les repères osseux du tunnel carpien proximal : le tubercule du scaphoïde (en radial) et le pisiforme (en ulnaire)",
+          "Tel que mentionné plus tôt, le pli de flexion du poignet représente la limite proximale du tunnel carpien. Il peut donc être utile de demander au sujet d'effectuer une flexion de poignet et de visualiser l'emplacement exact du pli."
+        ]
+      }
+    ],
+
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/nerfMedian/vueLongitudinale/",
+        "objectifs": [
+          "Observation du nerf médian, et de sa localisation par rapport aux tendons des fléchisseurs superficiel et profond des doigts"
+        ],
+        "parametres": ["Profondeur : 2 cm", "Gain : 80", "G/3/3"],
+        "positionnement": [
+          "Tourner la sonde de 90° par rapport à la vue transversale"
+        ],
+        "imagePositionnement": [{ "path": "position1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["TF"],
+                "texte": [
+                  "Les tendons fléchisseurs apparaissent dans la portion inférieure de l'image. On les reconnaît grâce à son positionnement, tout juste superficiel aux os carpiens, et à leur échotextutre fibrillaire clairement visible"
+                ]
+              },
+              {
+                "acronymes": ["NM"],
+                "texte": [
+                  "Le nerf médian est vislble en surface des tendons fléchisseurs. Bien que ces deux structures soit de constitution fort différente, elles possèdent une apparence fort similaire à l'imagerie par ultrasonographie, et leur distinction est facilitée par la présence du fascia hyperéchoïque qui les sépare (ainsi que par leur position profondeur relative)"
+                ]
+              },
+              {
+                "acronymes": ["TSS"],
+                "texte": [
+                  "Le tissu subsynovial ('subsynovial connective tissue')<a href='#ref3' class='reference'>[3]</a> est la structure la plus superficielle des trois structures mises en évidence dans le plan longitudinal. Il s'agit s'une structure mince et échogène qui relie le nerf médian aux tendons fléchisseurs au sein du tunnel carpien"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Tendons fléchisseurs"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Nerf médian"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Tissu subsynovial"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/nerfMedian/vueTransversale/",
+        "objectifs": [
+          "Visualisation des principales structures délimitant le tunnel carpien proximal",
+          "Observation du nerf médian"
+        ],
+        "parametres": ["Profondeur : 2 cm", "Gain : 70", "G/3/3"],
+        "positionnement": [
+          "Positionner la sonde au niveau de la limite proximale du tunnel carpien (pli de flexion du poignet)",
+          "Tel qu'illustré sur l'image ci-jointe, tourner légèrement la sonde de manière à ce que son extrémité radiale soit légèrement plus distale que son extrémité ulnaire<a href='#ref6' class='reference'>[6]</a>"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["OC"],
+                "texte": [
+                  "Les os carpiens apparaissent au bas de l'image, et ne peuvent être différenciés les uns des autres. Ils peuvent être décrits comme une zone hyperéchoïque légèrement incurvée"
+                ]
+              },
+              {
+                "acronymes": ["S"],
+                "texte": [
+                  "Le scaphoïde apparaît à la gauche de l'image, sous la forme d'une zone hyperéchoïque arrondie"
+                ]
+              },
+              {
+                "acronymes": ["P"],
+                "texte": [
+                  "Le pisiforme est présent à la droite de l'image, moins défini que le scaphoïde, et prend l'apparence d'une zone légèrement hyperéchoïque"
+                ]
+              },
+              {
+                "acronymes": ["FRC"],
+                "texte": [
+                  "Le tendon du fléchisseur radial du carpe apparaît à la surface du scapohoïde, et prend la forme d'une zone dont la forme de haricot est défini par un trait hyperéchoïque"
+                ]
+              },
+              {
+                "acronymes": ["NM"],
+                "texte": [
+                  "Le nerf médian occupe la portion centrale de l'image. On peut le décrire comme une zone circulaire bordée d'un trait hyperéchoïque et contenant un certain nombre de fascicules assez clairement visibles"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Os carpiens"
+              },
+              { "path": "identification3.jpg", "descriptionText": "Scaphoïde" },
+              { "path": "identification4.jpg", "descriptionText": "Pisiforme" },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Fléchisseur radial du carpe"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Nerf médian"
+              },
+              { "path": "identification7.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Le nerf médian [NM] est un nerf mixte (c.-à-d. sensitif et moteur) qui est surtout connu du public puisqu'il est impliqué dans le syndrome du tunnel carpien (voir la section Pertinence clinique). Il est parfois surnommé 'nerf de la préhension', en raison du fait qu'il innerve de nombreux muscles responsables de la flexion de la main, des doigts et du pouce. Le NM reçoit des afférences de l'ensemble du plexus brachial (racines C5 à T1), et est formé de certaines portions des troncs ('chords') latéral et médial<a href='#ref3' class='reference'>[3]</a>.",
+          "À partir du plexus brachial, le NM progresse distalement en longeant le septum intramusculaire latéral, sous le court chef du biceps brachial et en latéral de l'artère brachiale. Au milieu du bras, le NM passe ensuite à l'aspect médial du bras pour aller rejoindre la fosse ulnaire, où il est alors la structure la plus médiale, à l'exception du tendon proximal commun des pronateurs et fléchisseurs. Le NM progresse distalement, en médial du coude, sous le fléchisseur superficiel des doigts [FSD] et au-dessus du fléchisseur profond des doigts [FPD]. Une fois arrivé au tiers distal de l'avant-bras, le NM poursuit son cours en surface du FSD, médial au fléchisseur radial du carpe et latéral du long palmaire, avant de faire son entré au sein du tunnel carpien. Ce n'est qu'en distal du coude que le nerf médian commence à être directement impliqué dans la transmissions d'influx nerveux sensitifs et moteurs<a href='#ref8' class='reference'>[8]</a>.",
+          "La limite proximale du tunnel carpien correspond au pli de flexion du poignet, alors que la limite distale se site au niveau de la base du troisième os métacarpien. Afin de mieux visualiser leur position relative, les structures délimitant le tunnel carpien peuvent être comparées au plancher, plafond et murs d'une pièce<a href='#ref8' class='reference'>[8]</a> :",
+          "<ul class='margin-left'><li>Plancher : les os carpiens</li><li>Plafond : le ligament transverse du carpe (ou 'rétinaculum des fléchisseurs', ou simplement 'ligament carpien')</li><li>Mur radial : le trapèze (os carpien)</li><li>Mur ulnaire : le crochet du hamatum (ou 'os crochu', un os carpien)</li></ul>",
+          "Dix structures traversent le tunnel carpien, parmi lesquelles on retrouve 9 tendons (4 tendons du FSD, 4 tendons du FPD et le tendon du long fléchisseur du pouce) et le nerf médian. C'est au sein du tunnel carpien que le NM se sépare en trois branches terminales, qui innervent<a href='#ref8' class='reference'>[8]</a> :",
+          "<ul class='margin-left'><li>Branches latérales : le pouce et le côté radial de l'index</li><li>Branches médiales : le majeur et le côté radial de l'annulaire</li><li>Mur radial : le trapèze (os carpien)</li><li>Mur ulnaire : le crochet du hamatum (ou 'os crochu', un os carpien)</li></ul>",
+          "À son entrée dans le tunnel carpien, le NM exhibe généralement un profil ovale, alors qu'il devient progressivement applati à mesure qu'il progresse distalement. Le ligament carpien, qui délimite le 'plafond' du tunnel (voir ci-haut), est un épais fascia qui s'étend du trapèze et du tubercule du scaphoïde (en radial) jusqu'au pisiforme et au crochet de l'hamatum (en ulnaire)<a href='#ref1' class='reference'>[1]</a>.",
+          "L'anatomie des nerfs périphériques du membre supérieur a fait l'objet de nombreuses études au cours du dernier siècle. Par exemple, en 1945, Sunderland décrivait déjà l'organisation fasciulaire du nerf médian<a href='#ref15' class='reference'>[15]</a>. Cette organisation a depuis fait l'object de plusieurs études confirmant la disposition des fibres sensitives et motrices qui correspond à l'emplacement (radial vs ulnaire) des structures innervées. Le schéma ci-joint, adapté d'une étude de 2015, illustre la disposition de chacune de ces fibres."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique2.jpg" }],
+    "source": "/Protocols/nerfMedian/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Compression du nerf médian",
+        "text": [
+          "Il existe deux grands types de syndromes de compression du nerf médian, selon le site de compression :",
+          [
+            "Syndromes de compression proximaux : dans la région du coude",
+            "Syndrome de compression distale : au sein du tunnel carpien"
+          ]
+        ]
+      },
+      {
+        "subtitle": "Syndrome du tunnel carpien",
+        "text": [
+          "La neuropathie compressive du nerf médian dans le tunnel carpien est la condition la plus fréquente affectant la région palmaire du poignet. De plus, le syndrome du tunnel carpien [STC] occupe le premier rang en terme de prévalence pour ce qui est des syndromes de compression au membre supérieur<a href='#ref1' class='reference'>[1]</a>.",
+          "Le STC implique une atteinte de l'intégrité du nerf médian au niveau du poignet. l'étiologie du STC demeure partiellement comprise, mais il est généralement accepté qu'une compression du nerf induise des symptômes tels des picotements, des engourdissements ou des sensations de brûlure dans le territoire sensitif du nerf médian (voir section Anatomie ci-haut). Plusieurs facteurs de risques (ou prédisposants) ont été identifiés, dont :",
+          [
+            "Variantes anatomiques : tunnel carpien plus étroit, présence d'une artère médiane, présence (anormale) de tendons ou muscles accessoires",
+            "Sensibilité du nerf à la pression : diabète, neuropathies systémiques",
+            "Déréglements systémiques et/ou endocrines : grossesse, hypothyroïdie, amyloïdose",
+            "Lésions envahissante occupant de l'espace au sein du tunnel carpien"
+          ],
+          "Les personnes aux prises avec un STC correspond à la description suivante :",
+          [
+            "Les femmes d'âge moyen sont plus à risque de développer un STC",
+            "Les symptômes sont provoqués et/ou exacerbés par la pratique d'une activité manuelle de manière prolongée et soutenue",
+            "Affecte plus communément le membre supérieur dominant",
+            "Exacerbation nocturne des symptômes (suite à une flexion de poignet maintenue durant le sommeil)"
+          ],
+          "Une prise en charge insuffisante ou inadéquante d'un sujet aux prises avec un STC peut engendrer une atrophie musculaire et des pertes de fonctions significatives, d'où l'importance d'un diagnostic précoce. Le diagnostic repose essentiellement sur des examens cliniques (tests spécifiques de Phalen et de Tinel, par exemple) et électrodiagnostiques. L'utilisation de tests d'imagerie n'est généralement pas requise. Cependant, l'imagerie par ultrasonographie peut tout de même être utile pour déterminer la présence (et le degré, s'il y a lieu) de compression du NM dans le tunnel carpien, en plus de permettre la visualisation de changements de forme et d'échotexture du NM ou encore d'anomalies au sein du tunnel carpien.",
+          "La compression du nerf ulnaire au sein du canal de Guyon est possible, mais il s'agit là d'une condition rare et souvent secondaire à une autre problématique<a href='#ref1' class='reference'>[1]</a>."
+        ]
+      },
+      {
+        "subtitle": "Syndrome du pronateur",
+        "text": [
+          "Le syndrome du pronateur est une pathologie insidieuse dans laquelle le nerf médian est comprimé tout juste en distal du coude. En raison de la localisation du phénomène physiopathologique, cette condition sera vue dans la <a href='/protocoles/coude' class='underline'>section sur le coude</a><a href='#ref1' class='reference'>[1]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Compartiments du poignet dorsal",
+          "link": "protocoles/poignet/compartiments-du-poignet-dorsal/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Cheng-Ching, Esteban, Lama Chahine, Eric P. Baron, et Alexander Rae-Grant. Comprehensive Review in Clinical Neurology: A Multiple Choice Question Book for the Wards and Boards. Lippincott Williams & Wilkins, 2012."
+        },
+        {
+          "text": "Filius, Anika, Andrew R. Thoreson, Yuexiang Wang, Sandra M. Passe, Chunfeng Zhao, Kai-Nan An, et Peter C. Amadio. « The Effect of Tendon Excursion Velocity on Longitudinal Median Nerve Displacement: Differences between Carpal Tunnel Syndrome Patients and Controls. » Journal of Orthopaedic Research 33, nᵒ 4 (1 avril 2015): 483‑87. doi:10.1002/jor.22804."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Klauser, Andrea S., Ethan J. Halpern, Tobias De Zordo, Gudrun M. Feuchtner, Rohit Arora, Johann Gruber, Carlo Martinoli, et Wolfgang N. Löscher. « Carpal Tunnel Syndrome Assessment with US: Value of Additional Cross-sectional Area Measurements of the Median Nerve in Patients versus Healthy Volunteers. » Radiology 250, nᵒ 1 (1 janvier 2009): 171‑77. doi:10.1148/radiol.2501080397."
+        },
+        {
+          "text": "Korstanje, Jan-Wiebe H., Marjan Scheltens-De Boer, Joleen H. Blok, Peter C. Amadio, Steven E.R. Hovius, Henk J. Stam, et Ruud W. Selles. « Ultrasonographic Assessment of Longitudinal Median Nerve and Hand Flexor Tendon Dynamics in Carpal Tunnel Syndrome. » Muscle & Nerve 45, nᵒ 5 (mai 2012): 721‑29. doi:10.1002/mus.23246."
+        },
+        {
+          "text": "Martinoli, Carlo. “Musculoskeletal Ultrasound: Technical Guidelines.” Insights into Imaging 1, no. 4 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Mazurek, M. T., et A. Y. Shin. « Upper Extremity Peripheral Nerve Anatomy: Current Concepts and Applications. » Clinical Orthopaedics and Related Research, nᵒ 383 (février 2001): 7‑20."
+        },
+        {
+          "text": "Nakamichi, Ken-Ichi, et Shintaro Tachibana. « Ultrasonographic Measurement of Median Nerve Cross-Sectional Area in Idiopathic Carpal Tunnel Syndrome: Diagnostic Accuracy. » Muscle & Nerve 26, nᵒ 6 (1 décembre 2002): 798‑803. doi:10.1002/mus.10276."
+        },
+        {
+          "text": "Oh, Shin J. Clinical Electromyography: Nerve Conduction Studies. Lippincott Williams & Wilkins, 2003."
+        },
+        {
+          "text": "Pham, Mirko, Tobias Bäumer, et Martin Bendszus. « Peripheral Nerves and Plexus: Imaging by MR-Neurography and High-Resolution Ultrasound. » Current Opinion in Neurology 27, nᵒ 4 (août 2014): 370‑79. doi:10.1097/WCO.0000000000000111."
+        },
+        {
+          "text": "Rasulić, Lukas, Vladimir Puzović, Krešimir Rotim, Milan Jovanović, Miroslav Samardžić, Bojana Živković, et Andrija Savić. « The Epidemiology of Forearm Nerve Injuries--a Retrospective Study. » Acta Clinica Croatica 54, nᵒ 1 (mars 2015): 19‑24."
+        },
+        {
+          "text": "Russell, Stephen. Examination of Peripheral Nerve Injuries: An Anatomical Approach. Thieme, 2011."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Practical Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Sunderland, Sydney. « The Intraneural Topography of the Radial, Median and Ulnar Nerves. » Brain 68, nᵒ 4 (1 décembre 1945): 243‑98. doi:10.1093/brain/68.4.243."
+        },
+        {
+          "text": "Yesildag, A., S. Kutluhan, N. Sengul, H. R. Koyuncuoglu, O. Oyar, K. Guler, et U. K. Gulsoy. « The Role of Ultrasonographic Measurements of the Median Nerve in the Diagnosis of Carpal Tunnel Syndrome. » Clinical Radiology 59, nᵒ 10 (octobre 2004): 910‑15. doi:10.1016/j.crad.2004.03.020."
+        },
+        {
+          "text": "Zanette, Giampietro, Matteo Francesco Lauriola, et Stefano Tamburin. « Sunderland’s Median Nerve Fascicular Anatomy Revisited by Ultrasound. » Journal of Neurology, Neurosurgery, and Psychiatry, 18 février 2015. doi:10.1136/jnnp-2014-310043."
+        }
+      ]
+    }
+  }
+}

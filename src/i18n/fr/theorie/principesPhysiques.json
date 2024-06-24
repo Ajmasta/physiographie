@@ -1,0 +1,147 @@
+{
+  "title": "Principes physiques",
+  "sectionOne": {
+    "sectionTitle": "Les ondes",
+    "content": [
+      {
+        "text": [
+          "Les ultrasons sont des ondes acoustiques, c.-à-d. des forces mécaniques sous forme des vagues (ou d’oscillations) de pression positive (compression) et négative (raréfaction) des molécules dans lequel se propage l’onde (p. ex. : les molécules de gaz de l’air ambiant). Les hautes pressions impliquent une grande proximité entre les molécules du milieu, ce qui induit une répulsion de ces molécules les unes par rapports aux autres. En se repoussant, le point déserté par les molécules repoussées en devient un de basse pression, avant que le cycle ne recommence (puisque les molécules fuient les zones de haute pression pour aller vers les zones de basse pression)."
+        ]
+      },
+      {
+        "image": "/ondes-longitudinales.gif",
+        "imageText": {
+          "text": "Figure 1 - Ondes longitudinales - Courtoisie de Dr. Dan Russell, Grad. Prog. Acoustics, Penn State.",
+          "link": "http://www.acs.psu.edu/drussell/"
+        },
+        "text": [
+          "La polarisation est le nom donné à la propriété qu’ont certaines ondes de voyager dans plus d’une orientation. Les ondes sonores, lorsque propagées dans un gaz ou un liquide, n’ont qu’une seule orientation possible, c.-à-d. celle de la direction dans laquelle elles voyagent : on dit donc qu’elles sont des ondes longitudinales (les molécules ne font qu’un va-et-vient dans l’axe de propagation).",
+          "Ceci contraste avec des ondes comme la lumière qui, étant des ondes transverses, peuvent voyager dans plus d’une orientation (de haut en bas et de gauche à droite, par exemple). Les ondes acoustiques, lorsque propagées dans un solide, possèdent également la capacité d’être propagées de manière transverse (shear wave), c.-à-d. dans une orientation perpendiculaire à la direction de propagation du son. Cependant les principes sur lesquels repose l’échographie classique utilisent les propriétés des ondes longitudinales, et il n’est donc pas nécessaire de considérer les ondes transverses ."
+        ]
+      },
+      {
+        "text": [
+          "Lorsqu’une onde acoustique est émise dans un milieu, puis perçue à distance du point d’émission (p.ex. : un haut-parleur émet un son qui est entendu par un individu posté à quelques mètres), les molécules du milieu qui supporte le son ne se déplacent pas du haut-parleur jusqu’à l’oreille du sujet. Celles-ci se limitent plutôt à osciller d’un point de haute pression jusqu’à un point de basse pression à une fréquence (vitesse) donnée, laquelle est définie par la vitesse de vibration de la source émettrice ainsi que par la nature du milieu où voyage le son"
+        ]
+      },
+      {
+        "text": [
+          "Cette fréquence d’oscillation des molécules est à la source de la fréquence du son, qui se mesure en Hertz (Hz, une unité du système international qui réfère au nombre de cycles par seconde). Le spectre des fréquences sonores audibles par l’homme s’étend généralement entre 20 Hz et 20 KHz, alors que le pulseur d’un ultrasonographe utilisé en échographie musculosquelettique émet généralement des ultrasons dont la fréquence s’étend de 2 MHz à 18 MHz (MHz : megahertz, ou un million de Hertz)."
+        ]
+      },
+      {
+        "image": "/ondes-transverses.gif",
+        "imageText": {
+          "text": "Figure 2 - Ondes transverses - Courtoisie de Dr. Dan Russell, Grad. Prog. Acoustics, Penn State.",
+          "link": "http://www.acs.psu.edu/drussell/"
+        },
+        "text": [
+          "Lorsqu’une onde acoustique est émise dans un milieu, puis perçue à distance du point d’émission (p.ex. : un haut-parleur émet un son qui est entendu par un individu posté à quelques mètres), les molécules du milieu qui supporte le son ne se déplacent pas du haut-parleur jusqu’à l’oreille du sujet. Celles-ci se limitent plutôt à osciller d’un point de haute pression jusqu’à un point de basse pression à une fréquence (vitesse) donnée, laquelle est définie par la vitesse de vibration de la source émettrice ainsi que par la nature du milieu où voyage le son."
+        ]
+      }
+    ]
+  },
+  "sectionTwo": {
+    "sectionTitle": "Rencontre avec la matière",
+    "content": [
+      {
+        "text": [
+          "Selon le type de matière que rencontre le faisceau d’ultrasons, différents phénomènes physiques produire :"
+        ]
+      },
+      {
+        "text": [
+          "Réflexion : Ce phénomène est à la base même de l’imagerie par ultrasons. Lorsque le faisceau passe d’un milieu à un autre qui possède une impédance acoustique différente, une partie des ondes sonores est réfléchie à l’interface entre ces deux milieux. Le degré de réflexion d’une onde est influencé par :"
+        ]
+      },
+      {
+        "text": [
+          "L’échogénécité du tissu exposé aux ondes",
+          "La différence d’impédance acoustique des deux milieux formant l’interface traversée par l’onde",
+          "La texture (lisse vs rugueux) du tissu exposé aux ondes : les tissus lisses (foie, diaphragme) réfléchissent mieux que les tissus plus irréguliers dans leur surface",
+          "L’angle de réflexion : l’angle optimal de réflexion d’un faisceau est la perpendiculaire entre le tissu visé et le faisceau d’ultrasons (ou la parallèle entre la surface du transducteur et la surface du tissu)"
+        ]
+      },
+      {
+        "text": [
+          "Réfraction : Lorsqu’une onde passe d’un milieu A à un milieu B et que ces milieux ne possèdent pas la même « résistance » à cette onde, l’angle dans lequel se propage cette onde sera affecté. Dans le cas d’une onde sonore, cette « résistance » se nomme impédance acoustique, alors que pour la lumière, on parle de l’indice de réfraction d’un milieu. Pour visualiser ce qui se produit lors de la réfraction d’ondes sonores, on peut se référer au phénomène de réfraction d’ondes lumineuses : lorsqu’un bâton est déposé dans un verre d’eau et que seule une partie est immergée, on pourrait croire que le bâton porte un angle au point de l’interface air-eau. C’est en fait la réfraction des ondes lumineuses qui est en cause : au point où l’indice de réfraction change, les ondes lumineuses changent de direction avant de se rendre à nos yeux. Par analogie, on peut dire que c’est un phénomène presque identique qui se produit avec les ondes sonores.",
+          "Dispersion (scattering) : La présence (et l’intensité) de ce phénomène dépend de l’homogénéité de la texture de la surface exposée au faisceau d’ultrasons. Concrètement, ce phénomène se produit lorsque la surface est irrégulière et résulte en une moins grande cohérence spatiale du faisceau réfléchi. Ceci se traduit par une diminution de la précision possible des structures formant l’interface (ainsi que des tissus sous-jacents)."
+        ],
+        "image": "/refraction-ondes-sonores.gif",
+        "imageText": {
+          "text": "Figure 3 - Réfraction des ondes sonores - Courtoisie de Dr. Dan Russell, Grad. Prog. Acoustics, Penn State.",
+          "link": "http://www.acs.psu.edu/drussell/"
+        }
+      },
+      {
+        "text": [
+          "Absorption : ce phénomène est responsable de la majorité de l’atténuation des ultrasons. Il s’agit là d’une « captation » de l’énergie contenue dans les ondes sonores par les molécules qui y sont exposées, puis de la conversion de cette énergie mécanique en énergie thermique. Cependant, l’énergie contenue dans les faisceaux d’ultrasons utilisés en échographie est à ce point faible qu’elle ne provoque aucune augmentation de température mesurable des tissus."
+        ]
+      },
+      {
+        "text": [
+          "Une fois que les ondes ont été émises par le transducteur puis soumises aux 4 phénomènes définis ci-dessus, elles sont ensuite recaptées par ce même transducteur via un effet piézoélectrique. La latence, ou temporisation du retour de faisceau est une des variables majeures interprétées par l’ultrasonographe pour la création de l’image."
+        ]
+      },
+      {
+        "text": [
+          "Une autre de ces variables fondamentales à la base même du fonctionnement d’un ultrasonographe est l’intensité du retour de faisceau d’ultrasons. Cette intensité est directement fonction des 4 phénomènes physiques énumérés plus tôt (réflexion, réfraction, dispersion et absorption). D’un point de vue très pratique, on réfère beaucoup à l’échogénicité des tissus comme un déterminant de l’intensité du signal. En échographie, contrairement aux autres techniques d’imagerie (comme l’imagerie par résonnance magnétique ou la radiographie), l’intensité du signal perçu n’est pas absolue, ou définie, mais plutôt relative aux tissus environnants. On parlera donc d’un « tissu hyperéchoïque par rapport à un autre » puisque ce même tissu pourrait devenir isoéchoïque lorsque comparé à une structure de même échogénicité. On comprend donc que les ultrasons réfléchis par un tissu hypoéchoïque et hyperéchoïque apparaîtront respectivement comme des zones sombres et claires sur l’image produite par l’ultrasonographe."
+        ]
+      },
+      {
+        "text": [
+          "La dernière de ces informations contenue dans le faisceau est la localisation transverse des ondes sonores. Plusieurs milliers de cristaux sont présents dans le transducteur, tant pour générer que pour capter les ultrasons. La position des cristaux qui reçoivent des ondes acoustiques détermine, via des calculs effectués par ordinateur, le lieu (principalement dans l’axe des X et Y ) le lieu où les ultrasons ont été réfléchis."
+        ]
+      },
+      {
+        "text": [
+          "En résumé, il est possible d’affirmer que l’information utilisée pour créer l’image dépend principalement de : "
+        ]
+      },
+      {
+        "text": [
+          "L’amplitude des ondes sonores réfléchies",
+          "La latence de réflexion des ondes",
+          "La localisation transverse à laquelle les ondes sont captées"
+        ]
+      },
+      {
+        "text": [
+          "De plus, on comprend maintenant que cette information est en grande partie déterminée par la propension des tissus à affecter les quatre phénomènes physiques suivants :"
+        ]
+      },
+      {
+        "text": ["Réflexion", "Réfraction", "Dispersion", "Absorption"]
+      }
+    ]
+  },
+  "sectionThree": {
+    "sectionTitle": "Implications pratiques",
+    "content": [
+      {
+        "text": [
+          "Cette fréquence d’oscillation des molécules est à la source de la fréquence du son, qui se mesure en Hertz (Hz, une unité du système international qui réfère au nombre de cycles par seconde). Le spectre des fréquences sonores audibles par l’homme s’étend généralement entre 20 Hz et 20 KHz, alors que le pulseur d’un ultrasonographe utilisé en échographie musculosquelettique émet généralement des ultrasons dont la fréquence s’étend de 2 MHz à 18 MHz (MHz : megahertz, ou un million de Hertz)."
+        ]
+      },
+      {
+        "text": [
+          "Le choix de la fréquence utilisée lors d’une l’échographie a un impact sur :"
+        ]
+      },
+      {
+        "text": [
+          "La profondeur des structures évaluées :",
+          [
+            "Un transducteur émettant à des fréquences plus élevées sera mieux adapté à l’examen de structures plus superficielles",
+            "Un transducteur à basse fréquence sera optimal pour des structures plus profondes"
+          ],
+          "La résolution nécessaire :",
+          [
+            "Plus la fréquence est élevée, plus la résolution est élevée",
+            "Cependant, cette augmentation de résolution se fait aux dépens de la pénétration du faisceau"
+          ]
+        ]
+      }
+    ]
+  }
+}

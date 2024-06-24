@@ -1,0 +1,309 @@
+{
+  "title": "Creux poplité",
+  "latinName": "Fossa poplitea",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          {
+            "data": "Contenu (Principal)",
+            "header": true,
+            "rowspan": 6,
+            "colspan": 2
+          },
+          { "data": "Artère poplitée" }
+        ],
+        [{ "data": "Veine poplitée" }],
+        [{ "data": "Veine saphène" }],
+        [{ "data": "Nerf fibulaire (péronier) commun" }],
+        [{ "data": "Nerf tibial" }],
+        [{ "data": "Muscle plantaire (inconstant)" }],
+        [
+          { "data": "Délimité", "header": true, "rowspan": 4 },
+          { "data": "En proximal", "rowspan": 2 },
+          {
+            "data": "Médial : tendons des muscles semi-tendineux et semi-membraneux"
+          }
+        ],
+        [{ "data": "Latéral : tendon du biceps fémoral" }],
+        [
+          { "data": "En Distal", "rowspan": 2 },
+          { "data": "Médial : Chef interne du muscle gastrocnémien" }
+        ],
+        [{ "data": "Latéral : Chef externe du muscle gastrocnémien" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [],
+      "text": ["Aucune donnée disponible"]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Décubitus ventral, avec le genou et le tiers inférieur de la cuisse découvert",
+          "Un oreiller peut être placé sous l'abdomen du sujet pour plus de confort",
+          "Une légère flexion du genou (de l'ordre de 15 à 20° peut permettre une meilleure visualisation de la veine poplitée, qui tend à se collaber lorsque le genou est en pleine extension. La flexion de genou peut être obtenue à l'aide d'un oreiller sous la cheville ou à l'aide d'une flexion passive (effectuée par l'évaluateur)<a href='#ref2' class='reference'>[2]</a><a href='#ref6' class='reference'>[6]</a>"
+        ],
+        "images": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Position avec flexion à l'aide d'une serviette"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Position avec flexion maintenue par l'évaluateur"
+          }
+        ],
+        "source": "/Protocols/creuxPoplite/"
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Palper les interlignes (interne et externe) de l'articulation tibio-fémorale et la tête de la fibula",
+          "Repérer les tendons qui forment les marges interne et externe du creux poplité"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/creuxPoplite/vueTransversale/",
+        "objectifs": [
+          "Visualisation du paquet vasculo-nerveux poplité",
+          "Observation des condyles fémoraux, du muscle gastrocnémien (interne > externe) et poplité"
+        ],
+        "parametres": ["Profondeur : 4 cm", "Gain : 70-75", "G/3/3"],
+        "positionnement": [
+          "En vue transversale (perpendiculaire au long axe de la cuisse), placer la sonde approximativement à la hauteur de l'interne de l'articulation tibio-fémorale",
+          "Balayer en médial et en latéral (et au besoin en crânial et en caudal) afin de pouvoir observer l'ensemble des structures d'intérêt"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["CFI"],
+                "texte": [
+                  "Le condyle fémoral interne apparaît au coin inférieur gauche de l'image, et prend l'apparence d'une zone circulaire aux contours hyperéchoïques (os cortical) et au centre hypoéchoïque"
+                ]
+              },
+              {
+                "acronymes": ["Ca"],
+                "texte": [
+                  "Le cartilage articulaire du condyle fémoral interne apparaît à la surface de ce dernier, et peut être décrit comme une couche hypoéchoïque assez épaisse qui épouse la courbure du condyle"
+                ]
+              },
+              {
+                "acronymes": ["CFE"],
+                "texte": [
+                  "Le condyle fémoral externe, quant à lui, possède une apparence similaire au condyle interne. Puisqu'il se trouve à l'extrémité du champ couvert par la sonde, seule une mince portion du faisceau d'ultrasons le rejoint, ce qui peut expliquer qu'il soit plus 'effacé' (moins clair et échogène) que le condyle interne."
+                ]
+              },
+              {
+                "acronymes": ["GI"],
+                "texte": [
+                  "Le chef interne du muscle gastrocnémien occupe la portion supérieure gauche de l'image, et prend l'apparence d'une vaste zone triangulaire hyperéchoïque et d'échotexture typiquement musculaire."
+                ]
+              },
+              {
+                "acronymes": ["GE"],
+                "texte": [
+                  "Le chef externe du muscle gastrocnémien, nettement plus petit que son homologue interne, apparaît à la portion supérieure droite de l'image. À l'instar du condyle fémoral externe, le chef externe du gastrocnémien prend ici une apparence plus sombre et moins bien focalisée (que le chef interne du gastrocnémien)"
+                ]
+              },
+              {
+                "acronymes": ["P"],
+                "texte": [
+                  "Le muscle poplité est présent en profondeur du chef externe du gastrocnémien. On peut clairement distinguer le fascia qui sépare ces deux muscles, de même que la forme assez arrondie que prend le muscle poplité."
+                ]
+              },
+              {
+                "acronymes": ["AP"],
+                "texte": [
+                  "L'artère poplitée peut être observée à droite de l'extrémité inférieure du chef interne du gastrocnémien. Il s'agit d'une zone circulaire hypoéchoïque d'assez grand calibre."
+                ]
+              },
+              {
+                "acronymes": ["VP"],
+                "texte": [
+                  "La veine poplitée se trouve tout juste en superficie de l'artère poplitée. Sur cette image, la veine possède un diamètre significativement inférieure à l'artère, malgré que cette donnée soit sujette à changement selon le degré de flexion-extension du genou (qui affecte le rempliassage veineux vs la tendance qu'a la veine à se collaber)"
+                ]
+              },
+              {
+                "acronymes": ["NT"],
+                "texte": [
+                  "Le nerf tibial est visible tout juste à la gauche et légèrement en superficie de la veine poplitée, légèrement au sein du ventre musculaire du chef interne du gastrocnémien. Cette structure possède une apparence assez typique pour un nerf, c.-à-d. une zone hyperéchoïque dense et de texture assez homogène"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Condyle fémoral interne"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Cartilage articulaire"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Condyle fémoral externe"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Chef interne du gastrocnémien"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Chef externe du gastrocnémien"
+              },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Muscle poplité"
+              },
+              {
+                "path": "identification8.jpg",
+                "descriptionText": "Artère poplitée"
+              },
+              {
+                "path": "identification9.jpg",
+                "descriptionText": "Veine poplitée"
+              },
+              {
+                "path": "identification10.jpg",
+                "descriptionText": "Nerf tibial"
+              },
+              { "path": "identification11.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Le creux poplité (aussi connu sous le nom de 'fosse poplitée') est un espace anatomique de forme essentiellement rhomboïdale qui contient plusieurs structures musculaires et neurovasculaires de grande importance<a href='#ref2' class='reference'>[2]</a>. Compte tenu qu'il s'agit là d'un espace plutôt qu'une structure 'palpable', il sera ici question des structures qui traversent et qui bordent le creux poplité. Selon Bianchi et Martiloni<a href='#ref2' class='reference'>[2]</a>, les marges du creux poplité sont celles qui sont énumérées ci-haut, soit les tendons du biceps fémoral, des semi-tendineux, semi-membraneux ainsi que les deux ventres du muscle gastrocnémien.",
+          "La nomenclature des structures neurovasculaires qui traversent le creux poplité peut porter à confusion, car elles s'y divisent presque toutes. Voici quelques exemples :",
+          "<ul class='margin-left'><li>Artère poplitée : émerge de l'artère fémoral (en crânial) et donne naissance aux artères tibiales antérieure et postérieure ainsi qu'à un groupe d'artères géniculées</li><li>Veine poplitée : peut être simple (56%) ou double (44%)<a href='#ref2' class='reference'>[2]</a>, se joint (en distal) à la petite veine saphène, aux veines géniculées et aux veines gémellaires<a href='#ref9' class='reference'>[9]</a></li><li>Nerf sciatique : termine de se séparer en nerf tibial et fibulaire (péronier) commun à l'apex du creux poplité</li></ul>",
+          "Le genou postérieur peut être subdivisé en 3 régions, soit les régions interne, externe et centrale.",
+          "Portion interne<a href='#ref2' class='reference'>[2]</a>",
+          "La portion interne comprend les tendons qui forment le complexe de la patte d'oie (sartorius, gracile et semi-tendineux) ainsi que le tendon du muscle semi-membraneux. De plus, entre le tendon du semi-membraneux et le chef médial du gastrocnémien se trouve la bourse du muscle semi-membraneux, qui n'apparaît normalement pas lors de l'examen ultrasonographique d'un sujet sain. On peut également y observer le condyle fémoral interne (médial) ainsi que son cartilage articulaire, qui sont normalement aisément identifiables.",
+          "Portion externe<a href='#ref2' class='reference'>[2]</a>",
+          "Dans la portion externe, il est possible de visualiser la portion musculaire et tendineuse du biceps fémoral, le chef externe du gastrocnémien (plus petit que le chef interne), le muscle poplité, le condyle fémoral externe (ainsi que son cartilage) et le nerf fibulaire (péronier) commun. Les deux chef du biceps fémoral se joignent en un tendon commun dans la portion crâniale du creux poplité, alors que celui-ci s'étend jusqu'à la tête de la fibula. Le nerf fibulaire commun étant de petit diamètre (en plus d'avoir un trajet oblique), il est préférable de l'observer en vue transversale lors de son examen.",
+          "Portion centrale<a href='#ref2' class='reference'>[2]</a>",
+          "La portion centrale permet l'observation de l'espace intercondylaire, du paquet neurovasculaire poplité et du ventre interne du gastrocnémien. Au sein du paquet neurovasculaire, l'artère poplitée est normalement la plus profonde, suivie de la veine poplitée, alors que le nerf tibial est le plus superficiel, et souvent plus en latéral."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Kyste de Baker<a href='#ref2' class='reference'>[2]</a>",
+        "text": [
+          "Les kystes de Baker sont des masses palpables (classiquement) situées à l'aspect postéro-médial du genou. Ces masses sont dues à la distension de la membrane du semi-membraneux ('semimembranous-gastrocnemius bursa')",
+          "Depuis ses tout débuts, l'imagerie par ultrasonographie musculosquelettique est utilisée pour la visualisation de ces structures, et permet de déterminer les dimensions, la localisation ainsi que les lésions associées (si applicable/possible). Cependant, selon le cas (présence de communication avec l'articulation ou non, taille ou localisation de la masse), d'autres techniques d'imageries sont couramment utilisées pour obtenir davantage d'informations sur la lésion, p.ex.: l'imagerie par résonnance magnétique ou l'arthographie (avec solution de contraste), la radiographie standard ou encore la tomographie assistée par ordinateur ('CT-Scan')<a href='#ref12' class='reference'>[12]</a><a href='#ref13' class='reference'>[13]</a>.",
+          "Il n'est pas possible de fournir une description unique pour les kystes de Baker, puisque leurs caractéristiques (composition, taille, forme, site) varient fortement d'un sujet à l'autre.",
+          "Ces masses peuvent être soit idiopathiques ou secondaires à d'autres conditions :",
+          "Type 'idiopathique' :",
+          [
+            "Ce type de kyste de Baker est presque exclusivement retrouvé chez une clientèle pédiatrique, où"
+          ],
+          "Type 'secondaire à une autre condition' :",
+          [
+            "Les conditions les plus fréquemment associées aux kystes de Baker sont également les conditions qui affectent le plus le genou, soit les pathologies chondrales, méniscales et des ligaments croisés. D'autres conditions, non-reliées au genou, sont également associées aux kystes de Baker, dont les pathologies inflammatoires et les pathologies impliquant un processus dégénératif articulaire."
+          ],
+          "Malgré qu'ils demeurent plus souvent de taille modeste, les kyste de Baker peuvent venir à occuper un espace significatif. En effet, ils peuvent progresser jusqu'au mollet, jusqu'à atteindre la malléole interne (chez des sujets atteints de polyarthrite rhumatoïde)<a href='#ref1' class='reference'>[1]</a>.",
+          "Les kystes de Baker peuvent soit demeurer asymptomatiques ou causer une douleur/inconfort léger en raison de la tension locale qu'ils engendrent. La complication la plus commune est la rupture du kyste, qui tend à engendrer un oedème diffus et douloureux de même qu'une grande sensibilité à la palpation. Certains auteurs surnomment d'ailleurs cette complication 'syndrome pseudothrombophlébitique', en raison de la présentation clinique similaire à celle d'une thrombophlébite<a href='#ref7' class='reference'>[7]</a>. D'autres complications sont également possibles mais rares, comme un saignement post-rupture de kyste ou l'infection de ce dernier, qui se produisent, respectivement, surtout chez les sujets anticoagulés et immunosupprimés."
+        ]
+      },
+      {
+        "subtitle": "Bursite semi-membraneuse<a href='#ref2' class='reference'>[2]</a>",
+        "text": [
+          "Il est important de distinguer la bursite semi-membraneuse du Kyste de Baker, puisque ces deux conditions possèdent des plans de traitement bien distincts. La bursite semi-membraneuse est causée par un pincement ('impingement') du tendon réfléchi du muscle semi-membraneux et de la bourse semi-membraneuse par des ostéophytes sur le plateau tibial médial<a href='#ref2' class='reference'>[2]</a>.",
+          "Selon le degré de gravité, le traitement conservateur (physiothérapie, AINS) peut être envisagé, sans quoi il faut recourir à une approche médico-chirurgicale (classiquement, l'infiltration de corticostéroïdes ou l'excision de la gaine du tendon du semi-membraneux)<a href='#ref2' class='reference'>[2]</a>."
+        ]
+      },
+      {
+        "subtitle": "Anévrisme de l'artère poplitée",
+        "text": [
+          "Les anévrismes poplités sont les anévrismes artériels périphériques les plus fréquents (approximativement 70% des cas). S'ils ne sont pas traités, ils peuvent poser de sérieux risques pour le membre inférieur atteint, d'où l'importance de connaître leur présentation clinique (leur découverte peut être fortuite chez les sujets asymptomatiques ou plus complexes). Ils sont significativement plus prévalents chez les hommes (ratio H:F de 10:1 à 30:1) au cours de leur sixième à septième décade.",
+          "Malheureusement, ils passent souvent inaperçus lors de l'examen physique, et il importe donc de connaître les deux principaux facteurs de risques : la présence d'une maladie athérosclérotique sévère et des antécédents d'anévrisme abdominaux. Dans 50% à 70% des cas, les anévrismes poplités sont bilatéraux, et parmi les sujets aux prises avec un anévrisme poplité, 30% à 50% sont également porteurs d'un anévrisme abdominal.",
+          "L'augmentation du volume occupé par l'artère poplitée peut mener à une compression de la veine poplitée, ce qui expose à des risques d'oedème et surtout de thrombose veineuse profonde [TVP]. L'augmentation du risque de TVP n'est cependant pas corrélée avec la gravité (ou les dimensions) de l'anévrisme, et les 'petits' anévrismes ne doivent donc pas être pris à la légère.",
+          "Face à un patient chez qui on suspecte un anévrisme de l'artère poplitée (non-diagnostiqué), le physiothérapeute doit référer en médecine sans attendre, afin que davantage d'investigations soient effectuées."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Complexe de la patte d'oie",
+          "link": "cuisse-et-genou/complexe-patte-d-oie"
+        },
+        {
+          "linkTitle": "Bandelette ilio-tibiale",
+          "link": "cuisse-et-genou/bandelette-ilio-tibiale"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Backhaus, M., G.-R. Burmester, T. Gerber, W. Grassi, K. P. Machold, W. A. Swen, R. J. Wakefield, and B. Manger. “Guidelines for Musculoskeletal Ultrasound in Rheumatology.” Annals of the Rheumatic Diseases 60, no. 7 (July 1, 2001): 641–49. doi:10.1136/ard.60.7.641."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Ellis, Richard, Wayne Hing, Andrew Dilley, and Peter McNair. “Reliability of Measuring Sciatic and Tibial Nerve Movement with Diagnostic Ultrasound During a Neural Mobilisation Technique.” Ultrasound in Medicine & Biology 34, no. 8 (August 2008): 1209–16. doi:10.1016/j.ultrasmedbio.2008.01.003."
+        },
+        {
+          "text": "Martinoli, Carlo. “Musculoskeletal Ultrasound: Technical Guidelines.” Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "McDonald, Daniel G., and George R. Leopold. “Ultrasound B-Scanning in the Differentiation of Baker’s Cyst and Thrombophlebitis.” The British Journal of Radiology 45, no. 538 (October 1, 1972): 729–32. doi:10.1259/0007-1285-45-538-729."
+        },
+        {
+          "text": "O’Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        },
+        {
+          "text": "Quinlan, Daniel J., Raza Alikhan, Philip Gishen, and Paul S. Sidhu. “Variations in Lower Limb Venous Anatomy: Implications for US Diagnosis of Deep Vein Thrombosis.” Radiology 228, no. 2 (August 1, 2003): 443–48. doi:10.1148/radiol.2282020411."
+        },
+        {
+          "text": "Schwemmer, U, C K Markus, C A Greim, J Brederlau, M Kredel, and N Roewer. “Sonographic Imaging of the Sciatic Nerve Division in the Popliteal Fossa.” Ultraschall in der Medizin 26, no. 06 (2005): 496–500. doi:10.1055/s-2005-858531."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Practical Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Torreggiani, W. C., K. Al-Ismail, P. L. Munk, C. Roche, C. Keogh, S. Nicolaou, and L. O. Marchinkow. “The Imaging Spectrum of Baker’s (Popliteal) Cysts.” Clinical Radiology 57, no. 8 (August 2002): 681–91. doi:10.1053/crad.2001.0917."
+        },
+        {
+          "text": "Ward, Eric E., Jon A. Jacobson, David P. Fessell, Curtis W. Hayes, and Marnix van Holsbeeck. “Sonographic Detection of Baker’s Cysts.” American Journal of Roentgenology 176, no. 2 (February 1, 2001): 373–80. doi:10.2214/ajr.176.2.1760373."
+        }
+      ]
+    }
+  }
+}

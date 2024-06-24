@@ -1,0 +1,164 @@
+{
+  "title": "",
+  "latinName": "",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [{ "data": "Type de muscle", "header": true }, { "data": "" }],
+        [{ "data": "Origine", "header": true }, { "data": "" }],
+        [{ "data": "Insertion", "header": true }, { "data": "" }],
+        [{ "data": "Innervation", "header": true }, { "data": "" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Mesure", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plan", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [{ "data": "" }, { "data": "" }, { "data": "" }, { "data": "" }],
+        [{ "data": "" }, { "data": "" }],
+        [{ "data": "" }, { "data": "" }, { "data": "" }],
+        [{ "data": "" }, { "data": "" }]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": ["", "", ""]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": ["", ""]
+      }
+    ],
+    "applicationDynamique": {
+      "title": "Application Dynamique",
+      "iframe": ""
+    },
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "",
+        "objectifs": ["", ""],
+        "parametres": ["", "", ""],
+        "positionnement": ["", "", ""],
+        "imagePositionnement": [{ "path": "", "descriptionText": "" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": [""],
+                "texte": [""]
+              },
+              {
+                "acronymes": [""],
+                "texte": [""]
+              },
+              {
+                "acronymes": [""],
+                "texte": [""]
+              },
+              {
+                "acronymes": [""],
+                "texte": [""]
+              }
+            ],
+            "imageIdentification": [{ "path": "", "descriptionText": "" }]
+          }
+        ]
+      },
+      {
+        "title": "Vue Transversale",
+        "source": "",
+        "objectifs": ["", ""],
+        "parametres": ["", "", ""],
+        "positionnement": ["", "", ""],
+        "imagePositionnement": [{ "path": "", "descriptionText": "" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": [""],
+                "texte": [""]
+              },
+              {
+                "acronymes": [""],
+                "texte": [""]
+              },
+              {
+                "acronymes": [""],
+                "texte": [""]
+              },
+              {
+                "acronymes": [""],
+                "texte": [""]
+              }
+            ],
+            "imageIdentification": [{ "path": "", "descriptionText": "" }]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "",
+        "text": ["", "", ["", ""], ""]
+      },
+      {
+        "subtitle": "",
+        "text": ["", "", "", "", "", "", "", ""]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "",
+          "link": ""
+        },
+        {
+          "linkTitle": "",
+          "link": ""
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        { "text": "" },
+        { "text": "" },
+        { "text": "" },
+        { "text": "" },
+        { "text": "" },
+        { "text": "" },
+        { "text": "" },
+        { "text": "" }
+      ]
+    }
+  }
+}

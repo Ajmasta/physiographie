@@ -1,0 +1,342 @@
+{
+  "title": "Ligament patellaire",
+  "latinName": "Ligamentum patellae",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Attaches", "header": true, "rowspan": 2 },
+          { "data": "En proximal : Pôle inférieur de la patella" }
+        ],
+        [{ "data": "En distal : tubérosité tibiale" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Mesure", "header": true },
+          { "data": "Plan", "header": true },
+          { "data": "Type de sujet", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [
+          { "data": "Ligament patellaire", "rowspan": 11 },
+          { "data": "Longueur (mm)" },
+          { "data": "N/A" },
+          { "data": "Symptomatique ou non**" },
+          { "data": "53 ± 6 <a href='#ref11' class='reference'>[11]</a>" }
+        ],
+        [
+          { "data": "Épaisseur(mm)", "rowspan": 3 },
+          { "data": "Portion proximale du ligament", "rowspan": 2 },
+          { "data": "Asymptomatique" },
+          { "data": "3,8 ± 1,1 <a href='#ref11' class='reference'>[11]</a>" }
+        ],
+        [
+          { "data": "Symptomatique" },
+          { "data": "6,2 ± 2,2 <a href='#ref11' class='reference'>[11]</a>" }
+        ],
+        [
+          { "data": "Point milieu du ligament" },
+          { "data": "Symptomatique ou non**" },
+          { "data": "4,0 ± 0,6 <a href='#ref11' class='reference'>[11]</a>" }
+        ],
+        [
+          { "data": "Largeur (mm)", "rowspan": 3 },
+          { "data": "Portion proximale du ligament" },
+          { "data": "Symptomatique ou non**" },
+          { "data": "33 ± 3 <a href='#ref11' class='reference'>[11]</a>" }
+        ],
+        [
+          { "data": "Point milieu du ligament", "rowspan": 2 },
+          { "data": "Asymptomatique" },
+          { "data": "36 ± 3 <a href='#ref11' class='reference'>[11]</a>" }
+        ],
+        [
+          { "data": "Symptomatique" },
+          { "data": "37 ± 6 <a href='#ref11' class='reference'>[11]</a>" }
+        ],
+        [
+          { "data": "Aire de section transversale (cm2)", "rowspan": 4 },
+          { "data": "Portion proximale du ligament", "rowspan": 2 },
+          { "data": "Asymptomatique" },
+          { "data": "99 ± 29 <a href='#ref11' class='reference'>[11]</a>" }
+        ],
+        [
+          { "data": "Symptomatique" },
+          { "data": "161 ± 60 <a href='#ref11' class='reference'>[11]</a>" }
+        ],
+        [
+          { "data": "Point milieu du ligament", "rowspan": 2 },
+          { "data": "Asymptomatique" },
+          { "data": "108 ± 20 <a href='#ref11' class='reference'>[11]</a>" }
+        ],
+        [
+          { "data": "Symptomatique" },
+          { "data": "120 ± 19 <a href='#ref11' class='reference'>[11]</a>" }
+        ]
+      ],
+      "text": [
+        "** Symptomatique ou non : Lorsque la différence entre les sujets symptomatiques et asymptomatiques n'était pas statistiquement significative (p > 0,05), la mesure dans ce tableau correspond à la moyenne des mesures pour chaque type de sujet."
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Décubitus dorsal, avec le genou et le tiers inférieur de la cuisse découvert",
+          "Une flexion de genoux de 20-30° (à l'aide d'un oreiller sous le creux poplité) permet une légère mise en tension du mécanisme extenseur, ce qui réduit ainsi les problèmes reliés à l'anisotropie des tendons antérieurs (causée par leur profil concave lorsque le genou est en pleine extension)<a href='#ref3' class='reference'>[3]</a><a href='#ref12' class='reference'>[12]</a>"
+        ],
+        "images": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Position du sujet, jambe allongée"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Position du sujet, jambe légèrement fléchie"
+          }
+        ],
+        "source": "/Protocols/ligamentPatellaire/"
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer et palper la patella, le pôle inférieur (apex) ainsi que les rebords médio-latéraux",
+          "Palper le ligament patellaire en progressant distalement, jusqu'à la tubérosité tibiale"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/ligamentPatellaire/vueLongitudinale/",
+        "objectifs": [
+          "Examen du ligament patellaire et de son insertion sur la tubérosité tibiale",
+          "Observation du coussinet graisseux de Hoffa"
+        ],
+        "parametres": ["Profondeur : 2 cm", "Gain : 70", "G/3/3"],
+        "positionnement": [
+          "En vue longitudinale (parallèle au long axe du tibia), placer la sonde sur le ligament patellaire, de manière à ce que son extrémité distale soit alignée avec le rebord supérieur (crânial) de la tubérosité tibiale",
+          "Au besoin, balayer lentement la sonde en proximal et en distal afin de couvrir l'ensemble des structures d'intérêt (voir ci-bas)",
+          ""
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["LP"],
+                "texte": [
+                  "Le ligament patellaire apparaît comme une épaisse bande hyperéchoïque, d'échotexture fibrillaire"
+                ]
+              },
+              {
+                "acronymes": ["T"],
+                "texte": [
+                  "Le tibia est présent dans la portion inférieure droite le l'image. On peut distinguer l'os cortical qui prend l'apparence d'un trait fortement hyperéchoïque au-dessus d'une région hypoéchoïque (l'os cortical ne laissant pas passer les ultrasons)"
+                ]
+              },
+              {
+                "acronymes": ["CGH"],
+                "texte": [
+                  "Le coussinet graisseux de Hoffa, zone d'échogénicité mixte, se trouve au centre de l'image, sous le ligament patellaire et à la gauche du tibia. On peut noter la présence de lobules graisseux de taille variable et d'allure désorganisée."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Ligament patellaire"
+              },
+              { "path": "identification3.jpg", "descriptionText": "Tibia" },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Coussinet graisseux de Hoffa"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/ligamentPatellaire/vueTransversale/",
+        "objectifs": [
+          "Examen du tendon quadricipital (et de ses faisceaux constituants)"
+        ],
+        "parametres": ["Profondeur : 2 cm", "Gain : 70", "G/3/3"],
+        "positionnement": [
+          "Tourner la sonde de 90° par rapport à la vue longitudinale"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["LP"],
+                "texte": [
+                  "Le ligament patellaire occupe la portion centrale de l'image, et apparaît comme une zone hyperéchoïque circonscrite (en superficie et en profondeur) par un trait hyperéchoïque. Sur les clichés représentant le ligament patellaire avec anisotropie (images 3/4 et 4/4), on peut clairement dénoter l'apparence hypoéchoïque du ligament patellaire, ce qui permet de le distinguer des tissus environnants qui ne sont pas susceptibles à l'anistropie (p.ex.: tissus adipeux, osseux)."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Ligament patellaire (sans anisotropie)",
+                "acronym": "LP"
+              },
+              { "path": "identification3.jpg" },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Ligament patellaire (avec anisotropie)",
+                "acronym": "LP"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "L'appellation 'tendon patellaire', bien que très commune, est sujette à controverse. En effet, puisque cette structure relie deux points osseux (la patella et le tibia), par définition, le terme exact serait celui de 'ligament patellaire'. Cependant, lorsqu'étudié sur le plan histologique, le ligament patellaire démontre une structure bien différente de celle qui est normalement rencontrée chez les ligaments (bien que l'organisation des ligaments soit sujette à un certain degré de variabilité). En effet, il faut comprendre que le collagène (la protéine qui constitue une grande portion des ligaments et tendons) possède une architecture bien différente selon le type de tissus dans lequel il se trouve. Parmi les caractéristiques du collagène qui sont les plus étudiées en histologie, on retrouve<a href='#ref7' class='reference'>[7]</a><a href='#ref9' class='reference'>[9]</a> :",
+          "<ul class='margin-left'><li>L'épaisseur des faisceaux ('bundle width')</li><li>La morphologie cellulaire</li><li>Le ratio fibrilles / tissu interstitiel</li><li>La densité des fibroblastes</li><li>Les caractéristiques d'ondulation ('crimp') des fibres de collagène (dont la période et l'amplitude des ondulations)</li></ul>",
+          "Le ligament patellaire possède une morphologie cellulaire et des caractéristiques d'ondulations similaires au tendon d'Achille. Cependant, lorsque comparé aux tendons des muscles ischio-jambiers, le ligament patellaire possède des différences (statistiquement significatives) au niveau de la densité des fibroblastes et du ratio fibrilles / tissu interstitiel. Finalement, l'épaisseur des faisceaux de collagène tend à être assez similaire chez les tendons et ligaments, et ne peut donc pas être utilisée comme critère distinctif. En somme, le ligament patellaire possède des attributs histologiques tantôt tendineux, tantôt ligamentaires, et tantôt atypiques de l'un ou l'autre des tissus<a href='#ref7' class='reference'>[7]</a><a href='#ref9' class='reference'>[9]</a>.",
+          "Au point de vue fonctionnel, le ligament patellaire possède un rôle qui est normalement joué par les tendons. En effet, sa participation au mécanisme extenseur du genou fait de lui un maillon essentiel à cette articulation, sans quoi le quadriceps fémoral ne pourrait accomplir sa fonction principale.",
+          "Dans la littérature scientifique, les deux termes (tendon vs ligament) semblent être utilisés de manière relativement interchangeable, et en présence de données histologiques assez hétérogènes, le choix de l'appellation est pour l'instant assez arbitraire (aucun des deux termes n'étant foncièrement erroné).",
+          "Le ligament patellaire prend origine sur la face antérieure et les rebords médiaux & latéraux de la patella et recouvre les deux tiers inférieurs de cette dernière<a href='#ref2' class='reference'>[2]</a>. Les fibres quittent ensuite le pôle inférieur (apex) de la patella pour aller s'insérer au niveau de la tubérosité tibiale<a href='#ref3' class='reference'>[3]</a>. Le ligament patellaire est légèrement excentré par rapport au centre de la patella, puisqu'un peu plus de 60% de sa largeur est située en latéral de l'apex<a href='#ref12' class='reference'>[12]</a>.",
+          "Il existe une variante anatomique (relativement fréquente<a href='#ref2' class='reference'>[2]</a>) où le ligament patellaire prend plutôt origine au niveau de la surface postérieure de l'apex de la patella, dont le degré de pertinence en clinique ne semble pas encore avoir été établi (c.-à-d. que nous ignorons toujours s'il s'agit ou non d'un facteur de risque pour des conditions comme les tendinopathies patellaires).",
+          "Sous le ligament patellaire se trouve le coussinet adipeux de Hoffa (aussi appelé corps/paquet adipeux de Hoffa, paquet adipeux infra-patellaire ('Hoffa's fat pad'), une structure interposée entre les condyles fémoraux et la patella dont le rôle d'absorption des chocs permet la protection des structures sous-jacentes. Le coussinet adipeux de Hoffa est intra-capsulaire, mais extra-synovial, ce qui comporte son lot d'implications cliniques (voir la section Pertinence Clinique)<a href='#ref3' class='reference'>[3]</a>.",
+          "La bourse infra-patellaire est une bourse de petite taille située en antérieur du tibia proximal, tout juste sous la portion distale du ligament patellaire<a href='#ref2' class='reference'>[2]</a>."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Tendinopathie patellaire ('Jumper's knee')",
+        "text": [
+          "La tendinopathie patellaire (aussi connue sous le nom de 'jumper's knee') est une condition retrouvée spécialement chez les adeptes de sports comportant de fréquents sauts maximaux, dont le volleyball<a href='#ref11' class='reference'>[11]</a>, ou de fréquentes et puissantes contractions du quadriceps (comme le coup de pied au soccer, ou la course à pieds)<a href='#ref3' class='reference'>[3]</a>. Le diagnostic clinique de la tendinopathie patellaire repose surtout sur la présence d'une douleur à la palpation du pôle inférieur de la patella. Normalement, la douleur est maximale lorsque le genou est étendu avec le quadriceps fémoral relâché. La confirmation du diagnostic implique normalement l'utilisation d'imagerie par résonnance magnétique [IRM]<a href='#ref15' class='reference'>[15]</a>. Bon nombre de signes histopathologiques sont également retrouvés au sein du ligament patellaire, dont une déchirure des fibres de collagène, suivie d'une dégénération mucoïde<a href='#ref3' class='reference'>[3]</a>.",
+          "Les cas plus légers répondent normalement bien à un traitement conservateur (incluant la glace et un repos relatif), alors que les cas plus sévère et/ou chroniques nécessitent souvent un traitement chirurgical<a href='#ref3' class='reference'>[3]</a>.",
+          "À l'examen ultrasonographique, on retrouve un foyer hypoéchoïque au sein de la portion centrale (profonde) du ligament à proximité de l'insertion du ligament. Lorsque visualisé en vue transversale, le ligament patellaire présente classiquement une portion centrale affectée par des signes dégénératifs, alors que les côtés médio-latéraux demeurent essentiellement intacts<a href='#ref3' class='reference'>[3]</a>. De plus, il a été démontré que l'imagerie par ultrasonographie est hautement précise pour le diagnostic de ruptures du ligament patellaire (ultérieurement confirmées via chirurgie)<a href='#ref11' class='reference'>[11]</a>."
+        ]
+      },
+      {
+        "subtitle": "Syndrome de Hoffa ('Hoffa's fat pad impingement')<a href='#ref16' class='reference'>[16]</a>",
+        "text": [
+          "Les atteintes du coussinet graisseux de Hoffa sont souvent le résultat de traumatismes ou de processus dégénératifs. Malgré que cette structure soit souvent sujette à des blessures, il existe assez peu de littérature scientifique sur le sujet.",
+          "Le terme 'syndrome de Hoffa', ou syndrome de coincement postérieur ('posterior impingement syndrome') réfère à un mécanisme où le coussinet graisseux de Hoffa est 'pincé' (ou 'coincé') entre la patella et le fémur. Il existe un autre type de mécanisme de coincement, qui est le plus fréquemment retrouvé, où l'apex du coussinet graisseux est pincé par le condyle fémoral latéral.",
+          "Le coussinet graisseux de Hoffa peut être lésé dans d'autre conditions, sans qu'il n'y ait de mécanisme de pincement. On retrouve notamment : les traumatismes majeurs du genou (spécialement lors de multiples blessures ligamentaires), les luxations patellaires, et surtout suite à une arthroscopie (qui est la cause #1 de lésion du coussinet graisseux de Hoffa)."
+        ]
+      },
+      {
+        "subtitle": "Bursite infra-patellaire<a href='#ref3' class='reference'>[3]</a>",
+        "text": [
+          "La bursite infra-patellaire peut être causée par un trauma direct isolé ou par de nombreux micro-traumas. De plus, les atteintes de la bourse infra-patellaire sont souvent associées à une tendinopathie de la portion distale du ligament patellaire.",
+          "À l'imagerie par ultrasonographie, on retrouve une apparence anormalement hypoéchoïque de la portion distale du ligament patellaire, laquelle peut être accompagnée ou non de liquide au sein de la bourse infra-patellaire.",
+          "Il faut noter qu'il peut être normal de retrouver une petite quantité de liquide au sein de la bourse infra-patellaire, et que cette observation ne fournit donc pas, à elle seule, d'information critique. Il importe donc d'effectuer un examen physique complet, en plus de procéder à une comparaison avec le genou controlatéral.",
+          "Lorsque l'imagerie par ultrasonographie est utilisée (dans le cas d'une potentielle bursite infra-patellaire), il est primordial de procéder à un examen en vue transverse, puisque le liquide tend à s'accumuler aux extrémités médio-latérales de la bourse (et non pas au centre). Ainsi, un simple examen longitudinal du ligament patellaire au niveau de la ligne médiane ne pourrait mettre en évidence la présence de liquide."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Tendon quadricipital",
+          "link": "protocoles/cuisse-genou/tendons-quadricipital"
+        },
+        {
+          "linkTitle": "Quadriceps",
+          "link": "protocoles/cuisse-genou/quadriceps"
+        },
+        {
+          "linkTitle": "Tubérosité tibiale",
+          "link": "protocoles/cuisse-genou/tuberosite-tibiale"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Amiel, David, Jeffrey B. Kleiner, Richard D. Roux, Frederick L. Harwood, and Wayne H. Akeson. “The Phenomenon of ‘Ligamentization’: Anterior Cruciate Ligament Reconstruction with Autogenous Patellar Tendon.” Journal of Orthopaedic Research 4, no. 2 (January 1, 1986): 162–72. doi:10.1002/jor.1100040204."
+        },
+        {
+          "text": "Basso, O., D. P. Johnson, and A. A. Amis. “The Anatomy of the Patellar Tendon.” Knee Surgery, Sports Traumatology, Arthroscopy 9, no. 1 (July 27, 2000): 2–5. doi:10.1007/s001670000133."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Bianchi, S, A Zwass, I F Abdelwahab, and A Banderali. “Diagnosis of Tears of the Quadriceps Tendon of the Knee: Value of Sonography.” American Journal of Roentgenology 162, no. 5 (May 1994): 1137–40. doi:10.2214/ajr.162.5.8165998."
+        },
+        {
+          "text": "DeFrate, Louis E., Kyung Wook Nha, Ramprasad Papannagari, Jeremy M. Moses, Thomas J. Gill, and Guoan Li. “The Biomechanical Function of the Patellar Tendon During In-Vivo Weight-Bearing Flexion.” Journal of Biomechanics 40, no. 8 (2007): 1716–22. doi:10.1016/j.jbiomech.2006.08.009."
+        },
+        {
+          "text": "Fornage, Bd, Md Rifkin, Dh Touche, and Pm Segal. “Sonography of the Patellar Tendon: Preliminary Observations.” American Journal of Roentgenology 143, no. 1 (July 1984): 179–82. doi:10.2214/ajr.143.1.179."
+        },
+        {
+          "text": "Hadjicostas, Panayiotis T., Panayotis N. Soucacos, Hans H. Paessler, Nadezda Koleganova, and Irina Berger. “Morphologic and Histologic Comparison between the Patella and Hamstring Tendons Grafts: A Descriptive and Anatomic Study.” Arthroscopy: The Journal of Arthroscopic & Related Surgery: Official Publication of the Arthroscopy Association of North America and the International Arthroscopy Association 23, no. 7 (July 2007): 751–56. doi:10.1016/j.arthro.2007.02.002."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Johnson, Donald Hugh, and Robert A. Pedowitz. Practical Orthopaedic Sports Medicine and Arthroscopy. Lippincott Williams & Wilkins, 2007."
+        },
+        {
+          "text": "Khan, Dr Karim M., Jill L. Cook, Fiona Bonar, Peter Harcourt, and Mats Åstrom. “Histopathology of Common Tendinopathies.” Sports Medicine 27, no. 6 (November 27, 2012): 393–408. doi:10.2165/00007256-199927060-00004."
+        },
+        {
+          "text": "Lian, ø., K. J. Holen, L. Engebretsen, and R. Bahr. “Relationship between Symptoms of Jumper’s Knee and the Ultrasound Characteristics of the Patellar Tendon among High Level Male Volleyball Players.” Scandinavian Journal of Medicine & Science in Sports 6, no. 5 (February 15, 2008): 291–96. doi:10.1111/j.1600-0838.1996.tb00473.x."
+        },
+        {
+          "text": "Martinoli, Carlo. “Musculoskeletal Ultrasound: Technical Guidelines.” Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Mattias Lidén, Tomas Movin. “A Histological and Ultrastructural Evaluation of the Patellar Tendon 10 Years after Reharvesting Its Central Third.” The American Journal of Sports Medicine 36, no. 4 (2008): 781–88. doi:10.1177/0363546507311092."
+        },
+        {
+          "text": "McCarthy, Pierce, III, and Bernard R. Jr. Bach. “Anatomy, Biology and Biomechanics of Patellar Tendon Autograft: Techniques in Orthopaedics.” Techniques in Orthopaedics, Lippincott Williams & Wilkins, Inc., 20, no. 4 (2005): 342–52."
+        },
+        {
+          "text": "Rath, Ehud, Ran Schwarzkopf, and John C Richmond. “Clinical Signs and Anatomical Correlation of Patellar Tendinitis.” Indian Journal of Orthopaedics 44, no. 4 (2010): 435–37. doi:10.4103/0019-5413.69317."
+        },
+        {
+          "text": "Saddik, D., E. G. McNally, and M. Richardson. “MRI of Hoffa’s Fat Pad.” Skeletal Radiology 33, no. 8 (June 19, 2004): 433–44. doi:10.1007/s00256-003-0724-z."
+        },
+        {
+          "text": "Stäubli, H.-U., L. Schatzmann, P. Brunner, L. Rincón, and L.-P. Nolte. “Quadriceps Tendon and Patellar Ligament: Cryosectional Anatomy and Structural Properties in Young Adults.” Knee Surgery, Sports Traumatology, Arthroscopy 4, no. 2 (June 1, 1996): 100–110. doi:10.1007/BF01477262."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Practical Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Warden, Stuart J., Zoltan S. Kiss, Frank A. Malara, Alistair B. T. Ooi, Jill L. Cook, and Kay M. Crossley. “Comparative Accuracy of Magnetic Resonance Imaging and Ultrasonography in Confirming Clinically Diagnosed Patellar Tendinopathy.” The American Journal of Sports Medicine 35, no. 3 (March 1, 2007): 427–36. doi:10.1177/0363546506294858."
+        }
+      ]
+    }
+  }
+}

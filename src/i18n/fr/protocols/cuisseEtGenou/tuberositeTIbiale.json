@@ -1,0 +1,200 @@
+{
+  "title": "Tubérosité tibiale",
+  "latinName": "Tuberositas tibiae",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Site d'attache pour", "header": true },
+          { "data": "Ligament (ou tendon) patellaire distal" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [],
+      "text": ["Aucune donnée disponible dans la littérature"]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Décubitus dorsal, avec le genou et le tiers inférieur de la cuisse découvert",
+          "Une flexion de genoux de 20-30° (à l'aide d'un oreiller sous le creux poplité) permet une légère mise en tension du mécanisme extenseur, ce qui réduit ainsi les problèmes reliés à l'anisotropie des tendons antérieurs (causée par leur profil concave lorsque le genou est en pleine extension)<a href='#ref2' class='reference'>[2]</a><a href='#ref3' class='reference'>[3]</a>"
+        ],
+        "images": [
+          {
+            "path": "positionnement1.jpg",
+            "description": "Position du sujet, jambe allongée"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "description": "Position du sujet, jambe légèrement fléchie"
+          }
+        ],
+        "source": "/Protocols/tuberositeTibiale/"
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer et palper la tubérosité tibiale, le ligament patellaire ainsi que les interlignes articulaires (interne et externe) de l'articulation tibio-fémorale"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/tuberositeTibiale/vueLongitudinale/",
+        "objectifs": [
+          "Visualisation de la tubérosité tibiale",
+          "Si possible (selon l'équipement et l'anatomie du sujet), visualisation de la bourse infra-patellaire"
+        ],
+        "parametres": ["Profondeur : 2 cm", "Gain : 70", "G/3/3"],
+        "positionnement": [
+          "En vue longitudinale (parallèle au long axe de la cuisse), placer la sonde 5 cm en distal de la patella, approximativement alignée avec la ligne médiane"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["TT"],
+                "texte": [
+                  "La tubérosité tibiale apparaît à la portion droite de l'image, sous la forme d'une zone arrondie bordée d'un trait hyperéchoïque"
+                ]
+              },
+              {
+                "acronymes": ["LP"],
+                "texte": [
+                  "Le ligament patellaire est bien visible à la portion centrale de l'image, qu'il traverse de gauche (plus étroit) à droite (plus large). On peut apprécier son organisation fibrillaire, où une alternance de fins traits hyper- et hypoéchoïques sont présents dans l'axe longitudinal du ligament."
+                ]
+              },
+              {
+                "acronymes": ["BIP"],
+                "texte": [
+                  "La bourse infra-patellaire, souvent absente lors de l'examen ultrasonographique, est ici visible tout juste sous l'insertion (distale) du ligament patellaire. Elle prend la forme d'une zone hypoéchoïque arrondie de petite taille."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Tubérosité tibiale"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Ligament patellaire"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Bourse patellaire"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "La tubérosité tibiale est un relief osseux qui se situe à l'aspect antérieur de la métaphyse proximale du tibia, approximativement 5 cm sous l'apex (pôle inférieur) de la patella<a href='#ref2' class='reference'>[2]</a>. Son importance est en grande partie due au fait qu'elle est le site d'insertion du <a href='protocoles/cuisse-et-genou/ligament-patellaire' class='underline'> ligament (ou tendon) patellaire </a>, et de la pathologie dans laquelle est le plus souvent impliquée, le syndrome d'Osgood-Schlatter (voir la section pertinence clinique ci-bas).",
+          "De plus, nous vous invitons à consulter les pages sur le <a href='protocoles/cuisse-et-genou/tendon-quadricipital' class='underline'>tendon quadricipital </a> et le <a href='protocoles/cuisse-et-genou/quadriceps' class='underline'> quadriceps fémoral </a>."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Maladie d'Osgood-Schlatter",
+        "text": [
+          "La maladie d'Osgood-Schlatter (MOS) est une apophysite de traction qui affecte la tubérosité tibiale, suite à une traction excessive et répétée de la part du ligament patellaire. Les apophysites telles que la MOS affectent les enfants âgés de 10 à 15 ans adeptes de sports de sauts. Les traumatismes de traction à l'insertion du ligament patellaire, lorsque répétés, génèrent des dommages au sein du cartilage apophysaire qui varient grandement selon certains facteurs, dont<a href='#ref2' class='reference'>[2]</a> :",
+          [
+            "Force/résistance mécanique des tissus qui transmettent la force de traction",
+            "Taille de l'articulation",
+            "Âge du sujet",
+            "Stade de développement osseux"
+          ],
+          "Le mécanisme physiopathologique proposé est le suivant<a href='#ref2' class='reference'>[2]</a> :",
+          [
+            "Traumatismes chroniques en traction au niveau du cartilage apophysaire par le ligament/tendon",
+            "Micro-déchirures et élargissement de la plaque de croissance",
+            "Avulsion de fragments ostéochondraux avec une tendinopathie au sein de l'insertion du ligament (patellaire dans ce cas-ci)"
+          ],
+          "L'imagerie par ultrasonographie peut être utile à la visualisation de nombreux signes suggestifs d'une MOS, tels que la présence de fragments calcifiés, d'une bursite infra-patellaire, d'irrégularités des contours osseux de la tubérosité tibiale<a href='#ref2' class='reference'>[2]</a>."
+        ]
+      },
+      {
+        "subtitle": "Maladie de Sinding-Larsen-Johansson",
+        "text": [
+          "À l'instar de la maladie d'Osgood-Schlatter, la maladie de Sinding-Larsen-Johansson [MSLJ] est une apophysite de traction qui affecte non pas la tubérosité tibiale, mais bien l'apex (dôme inférieur) de la patella. Elle est parfois surnommée 'genou du sauteur pédiatrique' ('pediatric jumper's knee'), et affecte également les enfants âgés de 10 à 15 ans<a href='#ref2' class='reference'>[2]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Ligament / tendon patellaire",
+          "link": "cuisse-genou/ligament-patellaire"
+        },
+        {
+          "linkTitle": "Tendon quadricipital",
+          "link": "cuisse-genou/tendon-quadricipital"
+        },
+        {
+          "linkTitle": "Quadriceps",
+          "link": "cuisse-genou/quadriceps"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Balint, P. V., D. Kane, H. Wilson, I. B. McInnes, and R. D. Sturrock. “Ultrasonography of Entheseal Insertions in the Lower Limb in Spondyloarthropathy.” Annals of the Rheumatic Diseases 61, no. 10 (October 1, 2002): 905–10. doi:10.1136/ard.61.10.905."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Martinoli, Carlo. “Musculoskeletal Ultrasound: Technical Guidelines.” Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Flaviis, Luca De, Renato Nessi, Pietro Scaglione, Giuseppe Balconi, Walter Albisetti, and Lorenzo E. Derchi. “Ultrasonic Diagnosis of Osgood-Schlatter and Sinding-Larsen-Johansson Diseases of the Knee.” Skeletal Radiology 18, no. 3 (May 1989): 193–97. doi:10.1007/BF00360969."
+        },
+        {
+          "text": "Gholve, Purushottam A, David M Scher, Saurabh Khakharia, Roger F Widmann, and Daniel W Green. “Osgood Schlatter Syndrome:” Current Opinion in Pediatrics 19, no. 1 (February 2007): 44–50. doi:10.1097/MOP.0b013e328013dbea."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "O’Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Practical Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Stevens, Max A., Georges Y. El-Khoury, Mary H. Kathol, Eric A. Brandser, and Shirley Chow. “Imaging Features of Avulsion Injuries.” RadioGraphics 19, no. 3 (May 1, 1999): 655–72. doi:10.1148/radiographics.19.3.g99ma05655."
+        }
+      ]
+    }
+  }
+}

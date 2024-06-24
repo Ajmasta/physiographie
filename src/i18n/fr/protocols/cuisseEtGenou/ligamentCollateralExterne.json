@@ -1,0 +1,205 @@
+{
+  "title": "Ligament collatéral externe",
+  "latinName": "Ligamentum collaterale laterale",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Attaches", "header": true, "rowspan": 2 },
+          { "data": "En proximal : Fémur, épicondyle latéral" }
+        ],
+        [{ "data": "En distal : Tibia, aspect latéral" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Mesure", "header": true },
+          { "data": "Plan / Site", "header": true },
+          { "data": "Position du genou", "header": true },
+          { "data": "Moyenne (min-max)", "header": true }
+        ],
+        [
+          { "data": "Ligament collatéral externe", "rowspan": 3 },
+          { "data": "Longueur (mm)" },
+          { "data": "Plan longitudinal (origine ad insertion)" },
+          { "data": "Extension maximale" },
+          {
+            "data": "65,3 (53,8 - 72,8) <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Aire de surface transversale (cm2)", "rowspan": 2 },
+          { "data": "Attache fémorale" },
+          { "data": "N/A (étude cadavérique avec dissection)", "rowspan": 2 },
+          {
+            "data": "0,48 (0,43 - 0,52) <a href='#ref12' class='reference'>[12]</a>"
+          }
+        ],
+        [
+          { "data": "Attache fibulaire" },
+          {
+            "data": "0,43 (0,39 - 0,50) <a href='#ref12' class='reference'>[12]</a>"
+          }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Décubitus dorsal, membre inférieur en légère rotation interne, avec le genou maintenu à environ 20-30° de flexion<a href='#ref1' class='reference'>[1]</a>"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer et palper la tête fibulaire, le plateau tibial externe et l'épicondyle latéral du fémur"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/ligamentCollateralExterne/vueLongitudinale/",
+        "objectifs": ["Examen du ligament collatéral externe"],
+        "parametres": ["Profondeur : 2 cm", "Gain : 80", "G/3/3"],
+        "positionnement": [
+          "En vue longitudinale (parallèle au long axe du tibia), placer l'extrémité distale (caudale) de la sonde sur la tête de la fibula",
+          "Tourner lentement la sonde jusqu'à obtention d'une image du LCE aussi allongée que possible, c.-à-d. quand la sonde sera superposée avec le ligament de manière optimale<a href='#ref1' class='reference'>[1]</a>",
+          ""
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["F"],
+                "texte": [
+                  "Le fémur apparaît à la portion inférieure gauche de l'image comme une zone incurvée (deux côtés convexes et un milieu concave) aux marges hyperéchoïques"
+                ]
+              },
+              {
+                "acronymes": ["T"],
+                "texte": [
+                  "Le tibia apparaît à la droite (en distal) du fémur, et peut être reconnu par son os cortical (hyperéchoïque) qui est très peu perméable au faisceau d'ultrasons (ce qui explique la présence de la zone hypoéchoïque sous ce dernier)."
+                ]
+              },
+              {
+                "acronymes": ["LCE"],
+                "texte": [
+                  "Le ligament collatéral est visible en superficie du tibia et du fémur, et prend l'apparence d'Une bande légèrement hyperéchoïque d'échotexture fibrillaire et aux marges bien définies."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Fémur" },
+              { "path": "identification3.jpg", "descriptionText": "Tibia" },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Ligament collatéral externe"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Le ligament collatéral (ou latéral) externe [LCE] est un ligament de l'aspect postéro-latéral du genou qui fait partie des structures stabilisatrices (de support) du genou latéral ('lateral supporting structures of the knee'). À l'instar de l'aspect médial du genou, les structures stabilisatrices de l'aspect latéral du genou sont organisées en trois couches, selon leur profondeur relative. Des structures les moins profondes (plus superficielles) aux plus profondes, on retrouve :<a href='#ref1' class='reference'>[1]</a>",
+          "<ul class='margin-left'><li>Couche superficielle : la bandelette ilio-tibiale (en antérieur) et le tendon du biceps fémoral (en postérieur)</li><li>Couche intermédiaire : le rétinaculum patellaire externe & les ligaments patello-fémoraux (en antérieur) et le ligament collatéral externe (en postérieur)</li><li>Couche profonde : la portion latérale de la capsule articulaire et les ligaments poplité arqué et fabello-fibulaire</li></ul>",
+          "Certaines structures stabilisatrices du genou sont parfois regroupées sous les terme de 'complexe ligamentaire arqué' ou de 'complexe ligamentaire postérolatéral' du genou, qui comprend :<a href='#ref4' class='reference'>[4]</a><a href='#ref9' class='reference'>[9]</a>",
+          "<ul class='margin-left'><li>Le ligament collatéral externe</li><li>Le ligament poplité arqué</li><li>Le ligament popléo-fibulaire</li><li>Le ligament fabello-fibulaire (si une fabella est présente)</li><li>Le tiers postérieur de la capsule latérale</li></ul>",
+          "Aussi, de manière variable (selon les auteurs), le terme de 'complexe ligamentaire arqué du genou' peut aussi englober :",
+          "<ul class='margin-left'><li>L'unité tendon-aponévrose formée par le muscle poplité</li><li>Le tendon du biceps fémoral</li><li>Le ligament méniscal poplité</li><li>Le chef externe du muscle gastrocnémien</li></ul>",
+          "Le LCE est le principal frein aux stress en varus du genou, et participe également à bloquer l'hyperextension du genou. De plus, il a été établi que les mouvements en flexion de genou engendrent un relâchement du ligament collatéral externe<a href='#ref1' class='reference'>[1]</a>. Selon une étude effectuée en 2009<a href='#ref12' class='reference'>[12]</a>, le LCE est isométrique (ou presque) pour des angles de flexion du genou allant de 0° à 70°, et pour des angles > 70°, il se raccourcit (donc se relâche) à un rythme de 1,2 mm/10° de flexion de genou (voir le graphique ci-joint, où 'LCL' réfère à 'lateral collateral ligament')."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Blessure au ligament collatéral externe",
+        "text": [
+          "Le LCE est moins souvent blessé que le ligament collatéral interne (ce qui est aussi vrai pour l'ensemble des structures stabilisatrices du genou latéral par rapport au genou médial). Les entorses, élongations ou ruptures du LCE résultent généralement d'un stress excessif en varus, et sont souvent associées à des lésions du ligament croisé antérieur ou à d'autres lésions intra-articulaires<a href='#ref1' class='reference'>[1]</a>.",
+          "Puisque l'imagerie par ultrasonographie est d'une utilité limitée lorsque vient le temps de visualiser les structures intra-articulaires du genou, et considérant que les lésions du LCE sont souvent accompagnées de lésions intra-articulaires, l'imagerie par résonnance magnétique est généralement utilisée lorsqu'une lésion du LCE est suspectée<a href='#ref1' class='reference'>[1]</a>.",
+          "À l'examen ultrasonographique, le ligament rupturé prend une apparence plus épaissie, et il peut être difficile (voire impossible) de distinguer une rupture partielle d'une rupture complète<a href='#ref1' class='reference'>[1]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Ligament collatéral interne",
+          "link": "/protocoles/cuisse-genou/ligament-collateral-interne"
+        },
+        {
+          "linkTitle": "Bandelette ilio-tibiale",
+          "link": "/protocoles/cuisse-genou/bandelette-ilio-tibiale"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Johnson, Donald Hugh, and Robert A. Pedowitz. Practical Orthopaedic Sports Medicine and Arthroscopy. Lippincott Williams & Wilkins, 2007."
+        },
+        {
+          "text": "Juhng, Seon-Kwan, Joong K. Lee, See-Sung Choi, Kwon-Ha Yoon, Byung-Suk Roh, and Jong-Jin Won. 'MR Evaluation of the \"Arcuate\" Sign of Posterolateral Knee Instability.' American Journal of Roentgenology 178, no. 3 (March 1, 2002): 583–88. doi:10.2214/ajr.178.3.1780583."
+        },
+        {
+          "text": "LaPrade, Robert F., Thuan V. Ly, Fred A. Wentorf, and Lars Engebretsen. 'The Posterolateral Attachments of the Knee A Qualitative and Quantitative Morphologic Analysis of the Fibular Collateral Ligament, Popliteus Tendon, Popliteofibular Ligament, and Lateral Gastrocnemius Tendon*.' The American Journal of Sports Medicine 31, no. 6 (November 1, 2003): 854–60."
+        },
+        {
+          "text": "Martinoli, Carlo. 'Musculoskeletal Ultrasound: Technical Guidelines.' Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Miller, T. T., P. Gladden, R. B. Staron, J. H. Henry, and F. Feldman. 'Posterolateral Stabilizers of the Knee: Anatomy and Injuries Assessed with MR Imaging.' AJR. American Journal of Roentgenology 169, no. 6 (December 1997): 1641–47. doi:10.2214/ajr.169.6.9393184."
+        },
+        {
+          "text": "Munshi, Muhammad, Michael L. Pretterklieber, Sandy Kwak, Gregory E. Antonio, Debra J. Trudell, and Donald Resnick. 'MR Imaging, MR Arthrography, and Specimen Correlation of the Posterolateral Corner of the Knee: An Anatomic Study.' American Journal of Roentgenology 180, no. 4 (April 2003): 1095–1101. doi:10.2214/ajr.180.4.1801095."
+        },
+        {
+          "text": "Pietrini, Sean D., Robert F. LaPrade, Chad J. Griffith, Coen A. Wijdicks, and Connor G. Ziegler. 'Radiographic Identification of the Primary Posterolateral Knee Structures.' The American Journal of Sports Medicine 37, no. 3 (March 1, 2009): 542–51. doi:10.1177/0363546508328117."
+        },
+        {
+          "text": "Sekiya, Jon K., Jon A. Jacobson, and Edward M. Wojtys. 'Sonographic Imaging of the Posterolateral Structures of the Knee: Findings in Human Cadavers.' Arthroscopy: The Journal of Arthroscopic & Related Surgery 18, no. 8 (October 2002): 872–81. doi:10.1053/jars.2002.32845."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Pratical [sic] Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Victor, Jan, Pius Wong, Eric Witvrouw, Jos Vander Sloten, and Johan Bellemans. 'How Isometric Are the Medial Patellofemoral, Superficial Medial Collateral, and Lateral Collateral Ligaments of the Knee?' The American Journal of Sports Medicine 37, no. 10 (October 1, 2009): 2028–36. doi:10.1177/0363546509337407."
+        }
+      ]
+    }
+  }
+}

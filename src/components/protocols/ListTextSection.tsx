@@ -1,62 +1,115 @@
 import React from "react";
 import TextGenerator from "../TextGenerator";
 import VueSection, { Vue } from "./VueSection";
+import Collapse from "../Collapse";
+import ImageViewer from "./ImageViewer";
+import { Images } from "../../interfaces/protocol";
 
+interface Subsection {
+  title: string;
+  imagePositionnement: Images[];
+  text: (string | string[])[];
+  source: string;
+}
+interface ApplicationDynamique {
+  title: string;
+  iframe: string;
+}
 interface Content {
   subtitle: string;
   text: (string | string[])[];
+  subSection?: Subsection[];
+  images?: Images[];
+  source?: string;
 }
 type Props = {
   content: Content[];
-  sectionTitle: string;
-  vues: Vue[];
+  vues?: Vue[];
+  applicationDynamique?: ApplicationDynamique;
 };
 
-const ListTextSection = ({ content, sectionTitle, vues }: Props) => {
+const ListTextSection = ({ content, vues, applicationDynamique }: Props) => {
   return (
-    <div tabIndex={0} className="bg-white collapse collapse-arrow">
-      <input type="checkbox" defaultChecked={true} />
-      <div className="collapse-title">
-        <TextGenerator classes="text-xl font-medium" text={sectionTitle} />
-      </div>
-      <div className="collapse-content">
-        {content.map((item) => (
-          <div tabIndex={0} className="bg-white collapse collapse-arrow">
-            <input type="checkbox" defaultChecked={true} />
-            <div className="relative collapse-title">
-              <span
-                id={item.subtitle}
-                className="absolute"
-                style={{ top: "-110px" }}
-              />
-              <TextGenerator
-                classes="text-xl font-medium"
-                text={item.subtitle}
-              />
-            </div>
-            <div className="collapse-content">
-              <ul className="ml-6 list-disc">
-                {item.text.map((element, index) => {
-                  return Array.isArray(element) ? (
-                    element.map((item, idx) => (
-                      <li key={idx} className="ml-6 list-item">
-                        <TextGenerator span text={item} />
-                      </li>
+    <div tabIndex={0} className="text-lg bg-white">
+      {content.map((item) => (
+        <div className="relative">
+          <span
+            id={item.subtitle}
+            className="absolute"
+            style={{ top: "-110px" }}
+          />
+          <Collapse title={item.subtitle} subtitle>
+            <div className="mt-2 leading-8">
+              {item.images && (
+                <ImageViewer source={item.source} images={item.images} />
+              )}
+              <ul className="list-disc md:ml-6">
+                {item.subSection?.length > 0
+                  ? item.subSection.map((subSection) => (
+                      <Collapse subtitle title={subSection.title}>
+                        {subSection.imagePositionnement?.length > 0 && (
+                          <ImageViewer
+                            images={subSection.imagePositionnement}
+                            source={subSection.source}
+                          />
+                        )}
+                        {subSection.text.map((element, index) => {
+                          return Array.isArray(element) ? (
+                            element.map((item, idx) => (
+                              <li
+                                key={idx}
+                                className="ml-6 list-item list-[circle]"
+                              >
+                                <TextGenerator span text={item} />
+                              </li>
+                            ))
+                          ) : (
+                            <li key={index} className="list-item">
+                              <TextGenerator span text={element} />
+                            </li>
+                          );
+                        })}
+                      </Collapse>
                     ))
-                  ) : (
-                    <li key={index} className="list-item">
-                      <TextGenerator span text={element} />
-                    </li>
-                  );
-                })}
+                  : item.text.map((element, index) => {
+                      return Array.isArray(element) ? (
+                        element.map((item, idx) => (
+                          <li
+                            key={idx}
+                            className="ml-6 list-item list-[circle]"
+                          >
+                            <TextGenerator span text={item} />
+                          </li>
+                        ))
+                      ) : (
+                        <li key={index} className="list-item">
+                          <TextGenerator span text={element} />
+                        </li>
+                      );
+                    })}
               </ul>
             </div>
+          </Collapse>
+        </div>
+      ))}
+
+      {vues?.map((vue) => (
+        <VueSection vue={vue} />
+      ))}
+      {applicationDynamique && (
+        <Collapse subtitle title={applicationDynamique.title}>
+          <span
+            id={applicationDynamique.title}
+            className="absolute"
+            style={{ top: "-160px" }}
+          />
+          <div className="flex flex-row items-center justify-center">
+            <span
+              dangerouslySetInnerHTML={{ __html: applicationDynamique?.iframe }}
+            />
           </div>
-        ))}
-        {vues.map((vue) => (
-          <VueSection vue={vue} />
-        ))}
-      </div>
+        </Collapse>
+      )}
     </div>
   );
 };

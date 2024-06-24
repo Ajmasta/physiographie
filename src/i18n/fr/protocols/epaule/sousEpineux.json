@@ -1,0 +1,225 @@
+{
+  "title": "Sous-épineux [région scapulaire]",
+  "latinName": "Infraspinatus",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Type de muscle", "header": true },
+          { "data": "Mono-articulaire, multipenné" }
+        ],
+        [
+          { "data": "Origine", "header": true },
+          { "data": "Fosse du sous-épineux (scapula)" }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          { "data": "Grosse tubérosité, face latérale (humérus)" }
+        ],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Nerf suprascapulaire (C5-C6)" }
+        ],
+        [
+          { "data": "Action", "header": true },
+          {
+            "data": "Rotation externe d'épaule, coaptation de l'articulation gléno-humérale"
+          }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Mesure", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plan", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [
+          { "data": "Épaisseur du ventre musculaire (mm)" },
+          { "data": "Sous-épineux" },
+          { "data": "Moyenne de 4 points du ventre musculaire" },
+          { "data": "18,00 ± 0,50 <a href='#ref10' class='reference'>[10]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Assis avec l'épaule découverte",
+          "Épaule au repos, bras le long du corps"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Palper les principaux reliefs et repère de la scapula (épine, angle inférieur, bord latéral)"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/sousEpineux/vueTransversale/",
+        "objectifs": [
+          "Examen du ventre du sous-épineux",
+          "Apprécier la morphologie multipennée du sous-épineux"
+        ],
+        "parametres": ["Profondeur : 5-6 cm", "Gain : 60-65", "G/3/2"],
+        "positionnement": [
+          "Placer la sonde en vue transversale (par rapport aux fibres du sous-épineux) sur l’épine scapulaire, tout juste en latéral du centre de celle-ci",
+          "Afin de mieux repérer et identifier les structures, balayer lentement de haut en bas pour observer et différencier l’épine scapulaire, le trapèze, le sous-épineux et le sus-épineux",
+          "Déplacer légèrement la sonde vers le bas de manière à ce que l’épine scapulaire soit tout juste présente dans le champ"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Position de la sonde, vue transversale (dos)"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Position de la sonde, vue transversale (côté)"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["E", "FIE"],
+                "texte": [
+                  "L’épine scapulaire et la fosse du sous-épineux apparaissent dans la portion inférieure gauche de l’image. L’os cortical ne laissant pas pénétrer les ultrasons, l’interface muscle-os est fortement hyperéchoïque"
+                ]
+              },
+              {
+                "acronymes": ["TI"],
+                "texte": [
+                  "Le trapèze inférieur, bande hypoéchoïque apparaissant au haut de l’image, est le muscle le plus superficiel"
+                ]
+              },
+              {
+                "acronymes": ["SoE"],
+                "texte": [
+                  "Le sous-épineux, grande zone hypoéchoïque presque triangulaire, occupe la totalité de la fosse du sous-épineux"
+                ]
+              },
+              {
+                "acronymes": ["SEPTUM"],
+                "texte": [
+                  "Un des septa séparant le chef supérieur du sous-épineux des autres chefs apparaît comme un trait hyperéchoïque incurvé vers la gauche"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Épine & fosse du infra-épineuse"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Trapèze inférieur"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Sous-épineux"
+              },
+              { "path": "identification5.jpg", "descriptionText": "Septum" },
+              { "path": "identification6.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Le muscle sous-épineux, situé à la partie postérieure de l’épaule, est un des 4 muscles faisant partie de la coiffe des rotateurs (avec le petit rond, le sous-scapulaire et le sus-épineux). Ce muscle entretient d’étroits liens avec le petit rond, tant au niveau de leur localisation que pour l’aspect davantage fonctionnel.",
+          "Le sous-épineux prend origine au sein de la fosse sous-épineuse (scapula) et vient s’insérer, via un large tendon, à la face latérale de la grosse tubérosité, tout juste sous l’insertion du sus-épineux. Bien que l’anatomie grossière du sous-épineux soit assez bien connue, certaines notions morphologiques importantes ne font toujours pas de consensus.",
+          "Dans la littérature, lorsque la pennation du sous-épineux est décrite (elle est souvent omise), on rapporte une structure soit : multipennée, bipennée, compartimentée et/ou fusionnée avec le petit rond <a href='#ref4' class='reference'>[4]</a><a href='#ref5' class='reference'>[5]</a><a href='#ref6' class='reference'>[6]</a><a href='#ref7' class='reference'>[7]</a><a href='#ref8' class='reference'>[8]</a>. Cependant, une étude récente <a href='#ref2' class='reference'>[2]</a>a noté (chez 100% de leurs 48 sujets) la séparation sans équivoque du sous-épineux en 3 chefs (supérieur, moyen et inférieur). Chacun de ces chefs étant clairement délimité par une enveloppe fasciale propre, mais faisant tous partie de la même unité neuromusculaire (quoique cet aspect est sujet à une variabilité anatomique).",
+          "En ultrasonographie, les différents chefs (« partitions ») du sous-épineux sont bien visibles et clairement délimités : afin d’éviter toute confusion au cours de l’identification des structures, cette notion doit être bien comprise. On compte 3 chefs au sous-épineux, chacun",
+          "Sur une grande portion de son ventre musculaire, le sous-épineux n’est recouvert par aucun autre muscle. En effet, la moitié supérieure de son origine (fosse sous-épineuse) est masquée par le trapèze moyen, alors que le deltoïde (postérieur et moyen) vient recouvrir l’insertion et la portion latérale du ventre musculaire (à partir de la moitié de l’épine scapulaire). Cette facilité d’accès fait du sous-épineux un bon point de repère pour l’examen de l’aspect postérieur (postéro-latéral) de l’épaule. De plus, la présence de l’épine scapulaire en supérieur fournit un repère supplémentaire pour l’identification des structures avoisinantes."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/sousEpineux/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Pédagogie",
+        "text": [
+          "L'examen du sous-épineux de la manière décrite dans cette capsule ne fait pas partie de la routine classique d'évaluation ultrasonographique de l'épaule.",
+          "Les techniques démontrées portent un intérêt davantage pédagogique (p.ex.: démonstration de l'anatomie, pratique de l'utilisation de l'équipement d'échographie) que clinique."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Petit rond & sous-épineux",
+          "link": "/protocoles/epaule/petit-rond-et-sous-epineux"
+        },
+        {
+          "linkTitle": "Sus-épineux (région scapulaire)",
+          "link": "/protocoles/epaule/sus-epineux-post"
+        },
+        {
+          "linkTitle": "Articulation acromio-claviculaire",
+          "link": "/protocoles/epaule/articulation-acromio-claviculaire"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Fabrizio, Philip A., et F. Richard Clemente. « Anatomical structure and nerve branching pattern of the human infraspinatus muscle. » Journal of Bodywork and Movement Therapies 18, nᵒ 2 (avril 2014): 228‑32. doi:10.1016/j.jbmt.2013.11.016."
+        },
+        {
+          "text": "Jacobson, Jon A. “Shoulder US: Anatomy, Technique, and Scanning Pitfalls.” Radiology 260, no. 1 (July 1, 2011): 6–16. doi:10.1148/radiol.11101082."
+        },
+        {
+          "text": "Johnson, Donald Hugh, et Robert A. Pedowitz. Practical Orthopaedic Sports Medicine and Arthroscopy. Lippincott Williams & Wilkins, 2007."
+        },
+        {
+          "text": "Kato, Atsuo, Akimoto Nimura, Kumiko Yamaguchi, Tomoyuki Mochizuki, Hiroyuki Sugaya, et Keiichi Akita. « An Anatomical Study of the Transverse Part of the Infraspinatus Muscle That Is Closely Related with the Supraspinatus Muscle. » Surgical and Radiologic Anatomy 34, nᵒ 3 (avril 2012): 257‑65. doi:10.1007/s00276-011-0872-0."
+        },
+        {
+          "text": "Keating, J. F., P. Waterworth, J. Shaw-Dunn, et J. Crossan. « The Relative Strengths of the Rotator Cuff Muscles. A Cadaver Study. » Journal of Bone & Joint Surgery, British Volume 75-B, nᵒ 1 (1 janvier 1993): 137‑40."
+        },
+        {
+          "text": "Moore, Keith L., Anne M. R. Agur, et Arthur F. Dalley. Clinically Oriented Anatomy. 7th edition. LWW, 2013."
+        },
+        {
+          "text": "Standring, Susan, Neil R Borley, et Henry Gray. Gray’s Anatomy: The Anatomical Basis of Clinical Practice. [Edinburgh]: Churchill Livingstone/Elsevier, 2008."
+        },
+        {
+          "text": "Yu, Tung-Yang, Wen-Chung Tsai, Ju-Wen Cheng, Yun-Ming Yang, Fang-Chen Liang, and Chien-Hung Chen. “The Effects of Aging on Quantitative Sonographic Features of Rotator Cuff Tendons.” Journal of Clinical Ultrasound: JCU 40, no. 8 (October 2012): 471–78. doi:10.1002/jcu.21919."
+        },
+        {
+          "text": "Juul-Kristensen, B., F. Bojsen-Møller, E. Holst, et C. Ekdahl. «Comparison of Muscle Sizes and Moment Arms of Two Rotator Cuff Muscles Measured by Ultrasonography and Magnetic Resonance Imaging. » European Journal of Ultrasound: Official Journal of the European Federation of Societies for Ultrasound in Medicine and Biology 11, nᵒ 3 (June 2000): 161–73."
+        }
+      ]
+    }
+  }
+}

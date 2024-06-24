@@ -1,0 +1,197 @@
+{
+  "title": "Ligament collatéral interne",
+  "latinName": "Ligamentum collaterale tibiale",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Attaches", "header": true, "rowspan": 2 },
+          { "data": "En proximal : Fémur, épicondyle médial" }
+        ],
+        [{ "data": "En distal : Tibia, face médiale de l'épiphyse proximale" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Mesure", "header": true },
+          { "data": "Plan / Site", "header": true },
+          { "data": "Type de sujet", "header": true },
+          { "data": "Moyenne (min-max)", "header": true }
+        ],
+        [
+          { "data": "Ligament collatéral interne", "rowspan": 4 },
+          { "data": "Épaisseur (mm)", "rowspan": 4 },
+          { "data": "Attache fémorale" },
+          { "data": "Asymptomatique", "rowspan": 2 },
+          {
+            "data": "4,3 (3,3 - 5,6) <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Attache tibiale" },
+          {
+            "data": "2,3 (1,3 - 3,2) <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Attache fémorale" },
+          { "data": "Symptomatique", "rowspan": 2 },
+          {
+            "data": "8,3 (6,1 - 12,5) <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Attache tibiale" },
+          {
+            "data": "3,9 (3,7 - 4,1) <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Décubitus dorsal, membre inférieur en légère rotation externe, avec le genou maintenu à environ 20-30° de flexion<a href='#ref1' class='reference'>[1]</a>"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer et palper l'interligne articulaire interne, le plateau tibial interne ainsi que le condyle fémoral interne"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/ligamentCollateralInterne/vueLongitudinale/",
+        "objectifs": [
+          "Examen des deux portions du ligament collatéral interne",
+          "Si possible (selon l'équipement et l'anatomie du sujet), visualisation du ménisque interne"
+        ],
+        "parametres": ["Profondeur : 2 cm", "Gain : 80", "G/3/3"],
+        "positionnement": [
+          "En vue longitudinale (par rapport au trajet du ligament collatéral interne), placer la sonde au-dessus de ce dernier",
+          "Pour guider l'angle de rotation nécessaire, il est possible de débuter avec un axe presque parallèle à celui formé par la diaphyse fémorale (voir l'image ci-contre), et d'ensuite ajuster l'angle de rotation jusqu'à l'obtention d'une image adéquate"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["F"],
+                "texte": [
+                  "Le fémur apparaît à la portion gauche de l'image, où on reconnaît aisément son pourtour délimité par un trait hyperéchoïque."
+                ]
+              },
+              {
+                "acronymes": ["T"],
+                "texte": [
+                  "Le tibia, quant à lui, occupe la portion droite de l'image. Il est également reconnaissable par son pourtour hyperéchoïque, sous lequel se trouve une zone d'ombrage hypoéchoïque (en raison de la très faible perméabilité aux ultrasons de l'os cortical)"
+                ]
+              },
+              {
+                "acronymes": ["LCI"],
+                "texte": [
+                  "Le ligament collatéral interne est présent à la portion supérieure de l'image, dont le trajet incurvé est bien apparent."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Fémur" },
+              { "path": "identification3.jpg", "descriptionText": "Tibia" },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Ligament collatéral interne"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Avec les ligaments croisés, les ligaments collatéraux (interne et externe) sont les ligaments les plus importants du genou. Le ligament collatéral (ou 'latéral') interne [LCI], est une bande de tissu fibreux située à la face médiale (interne) du genou. L'origine du LCI (environ 5 cm au-dessus de l'interligne articulaire) et son insertion (6-7 cm sous l'interligne, derrière l'insertion du complexe de la patte d'oie)lui donnent une orientation pratiquement vertical. En considérant le plan de l'articulation tibio-fémorale qui est essentiellement horizontal, on comprend pourqoi le LCI est mis en tension par un mouvement de valgus au genou. En plus du valgus, le LCI freine les mouvements de rotation externe excessive et de translation antérieure du tibia. Précisons que le LCI demeure tendu durant les mouvements isolés de flexion et d'extension du genou<a href='#ref1' class='reference'>[1]</a>.",
+          "Les structures stabilisatrices situées à l'aspect médial du genou sont organisées en 3 couches, classifiées selon leur profondeur. La couche la plus superficielle comprend le fascia crural, qui se fond dans la couche intermédiaire pour former le rétinaculum patellaire médial. Le faisceau superficiel du LCI appartient à la couche intermédiaire, alors que son faisceau se fusionne pour former la capsule articulaire, au sein de la couche profonde des stabilisateurs médiaux du genou<a href='#ref1' class='reference'>[1]</a>.",
+          "Lors de l'examen ultrasonographique, la portion superficielle du LCI apparaît comme une large bande fibreuse mesurant environ 15 mm de largeur et 10-11 cm de longueur. La portion profonde du LCI est plus épaisse, alors qu'elle se fusionne avec la capsule articulaire. Il est à noter que la couche profonde du LCI est étroitement liée au ménisque interne, par l'entremise de ses attaches communes avec les ligaments ménisco-fémoral et ménisco-tibial<a href='#ref1' class='reference'>[1]</a><a href='#ref2' class='reference'>[2]</a>."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Blessure / rupture du ligament collatéral interne",
+        "text": [
+          "Le LCI étant localisé de manière superficielle, il est fréquemment sujet à des lésions traumatiques directes ou indirectes, spécialement lors d'activités sportives (soccer, ski). Le mécanisme de blessure classique implique une force excessive sur un genou positionné en valgus, flexion et rotation externe de genou<a href='#ref1' class='reference'>[1]</a>. Les lésions touchent plus souvent la portion superficielle du LCI, dans sa région proximale, et tendent à également affecter le ligament ménisco-fémoral profond.",
+          "La présentation clinique comprend généralement une douleur à la face interne du genou, accompagnée d'un oedème localisé (en phase aiguë). La présence d'un oedème intra-articulaire suggère un mécanisme plus important, avec la lésion de structures intra-articulaires (ménisque, ligament croisé antérieur, etc.). Les traumatismes impliquant une grande force peuvent aussi être accompagnés de fragments d'os avulsés de l'attache crâniale (fémorale), qui prennent l'apparence d'une zone hyperéchoïque irrégulière au sein de l'espace normalement occupé par le ligament<a href='#ref1' class='reference'>[1]</a>.",
+          "L'imagerie par ultrasonographie peut être utile à la visualisation de telles lésions, considérant la localisation superficielle du ligament collatéral interne. Lorsque lésé, le LCI prend une apparence hétérogène et épaissie. Il peut être difficile de distinguer les lésions complètes des lésions partielles (intra-substance) qui impliquent le ligament ménisco-fémoral. Dans un tel cas,la distinction se fait à l'aide de la présence (ou non) d'une portion du LCI ayant conservé son apparence normale, suite à une comparaison avec le LCI du côté sain<a href='#ref1' class='reference'>[1]</a>.",
+          "La prise en charge clinique dépend du degré de gravité et de la nature des structures atteintes. Les ruptures isolées du LCI répondent normalement bien à un traitement conservateur, alors qu'une approche chirurgicale est normalement nécessaire en présence de lésions combinées<a href='#ref1' class='reference'>[1]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Complexe de la patte d'oie",
+          "link": "/protocoles/cuisse-genou/complexe-patte-d-oie"
+        },
+        {
+          "linkTitle": "Ligament collatéral externe",
+          "link": "/protocoles/cuisse-genou/ligament-collateral-externe"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "De Maeseneer, Michel, Frans Van Roy, Leon Lenchik, Eric Barbaix, Filip De Ridder, and Michel Osteaux. 'Three Layers of the Medial Capsular and Supporting Structures of the Knee: MR Imaging—Anatomic Correlation.' RadioGraphics 20, no. suppl_1 (October 1, 2000): S83–89. doi:10.1148/radiographics.20.suppl_1.g00oc05s83."
+        },
+        {
+          "text": "Martinoli, Carlo. 'Musculoskeletal Ultrasound: Technical Guidelines.' Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Lee, J. I., I. S. Song, Y. B. Jung, Y. G. Kim, C. H. Wang, H. Yu, Y. S. Kim, K. S. Kim, and T. L. Pope. 'Medial Collateral Ligament Injuries of the Knee: Ultrasonographic Findings.' Journal of Ultrasound in Medicine 15, no. 9 (September 1, 1996): 621–25."
+        },
+        {
+          "text": "Martinoli, Carlo. 'Musculoskeletal Ultrasound: Technical Guidelines.' Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "O’Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Practical [sic] Guide. Milan; New York: Springer Milan, 2012."
+        }
+      ]
+    }
+  }
+}

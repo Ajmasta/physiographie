@@ -1,0 +1,320 @@
+{
+  "title": "Tendon extenseur commun",
+  "latinName": "",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Points d'attache osseux", "header": true, "rowspan": 2 },
+          {
+            "data": "Surface antéro-latérale de l'épicondyle externe (humérus)"
+          }
+        ],
+        [{ "data": "Ligne supracondylaire latérale" }],
+        [
+          {
+            "data": "Muscles participant à la formation du tendon",
+            "header": true,
+            "rowspan": 4
+          },
+          { "data": "Court extenseur radial du carpe" }
+        ],
+        [{ "data": "Extenseur commun des doigts" }],
+        [{ "data": "Extenseur propre du 5e doigt" }],
+        [{ "data": "Extenseur ulnaire du carpe" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Mesure", "header": true },
+          { "data": "Type de sujet", "header": true },
+          { "data": "Moyenne", "header": true }
+        ],
+        [
+          { "data": "Tendon extenseur commun", "rowspan": 4 },
+          { "data": "Épaisseur maximale (mm)", "rowspan": 2 },
+          { "data": "Asymptomatique" },
+          { "data": "3,0<a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Avec Épicondylite externe" },
+          { "data": "4,8<a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Aire de section transversale (mm 2)", "rowspan": 2 },
+          { "data": "Asymptomatique" },
+          { "data": "25,5<a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Avec Épicondylite externe" },
+          { "data": "43,5<a href='#ref7' class='reference'>[7]</a>" }
+        ]
+      ],
+      "text": [
+        "Contrairement au <a href='protocoles/coude/tendon-flechisseur-commun-et-ligament-lateral-interne'>tendon fléchisseur commun </a>, dont l'examen ultrasonographique repose surtout sur des observations subjectives (et non pas quantitatives), le tendon extenseur commun peut être mesuré de manière plus fiable, et il semble que les résultats soit assez étroitement corrélés avec la symptomatologie<a href='#ref7' class='reference'>[7]</a>."
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Sujet assis face à l'évaluateur, membre supérieur déposé sur la surface d'examen, avec une serviette ou un oreiller sous le coude",
+          "L'examen du tendon extenseur commun requiert l'accès à l'aspect latéral du coude, avec le coude fléchi à 90° et l'épaule en rotation interne (avec l'avant-bras à plat sur la surface d'examen tel que démontré sur l'image dans la section 'Positionnement du patient')>",
+          "Alternativement, il est également possible de procéder à l'examen du tendon extenseur commun en maintenant les coudes en extension complète, les pouces vers le plafond et les mains jointes <a href='#ref1' class='reference'>[1]</a>"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": ["Repérer et palper l'épicondyle externe et la tête humérale"]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/tendonExtenseurCommun/vueLongitudinale/",
+        "objectifs": ["Observation du tendon extenseur commun"],
+        "parametres": ["Profondeur : 3 cm", "Gain : 60", "G/3/2"],
+        "positionnement": [
+          "Tel que démontré dans l'image ci-jointe, en vue longitudinale (presque parallèle au long axe de l'avant-bras), placer l'extrémité proximale de la sonde sur l'épicondyle externe",
+          "Si nécessaire, appliquer une légère rotation à la sonde afin que celle-ci soit le plus possible parallèle au sens des fibres du tendon extenseur commun"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["TR"],
+                "texte": [
+                  "La tête radiale apparaît à la droite de l'image comme une zone hyperéchoïque arrondie. Noter la présence, à la droite de la TR, du col et de la diaphyse du radius ainsi que, à la gauche, de l'espace articulaire de l'articulation huméro-radiale"
+                ]
+              },
+              {
+                "acronymes": ["EE"],
+                "texte": [
+                  "L'épicondyle externe est visible à la gauche de la tête radiale. On le reconnaît par son profil en 'pente descendante' ('downward slope')<a href='#ref14' class='reference'>[14]</a>"
+                ]
+              },
+              {
+                "acronymes": ["TEC"],
+                "texte": [
+                  "Le tendon extenseur commun correspond à la vaste zone hyperéchoïque d'échotexture fibrillaire qui se trouve en surface de la tête radiale et de l'épicondyle externe. Il n'est pas possible de distinguer les différents tendons qui constituent le tendon extenseur commun."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Tête radiale"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Épicondyle externe"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Tendon extenseur commun"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Le tendon extenseur commun est une structure qui sert de point d'attache proximal (origine) pour plusieurs muscle de l'avant-bras latéral. Parmi ces muscles, on compte quatre muscles extenseurs et un muscle supinateur, tous superficiels : le court extenseur radial du carpe [CERC], l'extenseur commun des doigts [ECD], l'extenseur ulnaire du carpe [EUC], l'extenseur propre du 5e doigt [EP5] et le supinateur. Le CERC, l'ECD et l'EUC ont un tendon proximal véritablement fusionné, commun, alors que l'EP5 et le supinateur possèdent un tendon distinct mais qui s'insère au même site que le CERC, ECD et EUC. Le tendon du CERC étant le plus profond, il est accolé au capitulum huméral et glisse à sa surface lors des mouvements de flexion et d'extension du coude. C'est pour cette raison que le diagnostic d'une épicondylite externe nécessite absolument l'atteinte au moins l'atteinte du tendon du CERC (voir la section 'Pertinence clinique' ci-bas)<a href='#ref14' class='reference'>[14]</a>.",
+          "Les muscles de l'avant-bras sont classifiés selon leur appartenance aux compartiments médial ou latéral, selon leur localisation anatomique. La masse musculaire de l'avant-bras étant potentiellement complexe au point de vue anatomique, il importe de connaître l'anatomie normale afin de pouvoir identifier les structures visualisées lors de l'examen ultrasonographique (adapté de Walz et al, 2010)."
+        ]
+      }
+    ],
+    "table": [
+      [
+        { "data": "Nom du muscle", "header": true, "rowspan": 2 },
+        { "data": "Nom latin", "header": true, "rowspan": 2 },
+        { "data": "Fonction", "header": true, "rowspan": 2 },
+        { "data": "Origine", "header": true, "colspan": 2 },
+        { "data": "Insertion", "header": true, "rowspan": 2 }
+      ],
+      [
+        { "data": "1e chef", "header": true },
+        { "data": "2e chef (le cas échéant)", "header": true }
+      ],
+      [
+        { "data": "Rond pronateur" },
+        { "data": "Pronator teres" },
+        { "data": "Pronation de l'avant-bras" },
+        { "data": "Épitrochlée (via tendon commun)", "rowspan": 5 },
+        { "data": "Processus coronoïde" },
+        { "data": "Aspect latéral du radius" }
+      ],
+      [
+        { "data": "Fléchisseur radial du carpe" },
+        { "data": "Flexor carpi radialis" },
+        { "data": "Flexion et abduction (déviation radiale) du poignet" },
+        { "data": "N/A", "rowspan": 2 },
+        { "data": "Face antérieur de la base du 2e et 3e os métacarpiens" }
+      ],
+      [
+        { "data": "Long palmaire" },
+        { "data": "Palmaris longus" },
+        {
+          "data": "Flexion du poignet, mise sous tension de l'aponévrose palmaire"
+        },
+        { "data": "Rétinaculum des fléchisseurs, aponévrose palmaire" }
+      ],
+      [
+        { "data": "Fléchisseur ulnaire du carpe" },
+        { "data": "Flexor carpi ulnaris" },
+        { "data": "Flexion et adduction (déviation radiale) de la main" },
+        {
+          "data": "Chef ulnaire : Olécrane et aspect dorsal de l'ulna proximal"
+        },
+        { "data": "Pisiforme, hamatum et base du 5e os métacarpien" }
+      ],
+      [
+        { "data": "Fléchisseur superficiel des doigts" },
+        { "data": "Flexor digitorum superficialis" },
+        {
+          "data": "Flexion de la phalange moyenne et de l'articulation métacarpo-phalangienne"
+        },
+        {
+          "data": "Processus coronoïde Ligne oblique (radius). (Il possède en fait 3 chefs : huméral, radial et ulnaire)"
+        },
+        { "data": "Aspect palmaire de la phalange moyenne des doigts 2 à 5" }
+      ],
+      [
+        { "data": "Fléchisseur profond des doigts" },
+        { "data": "Flexor digitorum profundus" },
+        {
+          "data": "Flexion de la phalange distale (Accessoire) Flexion de poignet & phalanges prox."
+        },
+        {
+          "data": "3/4 proximaux de l'aspect antéro-médial de l'ulna et de la MI",
+          "colspan": 2
+        },
+        { "data": "Aspect dorsal de la phalange distale des doigts 2 à 5" }
+      ],
+      [
+        { "data": "Long fléchisseur du pouce" },
+        { "data": "Flexor pollicis longus" },
+        { "data": "Flexion du pouce" },
+        {
+          "data": "Portion moyenne de l'aspect antérieur du radius et de la MI & aspect médial du processus coronoïde",
+          "colspan": 2
+        },
+        { "data": "Aspect palmaire de la base de la phalange distale du pouce" }
+      ],
+      [
+        { "data": "Brachioradial" },
+        { "data": "Brachioradialis" },
+        { "data": "Flexion du coude" },
+        {
+          "data": "Ligne supracondylaire supérieure latérale (humérus)",
+          "colspan": 2
+        },
+        { "data": "Aspect latéral de la styloïde radiale" }
+      ]
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Épicondylite externe ('Tennis elbow')",
+        "text": [
+          "La condition communément connue sous le terme anglais de tennis elbow consiste en une atteinte du tendon extenseur commun au niveau de l'épicondyle externe (et non pas d'une atteinte de l'épicondyle externe, tel que le nom pourrait laisser croire). Il s'agit d'une condition de sur-utilisation causée par une traction excessive au niveau de l'attache ostéotendineuse du tendon extenseur commun<a href='#ref2' class='reference'>[2]</a>.",
+          "Tel que le surnom tennis elbow le suggère, la pratique de certains sports (dont le tennis) semble être associée au portrait clinique. En effet, cette condition est fréquemment rencontrée chez les adeptes du tennis, en raison des coups puissants du revers qui engendrent une tension considérable dans le tenson extenseur commun. Malgré tout, cette condition est rencontrée bien plus fréquemment chez les non-athlètes.",
+          "D'un point de vue physiopathologique, cette condition peut être le résultat d'une sur-utilisation répétitive (micro-traumatismes chroniques) dans le cadre de diverses d'activités professionnelles ou récréatives. Il en résulte donc un processus dégénératif qui peut conduire à des ruptures partielles ou complètes du tendon extenseur commun ou à une atteinte du site osseux d'insertion (enthésite)<a href='#ref2' class='reference'>[2]</a>.",
+          "Lors de l'examen physique, les sujets aux prises avec une épicondylite externe présentent une douleur lors de la palpation de l'aspect latéral du coude, qui persiste (quoique de moindre intensité) dans la région proximale de l'avant-bras. Chez les sujets aux prises avec cette condition depuis plusieurs mois (ou plus), il peut persister une douleur au repos associée à des diminutions d'amplitude articulaire au coude et au poignet<a href='#ref2' class='reference'>[2]</a>.",
+          "Typiquement, le diagnostic peut être effectué uniquement sur la base d'un examen physique concluant, mais l'imagerie par ultrasonographie peut être utilisée en présence d'un cas réfractaire ou complexe.",
+          "Selon un consensus d'experts de la European Society of Musculoskeletal Radiology, l'imagerie par ultrasonographie est reconnue comme étant une modalité d'imagerie de premier choix pour l'examen des structures impliquées dans une épicondylite externe (consensus de grade 3/3). De plus, le niveau d'évidence (cote 'A') indique que la littérature comporte plusieurs essais cliniques randomisés et études de cohortes unanimes sur le sujet<a href='#ref6' class='reference'>[6]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Tendon du triceps brachial",
+          "link": "/protocoles/coude/tendon-triceps-brachial"
+        },
+        {
+          "linkTitle": "Tendon fléchisseur commun & Ligament latéral interne",
+          "link": "/protocoles/coude/tendon-flechisseur-commun-et-ligament-lateral-externe"
+        },
+        {
+          "linkTitle": "Articulation huméro-radiale",
+          "link": "/protocoles/coude/articulation-humero-radiale"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angelo Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. « Musculoskeletal Ultrasound Technical Guidelines (II. Elbow). » European Society of Musculoskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Finlay, K., M. Ferri, et L. Friedman. « Ultrasound of the Elbow. » Skeletal Radiology 33, nᵒ 2 (9 janvier 2004): 63‑79. doi:10.1007/s00256-003-0680-7."
+        },
+        {
+          "text": "Jaén-Díaz, Jose I., Eugenio Cerezo-López, Francisco López-de Castro, Maria Mata-Castrillo, Juan P. Barceló-Galíndez, Javier De la Fuente, et Ramón Balius-Mata. « Sonographic Findings for the Common Extensor Tendon of the Elbow in the General Population. » Journal of Ultrasound in Medicine 29, nᵒ 12 (1 décembre 2010): 1717‑24."
+        },
+        {
+          "text": "Khoury, Viviane, Étienne Cardinal, et Nathalie J. Bureau. « Musculoskeletal Sonography: A Dynamic Tool for Usual and Unusual Disorders. » American Journal of Roentgenology 188, nᵒ 1 (janvier 2007): W63‑73. doi:10.2214/AJR.06.0579."
+        },
+        {
+          "text": "Klauser, Andrea S., Alberto Tagliafico, Gina M. Allen, Natalie Boutry, Rob Campbell, Michel Court-Payen, Andrew Grainger, et al. « Clinical Indications for Musculoskeletal Ultrasound: A Delphi-Based Consensus Paper of the European Society of Musculoskeletal Radiology. » European Radiology 22, nᵒ 5 (mai 2012): 1140‑48. doi:10.1007/s00330-011-2356-3."
+        },
+        {
+          "text": "Lee, Min Hee, Jang Gyu Cha, Wook Jin, Byung Sung Kim, Jai Soung Park, Hae Kyung Lee, et Hyun Sook Hong. « Utility of Sonographic Measurement of the Common Tensor Tendon in Patients With Lateral Epicondylitis. » American Journal of Roentgenology 196, nᵒ 6 (1 juin 2011): 1363‑67. doi:10.2214/AJR.10.5769."
+        },
+        {
+          "text": "Leijnse, J.N.A.L., E.T. Walbeehm, G.J. Sonneveld, S.E.R. Hovius, et J.M.G. Kauer. « Connections between the Tendons of the Musculus Flexor Digitorum Profundus Involving the Synovial Sheaths in the Carpal Tunnel. » Cells Tissues Organs 160, nᵒ 2 (1997): 112‑22. doi:10.1159/000148003."
+        },
+        {
+          "text": "Lynch, Garrett J., John F. Meyers, Terry L. Whipple, et Richard B. Caspari. « Neurovascular Anatomy and Elbow Arthroscopy: Inherent Risks. » Arthroscopy: The Journal of Arthroscopic & Related Surgery 2, nᵒ 3 (septembre 1986): 191‑97. doi:10.1016/S0749-8063(86)80067-6."
+        },
+        {
+          "text": "Martinoli, Carlo, Stefano Bianchi, Francesco Giovagnorio, et Francesca Pugliese. « Ultrasound of the Elbow. » Skeletal Radiology 30, nᵒ 11 (30 août 2001): 605‑14. doi:10.1007/s002560100410."
+        },
+        {
+          "text": "Park, Gi-Young, Sung-Moon Lee, et Michael Y. Lee. « Diagnostic Value of Ultrasonography for Clinical Medial Epicondylitis. » Archives of Physical Medicine and Rehabilitation 89, nᵒ 4 (avril 2008): 738‑42. doi:10.1016/j.apmr.2007.09.048."
+        },
+        {
+          "text": "Perotto, Aldo, et Edward F. Delagi. Anatomical Guide for the Electromyographer: The Limbs and Trunk. Charles C Thomas Publisher, 2005."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Practical Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Walz, Daniel M., Joel S. Newman, Gabrielle P. Konin, et Glen Ross. « Epicondylitis: Pathogenesis, Imaging, and Treatment. » RadioGraphics 30, nᵒ 1 (1 janvier 2010): 167‑84. doi:10.1148/rg.301095078."
+        },
+        {
+          "text": "Ward, Sabrina I., Sharlene A. Teefey, George A. Paletta, William D. Middleton, Charles F. Hildebolt, David A. Rubin, et Ken Yamaguchi. « Sonography of the Medial Collateral Ligament of the Elbow: A Study of Cadavers and Healthy Adult Male Volunteers. » American Journal of Roentgenology 180, nᵒ 2 (1 février 2003): 389‑94. doi:10.2214/ajr.180.2.1800389."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "title": "Intervalle des Rotateurs",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Délimité par", "header": true, "rowspan": 2 },
+          { "data": "Tendon du sous-scapulaire" }
+        ],
+        [{ "data": "Tendon du sus-épineux" }],
+        [
+          { "data": "Contient", "header": true, "rowspan": 3 },
+          { "data": "Tendon du long biceps" }
+        ],
+        [{ "data": "Ligament coracohuméral" }],
+        [{ "data": "Ligament glénohuméral supérieur" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Mesure", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plan", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [
+          { "data": "Épaisseur du tendon (mm)", "rowspan": 6 },
+          { "data": "Long chef du biceps brachial", "rowspan": 2 },
+          { "data": "Plan transverse" },
+          { "data": "3,03 ± 0,63 <a href='#ref3' class='reference'>[3]</a>" }
+        ],
+        [
+          { "data": "Plan longitudinal" },
+          { "data": "3,27 ± 0,83 <a href='#ref3' class='reference'>[3]</a>" }
+        ],
+        [
+          { "data": "Sous-scapulaire", "rowspan": 2 },
+          { "data": "Plan transverse" },
+          { "data": "5,07 ± 0,97 <a href='#ref3' class='reference'>[3]</a>" }
+        ],
+        [
+          { "data": "Plan longitudinal" },
+          { "data": "4,67 ± 0,87 <a href='#ref3' class='reference'>[3]</a>" }
+        ],
+        [
+          { "data": "Sus-épineux", "rowspan": 2 },
+          { "data": "Plan transverse" },
+          { "data": "5,97 ± 1,20 <a href='#ref3' class='reference'>[3]</a>" }
+        ],
+        [
+          { "data": "Plan longitudinal" },
+          { "data": "5,90 ± 1,03 <a href='#ref3' class='reference'>[3]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Position de Crass modifiée : Permet d'avoir un degré d'antériorisation de la grosse tubérosité à mi-chemin entre la position neutre et la position de Crass<a href='#ref2' class='reference'>[2]</a>.",
+          "Voir la capsule sur le <a class='underline' href='/protocoles/epaule/sus-epineux'> sus-épineux </a> pour plus d'information sur le positionnement.",
+          "Assis avec l'épaule découverte",
+          "Consigne: Aller porter la face palmaire de la main sur le dessus de la crête iliaque ipsilatérale, en pointant le coude vers l'arrière",
+          "Épaule :",
+          [
+            "Extension, rotation externe",
+            "Rétraction de la ceinture scapulaire (pour éviter d'avoir le coude qui pointe vers l'extérieur)"
+          ],
+          "Coude :",
+          ["Flexion", "Supination", "Pointe du coude dirigée vers l'arrière"]
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Le sillon intertuberculaire se trouve entre la petite et la grosse tubérosité, situées respectivement à l’aspect interne et antérieur de l’épaule",
+          "L’insertion du sous-scapulaire, puisque sur la petite tubérosité, est accessible du côté interne de la coulisse bicipitale",
+          "À l’opposé, l’insertion du sus-épineux se trouve du côté externe de la coulisse bicipitale"
+        ]
+      }
+    ],
+    "applicationDynamique": {
+      "title": "Application Dynamique",
+      "iframe": "<iframe width=\"396\" height=\"296\" src=\"https://www.youtube.com/embed/Z_tdhJsoom8\" title=\"Échographie dynamique de l&#39;intervalle des rotateurs\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "vues": [
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/IntervalleDesRotateurs/vueTransversale/",
+        "objectifs": [
+          "Examen du tendon du long chef du biceps brachial",
+          "Examen des stabilisateurs du tendon du long biceps",
+          "Examen du tendon du sus-épineux",
+          "Examen du tendon du sous-scapulaire"
+        ],
+        "parametres": ["Profondeur : 4-5 cm", "Gain : 80-85", "G/3/2"],
+        "positionnement": [
+          "Placer la sonde en vue transversale au niveau du sillon intertuberculaire",
+          "Balayer lentement la région afin d’obtenir une vue couvrant l’ensemble des structures (idéalement, allant du processus coracoïde jusqu’au tendon du sus-épineux)",
+          "Pour obtenir une vue optimale du tendon du sus-épineux (vue longitudinale par rapport à celui-ci), il sera nécessaire de tourner la sonde dans un axe normalement parallèle à la diaphyse humérale"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Position de la sonde, vue transversale (face)"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Position de la sonde, vue transversale (dos)"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["D"],
+                "texte": [
+                  "Le deltoïde apparaît, au haut de l'image, comme une épaisse zone d'échogénicité mixte ayant l'échotexture typique du tissu musculaire lorsqu'observé une orientation non-parallèle à celle des fibres"
+                ]
+              },
+              {
+                "acronymes": ["TH"],
+                "texte": [
+                  "La tête humérale est une vaste (relativement) zone circulaire avec une marge hyperéchoïque (os cortical)"
+                ]
+              },
+              {
+                "acronymes": ["SuE"],
+                "texte": [
+                  "Le tendon du sus-épineux apparaît à la surface de la tête humérale, du côté droit, sous la forme d'une épais ruban au rebord hyperéchoïque et au centre plus hypoéchoïque"
+                ]
+              },
+              {
+                "acronymes": ["IR"],
+                "texte": [
+                  "L'intervalle des rotateurs est un espace situé tout juste à la gauche du tendon du sus-épineux, qui contient (entre autres) le tendon du long biceps"
+                ]
+              },
+              {
+                "acronymes": ["SS"],
+                "texte": [
+                  "Le tendon du sous-scapulaire, quant à lui, se trouve du côté gauche de l'intervalle des rotateurs, en surface de la tête humérale, et prend ici une apparence similaire au tendon du sus-épineux"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Deltoïde" },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Tête humérale"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Sus-épineux"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Intervalle des rotateurs"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Sous-scapulaire"
+              },
+              { "path": "identification7.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "L’intervalle des rotateurs est le nom donné à l’espace triangulaire délimité par les tendons du sous-scapulaire et du sus-épineux. Le terme « intervalle » réfère au concept suivant : parmi toute la zone de la tête humérale couverte par les muscles de la coiffe des rotateurs, cet espace est le seul libre d'insertions musculaires.",
+          "Dans certains autres ouvrages <a href='#ref1' class='reference'>[1]</a>, le terme « intervalle des rotateurs » peut servir à désigner, globalement, le tendon du long biceps et le complexe ligamentaire séparant le tendon du sous-scapulaire des 3 autres tendons de la coiffe des rotateurs (petit rond, sus- et sous-épineux).",
+          "Cette région est importante surtout en raison de son contenu, qui compte notamment le tendon du long biceps ainsi que les ligaments coracohuméral et glénohuméral supérieur. Pour plus d’information sur ces structures, leur anatomie et leur pertinence clinique, nous vous invitons à consulter la <a href='/protocoles/epaules/biceps-brachial' class='underline'>capsule sur le biceps brachial.</a>"
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/IntervalleDesRotateurs/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Routine d'évaluation",
+        "text": [
+          "Souvent, l’intervalle des rotateurs est examiné en même temps que le tendon du long biceps, en raison du fait qu’un léger changement de position et des réglages de l’appareil (facultatif, mais conseillé) du patient suffit à mettre en évidence l’une ou l’autre des structures"
+        ]
+      },
+      {
+        "subtitle": "Capsulite rétractile (adhésive)",
+        "text": [
+          "Dans le contexte d’une éventuelle capsulite rétractile, l’espace libre au sein de l’intervalle des rotateurs (dont les limites sont mentionnées ci-haut) tend à diminuer. À l’aide de l’ultrasonographie, cet espace peut être mesuré et comparé à celui du côté opposé."
+        ]
+      },
+      {
+        "subtitle": "Tendinopathies",
+        "text": [
+          "Dans le cadre de plusieurs tendinopathies, qu’il s’agisse de la coiffe des rotateurs ou du tendon du long biceps, l’espace libre au sein de l’intervalle des rotateurs peut également venir à diminuer, par exemple en raison de l’infiltration de liquide au sein de la gaine d’un tendon."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Biceps",
+          "link": "/protocoles/epaule/biceps-brachial"
+        },
+        {
+          "linkTitle": "Sus-épineux (région antéro-latérale)",
+          "link": "/protocoles/sus-epineux"
+        },
+        {
+          "linkTitle": "Sus-épineux & espace sous-acromial",
+          "link": "/protocoles/epaule/sus-epineux-et-espace-sous-acromial"
+        },
+        {
+          "linkTitle": "Sous-scapulaire",
+          "link": "/protocoles/epaule/sous-scapulaire"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Jacobson, Jon A. “Shoulder US: Anatomy, Technique, and Scanning Pitfalls.” Radiology 260, no. 1 (July 1, 2011): 6–16. doi:10.1148/radiol.11101082."
+        },
+        {
+          "text": "Yu, Tung-Yang, Wen-Chung Tsai, Ju-Wen Cheng, Yun-Ming Yang, Fang-Chen Liang, and Chien-Hung Chen. “The Effects of Aging on Quantitative Sonographic Features of Rotator Cuff Tendons.” Journal of Clinical Ultrasound: JCU 40, no. 8 (October 2012): 471–78. doi:10.1002/jcu.21919."
+        }
+      ]
+    }
+  }
+}

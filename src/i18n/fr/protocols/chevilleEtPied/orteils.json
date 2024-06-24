@@ -1,0 +1,239 @@
+{
+  "title": "",
+  "latinName": "",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "", "header": true },
+          { "data": "Hallux", "header": true },
+          { "data": "Orteils 2 à 5", "header": true },
+          { "data": "5e orteil seulement", "header": true }
+        ],
+        [
+          { "data": "Composantes osseuses", "header": true },
+          { "data": "2 : Phalange proximale ; phalange distale" },
+          {
+            "data": "3 : Phalange proximale ; phalange moyenne* ; phalange distale*"
+          },
+          { "data": "N/A" }
+        ],
+        [
+          { "data": "Principaux muscles mobilisateurs", "header": true },
+          {
+            "data": "6 : Adducteur et abducteur de l'hallux ; long et court extenseurs de l'hallux ; long et court fléchisseurs de l'hallux"
+          },
+          {
+            "data": "7 : Long et court extenseurs des orteils ; long et court extenseurs des orteils ; interosseux dorsaux et plantaires ; lombricaux"
+          },
+          {
+            "data": "2 : Court fléchisseur du 5e orteil ; abducteur du 5e orteil"
+          }
+        ],
+        [
+          { "data": "Innervation sensitive", "header": true },
+          {
+            "data": "Nerfs : fibulaire superficiel (L4-S1) ; fibulaire profond (L4-L5)"
+          },
+          {
+            "data": "Nerfs : fibulaire superficiel (L4-S1) ; fibulaire profond (L4-L5) [2e orteil seul.]"
+          },
+          { "data": "Nerf sural" }
+        ],
+        [
+          { "data": "Innervation motrice", "header": true },
+          {
+            "data": "Nerfs : tibial (S1-S2) ; fibulaire profond (L4-L5) ; plantaire médial et latéral (branches du nerf tibial)"
+          },
+          {
+            "data": "Nerfs : fibulaire profond (L4-L5) ; tibial (S1-S2) ; plantaire médial et latéral"
+          },
+          { "data": "Nerf plantaire latéral" }
+        ]
+      ],
+      "extraText": "*  Pour le 4e et/ou le 5e orteil, il arrive que les phalanges moyennes et distales soient fusionnées<a href='#ref5' class='reference'>[5]</a>."
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [],
+      "extraText": ["Aucune donnée disponible"]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Décubitus dorsal",
+          "La position du membre inférieur (étendu vs fléchi avec le pied à plat sur le lit) est au choix, selon le confort du patient et le degré de stabilité nécessaire à l'évaluateur"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer et palper la portion distale (tête) des métatarsiens, ainsi que les phalanges proximales, moyennes et distales"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/orteils/vueLongitudinale/",
+        "objectifs": [
+          "Pédagogique : Observation de l'anatomie de l'avant-pied, plus particulièrement des orteils"
+        ],
+        "parametres": ["Profondeur : 1 cm", "Gain : 70", "G/3/3"],
+        "positionnement": [
+          "Placer la sonde le long axe de l'orteil, en s'assurant de recouvrir les trois phalanges (ce qui pourrait ne pas être possible en fonction de la morphologie du sujet et de la dimension, ou footprint, de la sonde).",
+          "Balayer lentement en proximal des phalanges afin de pouvoir observer l'articulation métatarso-phalangienne et l'os métatarsien."
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["PP"],
+                "texte": [
+                  "La phalange proximale, la plus volumineuse des trois phalanges, est située à la gauche de l'image. On peut noter la présence d'un trait hyperéchoïque à la surface (dorsale) de la phalange, qui est dû à l'importante réflexion du faisceau d'ultrasons par l'os cortical de la phalange."
+                ]
+              },
+              {
+                "acronymes": ["PM"],
+                "texte": [
+                  "La phalange moyenne, au centre de l'image est d'apparence similaire à la phalange proximale, à la différence près qu'elle est davantage superficielle et moins volumineuse que cette dernière."
+                ]
+              },
+              {
+                "acronymes": ["PD"],
+                "texte": [
+                  "La phalange distale, la plus petite des trois phalanges, se trouve à la droite de l'image, et se distingue par son extrémité distale plus effilée (presque pointue). On peut aussi noter la présence de l'ongle tout juste en superficie (donc au haut de l'image) de la phalange distale."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "initial.jpg" },
+              { "path": "PP.jpg", "descriptionText": "Phalange proximale" },
+              { "path": "PM.jpg", "descriptionText": "Phalange moyenne" },
+              { "path": "PD.jpg", "descriptionText": "Phalange distale" },
+              { "path": "initial.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "À l'instar de la main, le pied est une structure complexe comprenant nombre de composantes délicatement organisée, malgré les forces importantes qui le traversent plusieurs centaines ou milliers de fois par jour. En effet, le pied compte 28 os, 30 articulations et plus d'une centaine de ligaments, tendons et muscles<a href='#ref2' class='reference'>[2]</a>.",
+          "Le contenu de cette capsule sera centré sur les structures de l'avant-pied, plus spécifiquement sur les orteils. Par souci de brièveté, le second orteil sera utilisé comme 'modèle', puisque les 2e à 4e orteils ont une anatomie pratiquement identique (ainsi le 5e orteil, quoique dans une moindre mesure)."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/orteils/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Fracture de stress",
+        "text": [
+          "Les fractures de stress, aussi désignées sous le terme de 'fractures d'insuffisance' ('insufficiency fracture') sont des fractures qui prennent place au sein d'un os affaibli, généralement après une mise en charge répétée. Classiquement, ce type de lésion est surtout retrouvé chez les femmes post-ménopausées ou chez les adeptes d'activités (sportives ou professionnelles) impliquant une mise en charge répétée des os du pied (danseurs, coureurs, militaires). De plus, avec le gain en popularité des activités sportives extérieures, notamment la course à pied, la prévalence de ce type de lésion tend à augmenter<a href='#ref3' class='reference'>[3]</a>. Certains facteurs biomécaniques/morphologiques sont également associés à une prédisposition supplémentaire aux fractures de stress, dont une inversion excessive de l'arrière-pied, un varus important de l'avant-pied ou une arche longitudinale haute<a href='#ref2' class='reference'>[2]</a>.",
+          "Pour le membre inférieur, l'os le plus fréquemment touché est le tibia, suivi de près par la fibula<a href='#ref3' class='reference'>[3]</a>. Généralement, les fractures de stress au pied touchent la diaphyse des deuxième et/ou troisième os métatarsiens, et, dans les stades initiaux, sont normalement accompagnées de symptômes non-spécifiques et d'une apparence normale à la radiographie standard<a href='#ref2' class='reference'>[2]</a>. Actuellement, le 'gold standard' pour le diagnostic de ce type d'atteintes est l'imagerie par résonnance magnétique (IRM) et la scintigraphie osseuse, deux modalités malheureusement dispendieuses et relativement peu accessibles. Ceci s'explique en partie par le fait que la radiographie standard ne peut normalement mettre en évidence de telles fractures avant une période de deux à trois semaines post-lésion<a href='#ref3' class='reference'>[3]</a>.",
+          "Bien que l'imagerie par ultrasonographie ne soit pas une modalité de choix pour l'examen des structures osseuses, nombre de signes peuvent être observés en présence d'une fracture de stress, ce qui peut, tout au moins, contribuer à orienter le diagnostic et/ou pousser à entreprendre davantage d'examens. On pourrait par exemple mettre en évidence de l'oedème, une augmentation de l'apport vasculaire (à l'aide du mode Doppler) ou une élévation périostée<a href='#ref1' class='reference'>[1]</a><a href='#ref3' class='reference'>[3]</a>. Bien que la littérature sur le sujet soit peu abondante pour le moment, certains auteurs ont affirmé que l'imagerie par ultrasonographie est actuellement l'approche diagnostique de choix, et qu'elle pourrait éventuellement remplacer l'IRM et la scintigraphie osseuse comme 'gold standard'. Malgré tout, aucun consensus n'existe pour l'instant à ce sujet<a href='#ref1' class='reference'>[1]</a>."
+        ]
+      },
+      {
+        "subtitle": "Conditions inflammatoires",
+        "text": [
+          "Diverses pathologies inflammatoires (auto-immunes) pouvant affecter l'avant-pied peuvent être investiguées à l'aide de l'imagerie par ultrasonographie, p.ex.: la polyarthrite rhumatoïde (PAR), l'arthrite goutteuse, le psoriasis ou le syndrome de Reiter (le PAR étant la plus prévalente)<a href='#ref6' class='reference'>[6]</a><a href='#ref12' class='reference'>[12]</a>. Dans le cas de la PAR, l'échographie peut permettre de mettre en évidence une érosion articulaire, des signes de ténosynovites ou de d'observer/qualifier le pannus au sein de la membrane synoviale<a href='#ref2' class='reference'>[2]</a>."
+        ]
+      },
+      {
+        "subtitle": "Névrome de Morton / Neuropathies d'origine mécanique",
+        "text": [
+          "Le névrome de Morton est une condition caractérisée par une atteinte mécanique d'un nerf plantaire commun des orteils, particulièrement les troisième (surtout) et quatrième nerfs interdigitaux<a href='#ref2' class='reference'>[2]</a>.",
+          "Le mécanisme physiopathologique est classiquement multifactoriel, où se conjuguent souvent un traumatisme local et certains facteurs anatomiques : le 3e nerf interdigital est plus volumineux est également localisé plus près de la tête du métatarsien que les autres nerfs interdigitaux, ce qui le rend plus vulnérable aux traumatismes. De plus, la plus grande mobilité relative des 3e et 4e métatarsiens peut faciliter un coincement ('impingement') du nerf entre ces deux structures<a href='#ref8' class='reference'>[8]</a><a href='#ref15' class='reference'>[15]</a>.",
+          "Cliniquement, ces patients rapportent généralement une douleur importante qui tend à être agravée par le port de chaussures étroites, de souliers à talons hauts, ou par la marche. Les symptomes sont normalement soulagés par la diminution de mise en charge et le repos<a href='#ref2' class='reference'>[2]</a>.",
+          "De nombreux articles scientifiques ont été publiés au sujet de l'évaluation des névromes de Morton à l'aide de l'imagerie par ultrasonographie. Cette approche est ainsi reconnue pour son excellente sensibilité (100%) et spécificité (83,3%) en la matière lorsque comparée avec les constats chirurgicaux <a href='#ref14' class='reference'>[14]</a>. Une autre étude, publiée en 2000, a conclu que l'échographie permet de détecter un névrome de Morton dans 85% des cas<a href='#ref11' class='reference'>[11]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Tibial antérieur",
+          "link": "/protocoles/cheville-pied/tibial-anterieur/"
+        },
+        {
+          "linkTitle": "Tendons fibulaires",
+          "link": "/protocoles/cheville-pied/tendons-fibulaires/"
+        },
+        {
+          "linkTitle": "Canal tarsien",
+          "link": "/protocoles/cheville-pied/canal-tarsien/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Banal, F, F Etchepare, B Rouhier, C Rosenberg, V Foltz, S Rozenberg, A C Koeger, B Fautrel, and P Bourgeois. 'Ultrasound Ability in Early Diagnosis of Stress Fracture of Metatarsal Bone.' Annals of the Rheumatic Diseases 65, no. 7 (July 2006): 977–78. doi:10.1136/ard.2005.046979."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Bodner, Gerd, Bernhard Stöckl, Anke Fierlinger, Michael Schocke, and Maria Bernathova. 'Sonographic Findings in Stress Fractures of the Lower Limb: Preliminary Findings.' European Radiology 15, no. 2 (October 16, 2004): 356–59. doi:10.1007/s00330-004-2525-8."
+        },
+        {
+          "text": "Martinoli, Carlo. 'Musculoskeletal Ultrasound: Technical Guidelines.' Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "GEORGE, M. 'Biphalangeal Fifth Toe: An Increasingly Common Variant?' Journal of Anatomy 198, no. Pt 2 (February 2001): 251. doi:10.1046/j.1469-7580.2001.19820251.x."
+        },
+        {
+          "text": "Grassi, W., G. Meenagh, E. Pascual, and E. Filippucci. '‘Crystal Clear’—Sonographic Assessment of Gout and Calcium Pyrophosphate Deposition Disease.' Seminars in Arthritis and Rheumatism 36, no. 3 (December 2006): 197–202. doi:10.1016/j.semarthrit.2006.08.001."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Levitsky, Kenneth A., Benjamin A. Alman, David S. Jevsevar, and James Morehead. 'Digital Nerves of the Foot: Anatomic Variations and Implications Regarding the Pathogenesis of Interdigital Neuroma.' Foot & Ankle International 14, no. 4 (May 1, 1993): 208–14. doi:10.1177/107110079301400406."
+        },
+        {
+          "text": "Martinoli, Carlo. 'Musculoskeletal Ultrasound: Technical Guidelines.' Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "O’Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        },
+        {
+          "text": "Quinn, Timothy J., Jon A. Jacobson, Joseph G. Craig, and Marnix T. van Holsbeeck. 'Sonography of Morton’s Neuromas.' American Journal of Roentgenology 174, no. 6 (June 1, 2000): 1723–28. doi:10.2214/ajr.174.6.1741723."
+        },
+        {
+          "text": "Schueller-Weidekamm, Claudia, Gerd Schueller, Martin Aringer, Michael Weber, and Franz Kainberger. 'Impact of Sonography in Gouty Arthritis: Comparison with Conventional Radiography, Clinical Examination, and Laboratory Findings.' European Journal of Radiology, Endocrine Tumor Abdomen, 62, no. 3 (June 2007): 437–43. doi:10.1016/j.ejrad.2006.12.005."
+        },
+        {
+          "text": "Silvestri, Enzo, Alessandro Muda, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System: A Practical Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Sobiesk, George A., Stuart J. Wertheimer, Ronald Schulz, and Michelle Dalfovo. 'Sonographic Evaluation of Interdigital Neuromas.' The Journal of Foot and Ankle Surgery 36, no. 5 (September 1997): 364–66. doi:10.1016/S1067-2516(97)80038-5."
+        },
+        {
+          "text": "Wu, Kent K. 'Morton’s Interdigital Neuroma: A Clinical Review of Its Etiology, Treatment, and Results.' The Journal of Foot and Ankle Surgery 35, no. 2 (March 1996): 112–19. doi:10.1016/S1067-2516(96)80027-5."
+        }
+      ]
+    }
+  }
+}

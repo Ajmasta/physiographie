@@ -1,0 +1,143 @@
+{
+  "title": "Technique",
+  "sectionOne": {
+    "title": "Aspects pratiques : Les étapes de base",
+    "content": [
+      {
+        "text": [
+          "Premier contact avec la sonde (A-R-T)",
+          ["A: Alignement", "R: Rotation", "T: Bascule ('Tilt')"]
+        ]
+      },
+      {
+        "text": ["Optimisation de l'image", ["Profondeur", "Focus", "Gain"]]
+      },
+      {
+        "text": [
+          "Identification des structures anatomiques, en fonction de :",
+          [
+            "Leurs caractéristiques ultrasonographiques (échogénicité, échotexture, etc.)",
+            "Leurs dimensions & localisation"
+          ]
+        ]
+      }
+    ]
+  },
+  "sectionTwo": {
+    "title": "Les paramètres",
+    "content": [
+      {
+        "text": [
+          "Vue / plan d'évaluation",
+          [
+            "Le choix du plan se fait en fonction de l'anatomie de la région et des structures d'intérêt"
+          ]
+        ],
+        "images": [
+          { "path": "plan_transverse1.jpg" },
+          { "path": "plan_longitudinal.jpg" }
+        ]
+      },
+      {
+        "text": [
+          "Profondeur",
+          [
+            "Ce paramètre permet d'utiliser la profondeur nécessaire pour visualiser les structures d'intérêt.",
+            "Une profondeur trop importante tend à diminuer la qualité (résolution) de l'image résultante"
+          ]
+        ],
+        "images": [
+          { "path": "profondeur_3cm.jpg" },
+          { "path": "profondeur_4cm.jpg" },
+          { "path": "profondeur_6cm.jpg" },
+          { "path": "profondeur_12cm.jpg" }
+        ]
+      },
+      {
+        "text": [
+          "Focus",
+          ["Un focus correctement ajusté permet une clarté d'image optimale"]
+        ],
+        "images": [{ "path": "focus_mauvais.jpg" }, { "path": "focus_bon.jpg" }]
+      },
+      {
+        "text": [
+          "Gain",
+          [
+            "L'ajustement du gain permet peut se fait en fonction de la nature de la structure d'intérêt.",
+            "Si, par exemple, on recherche une structure hypoéchoïque, le gain peut être augmenté, mais les structures fortement hyperéchoïques disparaîtront alors."
+          ]
+        ],
+        "images": [
+          { "path": "gain_trop_bas.jpg" },
+          { "path": "gain_bon_bas.jpg" },
+          { "path": "gain_trop_haut.jpg" },
+          { "path": "gain_bon_haut.jpg" }
+        ]
+      }
+    ]
+  },
+  "sectionThree": {
+    "title": "Les artéfacts",
+    "sections": {
+      "sectionOne": {
+        "title": "Définition",
+        "text": [
+          "Au sens large du terme, lorsqu'utilisé dans un contexte scientifique, le mot artéfact réfère à altération du résultat d'un examen, observation ou mesure, qui est due au procédé technique utilisé (Dictionnaire Larousse). Par exemple, on peut imaginer un thermomètre entreposé à la température de la pièce qui, lorsque placé dans le milieu dont la température doit être mesurée, réchaufferait ledit milieu et viendrait donc biaiser la lecture effectuée. Un autre exemple de scénario où les artéfacts sont assez communs : les microscopes optiques standard. Dès qu'une image est déformée par une impureté ou une imperfection sur la lentille, des artéfacts peuvent être engendrés. Pour quiconque effectuant une observation scientifique, il est donc impératif de connaître le procédé par lequel les mesures sont prises afin de reconnaître les nombreux pièges potentiels qui peuvent être tendus sur son chemin.",
+          "En échographie, les conséquences d'un artéfact passé inaperçu peuvent être, selon le cas, d'un degré de gravité variable. Ainsi, il est primordial de savoir les reconnaître, tant pour maintenir une précision optimale des observations que pour éviter d’engendrer des faux-positifs ou des faux-négatifs."
+        ]
+      },
+
+      "sectionTwo": {
+        "title": "Types d'artéfacts",
+        "text": [
+          "Ci-dessous, on distingue deux types d’artéfacts que l’on peut rencontrer lors de l’utilisation d’ultrasonographie musculosquelettique:",
+          [
+            "Modifiables : ce type d’artéfact peut être rencontré si la technique est inadéquate, si le paramétrage est incorrect ou si l’équipement est défectueux",
+            "Non-modifiables : c.-à-d. des conséquences du mode de fonctionnement intrinsèque de l’ultrasonographie. Ceux-ci ne peuvent être évités, et ne résultent pas d’une erreur ou d’un défaut de l’équipement. Ce sont des artéfacts systématiques qu’il faut savoir reconnaître et dont l’apparence (sur l’image produite par l’échographie) doit être interprétée différemment de celle, parfois identique, d’autres structures qui ne seraient pas sujettes à ce type d’artéfacts. Ces artéfacts découlent souvent de l’interaction des ultrasons avec des tissus adjacents au tissu présentant l’artéfact (dans le même plan axial ou latéral)"
+          ]
+        ]
+      },
+      "sectionThree": {
+        "title": "Artéfacts évitables, modifiables",
+        "text": [
+          "Anisotropie : Quand le faisceau d’ultrasons atteint perpendiculairement le tissu anisotropique (p.ex. : tendon ou ligament), l’échogénicité « vraie » est reflétée. Un angle du faisceau aussi infime que 5° du faisceau (par rapport au long axe du tissu ) peut provoquer la disparition de l’aspect hyperéchoïque normalement attendu. Ceci peut faire croire à tort à un structure anormale de ce tissu (puisque les tendons/ligaments anormaux sont fréquemment hypoéchoïques).",
+          [
+            "Ce phénomène demande une attention encore plus grande lorsque les tissus anisotropiques visés possèdent des trajets curvilignes ou sinueux (p.ex. : la portion distale du tendon du sus-épineux). Le positionnement de la sonde devient alors critique et peut représenter un défi pour un évaluateur peu expérimenté.",
+            "Aussi contre-intuitif cela puisse-t-il paraître, l’anisotropie peut également être utile à des fins d’identification de structures. En, effet, elle peut permettre de distinguer un ligament ou un tendon parmi un fond de tissus mous également hypoéchoïques mais dont l’échogénicité apparente est peu/pas altérée par des changements d’angle du faisceau."
+          ]
+        ]
+      },
+      "sectionFour": {
+        "title": "Artéfacts inévitables",
+        "text": [
+          "Zones d'ombre acoustique / d'occultation ('shadowing') :",
+          [
+            "Cet artéfact apparaît comme une zone d’ombre sous-jacente à un tissu qui atténue fortement le faisceau d’ultrasons (soit par absorption, réflexion, réfraction ou dispersion). L’image apparaît donc comme une zone anéchoïque sous une interface qui, souvent, apparaîtra fortement hyperéchoïque",
+            "Ceci est considéré comme étant un artéfact puisque l’aspect anéchoïque (ou hypoéchoïque) de la zone la plus profonde n’est pas une conséquence des caractéristiques de ce tissu, mais est en fait (exclusivement ou non) causée par la structure qui lui fait ombrage."
+          ],
+          "Augmentation de transmission directe ('posterior acoustic enhancement, ou increased through-transmission') :",
+          [
+            "Cet artéfact est surtout rencontré lors de l’imagerie de liquides. On retrouve une diminution de l’atténuation du faisceau d’ultrasons dans le liquide, jusqu’aux tissus sous-jacents.",
+            "Ceci apparaît donc comme un amas de liquide en dessous duquel se trouve un tissu anormalement hyperéchoïque"
+          ],
+          "Réverbération postérieure ('posterior reverberation') :",
+          [
+            "On rencontre ce phénomène lorsque le faisceau d’ultrasons interagit avec un surface plane et lisse (p.ex. : un fixateur orthopédique comme une plaque de métal). Tel que le nom de cet artéfact le suggère, les ultrasons viennent alors réverbérer (rebondir, produire un écho) à plusieurs reprise entre la plaque et la surface du transducteur.",
+            "Sur l’image produite, ceci engendre une série de lignes d’échos lumineux entre la structure et la sonde qui se prolongent sous la plaque métallique."
+          ],
+          "Ring-down artifact :",
+          [
+            "Il s’agit là d’une variante de la réverbération postérieure où la réverbération sous la plaque métallique(qui se traduit par une hyperéchoïcité) est encore plus prononcée et continue"
+          ],
+          "Largeur de faisceau ('beam-width artifact') :",
+          [
+            "Ce phénomène est analogue à l’artéfact de volume partiel (volume averaging artifact) en imagerie par résonnance magnétique, où un objet plus mince que l’épaisseur de la coupe de ce dernier donne lieu à une image moyenne, intermédiaire de cette structure et de ce qui l’entoure.",
+            "Par exemple, si on utilise une épaisseur de coupe de 1 mm et qu’on fait un cliché d’un objet mesurant 0,5 mm, l’image générée représentera à 50% l’objet, et 50% le milieu dans lequel il baigne (de l’air, par exemple) et apparaîtra plus pâle et flou.",
+            "Dans le contexte de l’ultrasonographie, si le faisceau d’ultrasons est trop large par rapport à une structure qu’on tente d’observer, l’image résultante vient à représenter une moyenne des tissus entourant cette structure. On court ainsi le risque de « perdre » la zone d’ombre sous la structure qui, normalement, aurait contribué à identifier sa présence."
+          ]
+        ]
+      }
+    }
+  }
+}

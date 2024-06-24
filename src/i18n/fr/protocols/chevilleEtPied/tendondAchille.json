@@ -1,0 +1,301 @@
+{
+  "title": "Tendon d'Achille",
+  "latinName": "Tendo calcaneus",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Muscles rattachés", "header": true },
+          { "data": "Gastrocnémiens, soléaire, plantaire (qui s'y insère)" }
+        ],
+        [
+          { "data": "Point d'attache proximal", "header": true },
+          {
+            "data": "Jonction musculo-tendineuse avec le soléaire et prolongement vers les gastrocnémiens"
+          }
+        ],
+        [
+          { "data": "Insertion (distale)", "header": true },
+          { "data": "Calcanéum (face postérieure, au centre)" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Mesure", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Site", "header": true },
+          { "data": "Moyenne (erreur-type)", "header": true }
+        ],
+        [
+          { "data": "Épaisseur (cm)", "rowspan": 4 },
+          { "data": "Tendon d'Achille (sujets sains)", "rowspan": 2 },
+          {
+            "data": "Point milieu entre la jonction musculo-tendineuse et l'échancrure calcanéenne (insertion du T.A.)"
+          },
+          { "data": "0,479 (0,006)<a href='#ref15' class='reference'>[15]</a>" }
+        ],
+        [
+          { "data": "Échancrure calcanéenne (insertion du T.A.)" },
+          { "data": "0,456 (0,005)<a href='#ref15' class='reference'>[15]</a>" }
+        ],
+        [
+          {
+            "data": "Tendon d'Achille (athlètes [gymnastes] d'élite)",
+            "rowspan": 2
+          },
+          {
+            "data": "Point milieu entre la jonction musculo-tendineuse et l'échancrure calcanéenne (insertion du T.A.)"
+          },
+          { "data": "0,583 (0,019)<a href='#ref15' class='reference'>[15]</a>" }
+        ],
+        [
+          { "data": "Échancrure calcanéenne (insertion du T.A.)" },
+          { "data": "0,490 (0,011)<a href='#ref15' class='reference'>[15]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Décubitus ventral, cheville et pied en dorsiflexion, et dépassant au bout de la table"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer et palper le tendon d’Achille jusqu’à son insertion calcanéenne au niveau de la ligne médiane postérieure du mollet inférieur<a href='#ref10' class='reference'>[10]</a>"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/tendondAchille/vueLongitudinale/",
+        "objectifs": [
+          "Examen de l'enveloppe péritendineuse du tendon d'Achille<a href='#ref1' class='reference'>[1]</a>"
+        ],
+        "parametres": ["Profondeur : 2 cm", "Gain : 55-60", "G/3/3"],
+        "positionnement": [
+          "Placer la sonde en vue longitudinale (dans l’axe long du tendon), approximativement à la hauteur de la malléole interne",
+          "Faire osciller lentement la sonde en médio-latéral du tendon afin de le couvrir sur toute sa surface",
+          "Évaluer le tendon depuis la jonction musculotendineuse jusqu’à l’insertion calcanéenne"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["TA"],
+                "texte": [
+                  "Le tendon d’Achille prend la forme d’une large bande légèrement hyperéchoïque, au sein de laquelle on distingue clairement l’organisation striée des fibres de collagène"
+                ]
+              },
+              {
+                "acronymes": ["C"],
+                "texte": [
+                  "L’os cortical du calcanéum apparaît comme une ligne hyperéchoïque régulière légèrement ondulée, dans le quadrant inférieur droit de l’image"
+                ]
+              },
+              {
+                "acronymes": ["CG"],
+                "texte": [
+                  "Sous le tendon d’Achille et à gauche du calcanéum se trouve le triangle graisseux de Kager, lequel apparaît comme une zone hypoéchoïque triangulaire désorganisée"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Tendon d'Achille"
+              },
+              { "path": "identification3.jpg", "descriptionText": "Calcanéum" },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Coussinet graisseux de Kager"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/tendondAchille/vueTransversale/",
+        "objectifs": [
+          "Mesure du diamètre du tendon d’Achille (seulement dans le plan transverse<a href='#ref1' class='reference'>[1]</a>)",
+          "Examen de l’intégrité du tendon d’Achille",
+          "Observation de l’angle de pennation entre le gastrocnémien et le soléaire",
+          "Recherche de la présence du muscle plantaire"
+        ],
+        "parametres": ["Profondeur : 2 cm", "Gain : 55-60", "G/3/3"],
+        "positionnement": [
+          "Placer la sonde en vue transversale (dans l’axe court du tendon), approximativement à la hauteur de la malléole interne",
+          "Faire osciller lentement la sonde en médio-latéral du tendon afin de le couvrir sur toute sa surface",
+          "Ensuite, évaluer le tendon depuis la jonction musculo-tendineuse jusqu’à son insertion calcanéenne"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["TA"],
+                "texte": [
+                  "Le tendon d’Achille apparaît comme une large zone hyperéchoïque circulaire au centre de l’image"
+                ]
+              },
+              {
+                "acronymes": ["CG"],
+                "texte": [
+                  "Le coussinet graisseux de Kager se trouve en profondeur du tendon"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Tendon d'Achille"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Coussinet graisseux de Kager"
+              },
+              {
+                "path": "identification4.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Facilement accessible à la palpation, l’aspect postérieur de la cheville est une région qui se prête très bien à l’examen ultrasonographique. L’anatomie des tendons de cette région se résume à deux éléments : le tendon d’Achille et le tendon du muscle plantaire, lequel n’est pas systématiquement présent<a href='#ref4' class='reference'>[4]</a>. Le tendon d’Achille, ou tendon calcanéen, est le prolongement distal, d’une part, de l’aponévrose des deux ventres du muscle gastrocnémien et, d’autre part, du tendon du muscle soléaire.",
+          "Le tendon d’Achille est souvent désigné comme étant le tendon le plus long, fort et épais de tout le corps humain <a href='#ref2' class='reference'>[2]</a>: celui-ci mesure effectivement autour de 12 à 20 cm de long<a href='#ref2' class='reference'>[2]</a><a href='#ref14' class='reference'>[14]</a> avec une aire de section transversale allant jusqu’à 65 mm2. La prise de mesure lors de l’évaluation ultrasonographique du tendon d’Achille est normalement effectuée dans le plan transversal (axe court) puisque les mesures effectuées dans le plan longitudinal tendent à être surestimées (en raison du parcours oblique du tendon)<a href='#ref2' class='reference'>[2]</a>. À l’insertion calcanéenne, ce même parcours oblique peut faire apparaître une hypoéchoïcité artéfactuelle (suggérant à tort une tendinopathie), laquelle disparaît quand l’angle d’incidence du faisceau est corrigé<a href='#ref2' class='reference'>[2]</a>.",
+          "Bon nombre de blessures / ruptures du tendon d’Achille se produisent entre 2 et 6 cm en proximal de son insertion calcanéenne (qui, elle, mesure autour de 1 cm <a href='#ref2' class='reference'>[2]</a>), en raison de la relative diminution de vascularisation de cette région<a href='#ref4' class='reference'>[4]</a>. De plus, ce tendon ne possède pas de « vraie » gaine, ce qui explique qu’une diminution d’échogénicité ou la présence de liquide à proximité puisse signifier la présente d’une paraténonite.",
+          "En superficie du tendon, on retrouve une zone hyperéchoïque par rapport au centre du tendon : le paraténon. En profondeur, on retrouve le triangle graisseux de Kager <a href='#ref10' class='reference'>[10]</a>, une zone de tissus mous contenant des lobules graisseux. On retrouve deux bourses dans la région du tendon d’Achille : les bourses rétroachiléenne, entre la peau et le tendon, et rétrocalcanéenne, entre le tendon et le calcanéum. La bourse rétroachiléenne est normalement invisible en l’absence de mécanismes pathologiques, alors que la bourse rétrocalcanéenne, elle, peut mesurer jusqu’à 3 mm d’épaisseur chez un sujet sain<a href='#ref2' class='reference'>[2]</a>. La veine saphène et le nerf sural traversent les tissus sous-cutanés à l’aspect postérolatéral de la cheville. La détection de la veine permet, par élimination, d’identifier le nerf, lequel est situé du côté médial."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/tendondAchille/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Tendinopathie Achiléenne : Tendinose",
+        "text": [
+          "La tendinopathie achiléenne est une entité clinique qui regroupe deux conditions distinctes : la tendinose et la paraténonite (ou ténosynovite). Ces deux conditions peuvent difficilement être distinguées sur la base des signes et symptômes, alors qu'un examen ultrasonographique (tel que décrit ci-haut) permet un diagnostic différentiel relativement aisé. En aigu, la tendinopathie achiléenne se présente normalement avec un oedème diffus et de la douleur/raideur pouvant limiter les activités de la vie quotidienne. En stade chronique, la douleur domine nettement moins le portrait clinique. Elle est souvent absente au repos, et survient lors de certaines activités telles que la course à pied (rarement à la marche, sauf pour les cas sévères). Un épaississement diffus du tendon peut alors être noté à la palpation<a href='#ref2' class='reference'>[2]</a>.",
+          "En présence d'une tendinose achiléenne, on peut généralement observer un paraténon intact et régulier, de pair avec un tendon oedématié hétérogène parsemé de foyers hypoéchoïques. De plus, la tendinose, est souvent bilatérale.<a href='#ref2' class='reference'>[2]</a> Des études histopathologiques ont démontré que les changements structuraux observés dans la tendinose achiléenne sont dus à un mécanisme dégénératif (et la réparation tissulaire qui s'en suit) plutôt qu'à un mécanisme inflammatoire<a href='#ref7' class='reference'>[7]</a>.",
+          "Il est a noter que la tendinose et la paraténonite/ténosynovite sont des entités pathologiques bien distinctes, mais qu'elles peuvent très bien coexister (simultanément ou non) chez un même sujet<a href='#ref2' class='reference'>[2]</a>."
+        ]
+      },
+      {
+        "subtitle": "Tendinopathie Achiléenne : Paraténonite/ténosynovite",
+        "text": [
+          "À l'examen ultrasonographique, la paraténonite achiléenne, par opposition avec la tendinose, se caractérise normalement par l'intérieur du tendon intact, des marges irrégulières possiblement et un paraténon hétérogène, oedématié et d'apparence 'adhésive' (probablement due à un processus cicatriciel antérieur).) <a href='#ref2' class='reference'>[2]</a>"
+        ]
+      },
+      {
+        "subtitle": "Rupture du tendon d'Achille",
+        "text": [
+          "Les ruptures du tendon d'Achille sont dues à un processus dégénératif lent au sein très progressif de la substance même du tendon. La cascade débute par de multiples lésions microscopiques corrélées avec des épisodes symptômatiques, qui évoluent généralement à des lésions dites 'interstitielles' (c.-à-d. parallèles à l'axe long du tendon)<a href='#ref2' class='reference'>[2]</a>.",
+          "Si les (micro-) traumatismes répétés au tendon sont maintenus, les lésions interstitielles sont suivies de lésions partielles, puis complètes du tendon d'Achille, qui sont normalement aisément reconnues en clinique. Les ruptures du tendon d'Achille sont plus communes chez les hommes, et certaines prédispositions ont été soulevées dans la littérature, dont l'âge avancé, la sédentarité et une diminution de l'apport sanguin. De plus, il est a noté que certaines activités sportives sont considérées comme étant plus à risque, dont la course à pied et le soccer (football)<a href='#ref2' class='reference'>[2]</a>.",
+          "L'apparence ultrasonographique d'une lésion complète du tendon d'Achille est la suivante : une zone focale hypo-/anéchoïque de discontinuité de la substance du tendon remplie par un hématome<a href='#ref5' class='reference'>[5]</a>. Il est également possible d'observer un espacement entre les deux marges du tendon qui peut mesurer jusqu'à 20 mm<a href='#ref2' class='reference'>[2]</a>."
+        ]
+      },
+      {
+        "subtitle": "Entésophyte calcanéen",
+        "text": [
+          "Le terme 'entésophyte calcanéen' désigne un processus pathologique dans lequel une calcification progressive du tendon d'Achille (au niveau de l'insertion calcanéenne) se produit. Il s'agit-là de la condition la plus fréquente d'ossification/calcification hétérotopique au niveau de l'insertion du tendon d'Achille.",
+          "Ce phénomène est surtout retrouvé chez les adeptes de la course à pied, et peut être à la source de douleurs, surtout lorsque la condition engendre des difformités et/ou excroissances au sein du tendon d'Achille<a href='#ref2' class='reference'>[2]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Jonction soléaire / tendon d'Achille",
+          "link": "cheville-pied/jonction-soleaire-tendon-d-achille/"
+        },
+        {
+          "linkTitle": "Jonction gastrocnémiens / soléaire",
+          "link": "cheville-pied/jonction-gastrocnemiens-soleaire"
+        },
+        {
+          "linkTitle": "Fascia plantaire",
+          "link": "cheville-pied/fascia-plantaire"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angelo Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. 'Musculoskeletal Ultrasound Technical Guidelines (VI. Ankle).' Eureopean Society of Muscloskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Hollenberg, G. M., M. J. Adams, and E. P. Weinberg. 'Sonographic Appearance of Nonoperatively Treated Achilles Tendon Ruptures.' Skeletal Radiology 29, no. 5 (May 1, 2000): 259–64. doi:10.1007/s002560050604."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013. http://site.ebrary.com/id/10604953."
+        },
+        {
+          "text": "Kainberger, F M, A Engel, P Barton, P Huebsch, A Neuhold, and E Salomonowitz. 'Injury of the Achilles Tendon: Diagnosis with Sonography.' American Journal of Roentgenology 155, no. 5 (November 1, 1990): 1031–36. doi:10.2214/ajr.155.5.2120931."
+        },
+        {
+          "text": "Martinoli, Carlo. 'Musculoskeletal Ultrasound: Technical Guidelines.' Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Movin, T., P. Guntner, A. Gad, and C. Rolf. 'Ultrasonography-Guided Percutaneous Core Biopsy in Achilles Tendon Disorder.' Scandinavian Journal of Medicine & Science in Sports 7, no. 4 (August 1, 1997): 244–48. doi:10.1111/j.1600-0838.1997.tb00147.x."
+        },
+        {
+          "text": "Movin, Tomas, Adel Gad, Finn P Reinholt, and Christer Rolf. 'Tendon Pathology in Long-Standing Achillodynia: Biopsy Findings in 40 Patients.' Acta Orthopaedica 68, no. 2 (January 1, 1997): 170–75. doi:10.3109/17453679709004002."
+        },
+        {
+          "text": "Rolf, Christer, and Tomas Movin. 'Etiology, Histopathology, and Outcome of Surgery in Achillodynia.' Foot & Ankle International 18, no. 9 (September 1, 1997): 565–69. doi:10.1177/107110079701800906."
+        },
+        {
+          "text": "O’Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        },
+        {
+          "text": "Sandelin, J., O. Kiviluoto, S. Santavirta, and R. Honkanen. 'Outcome of Sports Injuries Treated in a Casualty Department.' British Journal of Sports Medicine 19, no. 2 (June 1, 1985): 103–6. doi:10.1136/bjsm.19.2.103."
+        },
+        {
+          "text": "Sandelin, J., S. Santavirta, and O. Kiviluoto. 'Acute Soccer Injuries in Finland in 1980.' British Journal of Sports Medicine 19, no. 1 (March 1, 1985): 30–33. doi:10.1136/bjsm.19.1.30."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Pratical [sic] Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Stenroth, Lauri, Jussi Peltonen, Neil J. Cronin, Sarianna Sipilä, and Taija Finni. 'Age-Related Differences in Achilles Tendon Properties and Triceps Surae Muscle Architecture in Vivo.' Journal of Applied Physiology 113, no. 10 (November 15, 2012): 1537–44. doi:10.1152/japplphysiol.00782.2012."
+        },
+        {
+          "text": "Emerson, Claire, Dylan Morrissey, Mark Perry, et Rosy Jalan. « Ultrasonographically Detected Changes in Achilles Tendons and Self Reported Symptoms in Elite Gymnasts Compared with Controls--an Observational Study. » Manual Therapy 15, nᵒ 1 (février 2010): 37‑42. doi:10.1016/j.math.2009.05.008."
+        }
+      ]
+    }
+  }
+}

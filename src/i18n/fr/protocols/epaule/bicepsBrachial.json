@@ -1,14 +1,6 @@
 {
-  "images": {
-    "anatomie": [
-      "anatomie.gif",
-      "Joelouistear.png",
-      "anatomie.gif",
-      "anatomie.gif",
-      "anatomie.gif"
-    ],
-    "vueTransversale": []
-  },
+  "title": "Biceps Brachial",
+  "latinName": "Biceps brachii",
   "technique": {
     "sectionTitle": "Technique",
     "content": [
@@ -36,7 +28,7 @@
     "vues": [
       {
         "title": "Vue Transversale",
-        "source": "/Protocoles/BicepsBrachial/vueTransversale/",
+        "source": "/Protocols/BicepsBrachial/vueTransversale/",
         "objectifs": [
           "Examen du tendon du long chef du biceps brachial",
           "Examen du ligament transverse huméral"
@@ -45,50 +37,82 @@
         "positionnement": [
           "Placer la sonde en vue transversale au niveau du sillon intertuberculaire"
         ],
-        "imagePositionnement": ["positionnement1.jpg", "positionnement2.jpg"],
-        "identification": [
+        "imagePositionnement": [
           {
-            "acronymes": ["D"],
-            "texte": ["Le deltoïde apparaît au haut de l'image"]
+            "path": "positionnement1.jpg",
+            "descriptionText": "Position de la sonde, vue transversale  (face)"
           },
           {
-            "acronymes": ["PT", "GT"],
-            "texte": [
-              "La petite tubérosité et la grosse tubérosité (des reliefs de la tête humérale, zone hypoéchoïque circulaire) occupent la partie centrale de l'écran respectivement à gauche et à droite."
-            ]
-          },
-          {
-            "acronymes": ["LTH"],
-            "texte": [
-              "Le ligament transverse huméral (mince couche hypoéchoïque) forme le 'toît' du canal ostéofibreux qu'est la coulisse bicipitale. Ceux-ci sont situés en antéro-externe de la tête humérale, soit à la partie supérieure/gauche de l'image (selon le positionnement de la sonde)"
-            ]
-          },
-          {
-            "acronymes": ["TLB"],
-            "texte": [
-              "Le tendon du long biceps est visible au sein de la coulisse bicipitalee"
-            ]
-          },
-          {
-            "acronymes": ["SS"],
-            "texte": [
-              "Le tendon du sous-scapulaire peut être aperçu à la gauche de l'image, sur la petite tubérosité humérale"
-            ]
+            "path": "positionnement2.jpg",
+            "descriptionText": "Position de la sonde, vue transversale  (dos)"
           }
         ],
-        "imageIdentification": [
-          "identification1.jpg",
-          "identification2.jpg",
-          "identification3.jpg",
-          "identification4.jpg",
-          "identification5.jpg",
-          "identification6.jpg",
-          "identification7.jpg"
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["D"],
+                "texte": ["Le deltoïde apparaît au haut de l'image"]
+              },
+              {
+                "acronymes": ["PT", "GT"],
+                "texte": [
+                  "La petite tubérosité et la grosse tubérosité (des reliefs de la tête humérale, zone hypoéchoïque circulaire) occupent la partie centrale de l'écran respectivement à gauche et à droite."
+                ]
+              },
+              {
+                "acronymes": ["LTH"],
+                "texte": [
+                  "Le ligament transverse huméral (mince couche hypoéchoïque) forme le 'toît' du canal ostéofibreux qu'est la coulisse bicipitale. Ceux-ci sont situés en antéro-externe de la tête humérale, soit à la partie supérieure/gauche de l'image (selon le positionnement de la sonde)"
+                ]
+              },
+              {
+                "acronymes": ["TLB"],
+                "texte": [
+                  "Le tendon du long biceps est visible au sein de la coulisse bicipitalee"
+                ]
+              },
+              {
+                "acronymes": ["SS"],
+                "texte": [
+                  "Le tendon du sous-scapulaire peut être aperçu à la gauche de l'image, sur la petite tubérosité humérale"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              {
+                "path": "identification1.jpg"
+              },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Deltoïde"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": " Petite tubérosité et grosse tubérosité"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Ligament transverse huméral"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Tendon du long biceps"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Tendon du sous-scapulaire"
+              },
+              {
+                "path": "identification7.jpg"
+              }
+            ]
+          }
         ]
       },
       {
         "title": "Vue Longitudinale",
-        "source": "/Protocoles/BicepsBrachial/vueLongitudinale/",
+        "source": "/Protocols/BicepsBrachial/vueLongitudinale/",
         "objectifs": [
           "Application statique :",
           [
@@ -107,38 +131,64 @@
           "Le trajet du tendon suit la métaphyse humérale, ce qui engendre des zones d'anisotropie",
           "Il est donc important de tenir la sonde parallèle au tendon en appliquant une légère pression sur sa pointe distale (inférieure)"
         ],
-        "imagePositionnement": ["positionnement1.jpg", "positionnement2.jpg"],
-        "identification": [
+        "imagePositionnement": [
           {
-            "acronymes": ["D"],
-            "texte": ["Le deltoïde apparaît au haut de l'image"]
+            "path": "positionnement1.jpg",
+            "descriptionText": "Position de la sonde, vue longitudinale (face)"
           },
           {
-            "acronymes": ["H"],
-            "texte": [
-              "La métaphyse humérale se trouve au bas de l'image et apparaît également comme une épaisse couche hypoéchoïque"
-            ]
-          },
-          {
-            "acronymes": ["TLB"],
-            "texte": [
-              "Le tendon du long chef du sous-scapulaire se trouve au centre de l'image"
-            ]
+            "path": "positionnement2.jpg",
+            "descriptionText": " Position de la sonde, vue longitudinale (dos)"
           }
         ],
-        "imageIdentification": [
-          "identification1.jpg",
-          "identification2.jpg",
-          "identification3.jpg",
-          "identification4.jpg",
-          "identification5.jpg"
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["D"],
+                "texte": ["Le deltoïde apparaît au haut de l'image"]
+              },
+              {
+                "acronymes": ["H"],
+                "texte": [
+                  "La métaphyse humérale se trouve au bas de l'image et apparaît également comme une épaisse couche hypoéchoïque"
+                ]
+              },
+              {
+                "acronymes": ["TLB"],
+                "texte": [
+                  "Le tendon du long chef du sous-scapulaire se trouve au centre de l'image"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              {
+                "path": "identification1.jpg"
+              },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Deltoïde"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Humérus"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Tendon du long biceps"
+              },
+              {
+                "path": "identification5.jpg"
+              }
+            ]
+          }
         ]
       }
     ]
   },
 
   "descriptionAnatomique": {
-    "sectionTitle": "Description anatomique",
+    "sectionTitle": "Anatomie Descriptive",
     "content": [
       {
         "text": [
@@ -157,53 +207,144 @@
           "Finalement, l'extenseur ulnaire du carpe, un muscle déviateur ulnaire et relativement faible extenseur du poignet, se trouve au sein du sixième et dernier compartiment, qu'il occupe seul."
         ]
       }
-    ]
+    ],
+    "images": [{ "path": "anatomie.gif" }],
+    "source": "/Protocols/BicepsBrachial/"
   },
-  "generalites": {
+  "normesEtGeneralites": {
     "sectionTitle": "Normes & Généralités",
-    "rangees": [
-      [
-        { "data": "Type de muscle", "colspan": 2 },
-        { "data": "Bi-articulaire, digastrique", "colspan": 1 }
-      ],
-      [
-        { "data": "Origine", "rowspan": 2 },
-        { "data": "Chef Long", "colspan": 1 },
-        { "data": "Tubercule supra-glénoïdien (scapula)", "colspan": 1 }
-      ],
-      [
-        { "data": "Chef court", "colspan": 1 },
-        { "data": "Apex du processus coracoïde (scapula)", "colspan": 1 }
-      ],
-      [
-        { "data": "Insertion Commune", "colspan": 2 },
-        { "data": "Tubérosité bicipitale (radius)", "colspan": 1 }
-      ],
-      [
-        { "data": "Innervation", "colspan": 2 },
-        { "data": "Nerf musculocutané (C5-C6)", "colspan": 1 }
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Type de muscle", "colspan": 2, "header": true },
+          { "data": "Bi-articulaire, digastrique" }
+        ],
+        [
+          { "data": "Origine", "rowspan": 2, "header": true },
+          { "data": "Chef Long" },
+          { "data": "Tubercule supra-glénoïdien (scapula)" }
+        ],
+        [
+          { "data": "Chef court" },
+          { "data": "Apex du processus coracoïde (scapula)" }
+        ],
+        [
+          { "data": "Insertion Commune", "colspan": 2, "header": true },
+          { "data": "Tubérosité bicipitale (radius)" }
+        ],
+        [
+          { "data": "Innervation", "colspan": 2, "header": true },
+          { "data": "Nerf musculocutané (C5-C6)" }
+        ]
       ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives dans la littérature",
+      "rangees": [
+        [
+          { "data": "Mesure", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plan", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [
+          { "data": "Épaisseur du tendon (mm)", "rowspan": 2 },
+          { "data": "Long chef du biceps brachial", "rowspan": 2 },
+          { "data": "Plan transverse" },
+          { "data": "3,03 ± 0,63" }
+        ],
+        [{ "data": "Plan longitudinal" }, { "data": "3,27 ± 0,83" }]
+      ]
+    }
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence clinique en physiothérapie",
+    "content": [
+      {
+        "subtitle": "Tendon du long chef du biceps brachial",
+        "text": [
+          "Tendinopathie bicipitale",
+          [
+            "La portion intra-articulaire du tendon du long biceps peut démontrer la présence d'épanchement dans la gaine du tendon <a href='#ref1' class='reference'>[1]</a>",
+            "Ce signe suggère une tendinopathie bicipitale mais ne suffit pas à poser un diagnostic"
+          ],
+          "Tendinose par attrition sur un os irrégulier",
+          [
+            "Identifier des séparations longitudinales  <a href='#ref1' class='reference'>[1]</a>",
+            "Attention à ne pas confondre avec un tendon bifide (variante anatomique)"
+          ],
+          "Suspicion de rupture :",
+          [
+            "Identifier une discontinuité du tendon du long biceps",
+            "Utile quand l'examen clinique est complexe (p.ex. patients obèses)"
+          ],
+          "Suspicion d'accrochage",
+          [
+            "En utilisation dynamique, il est possible d'identifier un accrochage au sein de l'espace acromiohuméral <a href='#ref2' class='reference'>[2]</a>"
+          ],
+          "Visualiser la subluxation du tendon du long biceps de la coulisse bicipitale",
+          [
+            "Identifier le glissement (snapping) du tendon du long biceps, souvent lors d'une abduction et rotation interne / externe simultanée"
+          ]
+        ]
+      },
+      {
+        "subtitle": "Ventre musculaire du biceps brachial",
+        "text": [
+          "Faiblesse musculaire en flexion du coude",
+          ["Possibilité de démontrer une atrophie"]
+        ]
+      },
+      {
+        "subtitle": "Coiffe des rotateurs",
+        "text": [
+          "Examen ultrasonographique de la coiffe des rotateurs :",
+          [
+            "Point de départ, ou de référence, pour l'examen de d'autres structures"
+          ],
+          "Tendinopathies de la coiffe (stades avancés)",
+          [
+            "Il peut y avoir rupture des stabilisateurs du tendon du long biceps au sein de l'intervalle des rotateurs <a href='#ref1' class='reference'>[1]</a>",
+            "S'ensuit une instabilité, qui peut mener à une luxation du tendon",
+            "À ces stades de tendinopathie, il est fréquent que la rupture des stabilisateurs suive une rupture du sous-scapulaire <a href='#ref1' class='reference'>[1]</a>"
+          ]
+        ]
+      }
     ]
   },
-  "valeursNormatives": {
-    "sectionTitle": "Valeurs normatives",
-    "rangees": [
-      [
-        { "data": "Mesure" },
-        { "data": "Structure" },
-        { "data": "Plan" },
-        { "data": "Moyenne ± écart-type" }
-      ],
-      [
-        { "data": "Épaisseur du tendon (mm)", "rowspan": 2 },
-        { "data": "Long chef du biceps brachial", "rowspan": 2 },
-        { "data": "Plan transverse" },
-        { "data": "3,03 ± 0,63" }
-      ],
-      [{ "data": "Plan longitudinal" }, { "data": "3,27 ± 0,83" }]
-    ]
-  },
-  "pertinenceClinique": [],
-  "voirAussi": [],
-  "references": []
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir Aussi",
+      "content": [
+        {
+          "linkTitle": "Intervalle des rotateurs",
+          "link": "http://www.physiographie.umontreal.ca/protocoles/epaule/intervalle/index.html"
+        },
+        {
+          "linkTitle": "Sus-épineux (région antéro-latérale)",
+          "link": "http://www.physiographie.umontreal.ca/protocoles/epaule/sus-epineux/index.html"
+        },
+        {
+          "linkTitle": "Articulation acromio-claviculaire",
+          "link": "http://www.physiographie.umontreal.ca/protocoles/epaule/art-ac/index.html"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Yablon, Corrie M., Asheesh Bedi, Yoav Morag, and Jon A. Jacobson. “Ultrasonography of the Shoulder with Arthroscopic Correlation.” Clinics in Sports Medicine 32, no. 3 (July 2013): 391–408. doi:10.1016/j.csm.2013.03.001."
+        },
+        {
+          "text": "Yu, Tung-Yang, Wen-Chung Tsai, Ju-Wen Cheng, Yun-Ming Yang, Fang-Chen Liang, and Chien-Hung Chen. “The Effects of Aging on Quantitative Sonographic Features of Rotator Cuff Tendons.” Journal of Clinical Ultrasound: JCU 40, no. 8 (October 2012): 471–78. doi:10.1002/jcu.21919."
+        }
+      ]
+    }
+  }
 }

@@ -1,0 +1,363 @@
+{
+  "title": "Petit rond et sous-épineux",
+  "latinName": "Teres minor & Infraspinatus",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "" },
+          { "data": "Petit rond", "header": true },
+          { "data": "Sous-épineux", "header": true }
+        ],
+        [
+          { "data": "Type de muscle", "header": true },
+          { "data": "Mono-articulaire, unipenné" },
+          { "data": "Mono-articulaire, multipenné" }
+        ],
+        [
+          { "data": "Origine", "header": true },
+          { "data": "Scapula : bord latéral" },
+          { "data": "Scapula : fosse du sous-épineux" }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          { "data": "Humérus : Grosse tubérosité (face postéro-inférieure)" },
+          { "data": "Humérus : Grosse tubérosité (face latérale)" }
+        ],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Nerf axillaire" },
+          { "data": "Nerf suprascapulaire" }
+        ],
+        [
+          { "data": "Action", "header": true },
+          {
+            "data": "Rotation externe d'épaule, coaptation de l'articulation gléno-humérale",
+            "colspan": 2
+          }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Mesure", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plan / Site", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [
+          { "data": "Épaisseur du ventre musculaire (mm)" },
+          { "data": "Sous-épineux" },
+          { "data": "Moyenne de 4 points du ventre musculaire" },
+          {
+            "data": "18,00 ± 0,50 <a href='#ref11' class='reference'>[11]</a>"
+          }
+        ],
+        [
+          { "data": "Aire de section transversale (cm2)" },
+          { "data": "Sous-épineux & petit-rond" },
+          { "data": "Moyenne de 2 points du ventre musculaire" },
+          {
+            "data": "4,98 ± 0,31<a href='#ref12' class='reference'>[12]</a>"
+          }
+        ],
+        [
+          { "data": "Épaisseur du tendon (mm)", "rowspan": 2 },
+          { "data": "Sous-épineux", "rowspan": 2 },
+          { "data": "Plan longitudinal" },
+          {
+            "data": "4,87 ± 1,17<a href='#ref11' class='reference'>[11]</a>"
+          }
+        ],
+        [
+          { "data": "Plan longitudinal" },
+          {
+            "data": "4,63 ± 1,13<a href='#ref11' class='reference'>[11]</a>"
+          }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [""],
+        "subSection": [
+          {
+            "title": "Choix de la position d'évaluation",
+            "text": [
+              "La variante 1, ci-dessous, est communément utilisée et permet de bien exposer les structures postérolatérales de l’épaule, notamment le sous-épineux et le petit rond",
+              "Certains auteurs <a href='#ref1' class='reference'>[1]</a> conseillent davantage la variante 2. Dans certains cas, la variante 1 peut amener une antériorisation excessive du tendon du petit rond, ce qui peut le rendre difficile à distinguer du sous-épineux."
+            ]
+          },
+          {
+            "title": "Variante 1 : Main sur l'épaule controlatéral",
+            "text": [
+              "Assis avec l'épaule découverte",
+              "Épaule :",
+              [
+                "Adduction complète",
+                "Rotation interne",
+                "Neutre de flexion - extension"
+              ],
+              "Coude :",
+              [
+                "Fléchi de manière à pouvoir placer la main sur l'épaule controlatérale"
+              ]
+            ],
+            "imagePositionnement": [
+              {
+                "path": "positionnement1.jpg",
+                "descriptionText": "Position #1 (dos)"
+              },
+              {
+                "path": "positionnement2.jpg",
+                "descriptionText": "Position #1 (côté)"
+              },
+              {
+                "path": "positionnement3.jpg",
+                "descriptionText": "Position #1 (face)"
+              }
+            ],
+            "source": "/Protocols/petitRondEtSousEpineux/"
+          },
+          {
+            "title": "Variante 2 : Épaule au repos, dos de la main déposé sur la cuisse ipsilatérale",
+            "text": [
+              "Assis avec l'épaule découverte",
+              "Épaule :",
+              ["Neutre de flexion - abduction - rotation"],
+              "Coude :",
+              ["90° de flexion", "Pleine supination (paume vers le plafond)"]
+            ],
+            "imagePositionnement": [
+              {
+                "path": "positionnement4.jpg",
+                "descriptionText": "Position #2 (dos)"
+              },
+              {
+                "path": "positionnement5.jpg",
+                "descriptionText": "Position #2 (côté)"
+              },
+              {
+                "path": "positionnement6.jpg",
+                "descriptionText": "Position #2 (face)"
+              }
+            ],
+            "source": "/Protocols/petitRondEtSousEpineux/"
+          }
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Palper l’épine scapulaire sur toute son étendue ainsi que le bord médial de la scapula",
+          "Repérer également la grosse tubérosité ainsi que l’articulation glénohumérale"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/petitRondEtSousEpineux/vueLongitudinale/",
+        "objectifs": [
+          "Examen du sous-épineux (ventre musculaire & tendon)",
+          "Examen du petit rond(ventre musculaire & tendon)"
+        ],
+        "parametres": ["Profondeur : 5-6 cm", "Gain : 80-85", "G/3/2"],
+        "positionnement": [
+          "Placer la sonde en vue longitudinale (par rapport aux fibres du sous-épineux) sur l’épine scapulaire, tout juste en latéral du centre de celle-ci",
+          "Afin de mieux repérer et identifier les structures, balayer lentement de haut en bas pour observer et différencier l’épine scapulaire, le trapèze, le sus-épineux et le sous-épineux",
+          [
+            "Une fois ces structures identifiées, déplacer la sonde en latéral, jusqu’à l’articulation glénohumérale"
+          ],
+          "Le parcours relatif de ces deux muscles étant divergeant, il est souvent nécessaire d’utiliser une angulation de sonde différente pour obtenir une image optimale dans un cas comme dans l’autre",
+          "Pour mieux voir le petit rond <a href='#ref4' class='reference'>[4]</a>:",
+          ["Déplacer la sonde légèrement vers le bas"]
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Position de la sonde, variante 1 (face)"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Position de la sonde, variante 1 (dos)"
+          },
+          {
+            "path": "positionnement3.jpg",
+            "descriptionText": "Position de la sonde, variante 1 (côté)"
+          },
+          {
+            "path": "positionnement4.jpg",
+            "descriptionText": "Position de la sonde, variante 2 (face)"
+          },
+          {
+            "path": "positionnement5.jpg",
+            "descriptionText": "Position de la sonde, variante 2 (dos)"
+          },
+          {
+            "path": "positionnement6.jpg",
+            "descriptionText": "Position de la sonde, variante 2 (côté)"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["DP"],
+                "texte": [
+                  "Le deltoïde postérieur apparaît au haut de l’image. Celui-ci apparaît comme une zone hypoéchoïque dont les striations (comparativement hyperéchoïques) sont visibl"
+                ]
+              },
+              {
+                "acronymes": ["TH"],
+                "texte": [
+                  "La tête humérale (zone hypoéchoïque circulaire) est visible dans le quadrant inférieur droit de l’image"
+                ]
+              },
+              {
+                "acronymes": ["SoE (PR)"],
+                "texte": [
+                  "Le sous-épineux et le petit rond apparaissent dans le quadrant inférieur gauche, sous le deltoïde et à la surface de la tête humérale. On ne peut les distinguer clairement, sur cette image, en raison de leur trajet et taille qui sont similaires."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              {
+                "path": "vueLongitudinale1.jpg"
+              },
+              {
+                "path": "vueLongitudinale2.jpg",
+                "descriptionText": "Deltoïde postérieur"
+              },
+              {
+                "path": "vueLongitudinale3.jpg",
+                "descriptionText": "Tête humérale"
+              },
+              {
+                "path": "vueLongitudinale4.jpg",
+                "descriptionText": "Sous-épineux (petit rond)"
+              },
+              { "path": "vueLongitudinale5.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Les muscles petit rond et sous-épineux, tous deux situés à la partie postérieure de l’épaule, font partie des 4 muscles appartenant à la coiffe des rotateurs (avec le sous-scapulaire et le sus-épineux).",
+          "Le sous-épineux prend origine au sein de la fosse sous-épineuse (scapula) et vient s’insérer, via un large tendon, à la face latérale de la grosse tubérosité, tout juste sous l’insertion du sus-épineux. Bien que l’anatomie grossière du sous-épineux soit assez bien connue, certaines notions morphologiques importantes ne font toujours pas de consensus.",
+          "Dans la littérature, lorsque la pennation du sous-épineux est décrite (elle est souvent omise), on rapporte une structure soit : multipennée, bipennée, compartimentée et/ou fusionnée avec le petit rond <a href='#ref6' class='reference'>[6]</a><a href='#ref7' class='reference'>[7]</a><a href='#ref8' class='reference'>[8]</a><a href='#ref9' class='reference'>[9]</a><a href='#ref10' class='reference'>[10]</a>. Cependant, une étude récente <a href='#ref3' class='reference'>[3]</a> a noté (chez 100% de leurs 48 sujets) la séparation sans équivoque du sous-épineux en 3 chefs (supérieur, moyen et inférieur). Chacun de ces chefs étant clairement délimité par une enveloppe fasciale propre, mais faisant tous partie de la même unité neuromusculaire (quoique cet aspect est sujet à une variabilité anatomique).",
+          "En ultrasonographie, les différents chefs (« partitions ») du sous-épineux sont bien visibles et clairement délimités : afin d’éviter toute confusion au cours de l’identification des structures, cette notion doit être bien comprise",
+          "Le petit rond, quant à lui, prend origine sur une bande étroite du bord latéral de la scapula, pour venir également s’insérer sur la grosse tubérosité (en inférieur et postérieur du tendon du sous-épineux). Le petit rond est le plus petit muscle de la coiffe et, en dépit du fait que son axe « origine-insertion » possède une obliquité plus importante que celui du sous-épineux, ils n’en demeurent pas moins qu’ils sont assez similaires l’un de l’autre. Ceci explique que ces deux muscles possèdent la même action de rotation externe et coaptation gléno-humérale.",
+          "Sur une grande portion de son ventre musculaire, le sous-épineux n’est recouvert par aucun autre muscle. En effet, la moitié supérieure de son origine (fosse sous-épineuse) est masquée par le trapèze moyen, alors que le deltoïde (postérieur et moyen) vient recouvrir l’insertion et la portion latérale du ventre musculaire (à partir de la moitié de l’épine scapulaire). Cette facilité d’accès fait du sous-épineux un bon point de repère pour l’examen de l’aspect postérieur (postéro-latéral) de l’épaule. De plus, la présence de l’épine scapulaire en supérieur fournit un repère supplémentaire pour l’identification des structures avoisinantes.",
+          "Lorsque visualisé au-dessus de la fosse sous-épineuse, le ventre musculaire du sous-épineux devrait être presque deux fois plus gros que celui du petit rond <a href='#ref4' class='reference'>[4]</a> (lorsque comparés sur la base de leur aire de section transversale).",
+          "Le petit rond, tel que son nom le suggère, possède un profil circulaire bien délimité qui permet, malgré la contiguïté des structures de la coiffe, de bien le distinguer du sous-épineux (davantage plat et large) <a href='#ref1' class='reference'>[1]</a>."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/petitRondEtSousEpineux/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Atrophie du sous-épineux [neuropathie du nerf suprascapulaire]",
+        "text": [
+          "Tel qu'expliqué dans la capsule sur les inscisures scapulaires & le labrum postérieur, une atteinte du nerf suprascapulaire au niveau de l'incisure suprascapulaire peut être à la cause d'une atrophie du sous-épineux (et du sus-épineux)",
+          "En guise de repère visuel, l'aire de section transversale du sous-épineux correspond normalement au double de l'aire de section transversale du petit rond"
+        ]
+      },
+      {
+        "subtitle": "Rupture tendineuses",
+        "text": [
+          "Malgré leur grande proximité et leur apparence parfois presque fusionnée, le sous-épineux et le petit rond peuvent être le sujet de ruptures isolées (l'un par rapport à l'autre) et doivent donc être examinés individuellement<a href='#ref1' class='reference'>[1]</a>.",
+          "Assez similaires aux ruptures du sus-épineux, les ruptures du tendon du sous-épineux peuvent être partielles, complètes ou intra-substance (c.-à-d. affectant la portion centrale du tendon en ne s'étendant pas jusqu'à la surface de celui-ci) <a href='#ref4' class='reference'>[4]</a>.",
+          "Les ruptures complètes du tendon du sous-épineux affichent normalement une rétraction importante, souvent accompagnée d'une rupture complète du sus-épineux",
+          "Les ruptures ont classiquement une apprence ultrasonographique hypoéchoïque"
+        ]
+      },
+      {
+        "subtitle": "Tendinoses",
+        "text": [
+          "Par opposition avec les ruptures tendineuses, les tendinoses du sous-épineux ont une apparence hyperéchoïque, avec un gonflement aux sites affectés <a href='#ref4' class='reference'>[4]</a>"
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Sus-épineux (région scapulaire)",
+          "link": "/protocoles/epaule/sus-epineux-post"
+        },
+        {
+          "linkTitle": "Sous-épineux (région scapulaire)",
+          "link": "/protocoles/epaule/sous-epineux"
+        },
+        {
+          "linkTitle": "Incisures scapulaires & labrum postérieur",
+          "link": "/protocoles/epaule/incisures-labrum"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Bigliani, L. U., & Flatow, E. L. (2005). Shoulder arthroplasty. Springer."
+        },
+        {
+          "text": "Fabrizio, Philip A., and F. Richard Clemente. “Anatomical Structure and Nerve Branching Pattern of the Human Infraspinatus Muscle.” Journal of Bodywork and Movement Therapies 18, no. 2 (April 2014): 228–32. doi:10.1016/j.jbmt.2013.11.016."
+        },
+        {
+          "text": "Jacobson, Jon A. “Shoulder US: Anatomy, Technique, and Scanning Pitfalls.” Radiology 260, no. 1 (July 1, 2011): 6–16. doi:10.1148/radiol.11101082."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Johnson, Donald Hugh, and Robert A. Pedowitz. Practical Orthopaedic Sports Medicine and Arthroscopy. Lippincott Williams & Wilkins, 2007."
+        },
+        {
+          "text": "Kato, Atsuo, Akimoto Nimura, Kumiko Yamaguchi, Tomoyuki Mochizuki, Hiroyuki Sugaya, and Keiichi Akita. “An Anatomical Study of the Transverse Part of the Infraspinatus Muscle That Is Closely Related with the Supraspinatus Muscle.” Surgical and Radiologic Anatomy 34, no. 3 (April 2012): 257–65. doi:10.1007/s00276-011-0872-0."
+        },
+        {
+          "text": "Keating, J. F., P. Waterworth, J. Shaw-Dunn, and J. Crossan. “The Relative Strengths of the Rotator Cuff Muscles. A Cadaver Study.” Journal of Bone & Joint Surgery, British Volume 75-B, no. 1 (January 1, 1993): 137–40."
+        },
+        {
+          "text": "Moore, Keith L., Anne M. R. Agur, and Arthur F. Dalley. Clinically Oriented Anatomy. 7th edition. LWW, 2013."
+        },
+        {
+          "text": "Standring, Susan, Neil R Borley, and Henry Gray. Gray’s Anatomy: The Anatomical Basis of Clinical Practice. [Edinburgh]: Churchill Livingstone/Elsevier, 2008."
+        },
+        {
+          "text": "Yu, Tung-Yang, Wen-Chung Tsai, Ju-Wen Cheng, Yun-Ming Yang, Fang-Chen Liang, and Chien-Hung Chen. “The Effects of Aging on Quantitative Sonographic Features of Rotator Cuff Tendons.” Journal of Clinical Ultrasound: JCU 40, no. 8 (October 2012): 471–78. doi:10.1002/jcu.21919."
+        },
+        {
+          "text": "Juul-Kristensen, B., F. Bojsen-Møller, E. Holst, et C. Ekdahl. «Comparison of Muscle Sizes and Moment Arms of Two Rotator Cuff Muscles Measured by Ultrasonography and Magnetic Resonance Imaging. » European Journal of Ultrasound: Official Journal of the European Federation of Societies for Ultrasound in Medicine and Biology 11, nᵒ 3 (June 2000): 161–73."
+        }
+      ]
+    }
+  }
+}

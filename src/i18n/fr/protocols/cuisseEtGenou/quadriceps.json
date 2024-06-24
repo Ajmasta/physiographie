@@ -1,0 +1,336 @@
+{
+  "title": "Quadriceps fémoral",
+  "latinName": "Quadriceps femoris",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "" },
+          { "data": "Droit Fémoral", "header": true },
+          { "data": "Vaste intermédiaire", "header": true },
+          { "data": "Vaste médial", "header": true },
+          { "data": "Vaste latéral", "header": true }
+        ],
+        [
+          { "data": "Type de muscle", "header": true },
+          { "data": "Biarticulaire, unipenné**" },
+          { "data": "Mono-articulaire, unipenné" },
+          { "data": "Mono-articulaire, unipenné" },
+          { "data": "Mono-articulaire, unipenné" }
+        ],
+        [
+          { "data": "Origine", "header": true },
+          { "data": "Épine iliaque antéro-inférieure [EIAI] (via 3 tendons)" },
+          { "data": "Fibula, tibia (face médiale)" },
+          { "data": "Ligne âpre (face postérieure du fémur)", "colspan": 2 }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          { "data": "Couche superficielle du tendon quadricipital" },
+          { "data": "Couche profonde du tendon quadricipital" },
+          {
+            "data": "Couche moyenne du tendon quadricipital ; certaines fibres s'éloignent de la ligne médiale pour rejoindre directement le rétinaculum patellaire",
+            "colspan": 2
+          }
+        ],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Nerf fémoral", "colspan": 4 }
+        ],
+        [
+          { "data": "Action", "header": true },
+          { "data": "Extension de genou, Flexion de hanche" },
+          { "data": "Extension de genou", "colspan": 3 }
+        ]
+      ],
+      "text": [
+        "** La structure du droit fémoral étant complexe, elle est discutée plus en détails dans la section anatomie descriptive, ci-bas."
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Mesure", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plan/Site", "header": true },
+          { "data": "Type de sujet", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [
+          { "data": "Épaisseur (mm)" },
+          { "data": "Droit fémoral [DF]", "rowspan": 3 },
+          {
+            "data": "Ventre musculaire du DF, soit 60-70% de la distance entre le creux poplité et le grand trochanter"
+          },
+          { "data": "H & F en santé ≈ 24 ans" },
+          { "data": "20,7 ± 3,9<a href='#ref15' class='reference'>[15]</a>" }
+        ],
+        [
+          { "data": "Aire de section transversale (mm2)", "rowspan": 3 },
+          {
+            "data": "Au 3/5 de la distance entre l'ÉIAS et le rebord supérieur de la patella",
+            "rowspan": 2
+          },
+          { "data": "H & F en santé, 63 ± 9 ans" },
+          { "data": "463 ± 137<a href='#ref12' class='reference'>[12]</a>" }
+        ],
+        [
+          { "data": "H & F MPOC, 67 ± 9 ans" },
+          { "data": "348 ± 78<a href='#ref12' class='reference'>[12]</a>" }
+        ],
+        [
+          { "data": "Quadriceps", "rowspan": 5 },
+          {
+            "data": "Jonction du tiers prox. et des deux tiers distaux de la cuisse"
+          },
+          { "data": "H & F en santé de 19 à 41 ans", "rowspan": 2 },
+          { "data": "60,8 ± 10,5<a href='#ref14' class='reference'>[14]</a>" }
+        ],
+        [
+          { "data": "Volume* (cm3)" },
+          { "data": "N/A" },
+          { "data": "1641 ± 249<a href='#ref14' class='reference'>[14]</a>" }
+        ],
+        [
+          {
+            "data": "Épaisseur (mm)",
+            "rowspan": 3
+          },
+          {
+            "data": "Mi-distance entre le grand trochanter et l'interligne articulaire du genou",
+            "rowspan": 3
+          },
+          { "data": "Enfant (0-1 an)" },
+          { "data": "16.4 ± 2.8<a href='#ref5' class='reference'>[5]</a>" }
+        ],
+        [
+          { "data": "Enfant (5-6 ans)" },
+          { "data": "26.3 ± 3.7<a href='#ref5' class='reference'>[5]</a>" }
+        ],
+        [
+          { "data": "Enfant (11-12 ans)" },
+          { "data": "29.7 ± 4.9<a href='#ref5' class='reference'>[5]</a>" }
+        ]
+      ],
+      "text": ["*  Estimé à l'aide de la méthode de Cavalieri"]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Décubitus dorsal, avec les deux tiers inférieurs de la cuisse découverts"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "En demandant une contraction isométrique au sujet, repérer et palper les trois chefs superficiels du quadriceps"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/quadriceps/vueTransversale/",
+        "objectifs": [
+          "Examen des quatre chefs du quadriceps fémoral",
+          "Observation plus détaillée de la structure du droit fémoral (couche interne enchâssée, voir ci-haut)"
+        ],
+        "parametres": ["Profondeur : 2 cm", "Gain : 80", "G/3/2"],
+        "positionnement": [
+          "En vue transversale (perpendiculaire au long axe de la cuisse), placer la sonde 15-20 cm en proximal du genou, approximativement alignée avec la ligne médiane",
+          "Balayer ('scan') en médio-latéral ainsi qu'en proximal et en distal du site initial, afin de pouvoir apprécier les différentes portions du quadriceps fémoral"
+        ],
+        "imagePositionnement": [
+          { "path": "positionnement1.jpg", "descriptionText": "" }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["F"],
+                "texte": [
+                  "Le fémur est visible au tiers inférieur de l'image, et apparaît comme une zone hyperéchoïque en forme de demi-cercle."
+                ]
+              },
+              {
+                "acronymes": ["DF"],
+                "texte": [
+                  "Le droit fémoral, zone légèrement hyperéchoïque, est présent au tiers supérieur de l'image, au centre, sous la couche de tissus adipeux sous-cutané. De plus, Son pourtout est clairement défini par un épais fascia hyperéchoïque."
+                ]
+              },
+              {
+                "acronymes": ["VI"],
+                "texte": [
+                  "Le vaste intermédiaire est situé entre la diaphyse fémorale et le droit fémoral, tout au centre de l'image, et possède également un fascia qui délimitement clairement sa périphérie."
+                ]
+              },
+              {
+                "acronymes": ["VL"],
+                "texte": [
+                  "Le vaste latéral apparaît à la gauche de l'image, et s'étend de la surface du compartiment (sous le gras sous-cutané) jusqu'à l'aspect postéro-latéral de la diaphyse fémorale (à l'extérieur du cadre de l'image). On peut remarquer que ses fibres semblent s'immiscer légèrement au sein de l'interface vaste intermédiaire/droit fémoral."
+                ]
+              },
+              {
+                "acronymes": ["VM"],
+                "texte": [
+                  "Le vaste médial, similaire au vaste latéral, occupe toute la portion droite de l'image, de la surface jusqu'en profondeur."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Fémur" },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Droit fémoral"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Vaste intermédiaire"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Vaste latéral"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Vaste médial"
+              },
+              { "path": "identification7.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Le quadriceps, comme son éthymologie le suggère, est un muscle formé de quatre chefs, ou ventre musclulaires distincts (du latin 'quadri' pour 'quatre', et 'caput' pour 'tête'). Le quadriceps occupe la quasi-totalité de la loge antérieure de la cuisse<a href='#ref1' class='reference'>[1]</a>. Ces quatre chefs ont en commun leur rôle d'extenseur du genou via leur extrémité distale qui converge (partiellement) pour former le tendon quadricipital.",
+          "<strong>Droit fémoral [DF]</strong>",
+          "Le droit fémoral est un chef supericiel situé à l'aspect antérieur de la cuisse. Il se distingue des trois autres chefs en raison du fait qu'il prend origine au niveau de la ceinture pelvienne, par opposition aux autres chefs qui originent de la diaphyse fémorale. Cette particularité fait donc du DF un muscle bi-articulaire (en étant un fléchisseur de genou et de hanche).",
+          "L'insertion proximale du DF se trouve principalement au niveau de l'épine iliaque antéro-inférieure [ÉIAI]. Le DF possède cependant trois tendons proximaux bien distincts :",
+          "<ul class='margin-left'><li>Tendon direct (ou 'droit'): Insertion à l'ÉIAI</li><li>Tendon indirect : Insertion au rebord supéro-latéral de l'acétabulum</li><li>Tendon réfléchi ('reflected'), le plus petit des trois : Insertion au niveau de la capsule antérieure de l'articulation coxo-fémorale</li></ul>",
+          "La structure interne du droit fémoral est relativement complexe, et une bonne connaissance des concepts qui l'entourent permet de mieux comprendre les sites et mécanismes de rupture de ce dernier. Jusque dans les années 1980-1990, le droit fémoral était décrit comme ayant une 'simple' structure unipennée, originant d'un tendon proximal et s'insérant via un tendon distal. Depuis le milieu des années 1990, de nombreuses études (cadavériques<a href='#ref4' class='reference'>[4]</a>, IRM<a href='#ref6' class='reference'>[6]</a>, échographie<a href='#ref2' class='reference'>[2]</a>, etc.) ont mis au jour une structure bien différente de celle qui avait jusque-là fait consensus. Il s'agit en effet d'un petit ventre musculaire central enchâssé au sein d'un plus grand ventre musculaire ('muscle-within-muscle structure'). La couche musculaire externe possède l'apparence d'un muscle unipenné 'classique', ce qui explique donc pourquoi le muscle entier a longtemps été décrit comme étant unipenné. L'aponévrose du ventre interne (central), qui est étroitement reliée au tendon proximal direct donne naissance au ventre externe. Le ventre interne, quant à lui, dérive de l'aponévrose centrale, une bande fibreuse associée au tendon proximal indirect. À partir de cette aponévrose centrale, les fibres musculaires du ventre interne s'éloignent de part et d'autre de la ligne médiane pour aller s'insérer au sein de l'aponévrose profonde distale. Il en résulte donc un muscle interne d'apparence bipennée au sein d'un muscle externe, plus large et unipenné<a href='#ref1' class='reference'>[1]</a>.",
+          "<strong>Vaste intermédiaire</strong>",
+          "Parmi les quatre chefs composant le quadriceps, le vaste intermédiaire est le plus profond, étant accolé à la surface antérieure du fémur. Son origine est la plus basse (caudale) des quatre chefs, et sa portion distale se termine au sein de la couche profonde du tendon quadricipital (voir le <a href='/protocoles/cuisse-et-genou/tendon-quadricipital' class='underlined'> protocole sur le tendon quadricipital </a> pour plus d'information à ce sujet)<a href='#ref1' class='reference'>[1]</a>.",
+          "<strong>Vaste latéral & vaste médial</strong>",
+          "Les muscles vaste latéral et vaste médial prennent origine de part et d'autre de la ligne âpre, un relief osseux situé à surface postérieure de la diaphyse fémorale. Leurs ventres musculaires sont situés de chaque côté de la diaphyse fémorale, et progressent distalement pour aller rejoindre la couche moyenne du tendon quadricipital. Tel qu'indiqué dans le tableau ci-haut, certaines fibres distales du vaste médial et latéral s'éloigent de la ligne médiane et viennent s'insérer au niveau du rétinaculum patellaire du côté correspondant, et ne progressent donc pas dans la couche moyenne du tendon quadricipital."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Déchirure/rupture d'un des chefs du quadriceps",
+        "text": [
+          "Ce type de lésion survient classiquement dans le contexte d'une activité sportive intense, particulièrement celles qui impliquent des impulsions importantes (sauts, sprints) ou chez les athlètes professionnels<a href='#ref1' class='reference'>[1]</a>. L'examen physique traditionnel est utile dans ce contexte, mais se révèle assez limité lorsque vient le temps de distinguer une simple contusion d'une rupture mineure ou intra-substance. Une évaluation adéquate de l'emplacement et de la gravité de la lésion du quadriceps revêt une grande importance lorsque vient le temps de mettre sur pied un plan de traitement adapté<a href='#ref1' class='reference'>[1]</a>",
+          "Droit fémoral [DF]<a href='#ref1' class='reference'>[1]</a> :",
+          [
+            "Le DF est un muscle particulièrement sujet au ruptures, en raison de certaines de ses caractéristiques anatomiques et structurales intrinsèques. Entre autres, mentionnons le fait que le DF traverse deux articulations, ce qui le sollcite davantage lors d'activités impliquant le membre inférieur entier (car il est mis en tension tant par des mouvements de la hanche que du genou). De plus, ce muscle étant composé en grande partie de fibres de type II (fibres rapides), il participe aux contractions excentriques puissantes retrouvées lors d'activités comme la course à pieds, ce qui l'expose à des risques de déchirure.",
+            "Les ruptures du DF qui surviennent lors d'une importante force excentrique sont surtout localisées au niveau de la jonction musculo-tendineuse [JMT] proximale ou distale (et non pas au sein du ventre musculaire). Les déchirures au sein de la JMT distale du DF semblent plus fréquentes (en comparaison à la JMT proximale), mais il est également possible qu'elles soient plus facilement détectées/diagnostiquées.",
+            "La rupture (aiguë) de l'aponévrose profonde distale provoque l'appartition d'une masse à la cuisse antérieure (tiers moyen), qui est plus apparente lorsque le sujet effectue une extension active du genou (en raison de la rétraction du muscle). Ce type de présentation clinique ne nécessite normalement pas de confirmation à l'aide d'imagerie par ultrasonographie en raison de son caractère assez évocateur.",
+            "Au contraire, les ruptures de l'aponévrose centrale sont associées à une présentation clinique plus subtile (aucune masse palpable) puisque la structure atteinte est profonde et n'engendre aucune rétraction musculaire. Les signes et symptômes sont non-spécifiques (oedème diffus, douleur locale) et peuvent être insuffisants pour poser un diagnostic. Dans le cas d'un examen physique non-concluant, l'imagerie par ultrasonographie peut être nécessaire.",
+            "Advenant un examen ultrasonographique statique peu révélateur, il peut être utile d'effectuer un examen dynamique longitudinal du DF, en demandant au sujet d'effetuer une contraction isométrique du quadriceps, afin de mettre en évidence une potentielle rétraction du muscle lésé."
+          ],
+          "Vastes :",
+          [
+            "Les trois vastes (intermédiaire, latéral et médial) étant mono-articulaires, les cas de rupture les affectant sont essentiellement associés à des traumatismes extrinsèques, particulièrement en cas de contusion directe.",
+            "Le muscle le plus fréquemment atteint par ce genre de traumatisme est le vaste intermédiaire, ce qui peut paraître curieux considérant la profondeur à laquelle il est situé. Le mécanisme de blessure habituel implique un pincement du ventre musculaire du vaste intermédiaire entre la diaphyse fémorale et 'l'objet contondant'. Chez une population sportive, ce type de lésion est souvent rencontré chez les joueurs de soccer ou de rugby, chez qui l'objet contondant tend à être la patella d'un autre joueur."
+          ]
+        ]
+      },
+      {
+        "subtitle": "Myosite ossifiante<a href='#ref1' class='reference'>[1]</a>",
+        "text": [
+          "La myosite ossifiante est la complication la plus fréquente d'un traumatisme direct au quadriceps fémoral. Il s'agit d'une condition où prend place un processus d'ossification hétérotopique, caractérisée par une douleur aiguë à la portion moyenne de la cuisse antérieure, typiquement chez les adeptes de sports de contact. On retrouve donc un phénomène où des dépôts de calcium s'accumulent lentement (sur une période pouvant s'étaler jusqu'à plusieurs mois) au sein du site lésé.",
+          "Malgré le suffixe '-ite' présent dans le terme 'myosite ossifiante', aucun processus inflammatoire n'est impliqué dans ce mécanisme physiopathologique.",
+          "Lors de l'examen ultrasonographique, l'apparence du muscle lors des stades initiaux est assez peu spécifique (hypoéchoïque, hétérogène). Plus tard, une zone irrégulière hyperéchoïque fait son apparition, en réponse à la quantité grandissante de dépôts calciques."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Ligament patellaire",
+          "link": "/protocoles/cuisse-genou/ligament-patellaire"
+        },
+        {
+          "linkTitle": "Tendon quadricipital",
+          "link": "/protocoles/cuisse-genou/ligament-patellaire"
+        },
+        {
+          "linkTitle": "Tubérosité tibiale",
+          "link": "/protocoles/cuisse-genou/ligament-patellaire"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Bianchi, Stefano, Carlo Martinoli, Nyali Waser, Maria Bianchi-Zamorani, Egisto Federici, and Jean Fasel. “Central Aponeurosis Tears of the Rectus Femoris: Sonographic Findings.” Skeletal Radiology 31, no. 10 (October 1, 2002): 581–86. doi:10.1007/s00256-002-0559-z."
+        },
+        {
+          "text": "Ema, Ryoichi, Taku Wakahara, Yasuyoshi Mogi, Naokazu Miyamoto, Toshihiko Komatsu, Hiroaki Kanehisa, and Yasuo Kawakami. “In Vivo Measurement of Human Rectus Femoris Architecture by Ultrasonography: Validity and Applicability.” Clinical Physiology and Functional Imaging 33, no. 4 (juillet 2013): 267–73. doi:10.1111/cpf.12023."
+        },
+        {
+          "text": "Hasselman, Carl T., Thomas M. Best, Charles Hughes, Salutario Martinez, and William E. Garrett. “An Explanation for Various Rectus Femoris Strain Injuries Using Previously Undescribed Muscle Architecture.” The American Journal of Sports Medicine 23, no. 4 (July 1, 1995): 493–99. doi:10.1177/036354659502300421."
+        },
+        {
+          "text": "Heckmatt, J. Z., N. Pier, and V. Dubowitz. “Measurement of Quadriceps Muscle Thickness and Subcutaneous Tissue Thickness in Normal Children by Real-Time Ultrasound Imaging.” Journal of Clinical Ultrasound 16, no. 3 (avril 1988): 171–76. doi:10.1002/jcu.1870160305."
+        },
+        {
+          "text": "Hughes, Charles, Carl T. Hasselman, Thomas M. Best, Salutario Martinez, and William E. Garrett. “Incomplete, Intrasubstance Strain Injuries of the Rectus Femoris Muscle.” The American Journal of Sports Medicine 23, no. 4 (July 1, 1995): 500–506. doi:10.1177/036354659502300422."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Martinoli, Carlo. “Musculoskeletal Ultrasound: Technical Guidelines.” Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Narici, M. V., L. Landoni, and A. E. Minetti. “Assessment of Human Knee Extensor Muscles Stress from in Vivo Physiological Cross-Sectional Area and Strength Measurements.” European Journal of Applied Physiology and Occupational Physiology 65, no. 5 (November 1992): 438–44. doi:10.1007/BF00243511."
+        },
+        {
+          "text": "O’Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        },
+        {
+          "text": "Pasta, G., G. Nanni, L. Molini, and S. Bianchi. “Sonography of the Quadriceps Muscle: Examination Technique, Normal Anatomy, and Traumatic Lesions.” Journal of Ultrasound 13, no. 2 (July 24, 2010): 76–84. doi:10.1016/j.jus.2010.07.004."
+        },
+        {
+          "text": "Seymour, J. M., K. Ward, P. S. Sidhu, Z. Puthucheary, J. Steier, C. J. Jolley, G. Rafferty, M. I. Polkey, and J. Moxham. “Ultrasound Measurement of Rectus Femoris Cross-Sectional Area and the Relationship with Quadriceps Strength in COPD.” Thorax 64, no. 5 (May 1, 2009): 418–23. doi:10.1136/thx.2008.103986."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Practical Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Walton, J. M., N. Roberts, and G. H. Whitehouse. “Measurement of the Quadriceps Femoris Muscle Using Magnetic Resonance and Ultrasound Imaging.” British Journal of Sports Medicine 31, no. 1 (March 1, 1997): 59–64. doi:10.1136/bjsm.31.1.59."
+        },
+        {
+          "text": "Ema, Ryoichi, Taku Wakahara, Yasuyoshi Mogi, Naokazu Miyamoto, Toshihiko Komatsu, Hiroaki Kanehisa, et Yasuo Kawakami. «In Vivo Measurement of Human Rectus Femoris Architecture by Ultrasonography: Validity and Applicability. » Clinical Physiology and Functional Imaging 33, nᵒ 4 (juillet 2013): 267–73. doi:10.1111/cpf.12023."
+        }
+      ]
+    }
+  }
+}

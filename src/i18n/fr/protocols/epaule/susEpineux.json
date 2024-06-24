@@ -1,0 +1,344 @@
+{
+  "title": "Sus-épineux (aspect antérolatéral)",
+  "latinName": "Supraspinatus",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Type de muscle", "header": true },
+          { "data": "Mono-articulaire, multipenné" }
+        ],
+        [
+          { "data": "Origine", "header": true },
+          { "data": "Fosse sus-épineux(scapula)" }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          { "data": "Grosse tubérosité (humérus)" }
+        ],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Nerf suprascapulaire (C5-C6)" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Mesure", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plan", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [
+          { "data": "Épaisseur (mm)", "rowspan": 3 },
+          { "data": "Tendon du sus-épineux", "rowspan": 2 },
+          { "data": "Transverse" },
+          { "data": "5,97 ±1,20 <a href='#ref9' class='reference'>[9]</a>" }
+        ],
+        [
+          { "data": "Longitudinal" },
+          { "data": "5,90 ± 1,03 <a href='#ref9' class='reference'>[9]</a>" }
+        ],
+        [
+          { "data": "Ventre musculaire du sus-épineux" },
+          { "data": "Longitudinal" },
+          { "data": "20,07 ± 0,74 <a href='#ref10' class='reference'>[10]</a>" }
+        ],
+        [
+          { "data": "Aire de section transversale (cm2)" },
+          { "data": "Ventre musculaire du sus-épineux" },
+          { "data": "-" },
+          { "data": "6,99 ± 0,44 <a href='#ref11' class='reference'>[11]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "subSection": [
+          {
+            "title": "Choix de la position d'évaluation",
+            "text": [
+              "La position que l'on demandera d'adopter dépendra de la condition de l'épaule de ce dernier : si une douleur est présente, on devra faire un choix en fonction de la sévérité, de l'irritabilité et de la nature de cette dernière. L'évaluation ultrasonographique pouvant s'étendre sur quelques minutes, le confort du patient est de mise <a href='#ref1' class='reference'>[1]</a><a href='#ref6' class='reference'>[6]</a><a href='#ref7' class='reference'>[7]</a>",
+              "Pour un sujet capable d'aller porter la face dorsale de sa main au milieu de son dos avec peu ou pas de douleur : on recommande la 'Position de Crass' (aussi appelée Manoeuvre de stress')",
+              "Pour un sujet inconfortable dans la position de Crass: on choisira plutôt la 'Position de Crass modifiée' (aussi appelée 'Position de Middleton')",
+              [
+                "Puisque la position de Crass est souvent difficile à adopter, plusieurs auteurs recommandent d'emblée la position de Crass modifiée"
+              ]
+            ]
+          },
+          {
+            "title": "Position de Crass",
+            "text": [
+              "Assis avec l'épaule découverte",
+              "Consigne : Aller porter la face dorsale de la main dans le dos, au-dessus de la crête iliaque ipsilatérale",
+              "Épaule :",
+              [
+                "Extension et rotation interne",
+                "Adduction (coller le coude au thorax)"
+              ],
+              "Coude :",
+              ["Flexion", "Pronation"]
+            ],
+            "imagePositionnement": [
+              {
+                "path": "imagePositionnement1.jpg",
+                "descriptionText": "Position de Crass (dos) "
+              },
+              {
+                "path": "imagePositionnement2.jpg",
+                "descriptionText": "Position de Crass (côté)"
+              },
+              {
+                "path": "imagePositionnement3.jpg",
+                "descriptionText": "Position de Crass (face)"
+              }
+            ],
+            "source": "/Protocols/SusEpineux/"
+          },
+          {
+            "title": "Position de Crass modifiée",
+            "text": [
+              "Assis avec l'épaule découverte",
+              "Consigne : Aller porter la face palmaire de la main sur le dessus de la crête iliaque ipsilatérale, en pointant le coude vers l'arrière.",
+              "Épaule :",
+              [
+                "Extension",
+                "Rétraction de la ceinture scapulaire (pour éviter d'avoir le coude qui pointe vers l'extérieur)"
+              ],
+              "Coude :",
+              [
+                "Flexion",
+                "Supination",
+                "Pointe du coude dirigée vers l'arrière"
+              ]
+            ],
+            "imagePositionnement": [
+              {
+                "path": "imagePositionnement4.jpg",
+                "descriptionText": "Position de Crass modifiée (dos)"
+              },
+              {
+                "path": "imagePositionnement5.jpg",
+                "descriptionText": "Position de Crass modifiée (côté)"
+              },
+              {
+                "path": "imagePositionnement6.jpg",
+                "descriptionText": "Position de Crass modifiée  (face)"
+              }
+            ],
+            "source": "/Protocols/SusEpineux/"
+          }
+        ],
+        "text": [""]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer le sillon intertuberculaire (voir la capsule sur le <a class='underline' href='/protocoles/epaule/biceps-brachial'>biceps brachial </a> pour en savoir davantage)"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/SusEpineux/vueTransversale/",
+        "objectifs": ["Examen du tendon du sus-épineux"],
+        "parametres": ["Profondeur : 3-4 cm", "Gain : 70-75", "D/4/2"],
+        "positionnement": [
+          "Placer la sonde en vue longitudinale au niveau du sillon intertuberculaire, comme pour l'évaluation longitudinale de la portion intra-articulaire du tendon du long biceps",
+          "Tourner le transducteur de manière à ce que le tendon du long biceps apparaisse aussi allongé que possible (c.-à-d. pour que ses fibres soient idéalement parfaitement horizontales à l’écran)",
+          "Tout en conservant l'orientation de la sonde, déplacer le transducteur vers le haut (crânial) et vers l'arrière afin d'aller chercher le sus-épineux",
+          "Doucement osciller le transducteur en visualisant le tendon afin d’éviter toute anisotropie"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "imagePositionnement1.jpg",
+            "descriptionText": "Sonde en vue longitudinale (Position de Crass, vue de face)"
+          },
+          {
+            "path": "imagePositionnement2.jpg",
+            "descriptionText": "Sonde en vue longitudinale (Position de Crass, vue de côté)"
+          },
+          {
+            "path": "imagePositionnement3.jpg",
+            "descriptionText": "Sonde en vue longitudinale (Position de Crass, vue de dos)"
+          },
+          {
+            "path": "imagePositionnement4.jpg",
+            "descriptionText": "Sonde en vue longitudinale (Position de Crass Modifiée, vue de face)"
+          },
+          {
+            "path": "imagePositionnement5.jpg",
+            "descriptionText": "Sonde en vue longitudinale (Position de Crass Modifiée, vue de coté)"
+          },
+          {
+            "path": "imagePositionnement6.jpg",
+            "descriptionText": "Sonde en vue longitudinale (Position de Crass Modifiée, vue de dos)"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["DA"],
+                "texte": ["Le deltoïde antérieur apparaît au haut de l'image"]
+              },
+              {
+                "acronymes": ["TH"],
+                "texte": [
+                  "La tête humérale, grande zone hypoéchoïque circulaire, occupe la moitié inférieure de l'image"
+                ]
+              },
+              {
+                "acronymes": ["SuE"],
+                "texte": [
+                  "Le tendon du muscle sus-épineux apparaît sous la forme d'une zone hyperéchoïque longiligne située entre le deltoïde antérieur et la tête humérale. L'apparence du tendon du sus-épineux lorsque visualisé ainsi est parfois comparée à celle d'un pneu sur une roue (Jacobson)"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              {
+                "path": "imageIdentification1.jpg"
+              },
+              {
+                "path": "imageIdentification2.jpg",
+                "descriptionText": "Deltoïde antérieur"
+              },
+              {
+                "path": "imageIdentification3.jpg",
+                "descriptionText": "Tête humérale"
+              },
+              {
+                "path": "imageIdentification4.jpg",
+                "descriptionText": "Sus-épineux"
+              },
+              {
+                "path": "imageIdentification5.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Le muscle sus-épineux est un petit muscle situé à la face postéro-supérieure de l’épaule. Il est l’un des quatre muscles composant la coiffe des rotateurs, avec le sous-scapulaire (face antérieure), le sous-épineux et le petit rond (tous deux à l’aspect postérieur). Le sus-épineux prend origine au niveau de la fosse supra-épineuse, dont le nom fait référence à l’épine de la scapula, située en inférieur (caudal) de ce site. La face supérieure de la grosse tubérosité humérale accueille l’insertion distale de ce muscle. Le sous-scapulaire ne possède qu’un seul ventre musculaire et possède un axe origine-insertion (lorsqu’en position anatomique) orienté de l’intérieur vers l’extérieur, de l’arrière vers l’avant et légèrement du haut vers le bas. Ainsi, ce muscle possède donc une action de rotation externe (surtout) et d’abduction de l’articulation gléno-humérale.",
+          "Une bonne connaissance de l’orientation du muscle est impérative, tout spécialement lorsqu’un examen ultrasonographique est entrepris. Pour visualiser le parcours du tendon du sus-épineux, on peut se repérer en débutant avec la portion intra-articulaire du long biceps. En effet, ces deux tendons sont parallèles (uniquement à cet endroit) et le tendon du long biceps jouit d’une échotexture et une échogénicité qui font de lui un point de référence facilement reconnaissable.",
+          "Lorsqu’examiné avec une épaule en position de repos, seule la portion distale du tendon du sus-épineux est accessible <a href='#ref1' class='reference'>[1]</a> , la différence étant masquée l’arche acromio-claviculaire et la tête humérale. Dans le cadre d’une évaluation ultrasonographique, on demande souvent au patient d’adopter une position qui aura pour effet de rendre le sus-épineux plus antérieur, ce qui donne accès à l’ensemble de son tendon ainsi que sa jonction musculo-tendineuse.",
+          "À son tiers distal, le muscle sous-épineux passe dans l’espace sous-acromial, tout juste avant la jonction musculo-tendineuse distale. L’espace sous-acromial est une entité principalement délimitée par l’arche coracoacromiale et la tête humérale. Cet espace contient entre autres les tendons de la coiffe des rotateurs, du long biceps ainsi que la bourse sous-acromiale/sous-deltoïdienne<a href='#ref1' class='reference'>[1]</a>. Le volume de cet espace varie d’un individu à l’autre en raison de plusieurs facteurs, dont :",
+          "<ul class='margin-left'> <li>Une variabilité anatomique bien documentée <a href='#ref2' class='reference'>[2]</a><a href='#ref3' class='reference'>[3]</a><a href='#ref8' class='reference'>[8]</a> ;</li><li>La position de l’épaule (neutre vs rotation / flexion / abduction) ; </li><li>L’âge (possible composante dégénérative) ;</li><li>La présence potentielle d’une des nombreuses pathologies de l’épaule</li>",
+          "Cette variabilité anatomique est souvent soumise à une classification qui reconnaît 3 types d’acromion, soit : plat (type I, 4.7 % de la population) ; courbé (type II, 51.76% de la population) et en crochet (type III, 43,52% de la population). Il existe également une corrélation intéressante entre la morphologie de l’acromion (définie selon la classification sus-mentionnée) et l’incidence de ruptures complètes de la coiffe des rotateurs, qui a été étudiée sur 140 épaules dans une étude de Bigliani et al<a href='#ref4' class='reference'>[4]</a> , résumée dans le tableau 1 ci-dessous.",
+          "Incidence de ruptures complètes de la coiffe des rotateurs: <ul class='margin-left'> <li>Type I (plat): 3%</li><li> Type II (courbé):24.2%</li><li>Type III (en crochet): 69.8%</li> </ul>",
+          "Plusieurs autres mesures et classifications (alternatives ou complémentaires) décrivent la morphologie de l’acromion et de l’espace sous-acromial, dont l’index acromial (AI, acromion index), l’angle acromial latéral (LAA, lateral acromial angle), l’angle critique de l’épaule (CSA, critical shoulder angle) ainsi que la pente acromiale (AS, acromial slope)."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "path": "descriptionAnatomique.gif"
+      }
+    ],
+    "source": "/Protocols/SusEpineux/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Déchirure du tendon du sus-épineux",
+        "text": [
+          "La majorité des ruptures de la coiffe des rotateurs ont lieu au niveau du tendon du sus-épineux, avec des atteintes des autres tendons chez les cas plus graves",
+          "Ces ruptures sont souvent associées à un phénomène d'attrition et, possiblement, de la présence concomitante d'événements traumatiques. Des irrégularités au niveau de l'os cortical de la grosse tubérosité sont également rencontrées",
+          "La rupture partielle du tendon sus-épineux peut se produire au niveau de la face adjacente à la bourse ou, au contraire, sur la face articulaire.",
+          "Une rupture complète, tel que son nom le suggère, traverse le tendon de la face articulaire jusqu'à la bourse.",
+          "La plupart des ruptures ont une apparence hypoéchoïque ou anéchoïque"
+        ]
+      },
+      {
+        "subtitle": "Tendinose du sus-épineux",
+        "text": [
+          "Les tendinopathies non-inflammatoires, ou tendinoses, ont une apparence ultrasonographique hétérogène et hypoéchoïque au sein d'un tendon",
+          "Il est primordial de savoir reconnaître lorsqu'une image comporte des zones d'anistropie, puisque celles-ci prennent souvent une apparence similaire à celle d'une tendinose localisée",
+          "Les tendinoses plus diffuses, avec leurs contours moins définis, donnent au tendon une apparence proche de celle du muscle adjacent",
+          "Le muscle le plus touché Les tendinoses calcifiantes sont rencontrées, le plus souvent"
+        ]
+      },
+      {
+        "subtitle": "Amincissement (perte de volume) du tendon du sus-épineux",
+        "text": [
+          "Il s'agit là d'un signe suggérant une perte de fibres tendineuses, lesquelles impliquent souvent une rupture tendineuse partielle ou complète",
+          "Ce signe permet d'exclure la présence d'une tendinopathie, qui au contraire, sont reliées à un maintien ou une augmentation du volume tendineux"
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Intervalle des rotateurs",
+          "link": "/protocoles/epaule/intervalle-des-rotateurs/"
+        },
+        {
+          "linkTitle": "Sus-épineux (région antéro-latérale)",
+          "link": "/protocoles/epaule/intervalle-des-rotateurs/sus-epineux"
+        },
+        {
+          "linkTitle": "Articulation acromio-claviculaire",
+          "link": "/protocoles/epaule/articulation-acromio-claviculaire/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Balke, Maurice, Carolin Schmidt, Nicolas Dedy, Marc Banerjee, Bertil Bouillon, and Dennis Liem. “Correlation of Acromial Morphology with Impingement Syndrome and Rotator Cuff Tears.” Acta Orthopaedica 84, no. 2 (April 2013): 178–83. doi:10.3109/17453674.2013.773413."
+        },
+        {
+          "text": "Collipal, E., H. Silva, L. Ortega, E. Espinoza, and C. Martínez. “El Acromion Y Sus Diferentes Formas.” International Journal of Morphology 28, no. 4 (December 2010): 1189–92. doi:10.4067/S0717-95022010000400032."
+        },
+        {
+          "text": "Habermeyer, P, Petra Magosch, and Sven Lichtenberg. Classifications and Scores of the Shoulder. Berlin; New York: Springer, 2006."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Jacobson, Jon A. “Shoulder US: Anatomy, Technique, and Scanning Pitfalls.” Radiology 260, no. 1 (July 1, 2011): 6–16. doi:10.1148/radiol.11101082."
+        },
+        {
+          "text": "Martinoli, Carlo. “Musculoskeletal Ultrasound: Technical Guidelines.” Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Moor, Beat K., Karl Wieser, Ksenija Slankamenac, Christian Gerber, and Samy Bouaicha. “Relationship of Individual Scapular Anatomy and Degenerative Rotator Cuff Tears.” Journal of Shoulder and Elbow Surgery / American Shoulder and Elbow Surgeons ... [et Al.] 23, no. 4 (April 2014): 536–41. doi:10.1016/j.jse.2013.11.008."
+        },
+        {
+          "text": "Yu, Tung-Yang, Wen-Chung Tsai, Ju-Wen Cheng, Yun-Ming Yang, Fang-Chen Liang, and Chien-Hung Chen. “The Effects of Aging on Quantitative Sonographic Features of Rotator Cuff Tendons.” Journal of Clinical Ultrasound: JCU 40, no. 8 (October 2012): 471–78. doi:10.1002/jcu.21919."
+        },
+        {
+          "text": "Juul-Kristensen, B., F. Bojsen-Møller, E. Holst, et C. Ekdahl. «Comparison of Muscle Sizes and Moment Arms of Two Rotator Cuff Muscles Measured by Ultrasonography and Magnetic Resonance Imaging. » European Journal of Ultrasound: Official Journal of the European Federation of Societies for Ultrasound in Medicine and Biology 11, nᵒ 3 (June 2000): 161–73."
+        },
+        {
+          "text": "Katayose, M., et D. J. Magee. «The Cross-Sectional Area of Supraspinatus as Measured by Diagnostic Ultrasound. » The Journal of Bone and Joint Surgery. British Volume 83, nᵒ 4 (May 2001): 565–68."
+        }
+      ]
+    }
+  }
+}

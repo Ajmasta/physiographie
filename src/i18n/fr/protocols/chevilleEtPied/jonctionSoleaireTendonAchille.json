@@ -1,0 +1,189 @@
+{
+  "title": "Jonction soléaire / tendon d'Achille",
+  "latinName": "Soleus / Tendo calcaneus",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [{ "data": "" }, { "data": "Soléaire" }],
+        [
+          { "data": "Type de muscle", "header": true },
+          { "data": "Mono-articulaire, unipenné" }
+        ],
+        [
+          { "data": "Origine", "header": true },
+          { "data": "Fibula, tibia (bord médial)" }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          { "data": "Bord postérieur du calcanéum (via le tendon d'Achille)" }
+        ],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Nerf tibial (L5-S2)" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Mesure", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Site", "header": true },
+          { "data": "Autre information", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [
+          { "data": "Épaisseur (mm)", "rowspan": 2 },
+          { "data": "Soléaire", "rowspan": 2 },
+          { "data": "Tiers distal du ventre musculaire", "rowspan": 2 },
+          { "data": "Repos" },
+          { "data": "15,0 ± 3,1 <a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Contraction isométrique maximale" },
+          { "data": "21,8 ± 2,5 <a href='#ref7' class='reference'>[7]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Décubitus ventral, cheville et pied en dorsiflexion, et dépassant au bout de la table"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer et palper le tendon d’Achille jusqu’à son insertion calcanéenne au niveau de la ligne médiane postérieure du mollet inférieur<a href='#ref5' class='reference'>[5]</a>"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/jonctionSoleaireTendonAchille/vueLongitudinale/",
+        "objectifs": [
+          "Examen de l'enveloppe péritendineuse du tendon d'Achille<a href='#ref4' class='reference'>[4]</a>"
+        ],
+        "parametres": ["Profondeur : 2 cm", "Gain : 55-60", "G/3/3"],
+        "positionnement": [
+          "Placer la sonde en vue longitudinale (dans l’axe long du tendon), environ cinq centimètres au-dessus (crânial) de la malléole interne",
+          "Faire osciller lentement la sonde en médio-latéral du mollet afin de le couvrir sur toute sa surface",
+          "Ensuite, évaluer la jonction en balayant dans un axe crânio-caudal afin de bien observer la transition entre le soléaire et le tendon d'Achille"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["TA"],
+                "texte": [
+                  "Le tendon d'Achille au haut de l'image sous la forme d'une bande à l'échotexture finement striée et d'échogénicité mixte"
+                ]
+              },
+              {
+                "acronymes": ["T"],
+                "texte": [
+                  "Tout au bas de l’image apparaît l’interface entre le muscle soléaire et le tibia : le trait hyperéchoïque sus-jacent à la zone hypo- / anéochoïque du bas de l’image"
+                ]
+              },
+              {
+                "acronymes": ["S"],
+                "texte": [
+                  "Le muscle soléaire peut être observé tout juste au-dessus du tibia, que l’on peut décrire comme une épaisse zone hyperéchoïque dont les fibres musculaires incurvées sont aisément distinguables"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Tendon d'Achille"
+              },
+              { "path": "identification3.jpg", "descriptionText": "Soléaire" },
+              { "path": "identification4.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Consultez la section capsule sur le tendon d’Achille et sur la jonction entre les muscles gastrocnémiens et soléaire.",
+          "La jonction entre le soléaire et le tendon d’Achille est une interface facilement observable en imagerie par ultrasonographie. Au point de vue clinique (diagnostic), cette région est d’un intérêt limité, mais demeure néanmoins utile au niveau pédagogique en raison de la clarté des structures qu’elle contient."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/jonctionSoleaireTendonAchille/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Pédagogie",
+        "text": [
+          "L'examen de la jonction entre le soléaire et le tendon d'Achille, de la manière décrite dans cette capsule, ne fait pas partie de la routine classique d'évaluation ultrasonographique de la cheville.",
+          "Les techniques démontrées portent un intérêt davantage pédagogique (p.ex.: démonstration de l'anatomie, pratique de l'utilisation de l'équipement d'échographie) que clinique."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Tendon d'Achille",
+          "link": "/protocoles/cheville-pied/tendon-d-achille/"
+        },
+        {
+          "linkTitle": "Jonction gastrocnémiens / soléaire",
+          "link": "/protocoles/cheville-pied/jonction-gastrocnemien-soleaire/"
+        },
+        {
+          "linkTitle": "Fascia plantaire",
+          "link": "/protocoles/cheville-pied/fascia-plantaire/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Martinoli, Carlo. “Musculoskeletal Ultrasound: Technical Guidelines.” Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Martinoli, Carlo. “Musculoskeletal Ultrasound: Technical Guidelines.” Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "O’Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Pratical [sic] Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Milgrom, Maganaris, Constantinos N., Vasilios Baltzopoulos, et Anthony J. Sargeant. «In vivo measurements of the triceps surae complex architecture in man: implications for muscle function.” The Journal of Physiology 512, nᵒ 2 (October 1, 1998): 603–14. doi:10.1111/j.1469-7793.1998.603be.x."
+        }
+      ]
+    }
+  }
+}

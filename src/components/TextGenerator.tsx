@@ -1,7 +1,7 @@
 import React from "react";
 
 type Props = {
-  text: string;
+  text: string | string[];
   classes?: string;
   span?: boolean;
 };

@@ -1,0 +1,340 @@
+{
+  "title": "Grand trochanter",
+  "latinName": "Trochanter major",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Facette du grand trochanter", "header": true },
+          { "data": "Principaux muscle(s) associé(s)**", "header": true },
+          { "data": "Profondeur relative", "header": true }
+        ],
+        [
+          { "data": "Antérieure" },
+          { "data": "Tenseur du fascia lata" },
+          { "data": "Superficiel" }
+        ],
+        [
+          { "data": "Moyenne", "rowspan": 3 },
+          { "data": "Tenseur du fascia lata" },
+          { "data": "Superficiel" }
+        ],
+        [
+          { "data": "Moyen fessier (site d'insertion)" },
+          { "data": "Intermédiaire" }
+        ],
+        [{ "data": "Petit fessier (site d'insertion)" }, { "data": "Profond" }],
+        [
+          { "data": "Postérieure" },
+          { "data": "Grand fessier" },
+          { "data": "Superficiel" }
+        ]
+      ],
+      "text": ["**Qui sont visibles à l'examen ultrasonographique"]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [[{ "data": "Aucune donnée disponible", "header": true }]]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Le sujet doit être positionné en décubitus latéral controlatéral (donc DL droit pour le grand trochanter gauche, et vice versa)",
+          "La hanche qui est imagée doit être placée en légère flexion, et un oreiller peut être placé entre les genoux du sujet pour plus de confort"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer et palper le grand trochanter, qui est la principale saillie osseuse de l'aspect latéral de la cuisse proximale",
+          "Afin de faciliter le positionnement de la sonde, déterminer les marges antérieures et postérieures du grand trochanter en le palpant"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/grandTrochanter/vueTransversale/",
+        "objectifs": [
+          "Observation des trois facettes du grand trochanter et des structures musculo-tendineuses qui l'entourent"
+        ],
+        "parametres": ["Profondeur : 4 cm", "Gain : 70", "G/3/2"],
+        "positionnement": [
+          "Facette antérieure :",
+          [
+            "Placer la sonde en vue longitudinale, soit presque parallèle avec le tronc, au niveau de la limite antérieure du grand trochanter"
+          ],
+          "Facette moyenne :",
+          [
+            "En déplaçant la sonde légèrement en distal (quelques centimètres), tourner la sonde légèrement de manière à ce que l'extrémité proximale de cette dernière soit légèrement postérieure à l'extrémité distale (sur cette image, il s'agit du sens anti-horaire)"
+          ],
+          "Facette postérieure :",
+          [
+            "Encore une fois, déplacer la sonde légèrement en distal, puis appliquer une rotation dans le même sens que plus tôt, de manière à obtenir un angle d'environ 45° avec l'axe du tronc"
+          ]
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Facette antérieure : position de la sonde en vue longitudinale"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Facette moyenme : position de la sonde en vue longitudinale"
+          },
+          {
+            "path": "positionnement3.jpg",
+            "descriptionText": "Facette postérieure : position de la sonde en vue longitudinale"
+          },
+          {
+            "path": "positionnement4.jpg",
+            "descriptionText": "Emplacement relatif des trois positionnement de la sonde"
+          }
+        ],
+        "identification": [
+          {
+            "title": "[Facette antérieure]",
+            "legend": [
+              {
+                "acronymes": ["GT"],
+                "texte": [
+                  "Le grand trochanter est visible dans la portion inférieure droite de l'image, et apparaît comme une grand zone hyperéchoïque circulaire"
+                ]
+              },
+              {
+                "acronymes": ["PF"],
+                "texte": [
+                  "Le petit fessier, grande zone hyperéchoïque triangulaire d'échotexture typiquement musculaire (striations du muscle bien visibles) apparaît au centre gauche de l'image"
+                ]
+              },
+              {
+                "acronymes": ["MF"],
+                "texte": [
+                  "Le moyen fessier zone hyperéchoïque moins définie que le petit fessier, apparaît en superficie de ce dernier"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Grand trochanter"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Petit fessier"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Moyen fessier"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          },
+          {
+            "title": "[Facette moyenne]",
+            "legend": [
+              {
+                "acronymes": ["GT"],
+                "texte": [
+                  "Le grand trochanter est visible dans le coin inférieur droit de l'image"
+                ]
+              },
+              {
+                "acronymes": ["PF"],
+                "texte": [
+                  "Le petit fessier (portion distale) prend ici l'apparence d'une zone légèrement hyperéchoïque à l'échotexture moins définie qu'à la facette antérieure du grand trochanter"
+                ]
+              },
+              {
+                "acronymes": ["MF"],
+                "texte": [
+                  "Le moyen fessier est présent en surface du petit fessier, et peut être décrit comme une longue zone hyperéchoïque triangulaire d'apparence striée"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification6.jpg" },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Grand trochanter"
+              },
+              {
+                "path": "identification8.jpg",
+                "descriptionText": "Petit fessier"
+              },
+              {
+                "path": "identification9.jpg",
+                "descriptionText": "Moyen fessier"
+              },
+              { "path": "identification10.jpg" }
+            ]
+          },
+          {
+            "title": "[Facette postérieure]",
+            "legend": [
+              {
+                "acronymes": ["GT"],
+                "texte": [
+                  "Le grand trochanter, vaste zone hyperéchoïque arrondie à la surface quelque peu irrégulière, apparaît dans la moitié inférieure de l'image"
+                ]
+              },
+              {
+                "acronymes": ["MF"],
+                "texte": [
+                  "Le moyen fessier (portion distale) apparaît la surface du grand trochanter comme une zone hyperéchoïque effilée"
+                ]
+              },
+              {
+                "acronymes": ["GF"],
+                "texte": [
+                  "Le grand fessier est visible dans la portion supérieure de l'image, et prend ici l'apparence d'une grande zone hyperéchoïque d'échotexture musculaire. Noter que la région hypoéchoïque inférieure au trait pointillé est due à un artéfact."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification11.jpg" },
+              {
+                "path": "identification12.jpg",
+                "descriptionText": "Grand trochanter"
+              },
+              {
+                "path": "identification13.jpg",
+                "descriptionText": "Moyen fessier"
+              },
+              {
+                "path": "identification14.jpg",
+                "descriptionText": "Grand fessier"
+              },
+              { "path": "identification15.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Le grand trochanter [GT] est un relief osseux du fémur proximal qui, notamment, tient lieu de point d'attache pour plusieurs muscles de la ceinture pelvienne. Le GT est situé à l'aspect latéral du fémur, et un point de repère osseux fréquemment utilisé lors de l'examen physique, à l'évaluation posturale, ou lors de l'examen ultrasonographique.",
+          "Le GT possède trois facettes : les facettes antérieure, moyenne et postérieure (ou postéro-supérieure). Ces facettes servent principalement de site d'insertion à deux muscles abducteurs de la hanche, soit le petit et le moyen fessier. Le grand fessier, quant à lui, s'attache plus en distal sur la tubérosité glutéale du fémur et sur le tractus ilio-tibial<a href='#ref2' class='reference'>[2]</a>.",
+          "Les deux trochanters (soit le GT et le petit trochanter) sont extra-articulaires, c.-à-d. qu'ils ne sont pas recouverts par les structures qui délimitent l'articulation coxo-fémorale (principalement la capsule articulaire)<a href='#ref2' class='reference'>[2]</a>. Le tenseur du fascia lata est également associé au GT, malgré qu'il ne s'y attache pas : compte tenu de l'axe origine-insertion de ce muscle et du fait qu'il chevauche l'aspect antéro-latéral du GT, les mouvements de flexion-extension de hanche peuvent causer un glissement entre ces deux structures. Pour plus d'informations à ce sujet, consultez la section pertinence clinique ci-bas."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Syndrome de douleur au grand trochanter [SDGT] ('Greater trochanteric pain syndrome')",
+        "text": [
+          "L'imagerie par ultrasonographie est fréquemment utilisée pour évaluer les sujets aux prises avec une bursopathie ou une tendinopathie dans la région du grand trochanter. Puisque il peut être ardu de différencier ces deux types de pathologies seulement sur la base de l'examen clinique, elles sont parfois regroupées sous le terme de 'syndrome de douleur au grand trochanter'<a href='#ref2' class='reference'>[2]</a>.",
+          "Ce syndrome affecte plus souvent les femmes d'âge moyen, qui rapportent une douleur aigüe à l'aspect postéro-latéral du grand trochanter, particulièrement lors du sommeil et à la palpation profonde, sans toutefois présenter de limitation de mobilité. Les causes de ce syndrome ne font pas encore consensus dans la littérature scientifique, malgré que la recherche semble pointer vers l'implication de micro-traumatismes qui conduiraient à des ruptures des tendons abducteurs de la hanche<a href='#ref4' class='reference'>[4]</a><a href='#ref5' class='reference'>[5]</a><a href='#ref15' class='reference'>[15]</a>. L'arrivée de cette hypothèse viendrait remplacer le mécanisme physiopathologique qui, jusque-là, était considéré le plus probable, c.-à-d. la bursite trochantérique<a href='#ref2' class='reference'>[2]</a>.",
+          "Ce syndrome est considéré analogue aux ruptures des tendons de la coiffe, et comme dans le cas de l'épaule, l'imagerie par ultrasonographie peut être utile pour mettre en évidence la présence de changements pathologiques au sein des tendons des muscles fessiers<a href='#ref2' class='reference'>[2]</a>. Cependant, la littérature scientifique au sujet de l'utilité de l'échographie dans un syndrome de douleur trochantérique repose actuellement surtout sur des article de qualité inférieure (p.ex.: études de cas), ce qui explique que l'échographie soit à ce jour peu utilisée dans ce type de conditions<a href='#ref11' class='reference'>[11]</a>."
+        ]
+      },
+      {
+        "subtitle": "Hanche à ressaut ('Snapping hip')",
+        "text": [
+          "Le terme 'hanche à ressaut' réfère à une condition caractérisée par une douleur à la hanche accompagnée d'un son de claquement ('snapping') lors de mouvements de la hanche (p.ex.: à la marche). Ces signes et symptômes sont peu spécifiques, et peuvent donc être associés à un grand nombre de pathologies intra- ou extra-articulaires<a href='#ref2' class='reference'>[2]</a>.",
+          "Hanche à ressaut d'origine intra-articulaire :",
+          [
+            "Ce type de hanche à ressaut est généralement associé à une problématique au sein l'articulation coxofémorale, à des corps libres articulaires ('articular loose bodies') ou à des lésions labrales. Dans ce cas, le phénomène de claquement est causé par l'interposition d'un particule ou d'un débris tissulaire entre la tête fémorale et l'acétabulum, et l'imagerie par ultrasonographie ne peut apporter que très peu d'information (puisque les ultrasons ne traversent pas l'os cortical)<a href='#ref2' class='reference'>[2]</a>."
+          ],
+          "Les cas de hanche à ressaut d'origine intra-articulaire sont soit d'origine interne ou externe :",
+          [
+            "Interne : Pour plus d'information à ce sujet, nous vous invitons à consulter le protocole sur le <a href='/protocoles/hanche/col-femoral/' class='underline'>col fémoral.</a>",
+            "Externe : ce type de phénomène est souvent causé par une friction (ou pincement) de la bandelette ilio-tibiale sur le grand trochanter et est associé à une symptomatologie très similaire au ressaut causé par le tendon du psoas-iliaque (voir <a href='/protocoles/hanche/col-femoral/' class='underline'>le protocole sur le col fémoral </a> à ce sujet). La présentation clinique des cas d'origine externe se différencie surtout par la présence d'une douleur référée à l'aspect latéral de la hanche, quoique les sujets peuvent également être complètement asymptomatiques. Les mouvements associés aux symptômes sont les suivants : une hanche en extension et en adduction déplacée en flexion et en rotation externe avec le genou fléchi. <a href='#ref2' class='reference'>[2]</a>",
+            "L'imagerie par ultrasonographie peut être utilisée de manière statique pour déceler la présence de changements au niveau de l'échotexture du fascia lata, ou de manière dynamique pour mettre en évidence le déplacement abrupt du fascia lata lorsque les 'bons' mouvements sont effectués. Malgré que le protocole d'imagerie 'standard' nécessite d'avoir le patient positionné en décubitus latéral controlatéral, plusieurs patients ne sont en mesure de reproduire le ressaut seulement qu'en position debout<a href='#ref2' class='reference'>[2]</a>."
+          ]
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Col fémoral",
+          "link": "/protocoles/hanche/col-femoral"
+        },
+        {
+          "linkTitle": "Bandelette ilio-tibiale",
+          "link": "/protocoles/cuisse-et-genou/bandelette-ilio-tibiale"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angelo Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. « Musculoskeletal Ultrasound Technical Guidelines (IV. Hip). » European Society of Musculoskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Clark, John M., M. A. R. Freeman, et David Witham. « The relationship of neck orientation to the shape of the proximal femur. » The Journal of Arthroplasty 2, nᵒ 2 (1987): 99‑109. doi:10.1016/S0883-5403(87)80016-5."
+        },
+        {
+          "text": "Connell, David A., Cheryl Bass, Christopher J. Sykes, David Young, et Elton Edwards. « Sonographic Evaluation of Gluteus Medius and Minimus Tendinopathy. » European Radiology 13, nᵒ 6 (juin 2003): 1339‑47. doi:10.1007/s00330-002-1740-4."
+        },
+        {
+          "text": "Cvitanic, Oliver, Gregory Henzie, Nicholas Skezas, Jack Lyons, et Jon Minter. « MRI Diagnosis of Tears of the Hip Abductor Tendons (Gluteus Medius and Gluteus Minimus). » American Journal of Roentgenology 182, nᵒ 1 (1 janvier 2004): 137‑43. doi:10.2214/ajr.182.1.1820137."
+        },
+        {
+          "text": "D’lima, Darryl D., Andrew G. Urquhart, Knute O. Buehler, Richard H. Walker, et Clifford W. Colwell. « The Effect of the Orientation of the Acetabular and Femoral Components on the Range of Motion of the Hip at Different Head-Neck Ratios*. » The Journal of Bone & Joint Surgery 82, nᵒ 3 (1 mars 2000): 315‑21."
+        },
+        {
+          "text": "Faulkner, Kenneth G., Steven R. Cummings, Dennis Black, Lisa Palermo, Claus-C. Glüer, et Harry K. Genant. « Simple Measurement of Femoral Geometry Predicts Hip Fracture: The Study of Osteoporotic Fractures. » Journal of Bone and Mineral Research 8, nᵒ 10 (1 octobre 1993): 1211‑17. doi:10.1002/jbmr.5650081008."
+        },
+        {
+          "text": "Hsu, RW, Himeno S, Coventry Mb, et Chao Ey. « Normal Axial Alignment of the Lower Extremity and Load-Bearing Distribution at the Knee. » Clinical Orthopaedics and Related Research, nᵒ 255 (juin 1990): 215‑27."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "K, Margo, Drezner J, et Motzkin D. « Evaluation and Management of Hip Pain: An Algorithmic Approach. » The Journal of Family Practice 52, nᵒ 8 (août 2003): 607‑17."
+        },
+        {
+          "text": "Klauser, Andrea S., Alberto Tagliafico, Gina M. Allen, Natalie Boutry, Rob Campbell, Michel Court-Payen, Andrew Grainger, et al. « Clinical Indications for Musculoskeletal Ultrasound: A Delphi-Based Consensus Paper of the European Society of Musculoskeletal Radiology. » European Radiology 22, nᵒ 5 (mai 2012): 1140‑48. doi:10.1007/s00330-011-2356-3."
+        },
+        {
+          "text": "Nötzli, H. P., T. F. Wyss, C. H. Stoecklin, M. R. Schmid, K. Treiber, et J. Hodler. « The Contour of the Femoral Head-Neck Junction as a Predictor for the Risk of Anterior Impingement. » Journal of Bone & Joint Surgery, British Volume 84-B, nᵒ 4 (1 mai 2002): 556‑60. doi:10.1302/0301-620X.84B4.12014."
+        },
+        {
+          "text": "Oswald, Michael H., Roland P. Jakob, Erich Schneider, et Henri-Marcel Hoogewoud. « Radiological analysis of normal axial alignment of femur and tibia in view of total knee arthroplasty. » The Journal of Arthroplasty 8, nᵒ 4 (août 1993): 419‑26. doi:10.1016/S0883-5403(06)80042-2."
+        },
+        {
+          "text": "Reikeråls, Olav, Ingjald Bjerkreim, et Alf Kolbenstvedt. « Anteversion of the Acetabulum and Femoral Neck in Normals and in Patients with Osteoarthritis of the Hip. » Acta Orthopaedica 54, nᵒ 1 (1 janvier 1983): 18‑23. doi:10.3109/17453678308992864."
+        },
+        {
+          "text": "Sayegh, Fares, Michael Potoupnis, et George Kapetanos. « Greater Trochanter Bursitis Pain Syndrome in Females with Chronic Low Back Pain and Sciatica. » Acta Orthopaedica Belgica 70, nᵒ 5 (2004): 423‑28."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Practical Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Tönnis, D., et A. Heinecke. « Current Concepts Review - Acetabular and Femoral Anteversion: Relationship with Osteoarthritis of the Hip*. » The Journal of Bone & Joint Surgery 81, nᵒ 12 (1 décembre 1999): 1747‑70."
+        },
+        {
+          "text": "Yoshioka, Y., D. Siu, et T. D. Cooke. « The Anatomy and Functional Axes of the Femur. » The Journal of Bone and Joint Surgery. American Volume 69, nᵒ 6 (juillet 1987): 873‑80."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "title": "Sus-épineux [Aspect postérieur]",
+  "latinName": "Supraspinatus",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Type de muscle", "header": true },
+          { "data": "Mono-articulaire, multipenné" }
+        ],
+        [
+          { "data": "Origine", "header": true },
+          { "data": "Fosse sus-épineux(scapula)" }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          { "data": "Grosse tubérosité (humérus)" }
+        ],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Nerf suprascapulaire (C5-C6)" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Mesure", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plan", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [
+          { "data": "Épaisseur du ventre musculaire (mm)" },
+          { "data": "Sus-épineux" },
+          { "data": "Au point milieu du ventre musculaire" },
+          { "data": "3,03 ± 0,63<a href='#ref4' class='reference'>[4]</a>" }
+        ],
+        [
+          { "data": "Aire de section transversale (cm2)" },
+          { "data": "Sus-épineux" },
+          { "data": "À la moitié de l'épine de la scapula" },
+          { "data": "6,99 ± 0,44<a href='#ref5' class='reference'>[5]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Assis avec l'épaule découverte",
+          "Épaule au repos, bras le long du corps"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Palper les principaux reliefs et repère de la scapula (épine, angle inférieur, bord latéral)"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/susEpineuxPost/vueLongitudinale/",
+        "objectifs": [
+          "Observer le sus-épineux recouvert du trapèze ainsi que leur relation avec les reliefs de la scapula",
+          ""
+        ],
+        "parametres": ["Profondeur : 3 cm", "Gain : 70-75", "D/4/2"],
+        "positionnement": [
+          "Placer la sonde en vue longitudinale (par rapport aux fibres du sus-épineux) sur l’épine scapulaire, tout juste en latéral du centre de celle-ci",
+          "Afin de mieux repérer et identifier les structures, balayer lentement de haut en bas pour observer et différencier l’épine scapulaire, le trapèze, le sus-épineux et le sous-épineux",
+          "Déplacer légèrement la sonde vers le haut de manière à ce que l’épine scapulaire soit tout juste présente dans le champ",
+          "Deux approches sont utilisées afin de démontrer l'ensemble des structures:",
+          [
+            "L'approche #1 est postérieure et plus près du bord médial de la scapula",
+            "L'approche #2 est postéro-latérale et est est plus près du bord latéral de la scapula"
+          ]
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Position de la sonde, approche postérieure, vue longitudinale (dos)"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Position de la sonde, approche postérieure, vue longitudinale (côté)"
+          },
+          {
+            "path": "positionnement3.jpg",
+            "descriptionText": "Position de la sonde, approche postéro-latéralre, vue longitudinale (dos)"
+          },
+          {
+            "path": "positionnement4.jpg",
+            "descriptionText": "Position de la sonde, approche postéro-latérale, vue longitudinale (côté)"
+          }
+        ],
+        "identification": [
+          {
+            "subtitle": "Approche #1: Postérieure",
+            "legend": [
+              {
+                "acronymes": ["FSuE", "E"],
+                "texte": [
+                  "La fosse du sus-épineux ainsi que l’épine scapulaire sont visibles, respectivement, dans la portion inférieure et inférieure-droite de l’image. On peut observer leur surface fortement hyperéchoïque due à l’os cortical réfléchissant la grande majorité des ultrasons"
+                ]
+              },
+              {
+                "acronymes": ["SuE"],
+                "texte": [
+                  "Le muscle sus-épineux occupe le centre de l’image, et apparaît sous la forme d’une épaisse couche d’échogénicité mixte avec des striations aisément visibles"
+                ]
+              },
+              {
+                "acronymes": ["TM"],
+                "texte": [
+                  "Le trapèze moyen, couche hypoéchoïque tout juste en surface du sus-épineux, est visible dans la portion supérieure de l’image"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Fosse du sus-épineux & épine"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Sus-épineux"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Trapèze moyen"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          },
+          {
+            "subtitle": "Approche #2: Postéro-latérale",
+            "legend": [
+              {
+                "acronymes": ["FSuE", "E"],
+                "texte": [
+                  "La fosse du sus-épineux ainsi que l’épine scapulaire sont visibles, respectivement, dans la portion inférieure et inférieure-droite de l’image. On peut observer leur surface fortement hyperéchoïque due à l’os cortical réfléchissant la grande majorité des ultrasons"
+                ]
+              },
+              {
+                "acronymes": ["SuE"],
+                "texte": [
+                  "Le muscle sus-épineux occupe le centre de l’image, et apparaît sous la forme d’une épaisse couche d’échogénicité mixte avec des striations aisément visibles"
+                ]
+              },
+              {
+                "acronymes": ["TM"],
+                "texte": [
+                  "Le trapèze moyen, couche hypoéchoïque tout juste en surface du sus-épineux, est visible dans la portion supérieure de l’image"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification6.jpg" },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Tête humérale"
+              },
+              {
+                "path": "identification8.jpg",
+                "descriptionText": "Sus-épineux"
+              },
+              {
+                "path": "identification9.jpg",
+                "descriptionText": "Deltoïde postérieur"
+              },
+              { "path": "identification10.jpg" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/susEpineuxPost/vueTransversale/",
+        "objectifs": [
+          "Observer le sus-épineux recouvert du trapèze et leur relation avec les reliefs de la scapula"
+        ],
+        "parametres": ["Profondeur : 5 cm", "Gain : 60-65", "G/3/2"],
+        "positionnement": [
+          "Tourner la sonde de 90° par rapport à la vue longitudinale [approche #1, postérieure]"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Position de la sonde, vue transversale (dos)"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Position de la sonde, vue transversale (côté)"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["BS", "FSuE", "E"],
+                "texte": [
+                  "La scapula (de gauche à droite : bord supérieur ; fosse du sus-épineux ; épine de la scapula) occupe les portions gauche, droite et inférieure de l’image. La fosse du sus-épineux, en raison de l’angle d’incidence du faisceau favorable, apparaît plus fortement hyperéchoïque que les autres zones"
+                ]
+              },
+              {
+                "acronymes": ["SuE"],
+                "texte": [
+                  "Le muscle sus-épineux prend ici une forme de goutte d’eau (dont la pointe est orientée vers la droite de l’image) à l’échotexture hétérogène"
+                ]
+              },
+              {
+                "acronymes": ["TM"],
+                "texte": [
+                  "Le trapèze moyen, dont le contour épouse la forme du bord supérieur, de l’épine de la scapula et du sus-épineux, prend la forme d’une zone hypoéchoïque triangulaire, dans le quadrant supérieur-gauche de l’image"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Scapula : bord supérieur, fosse du sus-épineux & épine"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Sus-épineux"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Trapèze moyen"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Le muscle sus-épineux est un petit muscle situé à la face postéro-supérieure de l’épaule. Il est l’un des quatre muscles composant la coiffe des rotateurs, avec le sous-scapulaire (face antérieure), le sous-épineux et le petit rond (tous deux à l’aspect postérieur). Le sus-épineux prend origine au niveau de la fosse supra-épineuse, dont le nom fait référence à l’épine de la scapula, située en inférieur (caudal) de ce site. La face supérieure de la grosse tubérosité humérale accueille l’insertion distale de ce muscle. Le sus-épineux ne possède qu’un seul ventre musculaire et possède un axe origine-insertion (lorsqu’en position anatomique) orienté de l’intérieur vers l’extérieur, de l’arrière vers l’avant et légèrement du haut vers le bas. Ainsi, ce muscle possède donc une action de rotation externe (surtout) et d’abduction de l’articulation gléno-humérale.",
+          "Une bonne connaissance de l’orientation du muscle est impérative, tout spécialement lorsqu’un examen ultrasonographique est entrepris. Pour visualiser le parcours du tendon du sus-épineux, on peut se repérer en débutant avec la portion intra-articulaire du long biceps. En effet, ces deux tendons sont parallèles (uniquement à cet endroit) et le tendon du long biceps jouit d’une échotexture et d'une échogénicité qui font de lui un point de référence facilement reconnaissable."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/susEpineuxPost/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Pédagogie",
+        "text": [
+          "L'examen du sus-épineux de la manière décrite dans cette capsule ne fait pas partie de la routine classique d'évaluation ultrasonographique de l'épaule.",
+          "Les techniques démontrées portent un intérêt davantage pédagogique (p.ex.: démonstration de l'anatomie, pratique de l'utilisation de l'équipement d'échographie) que clinique"
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Sous-épineux (région scapulaire)",
+          "link": "/protocoles/epaule/sous-epineux-post/"
+        },
+        {
+          "linkTitle": "Sus-épineux (région antéro-latérale)",
+          "link": "/protocoles/epaule/sus-epineux/"
+        },
+        {
+          "linkTitle": "Sus-épineux & espace sous-acromial",
+          "link": "/protocoles/epaule/sus-epineux-et-espace-sous-acromial/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Jacobson, Jon A. “Shoulder US: Anatomy, Technique, and Scanning Pitfalls.” Radiology 260, no. 1 (July 1, 2011): 6–16. doi:10.1148/radiol.11101082."
+        },
+        {
+          "text": "Yu, Tung-Yang, Wen-Chung Tsai, Ju-Wen Cheng, Yun-Ming Yang, Fang-Chen Liang, and Chien-Hung Chen. “The Effects of Aging on Quantitative Sonographic Features of Rotator Cuff Tendons.” Journal of Clinical Ultrasound: JCU 40, no. 8 (October 2012): 471–78. doi:10.1002/jcu.21919."
+        },
+        {
+          "text": "Juul-Kristensen, B., F. Bojsen-Møller, E. Holst, et C. Ekdahl. «Comparison of Muscle Sizes and Moment Arms of Two Rotator Cuff Muscles Measured by Ultrasonography and Magnetic Resonance Imaging. » European Journal of Ultrasound: Official Journal of the European Federation of Societies for Ultrasound in Medicine and Biology 11, nᵒ 3 (June 2000): 161–73."
+        },
+        {
+          "text": "Katayose, M., et D. J. Magee. «The Cross-Sectional Area of Supraspinatus as Measured by Diagnostic Ultrasound. » The Journal of Bone and Joint Surgery. British Volume 83, nᵒ 4 (May 2001): 565–68."
+        }
+      ]
+    }
+  }
+}

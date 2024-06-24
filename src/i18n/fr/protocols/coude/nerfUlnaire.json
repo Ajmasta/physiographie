@@ -1,0 +1,271 @@
+{
+  "title": "Nerf ulnaire",
+  "latinName": "Nervus ulnaris",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Racines nerveuses", "header": true },
+          { "data": "C8 à T1", "colspan": 2 }
+        ],
+        [
+          { "data": "Tissus innervés", "header": true, "rowspan": 10 },
+          { "data": "Sensitifs", "rowspan": 2 },
+          { "data": "Aspect palmaire : 5e doigt, portion ulnaire du 4e doigt" }
+        ],
+        [
+          {
+            "data": "Aspect dorsal : 5e doigt, portion ulnaire du 4e doigt et portion radiale du 3e doigt,portion de l'aspect postéro-latéral de l'avant-bras distal",
+            "header": true
+          }
+        ],
+        [
+          { "data": "Moteurs", "header": true, "rowspan": 8 },
+          { "data": "Fléchisseur ulnaire du carpe" }
+        ],
+        [{ "data": "Fléchisseur profond des doigts" }],
+        [{ "data": "Lombricaux" }],
+        [{ "data": "Opposant du 5e doigt" }],
+        [{ "data": "Fléchisseur du 5e doigt" }],
+        [{ "data": "Abducteur du 5e doigt" }],
+        [{ "data": "Interosseux" }],
+        [{ "data": "Adducteur du pouce" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Mesure", "header": true },
+          { "data": "Plan / Site", "header": true },
+          { "data": "Type de sujet", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [
+          { "data": "Nerf ulnaire", "rowspan": 2 },
+          { "data": "Aire de section transversale (mm2)", "rowspan": 2 },
+          { "data": "Épicondyle interne", "rowspan": 2 },
+          { "data": "Asymptomatique" },
+          { "data": "7,5 <a href='#ref16' class='reference'>[16]</a>" }
+        ],
+        [
+          { "data": "Asymptomatique (limite supérieure)" },
+          { "data": "10 <a href='#ref19' class='reference'>[19]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "L'évaluation du nerf ulnaire requiert un accès à l'aspect postérieur du coude, qui devrait préférablement être fléchi à 90°.",
+          "Pour ce faire, placer la main ouverte du patient à plat sur la surface d'examen, le poignet en extension complète et le coude fléchi à 90°.",
+          "Si les installations le permettent (avec une table ou un lit à hauteur ajustable), la surface d'examen peut être abaissée afin que le sujet puisse être assis, ce qui procure davantage de stabilité pour l'examen ultrasonographique (en plus d'imposer moins de stress à l'épaule)."
+        ],
+        "images": [{ "path": "positionnement1.jpg" }],
+        "source": "/Protocols/nerfUlnaire/"
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": ["Repérer et palper l'olécrane et l'épicondyle interne"]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/nerfUlnaire/vueTransversale/",
+        "objectifs": [
+          "Visualisation du nerf ulnaire au sein du tunnel cubital",
+          ""
+        ],
+        "parametres": ["Profondeur : 2 cm", "Gain : 80", "G/3/2"],
+        "positionnement": [
+          "Tel qu'illustré sur l'image ci-jointe, en vue transversale oblique (presque perpendiculaire au long axe de l'humérus), positionner la sonde de manière à ce qu'elle recouvre la pointe de l'olécrane et l'épicondyle interne"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["TC"],
+                "texte": [
+                  "Le tunnel cubital correspond à la zone hyperéchoïque incurvée (en forme de 'U') au centre de l'image"
+                ]
+              },
+              {
+                "acronymes": ["NU"],
+                "texte": [
+                  "Le nerf ulnaire, zone hyperéchoïque de forme ovoïde légèrement aplatie, se trouve au sein du tunnel cubital, excentré vers du côté médial (gauche) de l'image"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Tunnel Cubital"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Nerf ulnaire"
+              },
+              { "path": "identification4.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Le nerf ulnaire [NU] est un nerf mixte (c.-à-d. sensitif et moteur) qui, en anglais, est couramment surnommé 'funny bone', partiellement en raison de la sensation produite lorsque celui-ci est percuté. Il s'agit en effet du plus important nerf périphérique non-protégé, ce qui le rend particulièrement vulnérable aux traumatismes directs.",
+          "Sur la face postéro-médiale du coude, le nerf ulnaire traverse succèssivement le sillon condylaire ('condylar groove') et le tunnel cubital (ou tunnel ulnaire). Le sillon condylaire est une gouttière ostéofibreuse formée par l'olécrâne (en postéro-latéral), l'épicondyle médial (en médial) et le rétinaculum du tunnel cubital (en superficie), aussi connu sous le nom de rétinaculum d'Osborne. Le tunnel cubital [TC] est situé 1 cm en distal du sillon condylaire, et se trouve entre les insertions des chefs ulnaire et huméral du fléchisseur ulnaire du carpe (voir l'animation ci-jointe), qui sont reliés par une arche aponévrotique qui porte le nom de 'ligament arqué'. Le ligament arqué est en fait une expansion du rétinaculum d'Osborne <a href='#ref3' class='reference'>[3]</a>.",
+          "Au sein du tunnel cubital, le nerf ulnaire est très superficiel et peut être directement palpé tout juste en postérieur de la pointe de l'olécrane. La forme du TC est affectée par la position dans laquelle le coude se trouve. En effet, lorsque le coude passe de sa position de repos (légère flexion), le TC et son contenu passent d'une forme ovoïde à une forme élliptique (plus applatie). En effet, il a été établi que l'aire de section transversale ('cross-sectional area') du NU diminue de 55% lors de la flexion du coude, en réponse à des forces de compression (via un applatissement du TC) et de traction auxquelles il est soumis<a href='#ref7' class='reference'>[7]</a>."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Syndrome du tunnel cubital/ulnaire",
+        "text": [
+          "Le syndrome du tunnel cubital/ulnaire (l'abbréviation [STU] sera utilisée pour éviter la confusion avec STC qui réfère communément au syndrome du tunnel carpien) consiste en une compression du nerf ulnaire au sein du tunnel cubital. Le STU occupe le deuxième rang en terme de prévalence pour ce qui est des syndromes de compression au membre supérieur. Ce terme regroupe tous les cas où le NU est sujet à une compression soit au sein du sillon condylaire ou au sein du tunnel cubital<a href='#ref3' class='reference'>[3]</a>.",
+          "Les causes potentielles de compression du NU sont nombreuses, dont<a href='#ref3' class='reference'>[3]</a>:",
+          [
+            "Compression directe du NU en raison d'un sillon condylaire trop peu profond",
+            "Mal-alignement osseux (post-fracture) ou variantes anatomiques (p.ex.: cubitus valgus)",
+            "Présence d'ostophytes à l'aspect médial du coude (associé à l'arthrose) ou d'ossification hétérotopique",
+            "L'occupation d'espace par une lésion aux tissus mous ('space-occupying soft-tissue lesions')"
+          ],
+          "Malgré que le diagnostic d'un STU requière normalement un examen électromyographique, l'examen clinique 'standard' (qui inclut la recherche du signe de Froment) et l'imagerie par ultrasonographie sont d'excellents outils de dépistage et de suivi<a href='#ref5' class='reference'>[5]</a><a href='#ref11' class='reference'>[11]</a>. Cliniquement, les sujets tendent à rapporter une douleur insidieuse à l'aspect médial du coude, en plus d'une gamme de symptômes d'atteintes nerveuse périphérique (paresthésies, faiblesse/fatigabilité musculaire). Les symptômes sensitifs touchent le 5e doigt, la portion ulnaire du 4e doigt, alors que les signes/symptômes moteurs affectent tous les muscles innervés par le NU (voir ci-haut, la section 'Généralités'). Une atrophie musculaire peut également être constatée au premier espace interosseux et à l'éminence hypothénar, où peut conséquemment apparaître une déformation en semi-flexion (communément appelée 'main en griffe', ou 'claw hand').",
+          "Lors de l'examen ultrasonographique, l'aire de section transversale [AST] du NU tend à être significativement plus grande que chez les sujets sains et, en présence d'un syndrone unilatéral, plus grande que le NU controlatéral<a href='#ref12' class='reference'>[12]</a>.",
+          "Tel qu'exposé ci-haut, la valeur seuil ('threshold') d'AST pour un NU lorsqu'un STU est suspecté est de 7,5 mm2. Cependant, tel que mentionné dans la section 'Anatomie descriptive', la position du coude influence grandement l'AST du NU en raison de phénomènes de compression/traction dynamique, et les mesures devraient donc être effectuées avec un coude en pleine extension (puisque les mesures provenant de la littérature sont normalement effectuées avec le coude en extension)<a href='#ref16' class='reference'>[16]</a>.",
+          "Selon un consensus établi par la société européenne de radiologie musculosquelettique ('European Society of Musculoskeletal Radiology'), l'échographie musculosquelettique est une modalité d'imagerie de premier choix, en raison d'un consensus de grade '3' (selon l'échelle du 'Oxford Centre for Evidence-Based Medicine'), qui signifie que d'autres modalitées d'imagerie apportent rarement davantage d'informations significatives pour ce type de condition. Également, il est la noter que la majorité de la littérature repose sur des études de cohorte rétrospectives, des études cas/contrôle, ou sur des extrapolations d'essais cliniques randomisés (cote 'B' pour la méthodologie)<a href='#ref11' class='reference'>[11]</a>."
+        ]
+      },
+      {
+        "subtitle": "Luxation du nerf ulnaire",
+        "text": [
+          "La luxation du nerf ulnaire peut se produire dans deux contextes distincts : lors de syndromes d'instabilité du nerf ulnaire [INU], et parfois en présence d'un syndrome de claquement du triceps brachial [SCTB] ('Snapping triceps syndrome').",
+          "La distinction entre le SCTB et l'INU est importante en raison des plans de traitement radialement différents pour ces deux conditions. En effet, si l'approche chirurgie indiquée pour une INU (chirurgie de transposition) est utilisée pour un SCTB, il s'ensuivra une persistence des symptomes<a href='#ref9' class='reference'>[9]</a>."
+        ]
+      },
+      {
+        "subtitle": "Instabilité du nerf ulnaire",
+        "text": [
+          "Cette condition peut être due à une malformation congénitale dans laquelle le rétinaculum d'Osborne est partiellement ou complètement absent. Les sujets aux prises avec cette forme d'instabilité qui effectuent une flexion de coude voient leur nerf ulnaire se luxer au-delà de l'épicondyle interne (produisant parfois un claquement audible) et retourner au sein du TC lorsque le coude revient en extension. En soit, l'absence du rétinaculum d'Osborne n'est pas forcément pathologique et est considérée par certains auteurs comme étant une variante anatomique normale. En effet, entre 16% et 47% de la population aymptomatique vivent avec une instabilité du nerf ulnaire, malgré que la grande majorité d'entre eux présentent des subluxations du NU (donc qui se réduisent spontanément)<a href='#ref3' class='reference'>[3]</a><a href='#ref13' class='reference'>[13]</a>..",
+          "Cette condition est fréquemment bilatérale (presque 75% des cas) et asymptomatique. Les sujets symptomatiques rapportent le plus souvent des paresthésies lorsque leur coude fléchi repose sur une surface dure et, rarement, la survenue de micro-traumatismes chroniques (subluxations répétées) peut conduire à une condition nommée 'névrite de friction' ('friction neuritis') et engendrer une symptomatologie plus importante qui nécessite parfois un traitement chirurgical<a href='#ref3' class='reference'>[3]</a>.",
+          "Ce type de condition est un exemple parfait de l'utilité que peut avoir l'imagerie par ultrasonographie dynamique, puisque les mouvements du NU peuvent être visualisés alors que le sujet effectue des flexions-extensions du coude (ce qui n'est pas permis par l'imagerie par résonnance magnétique). Le consensus de la société européenne de radiologie musculosquelettique recommande également l'utilisation de l'échographie dans le contexte d'instabilité du nerf ulnaire, puisque rares sont les autres modalités d'imagerie qui fournissent davantage d'information que l'échographie (consensus de grade 3). Cependant, le consensus repose essentiellement sur des opinions d'experts sans approbation par des études de devis expérimental (cote de 'D' pour la méthodologie)."
+        ]
+      },
+      {
+        "subtitle": "Syndrome de claquement du triceps brachial",
+        "text": [
+          "Tel que mentionné dans le protocole qui couvre le tendon distal du triceps brachial, cette condition se caractérise par une luxation du chef médial du triceps en antérieur de l'épicondyle médial lors d'un flexion du coude. Puisque cette structure est adjacente au nerf ulnaire, il se produit donc une luxation antérieure simultanée de ces structures, qui génère classiquement deux 'claquements' audibles, d'où le nom de cette condition<a href='#ref3' class='reference'>[3]</a>.",
+          "La présentation clinique associée à cette condition est généralement assez similaire à celle de l'instabilité du nerf ulnaire (voir ci-haut) et, comme plus tôt, il est fréquent qu'elle demeure complètement asymptomatique. Les causes définitives sont toujours incertaines, mais les hypothèses les plus couramment citées incluent :",
+          [
+            "Hypertrophie (excessive) du triceps brachial",
+            "Présence d'un tendon surnuméraire (ou accessoire) au triceps distal",
+            "Variante anatomique au niveau du chef médial du triceps",
+            "Anomalies osseuses post-traumatiques"
+          ]
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Tendon du triceps brachial",
+          "link": "/protocoles/coude/tendon-triceps-brachial"
+        },
+        {
+          "linkTitle": "Tendon fléchisseur commun & Ligament latéral interne",
+          "link": "/protocoles/coude/tendon-flechisseur-commun-et-ligament-lateral-externe"
+        },
+        {
+          "linkTitle": "Nerf médian",
+          "link": "/protocoles/poignet/nerf-median"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Bayrak, Ayse Oytun, Ilkay Koray Bayrak, Hande Turker, Muzaffer Elmali, et Mehmet Selim Nural. « Ultrasonography in Patients with Ulnar Neuropathy at the Elbow: Comparison of Cross-Sectional Area and Swelling Ratio with Electrophysiological Severity. » Muscle & Nerve 41, nᵒ 5 (1 mai 2010): 661‑66. doi:10.1002/mus.21563."
+        },
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angelo Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. « Musculoskeletal Ultrasound Technical Guidelines (II. Elbow). » Eureopean Society of Muscloskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Campbell, W. W., R. M. Pridgeon, G. Riaz, J. Astruc, et K. S. Sahni. « Variations in Anatomy of the Ulnar Nerve at the Cubital Tunnel: Pitfalls in the Diagnosis of Ulnar Neuropathy at the Elbow. » Muscle & Nerve 14, nᵒ 8 (1 août 1991): 733‑38. doi:10.1002/mus.880140807."
+        },
+        {
+          "text": "Chiou, H. J., Y. H. Chou, S. P. Cheng, C. C. Hsu, R. C. Chan, C. M. Tiu, M. M. Teng, et C. Y. Chang. « Cubital Tunnel Syndrome: Diagnosis by High-Resolution Ultrasonography. » Journal of Ultrasound in Medicine: Official Journal of the American Institute of Ultrasound in Medicine 17, nᵒ 10 (octobre 1998): 643‑48."
+        },
+        {
+          "text": "Contreras, Michael G., Mark A. Warner, William J. Charboneau, et Donald R. Cahill. « Anatomy of the Ulnar Nerve at the Elbow: Potential Relationship of Acute Ulnar Neuropathy to Gender Differences. » Clinical Anatomy 11, nᵒ 6 (1 janvier 1998): 372‑78. doi:10.1002/(SICI)1098-2353(1998)11:6<372::AID-CA2>3.0.CO;2-R."
+        },
+        {
+          "text": "Gelberman, Richard H., Ken Yamaguchi, Steven B. Hollstien, Steven S. Winn, Fred P. Heidenreich, Randip R. Bindra, Paul Hsieh, et Matthew J. Silva. « Changes in Interstitial Pressure and Cross-Sectional Area of the Cubital Tunnel and of the Ulnar Nerve with Flexion of the Elbow. An Experimental Study in Human Cadavera*. » J Bone Joint Surg Am 80, nᵒ 4 (1 avril 1998): 492‑501."
+        },
+        {
+          "text": "Gonzalez, M. H., P. Lotfi, A. Bendre, Y. Mandelbroyt, et N. Lieska. « The Ulnar Nerve at the Elbow and Its Local Branching: An Anatomic Study. » Journal of Hand Surgery (British and European Volume) 26, nᵒ 2 (1 avril 2001): 142‑44. doi:10.1054/jhsb.2000.0532."
+        },
+        {
+          "text": "Jacobson, Jon A., Peter J. L. Jebson, Andrew W. Jeffers, David P. Fessell, et Curtis W. Hayes. « Ulnar Nerve Dislocation and Snapping Triceps Syndrome: Diagnosis with Dynamic Sonography—Report of Three Cases. » Radiology 220, nᵒ 3 (1 septembre 2001): 601‑5. doi:10.1148/radiol.2202001723."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Klauser, Andrea S., Ethan J. Halpern, Tobias De Zordo, Gudrun M. Feuchtner, Rohit Arora, Johann Gruber, Carlo Martinoli, et Wolfgang N. Löscher. « Carpal Tunnel Syndrome Assessment with US: Value of Additional Cross-sectional Area Measurements of the Median Nerve in Patients versus Healthy Volunteers. » Radiology 250, nᵒ 1 (1 janvier 2009): 171‑77. doi:10.1148/radiol.2501080397."
+        },
+        {
+          "text": "Martinoli, Carlo, Stefano Bianchi, Francesco Giovagnorio, et Francesca Pugliese. « Ultrasound of the Elbow. » Skeletal Radiology 30, nᵒ 11 (30 août 2001): 605‑14. doi:10.1007/s002560100410."
+        },
+        {
+          "text": "Okamoto, M., M. Abe, H. Shirai, et N. Ueda. « Morphology and Dynamics of the Ulnar Nerve in the Cubital Tunnel Observation by Ultrasonography. » Journal of Hand Surgery (British and European Volume) 25, nᵒ 1 (1 février 2000): 85‑89. doi:10.1054/jhsb.1999.0317."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Pratical [sic] Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Tagliafico, Alberto, Eugenia Resmini, Raffaella Nizzo, Lorenzo E. Derchi, Francesco Minuto, Massimo Giusti, Carlo Martinoli, et Diego Ferone. « The Pathology of the Ulnar Nerve in Acromegaly. » European Journal of Endocrinology / European Federation of Endocrine Societies 159, nᵒ 4 (octobre 2008): 369‑73. doi:10.1530/EJE-08-0327."
+        },
+        {
+          "text": "Tagliafico, Alberto S., Bianca Bignotti, et Carlo Martinoli. « Elbow US: Anatomy, Variants, and Scanning Technique. » Radiology 275, nᵒ 3 (juin 2015): 636‑50. doi:10.1148/radiol.2015141950."
+        },
+        {
+          "text": "Yoon, Joon Shik, Francis O. Walker, et Michael S. Cartwright. « Ultrasonographic Swelling Ratio in the Diagnosis of Ulnar Neuropathy at the Elbow. » Muscle & Nerve 38, nᵒ 4 (1 octobre 2008): 1231‑35. doi:10.1002/mus.21094."
+        },
+        {
+          "text": "Zbojniewicz, Andrew M. « US for Diagnosis of Musculoskeletal Conditions in the Young Athlete: Emphasis on Dynamic Assessment. » RadioGraphics 34, nᵒ 5 (1 septembre 2014): 1145‑62. doi:10.1148/rg.345130151."
+        },
+        {
+          "text": "Padua, Luca, Carlo Martinoli, Costanza Pazzaglia, Marta Lucchetta, Giuseppe Granata, Carmen Erra, et Chiara Briani. « Intra- and Internerve Cross-Sectional Area Variability: New Ultrasound Measures. » Muscle & Nerve 45, nᵒ 5 (1 mai 2012): 730‑33. doi:10.1002/mus.23252."
+        }
+      ]
+    }
+  }
+}

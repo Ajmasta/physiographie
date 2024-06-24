@@ -1,0 +1,408 @@
+{
+  "title": "Compartiments du poignet dorsal",
+  "latinName": "",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Compartiments", "header": true },
+          { "data": "Tendon(s)", "header": true },
+          { "data": "Abbréviation", "header": true }
+        ],
+        [
+          { "data": "1", "rowspan": 2 },
+          { "data": "Court extenseur du pouce" },
+          { "data": "CEP" }
+        ],
+        [{ "data": "Long abducteur du pouce" }, { "data": "LAP" }],
+        [
+          { "data": "2", "rowspan": 2 },
+          { "data": "Court extenseur radial du carpe" },
+          { "data": "CERC" }
+        ],
+        [{ "data": "Long extenseur radial du carpe" }, { "data": "LERC" }],
+        [
+          { "data": "3" },
+          { "data": "Long extenseur du pouce" },
+          { "data": "LEP" }
+        ],
+        [
+          { "data": "4", "rowspan": 2 },
+          { "data": "Extenseur commun des doigts" },
+          { "data": "ECD" }
+        ],
+        [{ "data": "Extenseur propre de l'index" }, { "data": "EPI" }],
+        [
+          { "data": "5" },
+          { "data": "Extenseur propre du cinquième doigt" },
+          { "data": "EP5" }
+        ],
+        [
+          { "data": "6" },
+          { "data": "Extenseur ulnaire du carpe" },
+          { "data": "EUC" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [[{ "data": "Aucune donnée disponible", "header": true }]]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Puisque les compartiments extenseurs du poignet sont situés sur différentes faces du poignet, les positions doivent donc être adaptées selon l'emplacement du compartiment évalué",
+          "Pour tous les compartiments, le sujet doit être assis dans une position confortable, avec le membre supérieur reposant sur une table d'examen (idéalement à hauteur ajustable) de manière à être confortable.",
+          "Compartiment 1 :",
+          [
+            "Le coude fléchi à 90°, et l'avant-bras en neutre de pro-supination (pouce orienté vers le plafond, de manière à avoir un accès facile à la styloïde radiale)"
+          ],
+          "Compartiments 3 à 5 :",
+          [
+            "En maintenant le coude fléchi à 90°, placer l'avant-bras en pronation (paume de la main face à la table)"
+          ],
+          "Compartiment 6 :",
+          [
+            "Placer l'avant-bras en pleine pronation, de manière à ce que l'aspect ulnaire de la main soit face au plafond (styloïde ulnaire vers le haut)",
+            "Pour les sujets ayant une amplitude en pronation plus limitée, il est possible de maintenir le coude en extension, de lever la table d'examen à la hauteur des épaules du sujet et de placer le membre supérieur en rotation interne"
+          ]
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer et palper la styloïde radiale",
+          "Demander au sujet d'effectuer une extension/abduction du pouce afin de mettre en évidence la tabatière anatomique, ce qui permet de localiser les trois premiers compartiments",
+          "Palper l'articulation radio-ulnaire distale ainsi que la styloïde radiale"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/compartimentsDuPoignetDorsal/vueTransversale/",
+        "objectifs": [
+          "Observation de la disposition des différents compartiments dorsaux et de leur contenu"
+        ],
+        "parametres": ["Profondeur : 2 cm", "Gain : 70", "G/3/3"],
+        "positionnement": [
+          "Compartiment 1 : Placer la sonde en vue transversale (perpendiculaire au long axe de l'avant-bras) sur l'aspect latéral du radius, approximativement au niveau de la styloïde radiale, puis balayer lentement en proximal et en distal",
+          "Compartiment 2 : Déplacer la sonde sur l'aspect dorsal du poignet, de manière à ce que centre de la sonde soit légèrement en médial (ulnaire) de la styloïde radiale",
+          "Compartiment 3 : Déplacer légèrement la sonde en médial (ulnaire) jusqu'à ce que le centre de la sonde soit aligné à la limite du tiers médial et central du poignet",
+          "Compartiments 4-5 : Aligner le centre de la sonde avec le centre du poignet",
+          "Compartiment 6 : En maintenant la sonde en vue transversale, placer la sonde à la limite proximale de la styloïde ulnaire, et balayer légèrement en proximal-distal jusqu'à l'obtention d'une image claire du tendon de l'extenseur ulnaire du carpe"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Position pour le premier compartiment, au niveau de la styloïde radiale"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Position pour le deuxième compartiment, tout juste en ulnaire la styloïde radiale"
+          },
+          {
+            "path": "positionnement3.jpg",
+            "descriptionText": "Position pour le troisième compartiment, sonde déplacée en médial"
+          },
+          {
+            "path": "positionnement4.jpg",
+            "descriptionText": "Position pour les quatrième et cinquième compartiments, au centre du poignet"
+          },
+          {
+            "path": "positionnement5.jpg",
+            "descriptionText": "Position pour le sixième compartiment, en proximal de la styloïde ulnaire"
+          }
+        ],
+        "identification": [
+          {
+            "title": "[Compartiment 1]",
+            "legend": [
+              {
+                "acronymes": ["LAP"],
+                "texte": [
+                  "Le long abducteur du pouce apparaît au haut et légèrement à droite de l'image. On peut le décrire comme une zone hyperéchoïque arrondie dont le pourtour est défini seulement du côté radial."
+                ]
+              },
+              {
+                "acronymes": ["CEP"],
+                "texte": [
+                  "Le court extenseur du pouce est adjacent au LAP, et possède une apparence très similaire à ce dernier. Pour les distinguer, il importe de connaître l'orientation de la sonde, et de bien identifier le côté ulnaire et distal de l'iamge (puisque leur apparence, à elle seule, ne permet pas de les différencier)."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Long abducteur du pouce"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Court extenseur du pouce"
+              },
+              { "path": "identification4.jpg" }
+            ]
+          },
+          {
+            "title": "[Compartiment 2]",
+            "legend": [
+              {
+                "acronymes": ["R"],
+                "texte": [
+                  "Le radius apparent au centre de l'image comme une vaste zone hyperéchoïque arrondie"
+                ]
+              },
+              {
+                "acronymes": ["CERC"],
+                "texte": [
+                  "Le court extenseur radial du carpe est visible à la surface du radius, du côté gauche de l'image. La marge ulnaire du tendon du CERC est définie par un trait hyperéchoïque clair, alors que sa limite radiale est moins définie et bordée d'une zone hypoéchoïque."
+                ]
+              },
+              {
+                "acronymes": ["LERC"],
+                "texte": [
+                  "Le long extenseur radial du carpe est similaire au CERC et, comme c'était le cas pour le LAP et le CEP, la distinction entre le long et court extenseur radial du carpe repose surtout sur le localisation relative dans le plan radio-ulnaire."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification5.jpg" },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Radius"
+              },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Court extenseur radial du carpe"
+              },
+              {
+                "path": "identification8.jpg",
+                "descriptionText": "Long extenseur radial du carpe"
+              },
+              {
+                "path": "identification9.jpg"
+              }
+            ]
+          },
+          {
+            "title": "[Compartiment 3]",
+            "legend": [
+              {
+                "acronymes": ["U"],
+                "texte": [
+                  "L'ulna apparaît à la gauche de l'image comme une zone hyperéchoïque circulaire bien définie"
+                ]
+              },
+              {
+                "acronymes": ["R-TL"],
+                "texte": [
+                  "Le radius est visible à la droite de l'ulna, et prend l'apparence d'une zone fortement hyperéchoïque relativement plane, à l'exception du tubercule de Lister, un relief osseux convexe qui sépare le deuxième et le troisième compartiment"
+                ]
+              },
+              {
+                "acronymes": ["LEP"],
+                "texte": [
+                  "Le long extenseur du pouce, zone légèrement hypoéchoïque de forme ovale, apparaît tout juste à la gauche du tubercule de Lister, accolé à la face dorsale du radius"
+                ]
+              },
+              {
+                "acronymes": ["ECD"],
+                "texte": [
+                  "L'extenseur commun des doigts est présent au sein du quatrième compartiment, dont la limite ulnaire correspond au rebord ulnaire du radius. L'ECD prend ici l'apparence d'une vaste zone hyperéchoïque, au sein de laquelle il est possible de distinguer différents faisceaux tendineux indépendants"
+                ]
+              },
+              {
+                "acronymes": ["EP5"],
+                "texte": [
+                  "L'extenseur propre du cinquième doigt se trouve à la surface de l'ulna, et peut être décrit comme une zone hyperéchoïque de taille moyenne et de forme plus ou moins ovale"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification10.jpg" },
+              { "path": "identification11.jpg", "descriptionText": "Ulna" },
+              {
+                "path": "identification12.jpg",
+                "descriptionText": "Radius & tubercule de Lister"
+              },
+              {
+                "path": "identification13.jpg",
+                "descriptionText": "Long extenseur du pouce"
+              },
+              {
+                "path": "identification14.jpg",
+                "descriptionText": "Extenseur commun des doigts"
+              },
+              {
+                "path": "identification15.jpg",
+                "descriptionText": "Extenseur propre du cinquième doigt"
+              },
+              { "path": "identification16.jpg" }
+            ]
+          },
+          {
+            "title": "[Compartiment 4]",
+            "legend": [
+              {
+                "acronymes": ["U"],
+                "texte": [
+                  "L'ulna, large zone hyperéchoïque en forme de 'M', est visible au centre de l'image."
+                ]
+              },
+              {
+                "acronymes": ["EUC"],
+                "texte": [
+                  "L'extenseur ulnaire du carpe apparaît comme une assez large zone hyperéchoïque fusiforme à la surface de l'ulna"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification17.jpg" },
+              {
+                "path": "identification18.jpg",
+                "descriptionText": "Ulna"
+              },
+              {
+                "path": "identification19.jpg",
+                "descriptionText": "Extenseur ulnaire du carpe"
+              },
+              {
+                "path": "identification20.jpg",
+                "descriptionText": "Long extenseur radial du carpe"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Les tendons extenseurs du poignet sont classés selon le compartiment auquel ils appartiennent. Ces compartiments sont des tunnels anatomiques qui sont disposés majoritairement sur la face dorsale du poignet, mais également sur les faces radiale et ulnaire.",
+          "<strong>Premier compartiment [CEP-LAP]</strong>",
+          "Le premier compartiment est situé au niveau de l'aspect radial du poignet, vis-à-vis la styloïde radiale, qui représente d'ailleurs le principal repère osseux utilisé lors de la palpation. Ce compartiment forme également le rebord latéral (radial) de la tabatière anatomique. La gaine synoviale et les tendons qu'elle contient (LAP et CEP) sont impliqués dans le syndrome de De Quervain (voir la section Pertinence clinique ci-bas).",
+          "<strong>Premier compartiment [CEP-LAP]</strong>",
+          "Le second compartiment contient les tendons des deux extenseurs radiaux du carpe (long et court). On le retrouve au sein de la tabatière anatomique, soit tout juste en ulnaire (médial) de la styloïde radiale.",
+          "<strong>Premier compartiment [CEP-LAP]</strong>",
+          "Le long extenseur du pouce est le seul tendon présent au sein du troisième compartiment, qui peut aismément être localisé en raison du fait qu'il forme le rebord ulnaire (médial) de la tabatière anatomique. Aussi, il est à noter que les compartiments #2 et #3 sont séparés par le tubercule de Lister, un relief osseux présent au niveau du radius palmaire distal.",
+          "<strong>Premier compartiment [CEP-LAP]</strong>",
+          "Il s'agit généralement du compartiment le plus volumineux, puisqu'il renferme les (quatre) tendons du muscle extenseur commun des doigts, en plus du tendon de l'extenseur propre de l'index, qui est parfois plus difficile à identifier lors de l'examen ultrasonographique.",
+          "<strong>Premier compartiment [CEP-LAP]</strong>",
+          "L'extenseur propre du cinquième doigt, unique tendon présent dans le cinquième compartiment, est situé sur la face palmaire de l'ulna, tout juste en médial (ulnaire) de l'articulation radio-ulnaire distale.",
+          "<strong>Premier compartiment [CEP-LAP]</strong>",
+          "Finalement, l'extenseur ulnaire du carpe, un muscle déviateur ulnaire et relativement faible extenseur du poignet, se trouve au sein du sixième et dernier compartiment, qu'il occupe seul."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Premier compartiment",
+        "text": [
+          "Ténosynovite/Syndrome de De Quervain",
+          [
+            "La ténosynovite de De Quervain [TDQ] est une inflammation de la gaine synoviale des muscles contenus dans le premier compartiment, soit le long abducteur et le court extenseur du pouce [LAP-CEP]. Il s'agit là d'un exemple typique de pathologie tendineuse de surutilisation : en effet, la grande majorité des sujets aux prises avec une TDQ pratiquent des activités impliquant des extensions et/ou abductions du pouce fréquentes et prolongées, comme les pianistes ou les dactylographes. La survenue d'une TDQ peut aussi être associée à un excès de mouvements au poignet contre résistance, comme c'est le cas pour les nouvelles mères qui doivent soutenir la tête d'un nouveau-né<a href='#ref2' class='reference'>[2]</a>.",
+            "Il est également possible que la TDQ soit causée par des micro-traumas répétés à la styloïde radiale, qui engendrent un épaississement du rétinaculum des extenseurs du poignet, et engendrent ainsi une compression du contenu du premier compartiment<a href='#ref2' class='reference'>[2]</a>.",
+            "Classiquement, la présentation clinique comprend une douleur à la styloïde radiale, exacerbée par des mouvements de grande amplitude au pouce ou par la prise avec force d'un objet à l'aide du pouce (pince). Un résultat positif au test de Finkelstein (déviation ulnaire passive avec le pouce fléchi au maximum) est également attendu chez les personnes aux prises avec une TDQ. Un traitement conservateur (repos relatif, AINS, cryothérapie) suffit généralement à la résolution de la condition. Plus rarement, certains cas réfractaires peuvent nécessiter l'utilisation d'anti-inflammatoires locaux (infiltration)<a href='#ref2' class='reference'>[2]</a>.",
+            "Bien que le diagnostic clinique de la TDQ soit généralement assez simple, l'utilisation de l'imagerie par ultrasonographie est fortement recommandée à des fins de confirmation, tel que rapporté par un consensus de la European Society of Musculoskeletal Radiology publié en 2012<a href='#ref10' class='reference'>[10]</a>. Chez les sujets atteints, on peut normalement observer une augmentation du diamètre des tendons, qui, incidemment, arborent également une section transversale plus circulaire<a href='#ref2' class='reference'>[2]</a>."
+          ]
+        ]
+      },
+      {
+        "subtitle": "Deuxième compartiment",
+        "text": [
+          "Syndrome de l'intersection",
+          [
+            "Le syndrome de l'intersection ('intersection syndrome') est une condition inflammatoire (non-infectieuse) qui affecte le second compartiment extenseur du poignet au niveau du tubercule de Lister. Les symptômes surviennent lorsque le premier compartiment extenseur vient croiser (chevaucher) le deuxième compartiment, ce qui vient à engendrer douleur et oedème au niveau du tubercule de Lister<a href='#ref4' class='reference'>[4]</a>. Il s'ensuit donc une irritation des tendons des deux extenseurs radiaux du carpe au niveau où ils croisent le premier compartiment<a href='#ref2' class='reference'>[2]</a>.",
+            "Cette condition est surtout retrouvée chez les sujets qui pratiquent des activités répétitives impliquant des flexions-extensions de poignet, et particulièrement chez les adeptes de sports tels que l'haltérophilie ou l'aviron.",
+            "Le diagnostic peut être délicat, en raison de plusieurs similarités entre la symptomatologie du syndrome de l'intersection avec la ténosynovite de De Quervain. Chez les sujets atteints d'un syndrome de l'intersection, l'imagerie par ultrasonographie permet de mettre en évidence la perte de la séparation hyperéchoïque claire entre les deux premiers compartiments, au profit d'une zone hypoéchoïque peu définie, probablement due à la présence d'oedème et d'infiltrats locaux<a href='#ref2' class='reference'>[2]</a>."
+          ]
+        ]
+      },
+      {
+        "subtitle": "Sixième compartiment",
+        "text": [
+          "Ténosynovite de l'extenseur ulnaire du carpe",
+          [
+            "Lorsqu'une friction mécanique survient entre le sixième compartiment et la surface de l'ulna, il se peut qu'une instabilité s'installe, ce qui est la principale cause de ténosynovite de l'EUC. La symptomatologie est assez peu spécifique, et peut faire croire à tort qu'il existe une problématique au niveau de l'articulation radio-ulnaire distale : douleur à l'aspect dorsal du poignet, particulièrement dans la région de l'ulna distal, possiblement associée à une sensation de claquement ('snapping')<a href='#ref2' class='reference'>[2]</a>.",
+            "L'imagerie par ultrasonographie n'est pas une modalité idéale pour l'évaluation de l'articulation radio-ulnaire distale, mais elle peut néanmoins contribuer au diagnostic différentiel en identifiant de potentielles lésions, changements d'échogénicité, d'échotexture ou de forme qui pourraient affecter le tendon de l'extenseur ulnaire du carpe<a href='#ref2' class='reference'>[2]</a>.",
+            "Le terme anglais de snapping ECU réfère au claquement que produit le tendon de l'EUC lorsqu'il subit une subluxation. Lorsque ce phénomène se chronicise, on peut alors parler d'instabilité du tendon de l'extenseur ulnaire du carpe."
+          ]
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Nerf médian",
+          "link": "/protocoles/poignet/nerf-median"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angelo Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. « Musculoskeletal Ultrasound Technical Guidelines (III. Wrist). » Eureopean Society of Muscloskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., et C. Martinoli, éd. Ultrasound of the musculoskeletal system. Medical radiology. Berlin ; New York: Springer, 2007."
+        },
+        {
+          "text": "Browne, Jeffrey, et Clyde A. Helms. « Clinical Images: Intersection Syndrome of the Forearm. » Arthritis & Rheumatism 54, nᵒ 6 (1 juin 2006): 2038‑2038. doi:10.1002/art.21825."
+        },
+        {
+          "text": "Costa, C. Rosalia, William B. Morrison, et John A. Carrino. « MRI Features of Intersection Syndrome of the Forearm. » American Journal of Roentgenology 181, nᵒ 5 (1 novembre 2003): 1245‑49. doi:10.2214/ajr.181.5.1811245."
+        },
+        {
+          "text": "Depukat, Pawel, Ewa Mizia, Michal Klosinski, Miroslawa Dzikowska, Wieslawa Klimek-Piotrowska, Malgorzata Mazur, Marcin Kuniewicz, et Tomasz Bonczar. « Anatomy of Guyon’s Canal - a Systematic Review. » Folia Medica Cracoviensia 54, nᵒ 2 (2014): 81‑86."
+        },
+        {
+          "text": "Descatha, Alexis, Hélène Leproust, Philippe Roure, Colette Ronan, et Yves Roquelaure. « Is the intersection syndrome is an occupational disease? » Joint Bone Spine 75, nᵒ 3 (mai 2008): 329‑31. doi:10.1016/j.jbspin.2007.05.013."
+        },
+        {
+          "text": "Grundberg, A. B., et D. S. Reagan. « Pathologic Anatomy of the Forearm: Intersection Syndrome. » The Journal of Hand Surgery 10, nᵒ 2 (mars 1985): 299‑302."
+        },
+        {
+          "text": "Hazani, Ron, Nitin J. Engineer, Damon Cooney, et Bradon J. Wilhelmi. « Anatomic Landmarks for the First Dorsal Compartment. » Eplasty 8 (2 juin 2009). http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2586286/."
+        },
+        {
+          "text": "Iwamoto, Akira, Randal P. Morris, Clark Andersen, Rita M. Patterson, et Steven F. Viegas. « An Anatomic and Biomechanic Study of the Wrist Extensor Retinaculum Septa and Tendon Compartments. » The Journal of Hand Surgery 31, nᵒ 6 (août 2006): 896‑903. doi:10.1016/j.jhsa.2006.02.026."
+        },
+        {
+          "text": "Klauser, Andrea S., Alberto Tagliafico, Gina M. Allen, Natalie Boutry, Rob Campbell, Michel Court-Payen, Andrew Grainger, et al. « Clinical Indications for Musculoskeletal Ultrasound: A Delphi-Based Consensus Paper of the European Society of Musculoskeletal Radiology. » European Radiology 22, nᵒ 5 (mai 2012): 1140‑48. doi:10.1007/s00330-011-2356-3."
+        },
+        {
+          "text": "Matzon, Jonas L., et David J. Bozentka. « Extensor Tendon Injuries. » The Journal of Hand Surgery 35, nᵒ 5 (mai 2010): 854‑61. doi:10.1016/j.jhsa.2010.03.002."
+        },
+        {
+          "text": "Palmer, A. K., J. R. Skahen, F. W. Werner, et R. R. Glisson. « The Extensor Retinaculum of The Wrist: An Anatomical and Biomechanical Study. » Journal of Hand Surgery (British and European Volume) 10, nᵒ 1 (1 février 1985): 11‑16. doi:10.1016/S0266-7681(85)80006-1."
+        },
+        {
+          "text": "Rockwell, W. B., P. N. Butler, et B. A. Byrne. « Extensor Tendon: Anatomy, Injury, and Reconstruction. » Plastic and Reconstructive Surgery 106, nᵒ 7 (décembre 2000): 1592‑1603; quiz 1604, 1673."
+        },
+        {
+          "text": "Tanaka, Toshikazu, Steven L. Moran, Chunfeng Zhao, Mark E. Zobitz, Kai-Nan An, et Peter C. Amadio. « Anatomic Variation of the 5th Extensor Tendon Compartment and Extensor Digiti Minimi Tendon. » Clinical Anatomy 20, nᵒ 6 (1 août 2007): 677‑82. doi:10.1002/ca.20480."
+        }
+      ]
+    }
+  }
+}

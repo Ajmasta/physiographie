@@ -1,0 +1,318 @@
+{
+  "title": "Tendons fibulaires",
+  "latinName": "Tendo fibularis",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Muscle", "header": true },
+          { "data": "Court fibulaire" },
+          { "data": "Long fibulaire" }
+        ],
+        [
+          { "data": "Origine", "header": true },
+          { "data": "Fibula (deux tiers inférieurs, face latérale)" },
+          { "data": "Fibula (moitié supérieure, face latérale)" }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          { "data": "Cinquième métatarsien (portion proximale)" },
+          {
+            "data": "Premier métatarsien (portion proximale), premier cunéiforme (surface plantaire latérale)"
+          }
+        ],
+        [
+          { "data": "Action", "header": true },
+          { "data": "Flexion plantaire, éversion", "colspan": 2 }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Mesure", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [
+          { "data": "Épaisseur (mm)", "rowspan": 2 },
+          { "data": "Tendon du muscle long fibulaire" },
+          { "data": "[Non disponible]" }
+        ],
+        [
+          { "data": "Tendon du muscle court fibulaire" },
+          { "data": "[Non disponible]" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Décubitus dorsal<a href='#ref2' class='reference'>[2]</a>",
+          "Membre inférieur allongé, complètement sur le lit, et en rotation interne (orteils vers l'intérieur)",
+          "Selon la physionomie du sujet, il peut être nécessaire d'avoir à placer la cheville en inversion afin de procurer une plus grande surface de contact plane entre la sonde et la peau"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": ["Repérer et palper la malléole externe et le calcanéum"]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/tendonsFibulaires/vueLongitudinale/",
+        "objectifs": ["Évaluer l'intégrité des tendons fibulaires", ""],
+        "parametres": ["Profondeur : 2 cm", "Gain : 80", "G/3/2"],
+        "positionnement": [
+          "Tourner la sonde de 90° par rapport à la vue transversale",
+          "Alternativement, on peut imaginer deux droites : une dans l'axe longitundial de la sonde, et une autre tangentielle à l'aspect dorsal du pied. Ces deux droites devraient être approximativement parallèles.",
+          "En raison d'une variabilité anatomique normale, tourner légèrement la sonde jusqu'à l'obtention d'une image optimale des tendons fibulaires (voir ci-bas)"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Position de la sonde, vue longitudinale"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Schématisation de l'angle de rotation recherché pour la sonde"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["ML"],
+                "texte": [
+                  "La malléole latérale est visible (quoique difficilement) à la droite de l'image ci-jointe, dont seul l'apex est visible sous la forme d'un trait hyperéchoïque incurvé."
+                ]
+              },
+              {
+                "acronymes": ["LF"],
+                "texte": [
+                  "Le tendon du long fibulaire est aisément visible à la partie supérieure de l'image. On reconnaît l'échotexture typique d'un tissu tendineux en vue longitudinale, soit une organisation fibrillaire très cohérente (alignée) avec l'axe mécanique du tendon"
+                ]
+              },
+              {
+                "acronymes": ["CF"],
+                "texte": [
+                  "Le tendon du court fibulaire, dont seule la marge supérieure est clairement visible, est situé sous le tendon du long fibulaire. Aussi, on distingue bien le parcours parallèle de ces deux tendons."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Malléole latérale"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Tendon du long fibulaire"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Tendon du court fibulaire"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/tendonsFibulaires/vueTransversale/",
+        "objectifs": [
+          "Évaluation de l'intégrité des tendons fibulaires et de leurs gaines synoviales",
+          "Évaluation de la stabilité des tendons fibulaires lors de mouvements de circomduction, d'éversion et extension de cheville"
+        ],
+        "parametres": ["Profondeur : 2 cm", "Gain : 80", "G/3/2"],
+        "positionnement": [
+          "Placer la sonde sur l'aspect latéral de la cheville, de manière à recouvrir l'extrémité postéro-inférieure de la malléole latérale et l'extrémité supérieure (crâniale) du calcanéum",
+          "On peut imaginer deux droites : une dans l'axe longitundial de la sonde, et une autre tangentielle à l'aspect dorsal du pied. L'angle formé par ces deux droites devrait s'approcher de 90°",
+          "Au besoin, modifier l'angle d'inversion de cheville afin d'optimiser la surface de contact entre la sonde et la peau. De plus, il peut être nécessaire d'utiliser une quantité de gel de conduction plus importante qu'à l'habitude."
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Position de la sonde, vue transversale"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Schématisation de l'angle de rotation recherché pour la sonde"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["ML"],
+                "texte": [
+                  "La malléole latérale (externe) peut être identifiée en raison de sa forme distinctive qui façonne le relief de l'aspect externe de la cheville. Ici, on voit clairement l'os cortical, hyperéchoïque, qui décrit un relief fortement convexe."
+                ]
+              },
+              {
+                "acronymes": ["LF"],
+                "texte": [
+                  "Le tendon du muscle long fibulaire apparaît à la droite de la malléole latérale, soit en postéro-inférieur de celle-ci. On le reconnaît principalement en raison de sa gaine (hypoéchoïque), qui trace le contour ovoïde du tendon, lequel est d'échogénicité comparable aux structures environnantes."
+                ]
+              },
+              {
+                "acronymes": ["CF"],
+                "texte": [
+                  "Le tendon du muscle court fibulaire est situé entre la malléole latérale et le tendon du long fibulaire, et possède un diamètre significativement plus petit que ce dernier."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Malléole latérale (externe)"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Tendon du long fibulaire"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Tendon du court fibulaire"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Les tendons des muscles court et long fibulaire sont aisément accessibles à la palpation et à l'évaluation ultrasonographique dans leur parcours supra-, rétro- et infra-malléolaire<a href='#ref2' class='reference'>[2]</a>. Malgré plusieurs facteurs facilitant, le parcours fortement incurvé de ces tendons peut contribuer à engendrer de l'anisotropie, qui peut être évitée en maintenant un angle d'incidence du faisceau avec les tendons aussi perpendiculaire que possible.",
+          "Ces deux tendons parcourent la face latérale de la cheville, où ils encerclent une partie de la malléole latérale, qui fait office de poulie (ou de bras de levier) entre leurs origines et insertions respectives. Dans leur portion supra-malléolaire, les tendons des muscles court et long péroniers partagent une gaine commune, qui se sépare en deux au-delà (en inférieur) de la malléole. Deux rétinacula (supérieur et inférieur) maintiennent étroitement ces tendons en place derrière la malléole externe et sur la face latérale du calcanéum<a href='#ref2' class='reference'>[2]</a>. Au sein du canal ostéo-fibreux formé par la malléole latérale et le rétinaculum fibulaire supérieur, le tendon du court fibulaire est normalement situé en antéro-médial du tendon du long fibulaire<a href='#ref12' class='reference'>[12]</a>. Le rôle du rétinaculum fibulaire supérieur est de prévenir le déplacement des tendons fibulaires en antérieur, soit par-dessus la malléole externe<a href='#ref2' class='reference'>[2]</a>. En caudal (inférieur) de la malléole latérale, la stabilisation des tendons fibulaires est assurée par le rétinaculum fibulaire inférieur.",
+          "En plus de leurs rôles de mobilisateurs (flexion plantaire et éversion de cheville), les muscles fibulaires sont d'importants stabilisateurs de la cheville<a href='#ref12' class='reference'>[12]</a>."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/tendonsFibulaires/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Tendinopathies",
+        "text": [
+          "Dans le contexte présent, le terme 'tendinopathie' regroupe les tendinoses et ténosynovites. En ce qui concerne l'aspect latéral de la cheville, les tendons les plus souvent atteints sont les tendons fibulaires<a href='#ref6' class='reference'>[6]</a>.",
+          "Un des principaux mécanismes proposés pour expliquer la survenue des ténosynovites fibulaires est l'augmentation du stress mécanique autour des poulies immobiles (telles que la malléole externe).",
+          "Sinon, certains événements traumatiques tels que les blessures en inversion de cheville, les fractures du calcanéum ou de la malléole externe peuvent être à la source de lésions de la gaine des tendons fibulaires.",
+          "Au point de vue clinique, la ténosynovite fibulaire se présente classiquement comme une douleur/sensibilité à la palpation sur l'ensemble de la gaine des tendons fibulaires."
+        ]
+      },
+      {
+        "subtitle": "Ruptures",
+        "text": [
+          "Les ruptures des tendons fibulaires (long ou court) les plus fréquentes sont les ruptures longitudinales intra-substance. Les ruptures complètes (donc transversales) des tendons fibulaires sont nettement moins fréquentes que les ruptures longitudinales. L'imagerie par ultrasonographie a été reconnue comme une outil de première ligne pour lorsqu'une rupture des tendons fibulaires est suspectée en raison de ses qualités psychométriques particulièrement intéressantes (sensibilité de 100% et spécificité de 85%)<a href='#ref5' class='reference'>[5]</a>",
+          "Rupture du tendon court fibulaire:",
+          [
+            "La rupture longitudinale du tendon du court fibulaire (aussi connue, en anglais, sous le nom de 'peronal split syndrome') peut être retrouvée tant chez le jeune athlète que chez la personne âgée. La présentation clinique chez ces deux population est cependant bien différente : le jeune athlète rapportement classiquement une douleur importante, alors que la personne âgée, elle, peut être totalement asymptomatique.",
+            "Le tendon du court fibulaire est plus vulnérable aux ruptures que le long fibulaire en raison de sa localisation entre le sillon rétro-malléolaire et le tendon du long fibulaire, qui explique un stress mécanique accru à cet endroit (particulièrement lors des mouvements de flexion dorsale de cheville). De plus, lors d'une rupture longitudinale du tendon du court fibulaire, le tendon du long fibulaire tend à venir se loger au sein du site de rupture du court fibulaire, ce qui peut ralentir, voire même prévenir, toute guérison de la rupture du tendon du court fibulaire<a href='#ref6' class='reference'>[6]</a>."
+          ],
+          "Rupture du tendon du long fibulaire:",
+          [
+            "Au niveau rétro-malléolaire, les ruptures du tendon du long fibulaire sont souvent associées à des ruptures du court fibulaire. Par opposition, les ruptures isolées du long fibulaire sont majoritairement situées au niveau de l'avant-pied, au milieu de celui-ci<a href='#ref12' class='reference'>[12]</a>.",
+            "Plus souvent qu'autrement, les ruptures traumatiques sont associées à des événements tels qu'une fracture du calcanéum ou à un écrasement direct, par exemple lors d'activités sportives. Les ruptures chroniques, quant à elles, sont généralement reliées à un tubercule des péroniers ou à un os cuboïde hypertrophique, lesquels contribuent à un processus dégénératif<a href='#ref12' class='reference'>[12]</a>."
+          ]
+        ]
+      },
+      {
+        "subtitle": "Instabilité / Luxation",
+        "text": [
+          "Le déplacement chronique (ou sub-/luxation) des tendons fibulaires hors du sillon rétro-malléolaire est une condition assez peu commune, mais que certains auteurs croient sous-diagnostiquée<a href='#ref8' class='reference'>[8]</a>. Chez ces sujets, les tendons, qui devraient être maintenus en postérieur de la malléole latérale, subissent un déplacement latéral (relatif à leur position initiale). Elle est généralement rencontrée chez des sujets avec des blessures (p.ex.: entorses) répétées aux chevilles<a href='#ref2' class='reference'>[2]</a>, et/ou pratiquant certains sports considérés 'à risque', tels que le ski, le soccer (football), le patin à glace ainsi que le ballet. Ces conditions provoquent ainsi une laxité du rétinaculum fibulaire supérieur (lequel devrait normalement maintenir les tendons fibulaires en place). De plus, de nombreuses variations anatomiques recensées (sillon rétro-malléolaire convexe ou peu profond) peuvent prédisposer aux sub-/luxations des tendons fibulaires (dans ce cas plus souvent bilatérales)<a href='#ref8' class='reference'>[8]</a>.",
+          "L'hyperlaxité du rétinaculum fibulaire supérieure est classiquement causée par un mouvement soudain, vigoureux et forcé en flexion dorsale et en éversion du pied. L'instabilité des tendons fibulaires peut être classifiée (types I, II, III ou IV) selon les fibres du rétinaculum qui sont atteinte, le degré de sévérité de cette atteinte, la présence ou non d'avulsion de fragments, etc<a href='#ref2' class='reference'>[2]</a>.",
+          "Cliniquement, la palpation des tendons fibulaires en latéral du sillon rétro-malléolaire suffit au diagnostic, mais suite à un événement traumatique récent, l'examen clinique peut être compliqué par la douleur lors de la mobilisation ainsi que par un oedème diffus<a href='#ref12' class='reference'>[12]</a>.",
+          "Le traitement conservateur repose classiquement sur un maintien des tendons fibulaires au sein du sillon rétro-malléolaire (p.ex.: en évitant certains mouvements) dans le but de laisser les processus cicatriciels prendre place au sein du rétinaculum fibulaire supérieur<a href='#ref8' class='reference'>[8]</a>."
+        ]
+      },
+      {
+        "subtitle": "Présence de muscles accessoires",
+        "text": [
+          "Les muscles accessoires fibulaires sont un groupe de muscles qui peuvent être retrouvés au niveau de l'aspect latéral de la cheville. Ceux-ci peuvent posséder des origines et insertions très variées, ce qui explique la terminologie et la classification de ces muscles peut potentiellement porter à confusion<a href='#ref12' class='reference'>[12]</a>.",
+          "Le muscle accessoire le plus fréquent, selon des études effectuées sur cadavre<a href='#ref4' class='reference'>[4]</a><a href='#ref11' class='reference'>[11]</a>, est le quatrième fibulaire/péronier ('peroneus quartus'), dont la prévalence varie entre 12% et 22% des sujets de l'étude. Ce muscle prend origine à la portion latérale de la fibula distale, descend en postéro-médial des long et court fibulaires, et possède un site d'insertion variable. Parmi les sites d'insertion possibles, on retrouve le calcanéum, le 5e métatarsien, la 5e phalange proximale, le rétinaculum fibulaire ou le cuboïde.",
+          "La plupart du temps, ce muscle est asymptomatique, mais peut parfois causer un encombrement du sillon (espace) rétro-malléolaire, et être ainsi un facteur prédisposant à des luxations et ruptures du tendon du court fibulaire<a href='#ref12' class='reference'>[12]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Ligament talo-fibulaire antérieur",
+          "link": "/protocoles/cheville-pied/ligament-talo-fibulaire-anterieur/"
+        },
+        {
+          "linkTitle": "Canal tarsien",
+          "link": "/protocoles/cheville-pied/canal-tarsien/"
+        },
+        {
+          "linkTitle": "Tibial antérieur",
+          "link": "/protocoles/cheville-pied/tibial-anterieur/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angelo Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. 'Musculoskeletal Ultrasound Technical Guidelines (VI. Ankle).' Eureopean Society of Muscloskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Brandes, Clayton B., and Ronald W. Smith. 'Characterization of Patients with Primary Peroneus Longus Tendinopathy: A Review of Twenty-Two Cases.' Foot & Ankle International 21, no. 6 (June 1, 2000): 462–68. doi:10.1177/107110070002100602."
+        },
+        {
+          "text": "Cheung, Yvonne, and Zehava Sadka Rosenberg. 'MR Imaging of the Accessory Muscles around the Ankle.' Magnetic Resonance Imaging Clinics of North America 9, no. 3 (August 2001): 465–73, x."
+        },
+        {
+          "text": "Grant, Thomas H., Armen S. Kelikian, Sean E. Jereb, and Robert J. McCarthy. 'Ultrasound Diagnosis of Peroneal Tendon Tears.' The Journal of Bone & Joint Surgery 87, no. 8 (August 1, 2005): 1788–94. doi:10.2106/JBJS.D.02450."
+        },
+        {
+          "text": "Fessell, D P, G M Vanderschueren, J A Jacobson, R Y Ceulemans, A Prasad, J G Craig, J A Bouffard, K K Shirazi, and M T van Holsbeeck. 'US of the Ankle: Technique, Anatomy, and Diagnosis of Pathologic Conditions.' RadioGraphics 18, no. 2 (March 1, 1998): 325–40. doi:10.1148/radiographics.18.2.9536481."
+        },
+        {
+          "text": "Krause, John O., and James W. Brodsky. 'Peroneus Brevis Tendon Tears: Pathophysiology, Surgical Reconstruction, and Clinical Results.' Foot & Ankle International 19, no. 5 (May 1, 1998): 271–79. doi:10.1177/107110079801900502."
+        },
+        {
+          "text": "McLennan, Jon G. 'Treatment of Acute and Chronic Luxations of the Peroneal Tendons.' The American Journal of Sports Medicine 8, no. 6 (December 1, 1980): 432–36. doi:10.1177/036354658000800609."
+        },
+        {
+          "text": "Patel, Smita, David P. Fessell, Jon A. Jacobson, Curtis W. Hayes, and Marnix T. van Holsbeeck. 'Artifacts, Anatomic Variants, and Pitfalls in Sonography of the Foot and Ankle.' American Journal of Roentgenology 178, no. 5 (May 1, 2002): 1247–54. doi:10.2214/ajr.178.5.1781247."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Pratical [sic] Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Sobel, Mark, Matthew E. Levy, and Walther H. O. Bohne. 'Congenital Variations of the Peroneus Quartus Muscle: An Anatomic Study.' Foot & Ankle International 11, no. 2 (October 1, 1990): 81–89. doi:10.1177/107110079001100204."
+        },
+        {
+          "text": "Wang, Xiao-Tian, Zehava Sadka Rosenberg, Michael B. Mechlin, and Mark E. Schweitzer. 'Normal Variants and Diseases of the Peroneal Tendons and Superior Peroneal Retinaculum: MR Imaging Features.' RadioGraphics 25, no. 3 (May 2005): 587–602. doi:10.1148/rg.253045123."
+        }
+      ]
+    }
+  }
+}

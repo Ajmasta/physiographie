@@ -1,0 +1,235 @@
+{
+  "title": "Bandelette ilio-tibiale",
+  "latinName": "Tractus iliotibialis",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Attaches", "header": true, "rowspan": 2 },
+          {
+            "data": "En proximal : Muscles tenseur du fascia lata, grand fessier, ligne âpre (via septum intramusculaire)"
+          }
+        ],
+        [
+          {
+            "data": "En distal : Bord latéral de la patella, rétinaculum patellaire latéral, tubercule de Gerdy (tibia)"
+          }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Mesure", "header": true },
+          { "data": "Plan", "header": true },
+          { "data": "Autre info.", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [
+          { "data": "Bandelette ilio-tibiale", "rowspan": 9 },
+          { "data": "Longueur (mm)" },
+          { "data": "Grand trochanter ad tubercule de Gerdy" },
+          { "data": "N/A", "rowspan": 3 },
+          {
+            "data": "442 ± 17,8 (411 - 468) <a href='#ref10' class='reference'>[10]</a>"
+          }
+        ],
+        [
+          { "data": "Largeur (mm)" },
+          { "data": "Épicondyle latéral" },
+          {
+            "data": "37 ± 8,9 (23 - 51)  <a href='#ref10' class='reference'>[10]</a>"
+          }
+        ],
+        [
+          {
+            "data": "Distance entre BIT et bord postérieur de l'épicondyle lat. (mm)"
+          },
+          { "data": "N/A" },
+          {
+            "data": "2,5 ± 4,2 ([-4] - 9)  <a href='#ref10' class='reference'>[10]</a>"
+          }
+        ],
+        [
+          { "data": "Épaisseur (mm)", "rowspan": 6 },
+          { "data": "Condyle fémoral latéral", "rowspan": 3 },
+          { "data": "MIG" },
+          { "data": "(1,3 - 2,6)  <a href='#ref4' class='reference'>[4]</a>" }
+        ],
+        [
+          { "data": "MID" },
+          { "data": "(1,3 - 2,5) <a href='#ref4' class='reference'>[4]</a>" }
+        ],
+        [
+          { "data": "Moyenne" },
+          { "data": "1,95 ± 0,3 <a href='#ref4' class='reference'>[4]</a>" }
+        ],
+        [
+          { "data": "Condyle tibial latéral", "rowspan": 3 },
+          { "data": "MIG" },
+          { "data": "(2,0 - 4,5) <a href='#ref4' class='reference'>[4]</a>" }
+        ],
+        [
+          { "data": "MID" },
+          { "data": "(2,3 - 4,8) <a href='#ref4' class='reference'>[4]</a>" }
+        ],
+        [
+          { "data": "Moyenne" },
+          { "data": "3,4 ± 0,5 <a href='#ref4' class='reference'>[4]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Décubitus dorsal, membre inférieur en légère rotation interne, avec le genou maintenu à environ 20-30° de flexion<a href='#ref1' class='reference'>[1]</a>"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer et palper l'épicondyle latéral fémoral et le plateau tibial externe"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/bandeletteIlioTibiale/vueLongitudinale/",
+        "objectifs": ["Examen de la bandelette ilio-tibiale"],
+        "parametres": ["Profondeur : 2 cm", "Gain : 70", "G/3/3"],
+        "positionnement": [
+          "En vue longitudinale (parallèle au long axe du fémur), placer l'extrémité distale (caudale) de la sonde sur le tubercule de Gerdy",
+          "Aligner l'extrémité proximale (crâniale) de manière à ce que la sonde ait une orientation parallèle au long axe de la diaphyse fémorale",
+          "Pour s'assurer que la sonde est bien positionnée au-dessus de la BIT, garder en tête que celle-ci se trouve tout juste entre le tiers antérieur et le tiers moyen de la cuisse<a href='#ref8' class='reference'>[8]</a>"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["F"],
+                "texte": [
+                  "Le fémur apparaît à la portion gauche de l'image comme une zone arrondie aux marges hyperéchoïques"
+                ]
+              },
+              {
+                "acronymes": ["T"],
+                "texte": [
+                  "Le tibia occupe toute la portion centrale et droite de l'image. Sa surface prend une apparence hyperéchoïque en raison de son os cortical qui réfléchit fortement le faisceau d'ultrasons."
+                ]
+              },
+              {
+                "acronymes": ["BIT"],
+                "texte": [
+                  "La bandelette ilio-tibiale apparaît dans la moitié supérieure de l'image, et peut être décrite comme une épaisse bande fibreuse avec une échotexture fibrillaire aisément visible"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Fémur" },
+              { "path": "identification3.jpg", "descriptionText": "Tibia" },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Bandelette ilio-tibiale"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "La bandelette ilio-tibiale [BIT], aussi connue sous le nom de 'tractus ilio-tibial' ou 'bandelette de Maissiat', est renforcement (ou un 'épaississement') fibreux du muscle tenseur du fascia lata [TFL]. En proximal, il se sépare en deux couches (profonde et superficielle) qui renferment le TFL et jouent le rôle d'ancrage à la crête iliaque. Deplus, il est à noter que le muscle grand fessier vient s'insérer en grande partie sur la BIT<a href='#ref2' class='reference'>[2]</a>. La BIT est exempte d'attache osseuse exclusivement dans sa portion qui s'étend entre l'épicondyle latéral et le tubercule de Gerdy<a href='#ref3' class='reference'>[3]</a>.",
+          "Dans sa portion plus distale, la BIT passe en superficie du condyle fémoral latéral pour aller s'insérer au niveau du tubercule de Gerdy, un relief osseux de l'aspect antéro-latéral du tibia proximal. La BIT est ancrée au tibia distal par des bandes fibreuses qui, elles, sont étroitement associées à du tissu adipeux densément innervé et vascularisé. En temps normal (chez un sujet sain), ces bandes fibreuses préviennent le 'roulement' antérieur de la BIT au-dessus de l'épicondyle<a href='#ref2' class='reference'>[2]</a>.",
+          "Lors de la flexion du genou, le tibia effectue une rotation interne 'automatique', ce qui comprime la BIT contre la surface de l'épicondyle latéral<a href='#ref2' class='reference'>[2]</a>. Le TFL (et la BIT, par le fait même) est fléchisseur, abducteur et rotateur externe de hanche, en plus d'être un rotateur externe du tibia sur le fémur."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Syndrome (de frottement/friction) de la bandelette ilio-tibiale",
+        "text": [
+          "Le syndrome de la bandelette ilio-tibiale [SBIT] (ou syndrome de frottement/friction de la BIT, ou 'iliotibial band friction syndrome') est la cause la plus fréquente de douleur à l'aspect latéral du genou. De plus, cette condition est une des plus fréquentes chez les adeptes de course à pied, soit jusqu'à 12% de toutes les conditions de sur-utilisations associées à la course<a href='#ref2' class='reference'>[2]</a>. Généralement, les sujets rapportent une douleur lors de la flexion du genou, qui tend à être maximale à un angle de 30°<a href='#ref3' class='reference'>[3]</a>. La présentation clinique inclut de la douleur/sensibilité lors de la palpation de l'aspect latéral du genou et, tel que mentionné, une douleur qui augmente avec l'augmentation de tension dans la BIT.",
+          "Selon la définition 'classique', le SBIT est une condition de sur-utilisation ('overuse injury') caractérisée par un glissement, roulement ou frottement excessif de la bandelette ilio-tibiale sur l'épicondyle latéral fémoral<a href='#ref3' class='reference'>[3]</a>. Ce mécanisme serait causé par un mouvement antérieur et postérieur de la BIT lors de l'extension et de la flexion du genou, respectivement. De plus, une bourse située entre la BIT et l'épicondyle latéral est parfois impliquée dans la symptomatologie, et la présence de liquide au sein de cette dernière peut contribuer à un 'épaississement' de la BIT<a href='#ref1' class='reference'>[1]</a>.",
+          "Une définition alternative du SBIT a été proposée aux terme d'une étude effectuée en 2006<a href='#ref2' class='reference'>[2]</a>: la blessure ne serait pas causée par une friction de la BIT sur l'épicondyle latéral, mais plutôt par une compression d'un tissus adipeux richement innervée et vascularisé qui serait situé entre la BIT et l'épicondyle (voir la section Anatomie ci-haut). Cette hypothèse est supportée par le fait que la BIT est maintenue en place sur la diaphyse fémorale par de solides bandes de tissu fibreux d'orientation oblique, ce qui préviendrait tout 'roulement' antéro-postérieur de la BIT lors des mouvements de flexion-extension du genou.,",
+          "Les 'facteurs de risque', ou 'facteurs facilitants' qui ont été identifiés sont les suivants : volume important (excessif) de course sur piste dans la même direction, augmentation de la distance hebdomadaire de course à pied ainsi que la pratique de course à pied sur une pente descendante<a href='#ref3' class='reference'>[3]</a>. Lors de la pratique de course à pied sur pente descendante, il a été proposé que la réduction de l'angle de flexion du genou lors de chacune des foulées, ce qui prolongerait le temps total de friction entre la BIT et les structures sous-jacentes. Par opposition, la course de type 'sprint' sans dénivelé serait moins à risque d'engendrer de telles problématiques, puisque le genou fléchit alors à des angles dépassant la zone 'critique'<a href='#ref1' class='reference'>[1]</a>.",
+          "En présence d'un sujet où un SBIT est suspecté, l'imagerie par ultrasonographie est reconnue comme étant une technique valable, capable de mettre en évidence des signes pathologiques pertinents. Selon un consensus établi par la société européenne de radiologie musculosquelettique ('European Society of Musculoskeletal Radiology'), l'échographie musculosquelettique est équivalente à d'autre techniques (dont l'imagerie par résonnance magnétique), en raison d'un niveau d'évidence '2' (selon l'échelle du 'Oxford Centre for Evidence-Based Medicine'), qui signifie que l'échographie est une équivalente à d'autre techniques d'imagerie, et que d'autres techniques peuvent apporter d'autres informations significatives. Finalement, il faut préciser que la majorité de la littérature repose sur des études de cas, ou sur des extrapolations d'études rétrospectives (cote 'C' pour la méthodologie)<a href='#ref7' class='reference'>[7]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Ligament collatéral externe",
+          "link": "/protocoles/cuisse-genou/ligament-collateral-externe/"
+        },
+        {
+          "linkTitle": "Creux poplité",
+          "link": "/protocoles/cuisse-genou/creux-poplite/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Fairclough, John, Koji Hayashi, Hechmi Toumi, Kathleen Lyons, Graeme Bydder, Nicola Phillips, Thomas M. Best, and Mike Benjamin. 'The Functional Anatomy of the Iliotibial Band during Flexion and Extension of the Knee: Implications for Understanding Iliotibial Band Syndrome.' Journal of Anatomy 208, no. 3 (March 1, 2006): 309–16. doi:10.1111/j.1469-7580.2006.00531.x."
+        },
+        {
+          "text": "Fredericson, Dr Michael, and Chuck Wolf. 'Iliotibial Band Syndrome in Runners.' Sports Medicine 35, no. 5 (September 23, 2012): 451–59. doi:10.2165/00007256-200535050-00006."
+        },
+        {
+          "text": "Goh, Lesley-Ann, Rethy K. Chhem, Shih-chang Wang, and Thomas Chee. 'Iliotibial Band Thickness: Sonographic Measurements in Asymptomatic Volunteers.' Journal of Clinical Ultrasound: JCU 31, no. 5 (June 2003): 239–44. doi:10.1002/jcu.10168."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Johnson, Donald Hugh, and Robert A. Pedowitz. Practical Orthopaedic Sports Medicine and Arthroscopy. Lippincott Williams & Wilkins, 2007."
+        },
+        {
+          "text": "Klauser, Andrea S., Alberto Tagliafico, Gina M. Allen, Natalie Boutry, Rob Campbell, Michel Court-Payen, Andrew Grainger, et al. 'Clinical Indications for Musculoskeletal Ultrasound: A Delphi-Based Consensus Paper of the European Society of Musculoskeletal Radiology.' European Radiology 22, no. 5 (May 2012): 1140–48. doi:10.1007/s00330-011-2356-3."
+        },
+        {
+          "text": "Martinoli, Carlo. 'Musculoskeletal Ultrasound: Technical Guidelines.' Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Messier, S. P., D. G. Edwards, D. F. Martin, R. B. Lowery, D. W. Cannon, M. K. James, W. W. Curl, H. M. Read, and D. M. Hunter. 'Etiology of Iliotibial Band Friction Syndrome in Distance Runners.' Medicine and Science in Sports and Exercise 27, no. 7 (July 1995): 951–60."
+        },
+        {
+          "text": "Orchard, John W., Peter A. Fricker, Anna T. Abud, and Bruce R. Mason. 'Biomechanics of Iliotibial Band Friction Syndrome in Runners.' The American Journal of Sports Medicine 24, no. 3 (June 1, 1996): 375–79. doi:10.1177/036354659602400321."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Pratical [sic] Guide. Milan; New York: Springer Milan, 2012."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "title": "Incisures scapulaires   &   labrum postérieur",
+  "latinName": "",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "" },
+          { "data": "Incisure suprascapulaire", "header": true },
+          { "data": "Incisure spinoglénoïde", "header": true }
+        ],
+        [
+          { "data": "Localisation", "header": true },
+          { "data": "Bord supérieur, face antérieure de la scapula" },
+          {
+            "data": "Intersection de l'épine scapulaire et du bord postérieur de la cavité glénoïde"
+          }
+        ],
+        [
+          { "data": "Nom alternatif", "header": true },
+          { "data": "Incisure scapulaire" },
+          { "data": "Grande échancrure scapulaire" }
+        ],
+        [
+          { "data": "Structures qui la traversent", "header": true },
+          {
+            "data": "Nerf suprascapulaire, artère suprascapulaire (hors du foramen)"
+          },
+          { "data": "Nerf suprascapulaire, artère suprascapulaire" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          {
+            "data": "Aucune Valeur normative n'est disponible pour cette capsule",
+            "header": true
+          }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Assis avec l'épaule découverte",
+          "Épaule :",
+          [
+            "Adduction complète",
+            "Rotation interne",
+            "Neutre de flexion - extension"
+          ],
+          "Coude :",
+          "Fléchi de manière à pouvoir placer la main sur l'épaule controlatérale"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "On peut avoir accès au labrum glénoïdal postérieur en repérant l’aspect postérieur de l’articulation glénohumérale, en visualisant bien l’angle de la surface articulaire glénoïdale",
+          "Cette surface possède une orientation près de la verticale, mais est en fait orientée du haut vers le bas, légèrement de l’extérieur vers l'intérieur"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/incisuresScapulaires/vueTransversale/",
+        "objectifs": [
+          "Observation du nerf suprascapulaire",
+          "Observation des incisures suprascaulaire & spinoglénoïde"
+        ],
+        "parametres": ["Profondeur : 5 cm", "Gain : 80-85", "G/3/2"],
+        "positionnement": [
+          "Approche ressemblant à celle utilisée pour l’examen du sous-épineux et du petit rond",
+          [
+            "Placer la sonde en vue transversale sur l’épine scapulaire (par rapport aux fibres du sous-épineux), tout juste en latéral du centre de celle-ci",
+            "Afin de mieux repérer et identifier les structures, balayer lentement de haut en bas pour observer et différencier l’épine scapulaire, le trapèze, le sus-épineux et le sous-épineux",
+            "Une fois ces structures identifiées, déplacer la sonde en latéral, jusqu’à l’articulation glénohumérale",
+            "Tourner la sonde de 90° afin de l’aligner avec le long axe du tendon du sous-épineux (qui devrait être visible)"
+          ],
+          "Approche directe",
+          [
+            "La sonde doit être placée sur la face postérieure de l’articulation glénohumérale, orientée initialement dans un axe horizontal",
+            "Tourner lentement la sonde de manière à voir l’ensemble des tendons (ci-dessous) dans leur ensemble"
+          ]
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Position de la sonde, vue transversale (face)"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Position de la sonde, vue transversale (dos)"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["DP"],
+                "texte": [
+                  "Le deltoïde postérieur, couche hypoéchoique située en surface, se trouve au haut de l’image"
+                ]
+              },
+              {
+                "acronymes": ["SOE"],
+                "texte": [
+                  "Le sous-épineux se trouve tout juste sous le deltoïde postérieur, dans le tiers supérieur de l’image"
+                ]
+              },
+              {
+                "acronymes": ["PR"],
+                "texte": [
+                  "Le petit rond, qui est séparé du sous-épineux par un fascia hyperéchoïque, laisse paraître une partie de son ventre musculaire à la gauche et au centre de l’image, alors que son tendon disparaît à la droite de l’image"
+                ]
+              },
+              {
+                "acronymes": ["L"],
+                "texte": [
+                  "Le labrum glénoïdal postérieur apparaît comme un triangle hyperéchoïque situé près du centre de l’image"
+                ]
+              },
+              {
+                "acronymes": ["TH"],
+                "texte": [
+                  "La tête humérale, zone hypoéchoïque circulaire, se trouve au bas et à droite de l’image, à la droite du labrum"
+                ]
+              },
+              {
+                "acronymes": ["GES"],
+                "texte": [
+                  "La grande échancrure scapulaire (incisure spino-glénoïdale) se trouve à la portion inférieure de gauche de l’image. Sa surface (os cortical) apparaît comme une zone hyperéchoïque sinueuse, sous laquelle se trouve une épaisse zone d’ombre"
+                ]
+              },
+              {
+                "acronymes": ["NSS"],
+                "texte": [
+                  "Le nerf suprascapulaire, à son passage dans la grande échancrure scapulaire, apparaît tout juste au creux de celle-ci. On reconnaît ici une zone circulaire/ovale aux marges hyperéchoïques"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              {
+                "path": "identification1.jpg"
+              },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Deltoïde postérieur"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": " Sous-épineux"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Petit rond"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Labrum"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Tête humérale"
+              },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Grande échancrure scapulaire"
+              },
+              {
+                "path": "identification8.jpg",
+                "descriptionText": "Nerf suprascapulaire"
+              },
+              {
+                "path": "identification9.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "L’incisure supra-scapulaire ('suprascapular notch'), marquée en bleu dans l'animation ci-contre, est un relief de la scapula situé à l’aspect latéral du bord supérieur de celle-ci, tout juste adjacent au processus coracoïde <a href='#ref2' class='reference'>[2]</a>.",
+          "Cette incisure est transformée en canal ostéofibreux par la présence du ligament transverse scapulaire, d’une manière analogue à la relation entre la coulisse bicipitale et le ligament transverse huméral. Au sein de ce canal, ou foramen, passe le nerf suprascapulaire, qui fournit une innervation motrice aux muscles sus-épineux et sous-épineux en plus de participer à l’innervation sensitive plusieurs autres muscles et ligaments de la région de la coiffe des rotateurs <a href='#ref2' class='reference'>[2]</a>. La littérature attribue une partie de son importance à ce site en raison d’une pathologie à laquelle elle est reliée : la neuropathie du nerf suprascapulaire (suprascapular nerve entrapment neuropathy). Parfois traumatique, cette pathologie se caractérise principalement par une perte de force importante ainsi qu’une douleur vive dans la région de la coiffe des rotateurs. Le coincement du nerf suprascapulaire peut se produire soit au sein du foramen suprascapulaire ou au niveau de la grande échancrure scapulaire (aussi appelée incisure spino-glénoïdale ou 'spinoglenoid notch'), marquée en rouge dans l'animation ci-contre. La grande échancrure spino-glénoïdale est située à l’extrémité latérale de l’épine scapulaire et relie en quelque sorte les fosses sous-épineuse et sus-épineuse.",
+          "Il existe une variabilité anatomique documentée pour l’incisure suprascapulaire (et, incidemment, pour le ligament transverse scapulaire) qui, selon certains auteurs <a href='#ref3' class='reference'>[3]</a><a href='#ref4' class='reference'>[4]</a>, pourrait expliquer la prédisposition apparente de certains individus à contracter ce genre de problématique. On note aussi que les athlètes pratiquant des sports d’impact au-dessus de la tête (volleyball, basketball) semblent être davantage enclins à ce type d’atteinte.",
+          "Le labrum glénoïdal est une structure fibrocartilagineuse dont la facilité d’accès, en ultrasonographie, est variable selon l’approche utilisée. Dans le cadre de l’évaluation de l’incisure suprascapulaire et des structures adjacentes, il est généralement assez simple de visualiser le labrum postérieur, qui coiffe le rebord osseux de la glène <a href='#ref1' class='reference'>[1]</a>. En effet, le labrum postérieur est plus superficiel, tout comme le labrum inférieur, qui est lui aussi accessible. Par opposition, la portion antérieure du labrum glénoïdal est la plus profonde, et l’observation ultrasonographique de la portion supérieure est particulièrement difficile en raison de l’ombrage acoustique causé par l’acromion sus-jacent<a href='#ref1' class='reference'>[1]</a>."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/incisuresScapulaires/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Atteinte du nerf suprascapulaire au niveau de la grande échancrure scapulaire",
+        "text": [
+          "Si le nerf suprascapulaire subit une compression au sein de la grande échancrure scapulaire, la dénervation subséquente n’affectera que le muscle sous-épineux (épargnant le sus-épineux), où l’ultrasonographie peut être utile afin d’observer l’atrophie par dénervation<a href='#ref1' class='reference'>[1]</a>",
+          "Le nerf suprascapulaire étant un nerf exclusivement moteur, aucune atteinte sensitive n’est présente lors du portrait clinique classique",
+          "Le kyste paralabral est la cause principale d’atteintes du nerf suprascapulaire (Bianchi, 309). Celui-ci peut être visualisé lors d’une échographie musculosquelettique <a href='#ref1' class='reference'>[1]</a> : il s’agit là d’une accumulation de liquide synovial au sein de lésions labrales"
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Sous-épineux (région scapulaire)",
+          "link": "/protocoles/epaule/sous-epineux-post/"
+        },
+        {
+          "linkTitle": "Sus-épineux (région scapulaire)",
+          "link": "/protocoles/epaule/sus-epineux-post/"
+        },
+        {
+          "linkTitle": "Petit rond & sous-épineux",
+          "link": "/protocoles/epaule/petit-rond-et-sous-epineux/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Ofusori, David A., Raymond A. Ude, Christina U. Okwuonu, and Olamide A. Adesanya. “Complete Absence of the Suprascapular Notch in a Nigerian Scapula: A Possible Cause of Suprascapular Nerve Entrapment.” International Journal of Shoulder Surgery 2, no. 4 (2008): 85–86. doi:10.4103/0973-6042.44146."
+        },
+        {
+          "text": "Sangam, Muralidhar Reddy, and Sattiraju Sri Sarada Devi. “Morphometry of Suprascapular Notch and Its Correlation with that of Scapula.” Journal of Clinical and Diagnostic Research: JCDR 8, no. 4 (April 2014): AM01–02. doi:10.7860/JCDR/2014/7730.4217."
+        },
+        {
+          "text": "Rengachary, S. S., J. P. Neff, P. A. Singer, and C. E. Brackett. “Suprascapular Entrapment Neuropathy: A Clinical, Anatomical, and Comparative Study. Part 1: Clinical Study.” Neurosurgery 5, no. 4 (October 1979): 441–46."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "title": "Sous-scapulaire",
+  "latinName": "Subscapularis",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Type de muscle", "header": true },
+          { "data": "Mono-articulaire, multipenné" }
+        ],
+        [
+          { "data": "Origine", "header": true },
+          { "data": "Fosse sous-scapulaire(scapula)" }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          { "data": "Petite tubérosité (humérus)" }
+        ],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Nerfs sous-scapulaire supérieur et inférieur (C5-C6)" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Mesure", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plan", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [
+          { "data": "Épaisseur (mm)", "rowspan": 2 },
+          { "data": "Tendon du sous-scapulaire", "rowspan": 2 },
+          { "data": "Plan transverse" },
+          { "data": "5,07 ± 0,97 <a href='#ref4' class='reference'>[4]</a>" }
+        ],
+        [
+          { "data": "Plan longitudinal" },
+          { "data": "4,67 ± 0,87 <a href='#ref4' class='reference'>[4]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Assis avec l'épaule découverte",
+          "Épaule :",
+          [
+            "Neutre de flexion – abduction (important de garder le coude déposé sur la crête iliaque)<a href='#ref5' class='reference'>[5]</a><a href='#ref6' class='reference'>[6]</a>",
+            "Débuter en neutre de rotation interne/externe"
+          ],
+          "Coude",
+          [
+            "90° de flexion",
+            "Légère supination (peut aider à éviter la tendance naturelle à l'élévation/abduction de l'épaule)"
+          ]
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer le sillon intertuberculaire (voir la capsule sur le <a 'underline' href='/protocoles/bicepsBrachial'> biceps brachial </a> pour en savoir davantage)",
+          "Une fois la coulisse bicipitale identifiée, positionner l'épaule en rotation externe, tout en s'assurant de ne pas induire de flexion/abduction (garder le coude collé au thorax)"
+        ]
+      }
+    ],
+    "applicationDynamique": {
+      "title": "Application Dynamique",
+      "iframe": "<iframe width=\"395\" height=\"296\" src=\"https://www.youtube.com/embed/BKlTAhaCsrs\" title=\"Échographie dynamique du sous-scapulaire (vue longitudinale)\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/SousScapulaire/vueLongitudinale/",
+        "objectifs": ["Examen du tendon du sous-scapulaire"],
+        "parametres": ["Profondeur : 3-4 cm", "Gain : 70-75", "D/4/2"],
+        "positionnement": [
+          "Placer la sonde en vue longitudinale au niveau du sillon intertuberculaire",
+          "Balayer la sonde de haut en bas afin de couvrir l'ensemble de la superficie du sous-scapulaire et de son tendon (puisque ces structures couvrent une superficie supérieure à la largeur du transducteur)  <a href='#ref1' class='reference'>[1]</a> <a href='#ref5' class='reference'>[5]</a>"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "imagePositionnement1.jpg",
+            "descriptionText": "Position de la sonde, vue longitudinale (face)"
+          },
+          {
+            "path": "imagePositionnement2.jpg",
+            "descriptionText": "Position de la sonde, vue longitudinale (dos)"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["TH"],
+                "texte": [
+                  "La tête humérale, grande zone <a 'underline' href='/theorie/terminologie'>hypoéchoïque </a> circulaire, apparaît à la droite de l'image"
+                ]
+              },
+              {
+                "acronymes": ["DA"],
+                "texte": [
+                  "Le deltoïde antérieur, épaisse couche légèrement  <a class='underline' href='/theorie/terminologie'> hyperéchoïque  </a> par rapport à la tête humérale, est visible à la portion supérieure de limage"
+                ]
+              },
+              {
+                "acronymes": ["PC"],
+                "texte": [
+                  "Le processus coracoïde, un relief de la scapula, est situé à la gauche de l'image. On peut aussi voir une zone d'ombre (<a class='underline' href='/theorie/terminologie'>  artéfact </a>) sous cette structure."
+                ]
+              },
+              {
+                "acronymes": ["SS"],
+                "texte": [
+                  "Le tendon du sous-scapulaire peut être observé entre le deltoïde antérieur et la tête humérale et présente une <a class='underline' href='/theorie/terminologie'> échogénicité </a> similaire à celle du muscle mais avec une <a class='underline' href='/theorie/terminologie'> échotexture </a> plus lisse et homogène."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "vueLongitudinale1.jpg", "descriptionText": "" },
+              {
+                "path": "vueLongitudinale2.jpg",
+                "descriptionText": "Tête humérale"
+              },
+              {
+                "path": "vueLongitudinale3.jpg",
+                "descriptionText": "Deltoïde antérieur"
+              },
+              {
+                "path": "vueLongitudinale4.jpg",
+                "descriptionText": "Processus coracoïde"
+              },
+              {
+                "path": "vueLongitudinale5.jpg",
+                "descriptionText": "Tendon du sous-scapulaire"
+              },
+              { "path": "vueLongitudinale6.jpg", "descriptionText": "" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/SousScapulaire/vueTransversale/",
+        "objectifs": [
+          "Observer la structure multipennée du muscle sous-scapulaire"
+        ],
+        "parametres": ["Profondeur : 3-4 cm", "Gain : 70-74", "F/1/3"],
+        "positionnement": [
+          "Tourner la sonde de 90° par rapport à la vue longitudinale"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "imagePositionnement1.jpg",
+            "descriptionText": "Position de la sonde, vue transversale  (face)"
+          },
+          {
+            "path": "imagePositionnement2.jpg",
+            "descriptionText": "Position de la sonde, vue transversale  (dos)"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["D"],
+                "texte": [
+                  "Le grand pectoral, épaisse couche hypoéchoïque, apparaît au haut de l'image"
+                ]
+              },
+              {
+                "acronymes": ["SS"],
+                "texte": [
+                  "Le sous-scapulaire peut être observé sous le deltoïde sous la forme d'une structure hyperéchoïque qui épouse le relief de la petite tubérosité"
+                ]
+              },
+              {
+                "acronymes": ["PT"],
+                "texte": [
+                  "La petite tubérosité apparaît au bas de l'image sous la forme d'une zone en plateau aux marges hyperéchoïques, sous le muscle sous-scapulaire"
+                ]
+              },
+              {
+                "acronymes": ["F"],
+                "texte": [
+                  "Les fascicules présents dans le sous-scapulaire, qui réfèrent à sa structure multipennée, sont visibles au sein du ventre du sous-scapulaire. Ceux-ci prennent la forme d'une alternance de fascicules hyper- et hypoéchoïques, qui sont respectivement des fascicules tendineux et musculaires"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              {
+                "path": "vueTransversale1.jpg"
+              },
+              {
+                "path": "vueTransversale2.jpg",
+                "descriptionText": "Deltoïde"
+              },
+              {
+                "path": "vueTransversale3.jpg",
+                "descriptionText": "Sous-scapulaire"
+              },
+              {
+                "path": "vueTransversale4.jpg",
+                "descriptionText": "Petite tubérosité"
+              },
+              {
+                "path": "vueTransversale5.jpg",
+                "descriptionText": "Fascicules (structure multipenné)"
+              },
+              {
+                "path": "vueTransversale6.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Le muscle sous-scapulaire est principalement situé à la face antérieure de l'épaule.  Il est l'un des quatre muscles composant la coiffe des rotateurs, avec le sus-épineux (face supérieure), le sous-épineux et le petit rond (tous deux à l'aspect postérieur).  Le sous-scapulaire prend naissance au sein de la face antérieure de la scapula, qui est d'ailleurs nommée fosse sous-scapulaire en référence à l'origine de ce dernier.  Le sous-scapulaire est composé de deux à trois ventre musculaires, ou chefs, qui s'unissent pour former le tendon sous-scapulaire et s'insérer distalement au niveau de la petite tubérosité humérale.",
+          "En raison de la localisation plus profonde de son ventre musculaire, il est le seul des quatre muscles constituants de la coiffe des rotateurs qui ne peut être palpé, du moins facilement et/ou efficacement.  Dans le cadre d'une évaluation ultrasonographique, il est effectivement nécessaire de positionner l'épaule en rotation externe avant de afin de pouvoir évaluer le tendon proximal du sous-scapulaire.  Cette approche permet d'étirer le sous-scapulaire et d'ainsi le dégager du processus coracoïde, qui le recouvre normalement partiellement.  On peut donc bénéficier d'un accès plus superficiel à ce muscle qui, d'ordinaire, est relativement enfoui sous divers obstacles au faisceau d'ultrasons. De par l'axe formé par ses tendons, le muscle sous-scapulaire est un puissant rotateur interne ainsi qu'un adducteur de l'articulation gléno-humérale."
+        ]
+      }
+    ],
+    "images": [{ "path": "description1.gif" }],
+    "source": "/Protocols/SousScapulaire/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Rupture isolée du tendon du sous-scapulaire",
+        "text": [
+          "Les ruptures isolées du tendon du sous-scapulaire (c.-à-d. en l'absence de d'autres ruptures tendineuses) sont rares. Lorsqu'elles surviennent, elles sont surtout situées au niveau de l'insertion, sur la petite tubérosité  <a href='#ref1' class='reference'>[1]</a>.",
+          "Une rétraction significative du tendon suite à une rupture complète est assez commune. Celle-ci devient encore plus évidente lorsque l'épaule est placée en rotation externe  <a href='#ref2' class='reference'>[2]</a>",
+          "Lors de l'examen du sous-scapulaire en vue transversale, il est important de ne pas confondre la structure multipennée (alternance de zones hypo- et hyperéchoïques) avec une rupture <a href='#ref1' class='reference'>[1]</a>"
+        ]
+      },
+      {
+        "subtitle": "Avulsion du tendon du sous-scapulaire",
+        "text": [
+          "Si un fragment d'os s'est détaché, celui-ci apparaîtra hyperéchoïque et sera normalement adjacent à une zone d'ombre (acoustic shadowing) <a href='#ref2' class='reference'>[2]</a>"
+        ]
+      },
+      {
+        "subtitle": "Atteintes associées aux ruptures du tendon du sous-scapulaire",
+        "text": [
+          "Les ruptures complètes du tendon du sous-scapulaire sont fréquemment accompagnées de luxation du tendon du long biceps, qui vient alors se positionner au sein de l'articulation gléno-humérale",
+          "Quand la rupture du tendon du sous-scapulaire est partielle et localisée davantage aux fibres crâniales (supérieures), on peut également rencontrer des ruptures de la portion antérieure du tendon du sus-épineux (pouvant aller jusqu'à une rupture de la coiffe dans toute son épaisseur) <a href='#ref2' class='reference'>[2]</a>.",
+          [
+            "Dans ce cas, le tendon du long biceps aurait plutôt tendance à se déplacer au-dessus de la petite tubérosité (par opposition à la rupture complète du sous-scapulaire"
+          ]
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Intervalle des rotateurs",
+          "link": "/protocoles/intervalle-des-rotateurs"
+        },
+        {
+          "linkTitle": "Sus-épineux (région antéro-latérale)",
+          "link": "/protocoles/sus-epineux"
+        },
+        {
+          "linkTitle": "Articulation acromio-claviculaire",
+          "link": "/protocoles/articulation-acromio-claviculaire"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Jacobson, Jon A. “Shoulder US: Anatomy, Technique, and Scanning Pitfalls.” Radiology 260, no. 1 (July 1, 2011): 6–16. doi:10.1148/radiol.11101082."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Yu, Tung-Yang, Wen-Chung Tsai, Ju-Wen Cheng, Yun-Ming Yang, Fang-Chen Liang, and Chien-Hung Chen. “The Effects of Aging on Quantitative Sonographic Features of Rotator Cuff Tendons.” Journal of Clinical Ultrasound: JCU 40, no. 8 (October 2012): 471–78. doi:10.1002/jcu.21919."
+        },
+        {
+          "text": "Martinoli, Carlo. “Musculoskeletal Ultrasound: Technical Guidelines.” Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Pratical [sic] Guide. Milan; New York: Springer Milan, 2012."
+        }
+      ]
+    }
+  }
+}

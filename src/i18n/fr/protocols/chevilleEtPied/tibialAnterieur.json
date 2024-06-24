@@ -1,0 +1,317 @@
+{
+  "title": "Tibial antérieur",
+  "latinName": "Tibialis anterior",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Origine", "header": true },
+          { "data": "Tibia (moitié supérieure et condyle latéral)" }
+        ],
+        [
+          { "data": "Insertion", "header": true, "rowspan": 2 },
+          { "data": "1e cunéiforme (face médiale)" }
+        ],
+        [{ "data": "Base du premier métatarsien (aspect plantaire)" }],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Nerf fibulaire profond (branche de L5)" }
+        ],
+        [
+          { "data": "Action", "header": true },
+          { "data": "Flexion dorsale et inversion de cheville/pied" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Mesure", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Site de mesure (Plan)", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [
+          { "data": "Épaisseur au repos(mm)" },
+          { "data": "Tibial antérieur (ventre musculaire)", "rowspan": 2 },
+          {
+            "data": "En inférieur de la tubérosité tibiale, parallèle avec la crête tibiale",
+            "rowspan": 2
+          },
+          { "data": "24,6 ± 3,7<a href='#ref5' class='reference'>[5]</a>" }
+        ],
+        [
+          {
+            "data": "Épaisseur lors de contraction à 50% du maximum volontaire (mm)"
+          },
+          { "data": "28,2 ± 1,8<a href='#ref5' class='reference'>[5]</a>" }
+        ],
+        [
+          { "data": "Diamètre transverse (mm)" },
+          { "data": "Tendon du tibial antérieur", "rowspan": 3 },
+          {
+            "data": "Tibia distal, en antérieur (plan transverse)",
+            "rowspan": 2
+          },
+          { "data": "8,2 ± 1,75<a href='#ref10' class='reference'>[10]</a>" }
+        ],
+        [
+          { "data": "Diamètre sagittal (mm)" },
+          { "data": "2,5 ± 0,65<a href='#ref10' class='reference'>[10]</a>" }
+        ],
+        [
+          { "data": "Diamètre transverse (mm)" },
+          { "data": "Directement sous la malléole interne" },
+          { "data": "8,4 ± 2,1<a href='#ref10' class='reference'>[10]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Décubitus dorsal, cheville en légère flexion plantaire, membre inférieur supporté par la table (ne dépassant pas)",
+          "Il est également possible fléchir le genou à 45° avec le pied à plat sur la table, mais cette position ne permet pas de moblisation de la cheville per-échographie"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer et palper la crête tibiale ainsi que le tibial antérieur (muscle et tendon) en demandant au sujet d'exécuter une flexion dorsale et inversion de cheville"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/tibialAnterieur/vueLongitudinale/",
+        "objectifs": ["Évaluer l'intégrité du tendon du tibial antérieur", ""],
+        "parametres": ["Profondeur : 2 cm", "Gain : 80", "G/3/2"],
+        "positionnement": [
+          "[Position 1] Tourner la sonde de 90° par rapport à la vue transversale",
+          "[Position 2] Tout en conservant l'orientation de sonde utilisée au niveau du tibia distal (longitudinal), déplacer la sonde au niveau de l'insertion du premier cuéiforme médial",
+          "Advenant une qualité d'image sub-optimale, il peut être nécessaire d'ajuster l'orientation (rotation) de la sonde afin d'être réellement parallèle au parcours du tendon"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "[Position 1] Vue longitudinale au niveau du tibial distal"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "[Position 2] Vue longitudinale au niveau du premier cunéiforme"
+          }
+        ],
+        "identification": [
+          {
+            "title": "[Position 1 : Au niveau antérieur de la cheville]",
+            "legend": [
+              {
+                "acronymes": ["T"],
+                "texte": [
+                  "Le tibia distal est ici facile à distinguer au niveau des deux tiers gauche de l'image."
+                ]
+              },
+              {
+                "acronymes": ["TA"],
+                "texte": [
+                  "Le tendon du tibial antérieur, longue zone hyperéchoïque à la surface du tibia, arborbe ici une échotexture typiquement tendineuse (structure striée clairement visible, apparence hyperéchoïque)."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Tibia" },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Tibial antérieur"
+              },
+              { "path": "identification4.jpg" }
+            ]
+          },
+          {
+            "title": "[Position 2 : Sonde déplacée en latéral, au-dessus du premier cunnéiforme]",
+            "legend": [
+              {
+                "acronymes": ["C"],
+                "texte": [
+                  "Le cunéiforme possède un relief nettement plus irrégulier ('accidenté') que celui qui a pu être observé au niveau du tibial distal. Néanmoins, celui-ci est tout de même identifiable grâce à son os cortical et en raison de l'insertion du tendon du tibial antérieur bien visible (voir ci-haut)."
+                ]
+              },
+              {
+                "acronymes": ["TA"],
+                "texte": [
+                  "Le tendon du tibial antérieur est clairement visible à la surface du cunéiforme. On peut noter que le tendon semble 'plonger' dans l'os à sa toute fin, ce qui correspond à l'enthèse (point de fixation d'un tendon/ligament à un os)."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification5.jpg" },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Premier cunéiforme"
+              },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Tendon du tibial antérieur"
+              },
+              { "path": "identification8.jpg" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Vue Transversale",
+        "source": "/Protocols/tibialAnterieur/vueTransversale/",
+        "objectifs": [
+          "Évaluation de l'intégrité du tendon du tibial antérieur",
+          "Observer les sites d'insertion (distale) du tibial antérieur"
+        ],
+        "parametres": ["Profondeur : 2 cm", "Gain : 80", "G/3/2"],
+        "positionnement": [
+          "Placer la sonde sur l'aspect antérieur de la cheville, de manière à chevaucher l'espace articulaire tibio-talaire (au niveau de l'extrémité distale du tibia), et orienter la sonde dans l'axe court (transversal, perpendiculaire au long axe) du tendon du muscle tibial antérieur"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["T"],
+                "texte": [
+                  "L'os cortical du tibia apparaît ici comme un large trait hyperéchoïque au centre de l'image. On également peut constater que sous ce trait se trouve une vaste zone hypoéchoïque attribuable à la forte atténuation (via réflexion, surtout) qu'engendre l'os cortical."
+                ]
+              },
+              {
+                "acronymes": ["TA"],
+                "texte": [
+                  "Le tibial antérieur se trouve dans la portion supérieure gauche de l'image, adjacent à la surface du tibial, et possède une apparence aplatie (fusiforme)"
+                ]
+              },
+              {
+                "acronymes": ["LEH"],
+                "texte": [
+                  "Le long extenseur de l'hallux se trouve à la droite du tibial antérieur, et possède une forme qui rappelle vaguement un trapèze. On peut remarquer le début du tendon qui apparaît comme une zone hyperéchoïque par rapport au reste du muscle, dans sa portion immédiatement adjacente à la surface du tibia."
+                ]
+              },
+              {
+                "acronymes": ["LEO"],
+                "texte": [
+                  "Le long extenseur des orteils, zone en forme de '8' tout juste à la droite du long extenseur de l'hallux, est le plus petit des trois muscles extenseurs pouvant être observés sur ce cliché."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Tibia" },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Tibial antérieur"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Long extenseur de l'hallux"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Long extenseur des orteils"
+              },
+              { "path": "identification6.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Le tibial antérieur est un puissant muscle extenseur et inverseur de la cheville et du pied. Parmi tous les tendons traversant la cheville antérieur, celui du tibial antérieur est le plus médial et le plus volumineux d'entre tous. Les trois autres tendons de la cheville antérieure sont les suivants (de médial à latéral):",
+          "<ul class='margin-left'><li>Long extenseur de l'hallux</li><li>Long extenseur des orteils</li><li>Troisième fibulaire</li></ul>",
+          "Ces quatre tendons sont maintenus en place par les rétinacula des extenseurs (supérieur et inférieur), ce qui prévient un 'bowstringing' (tendons qui prennent l'apparence d'une corde d'arc lors de la contraction des muscles).",
+          "Étant donné sa localisation superficielle, la mise en évidence du tibial antérieur peut être faite à l'aide d'une simple flexion dorsale et inversion active, de qui provoque un gonflement du ventre du muscle (face antérieur de la jambe) et l'apparition d'une 'corde' tendineuse tout juste en latérale de la malléole interne.<a href='#ref3' class='reference'>[3]</a>",
+          "Le tibial antérieur est un muscle qui contribue de manière importante au patron de marche 'normal', notamment via son action d'élévation du pied (laquelle permet une attaque d'un talon appropriée). Cliniquement, le signe du 'pied tombant' est fréquemment indicateur d'une dysfonction du tibial antérieur, qui peut être causée par une multitude de mécanismes (p.ex.: lésion nerveuse périphérique, faiblesse musculaire, etc.)<a href='#ref8' class='reference'>[8]</a>.",
+          "Pour davantage d'information sur la région de la cheville antérieure, nous vous invitons à consulter la capsule sur la <a href='/protocoles/cheville-et-pied/mortaise-tibiale' class='underline'>mortaise tibiale.</a>"
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/tibialAnterieur/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Mortaise Tibiale",
+        "text": [
+          "Voir la capsule sur la <a href='/protocoles/cheville-et-pied/mortaise-tibiale' class='underline'>mortaise tibiale.</a>"
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Mortaise tibiale",
+          "link": "/protocoles/cheville-pied/mortaise-tibiale/"
+        },
+        {
+          "linkTitle": "Canal tarsien",
+          "link": "/protocoles/cheville-pied/canal-tarsien/"
+        },
+        {
+          "linkTitle": "Ligament talo-fibulaire antérieur",
+          "link": "/protocoles/cheville-pied/ligament-talo-fibulaire-anterieur/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Arts, Ilse M.P., Sigrid Pillen, H. Jurgen Schelhaas, Sebastiaan Overeem, and Machiel J. Zwarts. 'Normal Values for Quantitative Muscle Ultrasonography in Adults.' Muscle & Nerve 41, no. 1 (January 1, 2010): 32–41. doi:10.1002/mus.21458."
+        },
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angelo Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. 'Musculoskeletal Ultrasound Technical Guidelines (VI. Ankle).' Eureopean Society of Muscloskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Cheung, Yvonne, and Zehava Sadka Rosenberg. 'MR Imaging of the Accessory Muscles around the Ankle.' Magnetic Resonance Imaging Clinics of North America 9, no. 3 (August 2001): 465–73, x."
+        },
+        {
+          "text": "Hodges, P.w., L.h.m. Pengel, R.d. Herbert, and S.c. Gandevia. 'Measurement of Muscle Contraction with Ultrasound Imaging.' Muscle & Nerve 27, no. 6 (June 1, 2003): 682–92. doi:10.1002/mus.10375."
+        },
+        {
+          "text": "Fessell, D P, G M Vanderschueren, J A Jacobson, R Y Ceulemans, A Prasad, J G Craig, J A Bouffard, K K Shirazi, and M T van Holsbeeck. 'US of the Ankle: Technique, Anatomy, and Diagnosis of Pathologic Conditions.' RadioGraphics 18, no. 2 (March 1, 1998): 325–40. doi:10.1148/radiographics.18.2.9536481."
+        },
+        {
+          "text": "Maganaris, Constantinos N. 'In Vivo Measurement-Based Estimations of the Moment Arm in the Human Tibialis Anterior Muscle-Tendon Unit.' Journal of Biomechanics 33, no. 3 (March 2000): 375–79. doi:10.1016/S0021-9290(99)00188-8."
+        },
+        {
+          "text": "Martinson, H., and M. J. Stokes. 'Measurement of Anterior Tibial Muscle Size Using Real-Time Ultrasound Imaging.' European Journal of Applied Physiology and Occupational Physiology 63, no. 3–4 (October 1, 1991): 250–54. doi:10.1007/BF00233856."
+        },
+        {
+          "text": "Patel, Smita, David P. Fessell, Jon A. Jacobson, Curtis W. Hayes, and Marnix T. van Holsbeeck. 'Artifacts, Anatomic Variants, and Pitfalls in Sonography of the Foot and Ankle.' American Journal of Roentgenology 178, no. 5 (May 1, 2002): 1247–54. doi:10.2214/ajr.178.5.1781247."
+        },
+        {
+          "text": "Schmidt, W. A., H. Schmidt, B. Schicke, and E. Gromnica-Ihle. 'Standard Reference Values for Musculoskeletal Ultrasonography.' Annals of the Rheumatic Diseases 63, no. 8 (August 1, 2004): 988–94. doi:10.1136/ard.2003.015081."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Pratical [sic] Guide. Milan; New York: Springer Milan, 2012."
+        }
+      ]
+    }
+  }
+}

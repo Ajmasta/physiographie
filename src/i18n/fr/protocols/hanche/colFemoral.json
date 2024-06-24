@@ -1,0 +1,349 @@
+{
+  "title": "Col fémoral",
+  "latinName": "Collum femoris",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          {
+            "data": "Orientation considérée normale (degrés)",
+            "header": true,
+            "rowspan": 4
+          },
+          { "data": "Plan", "header": true },
+          { "data": "Valeur (+/- écart-type)", "header": true }
+        ],
+        [
+          { "data": "Antéversion", "header": true },
+          {
+            "data": "8 (±10) [ad 15-20]*<a href='#ref13' class='reference'>[13]</a><a href='#ref10' class='reference'>[10]</a> "
+          }
+        ],
+        [
+          { "data": "Valgus anatomique fémoral", "header": true },
+          {
+            "data": "4 (±1,9)<a href='#ref13' class='reference'>[13]</a><a href='#ref9' class='reference'>[9]</a>"
+          }
+        ],
+        [
+          { "data": "Valgus anatomique fémoral distal", "header": true },
+          { "data": "4,9<a href='#ref6' class='reference'>[6]</a>" }
+        ]
+      ],
+      "text": ["*Divergences selon les auteurs, l'ethnie des sujets, etc."]
+    },
+    "extraTable": {
+      "rangees": [
+        [
+          {
+            "data": "Mesure",
+            "header": true
+          },
+          { "data": "Rapport des cotes ajusté pour l'âge*", "header": true }
+        ],
+        [
+          { "data": "DMO" },
+          { "data": "2.7 <a href='#ref5' class='reference'>[5]</a>" }
+        ],
+        [
+          { "data": "Longueur de l'axe de la hanche " },
+          { "data": "1,8 <a href='#ref5' class='reference'>[5]</a>" }
+        ],
+        [
+          { "data": "Largeur du col fémoral" },
+          { "data": "1,1 <a href='#ref5' class='reference'>[5]</a>" }
+        ],
+        [
+          { "data": "Angle col/diaphyse fémorale" },
+          { "data": "1,1 <a href='#ref5' class='reference'>[5]</a>" }
+        ]
+      ],
+      "text": [
+        "*Rapport des cotes ajusté pour l'âge = 'Age-adjusted odd ratio'"
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Mesure", "header": true },
+          { "data": "Sexe (F/H)", "header": true },
+          { "data": "Type de sujet", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [
+          { "data": "Col fémoral", "rowspan": 6 },
+          {
+            "data": "Angle [par rapport à la diaphyse fémorale] (degrés)",
+            "rowspan": 2
+          },
+          { "data": "Femme", "rowspan": 10 },
+          { "data": "Sains" },
+          {
+            "data": "<span class='red-text'>7 ± 1</span> <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Cas de fracture" },
+          {
+            "data": "<span class='red-text'>49 ± 7</span> <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Largeur (cm)", "rowspan": 2 },
+          { "data": "Sains" },
+          {
+            "data": "<span class='red-text'>1,98 ± 0,16</span> <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Cas de fracture" },
+          {
+            "data": "<span class='red-text'>2,0 ± 0,16</span> <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Densité minérale osseuse [DMO] (g/cm3)", "rowspan": 2 },
+          { "data": "Sains" },
+          {
+            "data": "<span class='green-text'>0,652 ± 0,118</span> <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Cas de fracture" },
+          {
+            "data": "<span class='green-text'>0,556 ± 0,094</span> <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "N/A", "rowspan": 2 },
+          {
+            "data": "Âge (années)",
+            "rowspan": 2
+          },
+          { "data": "Sains" },
+          {
+            "data": "<span class='green-text'>73,4 ± 5,4</span> <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Cas de fracture" },
+          {
+            "data": "<span class='green-text'>76,5 ± 6,2</span> <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Axe de la hanche", "rowspan": 2 },
+          {
+            "data": "Longueur (cm)",
+            "rowspan": 2
+          },
+          { "data": "Sains" },
+          {
+            "data": "<span class='green-text'>6,70 ± 0,38</span> <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Cas de fracture" },
+          {
+            "data": "<span class='green-text'>6,93 ± 0,40</span> <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ]
+      ],
+      "text": [
+        "Légende : [Données en vert] Différence statistiquement significative ; [Données en rouge] Différence non statistiquement significative"
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "Décubitus dorsal, membre inférieur au repos avec l'aspect antérieur de la hanche à découvert<a href='#ref1' class='reference'>[1]</a>"
+        ]
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": ["Repérer et palper le grand trochanter"]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/colFemoral/vueLongitudinale/",
+        "objectifs": [
+          "Observation du col fémoral (et des structures environnantes)"
+        ],
+        "parametres": [
+          "Exceptionnellement, une sonde curvilinéaire sera utilisée, considérant la profondeur considérable des structures imagées",
+          "Profondeur : 8 cm",
+          "Gain : 50",
+          "G/3/3"
+        ],
+        "positionnement": [
+          "Tel que démontré dans l'image ci-jointe, en vue longitudinale oblique (presque parallèle au long axe du fémur), placer la sonde sur le col fémoral, soit légèrement en distal du grand trochanter [GT] (voire à la même hauteur, chez certains sujets)",
+          "Balayer ('scan') légèrement en proximal et en distal jusqu'à l'obtention d'une image optimale, c.-à-d. dans laquelle sont visibles la tête et le col fémoral"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["Tf"],
+                "texte": [
+                  "La tête fémorale apparaît au centre de l'image comme une zone semi-circulaire délimitée par un trait hyperéchoïque"
+                ]
+              },
+              {
+                "acronymes": ["Cf"],
+                "texte": [
+                  "Le col fémoral apparaît à la droite (en distal) de la tête fémorale. Il s'agit d'une zone hyperéchoïque possédant un relief concave (qui est assez peu accentué compte tenu que l'image a été obtenue à l'aide d'une sonde curvilinéaire)"
+                ]
+              },
+              {
+                "acronymes": ["A"],
+                "texte": [
+                  "L'acétabulum est présent tout juste à la gauche (en proximal) de la tête fémorale, et prend l'apparence d'une zone hyperéchoïque au contour assez peu défini (le pourtour de cette image est victime d'une certaine distorsion)"
+                ]
+              },
+              {
+                "acronymes": ["PI"],
+                "texte": [
+                  "Le psoas-iliaque se trouve en superficie du fémur (donc en haut de celui-ci sur l'image), et prend la forme d'une zone légèrement hyperéchoïque au sein de laquelle un échotexture musculaire (striation assez large) est visible. Les fascias qui entourent le psoas-iliaque, plus échogènes que la portion interne du muscle, sont également bien visibles"
+                ]
+              },
+              {
+                "acronymes": ["CA"],
+                "texte": [
+                  "La portion de la capsule articulaire qui est visible sur cette image est située entre le col fémoral et la limite inférieure du psoas-iliaque"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Tête fémorale"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Col fémoral"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Acétabulum"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Psoas-iliaque"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Capsule articulaire"
+              },
+              { "path": "identification7.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "L'articulation coxo-fémorale, (ou, plus simplement, de la hanche) est une articulation condylienne, qui est formée de l'acétabulum en proximal et de la tête fémorale en distal. L'acétabulum est une cavité qui est formée par la jonction de trois os pelviens : l'ischion, l'ilion et le pubis. Entre la tête du fémur et sa diaphyse se trouve le col fémoral, qui est une structure de grande importance clinique en raison des forces importantes qui traversent cette région.",
+          "Tel qu'exposé dans le tableau ci-haut, le col fémoral n'est pas aligné avec le plan frontal, mais possède plutôt une orientation de l'arrière vers l'avant, et de l'extérieur vers l'intérieur (dans les environs de 10 à 15 degrés)."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Hanche à ressaut ('Snapping hip')",
+        "text": [
+          "Le terme 'hanche à ressaut' réfère à une condition caractérisée par une douleur à la hanche accompagnée d'un son de claquement ('snapping') lors de mouvements de la hanche (p.ex.: à la marche). Ces signes et symptômes sont peu spécifiques, et peuvent donc être associés à un grand nombre de pathologies intra- ou extra-articulaires<a href='#ref2' class='reference'>[2]</a>.",
+          "Hanche à ressaut d'origine intra-articulaire :",
+          [
+            "Ce type de hanche à ressaut est généralement associé à une problématique au sein l'articulation coxofémorale, à des corps libres articulaires ('articular loose bodies') ou à lésions labrales. Dans ce cas, le phénomène de claquement est causé par l'interposition d'un particule ou d'un débris tissulaire entre la tête fémorale et l'acétabulum, et l'imagerie par ultrasonographie ne peut apporter que très peu d'information (puisque les ultrasons ne traversent pas l'os cortical)<a href='#ref2' class='reference'>[2]</a>."
+          ],
+          "Les cas de hanche à ressaut d'origine intra-articulaire sont soit d'origine interne ou externe :",
+          [
+            "Interne : Surtout causé par un accrochage du muscle psoas-iliaque sur l'éminence ilio-pectinée, un relief osseux à la jonction de l'ilion et du pubis (voir un modèle interactif). Lorsque la hanche est mobilisée en flexion, abduction et rotation externe, le muscle psoas-iliaque subit un déplacement en externe. Lorsque la hanche retourne à sa position initiale (extension, adduction et rotation interne), le tendon du psoas-iliaque subit un 'accrochage' sur l'éminence ilio-pectinée, et retourne ensuite rapidement en interne, ce qui produit génère le son de claquement en question.",
+            "Externe : ce type de phénomène est souvent causé par un glissement de la bandelette ilio-tibiale à la surface du grand trochanter. Pour plus d'information à ce sujet, nous vous invitons à consulter le protocole sur le grand trochanter ainsi que celui sur la bandelette ilio-tibiale (dans la section sur la cuisse et le genou)."
+          ]
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Grand trochanter",
+          "link": "/protocoles/hanche/grand-trochanter/"
+        },
+        {
+          "linkTitle": "Bandelette ilio-tibiale",
+          "link": "/protocoles/hanche/bandelette-ilio-tibiale"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angelo Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. « Musculoskeletal Ultrasound Technical Guidelines (IV. Hip). » European Society of Musculoskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Clark, John M., M. A. R. Freeman, et David Witham. « The relationship of neck orientation to the shape of the proximal femur. » The Journal of Arthroplasty 2, nᵒ 2 (1987): 99‑109. doi:10.1016/S0883-5403(87)80016-5."
+        },
+        {
+          "text": "D’lima, Darryl D., Andrew G. Urquhart, Knute O. Buehler, Richard H. Walker, et Clifford W. Colwell. « The Effect of the Orientation of the Acetabular and Femoral Components on the Range of Motion of the Hip at Different Head-Neck Ratios*. » The Journal of Bone & Joint Surgery 82, nᵒ 3 (1 mars 2000): 315‑21."
+        },
+        {
+          "text": "Faulkner, Kenneth G., Steven R. Cummings, Dennis Black, Lisa Palermo, Claus-C. Glüer, et Harry K. Genant. « Simple Measurement of Femoral Geometry Predicts Hip Fracture: The Study of Osteoporotic Fractures. » Journal of Bone and Mineral Research 8, nᵒ 10 (1 octobre 1993): 1211‑17. doi:10.1002/jbmr.5650081008."
+        },
+        {
+          "text": "Hsu, RW, Himeno S, Coventry Mb, et Chao Ey. « Normal Axial Alignment of the Lower Extremity and Load-Bearing Distribution at the Knee. » Clinical Orthopaedics and Related Research, nᵒ 255 (juin 1990): 215‑27."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Nötzli, H. P., T. F. Wyss, C. H. Stoecklin, M. R. Schmid, K. Treiber, et J. Hodler. « The Contour of the Femoral Head-Neck Junction as a Predictor for the Risk of Anterior Impingement. » Journal of Bone & Joint Surgery, British Volume 84-B, nᵒ 4 (1 mai 2002): 556‑60. doi:10.1302/0301-620X.84B4.12014."
+        },
+        {
+          "text": "Oswald, Michael H., Roland P. Jakob, Erich Schneider, et Henri-Marcel Hoogewoud. « Radiological analysis of normal axial alignment of femur and tibia in view of total knee arthroplasty. » The Journal of Arthroplasty 8, nᵒ 4 (août 1993): 419‑26. doi:10.1016/S0883-5403(06)80042-2."
+        },
+        {
+          "text": "Reikeråls, Olav, Ingjald Bjerkreim, et Alf Kolbenstvedt. « Anteversion of the Acetabulum and Femoral Neck in Normals and in Patients with Osteoarthritis of the Hip. » Acta Orthopaedica 54, nᵒ 1 (1 janvier 1983): 18‑23. doi:10.3109/17453678308992864."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Practical Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Tönnis, D., et A. Heinecke. « Current Concepts Review - Acetabular and Femoral Anteversion: Relationship with Osteoarthritis of the Hip*. » The Journal of Bone & Joint Surgery 81, nᵒ 12 (1 décembre 1999): 1747‑70."
+        },
+        {
+          "text": "Yoshioka, Y., D. Siu, et T. D. Cooke. « The Anatomy and Functional Axes of the Femur. » The Journal of Bone and Joint Surgery. American Volume 69, nᵒ 6 (juillet 1987): 873‑80."
+        }
+      ]
+    }
+  }
+}

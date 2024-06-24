@@ -1,31 +1,29 @@
 import React from "react";
 import ImageViewer from "./ImageViewer";
 import TextGenerator from "../TextGenerator";
+import { Images } from "../../interfaces/protocol";
+import Table, { TableCellData } from "./Table";
 type Props = {
   content: string[];
-  images: string[];
+  images?: Images[];
+  source?: string;
+  table?: TableCellData[][];
 };
 
-const ParagraphTextSection = ({ content, images }: Props) => {
+const ParagraphTextSection = ({ content, images, source, table }: Props) => {
   return (
-    <div tabIndex={0} className=" collapse collapse-arrow bg-base-100">
-      <input type="checkbox" defaultChecked={true} />
+    <div className="bg-white">
+      <div className="flex flex-col">
+        {source && images && <ImageViewer images={images} source={source} />}
 
-      <div className="text-xl font-medium collapse-title">
-        Anatomie descriptive
-      </div>
-      <div className="bg-white collapse-content">
-        <div className="flex flex-col">
-          <ImageViewer images={images} source={"/Protocoles/BicepsBrachial/"} />
-
-          <div>
-            {content.map((paragraph) => (
-              <>
-                <TextGenerator text={paragraph} />
-                <br />
-              </>
-            ))}
-          </div>
+        <div>
+          {content.map((paragraph) => (
+            <>
+              <TextGenerator text={paragraph} classes="text-lg leading-8" />
+              <br />
+            </>
+          ))}
+          {table && <Table rows={table} />}
         </div>
       </div>
     </div>

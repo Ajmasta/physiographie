@@ -1,0 +1,240 @@
+{
+  "title": "Tendon du triceps brachial",
+  "latinName": "Triceps brachii tendinis",
+  "normesEtGeneralites": {
+    "sectionTitle": "Normes et Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Type de muscle", "header": true, "colspan": 2 },
+          { "data": "Biarticulaire, trigastrique" }
+        ],
+        [
+          { "data": "Origine", "header": true, "rowspan": 3 },
+          { "data": "Chef long" },
+          { "data": "Tubercule infra-glénoïdien (scapula)" }
+        ],
+        [
+          { "data": "Chef médial" },
+          { "data": "En caudal de la gouttière radiale" }
+        ],
+        [
+          { "data": "Chef latéral" },
+          { "data": "En crânial de la gouttière radial" }
+        ],
+        [
+          { "data": "Insertion commune", "header": true, "colspan": 2 },
+          { "data": "Aspect supérieur de l'olécrâne (ulna)" }
+        ],
+        [
+          { "data": "Innervation", "header": true, "colspan": 2 },
+          { "data": "Nerf radial (C7-C8)" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Mesure", "header": true },
+          { "data": "Site de mesure", "header": true },
+          { "data": "Plan", "header": true },
+          { "data": "Moyenne", "header": true }
+        ],
+        [
+          { "data": "Tendon du triceps", "rowspan": 2 },
+          { "data": "Épaisseur (mm)", "rowspan": 2 },
+          {
+            "data": "Point où les fibres les plus profondes s'insèrent sur l'olécrâne",
+            "rowspan": 2
+          },
+          { "data": "Longitudinal" },
+          { "data": "3,24<a href='#ref5' class='reference'>[5]</a>" }
+        ],
+        [
+          { "data": "Largeur" },
+          { "data": "19,66<a href='#ref5' class='reference'>[5]</a>" }
+        ],
+        [
+          {
+            "data": "Distance entre l'insertion du tendon du triceps et la pointe de l'olécrane (mm) ",
+            "colspan": 2
+          },
+          {
+            "data": "Aspect le plus proximal du tendon du triceps ad point de l'olécrane"
+          },
+          { "data": "Longitudinal" },
+          { "data": "14,8<a href='#ref5' class='reference'>[3]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Positionnement du sujet",
+        "text": [
+          "L'évaluation du tendon du triceps requiert un accès à l'aspect postérieur du coude, lequel doit également être fléchi à 90°.",
+          "Pour ce faire, placer la main ouverte du patient à plat sur la surface d'examen, le poignet en extension complète et le coude fléchi à 90°.",
+          "Si les installations le permettent (avec une table ou un lit à hauteur ajustable), la surface d'examen peut être abaissée afin que le sujet puisse être assis, ce qui procure davantage de stabilité pour l'examen ultrasonographique (en plus d'imposer moins de stress à l'épaule)."
+        ],
+        "images": [{ "path": "positionnement1.jpg" }],
+        "source": "/Protocols/tendonTricepsBrachial/"
+      },
+      {
+        "subtitle": "Repérage anatomique et palpation",
+        "text": [
+          "Repérer et palper les principaux repère anatomiques osseux, soit l'olécrane, l'épicondyle latéral et l'épicondyle médial",
+          "Afin de faciliter la localisation du tendon du triceps, il peut être utile de demander au sujet d'effectuer une extension de coude résistée"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Vue Longitudinale",
+        "source": "/Protocols/tendonTricepsBrachial/vueLongitudinale/",
+        "objectifs": ["Observation du tendon du triceps brachial", ""],
+        "parametres": ["Profondeur : 3 cm", "Gain : 60", "G/3/2"],
+        "positionnement": [
+          "Placer l'extrémité distale de la sonde sur la pointe de l'olécrâne, et aligner la sonde avec le long axe de la diaphyse humérale",
+          "Au besoin, balayer ('scan') légèrement en médial et en latéral, tout en conservant l'orientation de la sonde, jusqu'à l'obtention d'une image optimale"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["O"],
+                "texte": [
+                  "L'olécrâne apparaît dans la portion supérieure droite de l'image, sous la forme d'une zone hyperéchoïque au profil arrondi"
+                ]
+              },
+              {
+                "acronymes": ["H"],
+                "texte": [
+                  "L'humérus est visible à la gauche et en bas de l'olécrâne. À noter que la fosse olécrânienne (voir [CG] ci-bas) est également un relief osseux de l'humérus."
+                ]
+              },
+              {
+                "acronymes": ["T"],
+                "texte": [
+                  "Le triceps (portion musculaire) correspond à la vaste zone hyperéchoïque d'échotexture musculaire que l'on peut observer dans la portion supérieure gauche de l'image"
+                ]
+              },
+              {
+                "acronymes": ["TT"],
+                "texte": [
+                  "Le tendon du triceps est visible en distal (à la droite) de la portion musculaire du triceps. On le reconnaît à son apparence fortement hyperéchoïque, son large diamètre et en raison du fait qu'il arbore une structure fibrillaire qui correspond avec celle d'un tendon."
+                ]
+              },
+              {
+                "acronymes": ["CG"],
+                "texte": [
+                  "Le coussinet graisseux, situé dans la fosse olécrânienne, se en profondeur du ventre musculaire du triceps (légerement en proximal de la jonction musculo-tendineuse). On peut également noter l'apparente complémentarité des reliefs de la fosse olécrânienne et de l'olécrane."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Olécrâne" },
+              { "path": "identification3.jpg", "descriptionText": "Humérus" },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Triceps (portion musculaire)"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Tendon du triceps"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Coussinet graisseux"
+              },
+              { "path": "identification7.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Le compartiment postérieur du coude inclut deux muscles : l'anconé et le triceps brachial. L'anconé est un petit muscle triangulaire situé en latéral du triceps qui s'étend de l'aspect postérieur de l'épicondyle latéral jusqu'à l'aspect postéro-latéral de la diaphyse de l'ulna. Son rôle est d'assister le triceps lors de l'extension du coude, en plus d'être un stabilisateur dynamique lors de stress en varus (il assiste donc le <a href='protocoles/coude/tendon-flechisseur-commun-et-ligament-lateral-interne'> ligament latéral interne </a> du coude, qui est le principal stabilisateur statique en varus).",
+          "Le triceps, quant à lui, est un muscle trigastrique (qui possède trois chefs, ou ventres musculaires) et bi-articulaire, tel que mentionné dans le tableau ci-dessus. Les trois chefs possèdent chacun un origine qui leur est propre, et convergent vers un tendon distal commun dont l'attache osseuse se trouve sur l'aspect postérieur de l'olécrane. Le point précis de cette attache osseuse n'est pas situé sur la pointe de l'olécrane, mais plutôt 1 cm en distal de celui-ci, ce qui procure un avantage mécanique accru, en raison d'un plus grand bras de levier<a href='#ref2' class='reference'>[2]</a>."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Rupture du tendon du triceps",
+        "text": [
+          "Malgré qu'il s'agisse d'un phénomène peu commun, il est possible pour le tendon du triceps brachial de subir une rupture. Le plus souvent, le rupture se produit à grande proximité de l'olécrane et le segment rétracté du tendon demeure rattaché à un fragment osseux (fracture d'avulsion). Le mécanisme derrière cette rupture tendineuse comprend soit un traumatisme direct sur l'olécrane ou une flexion forcée du coude contre un triceps contracté (p.ex.: lors d'une chute amortie à l'aide d'un membre supérieur)<a href='#ref2' class='reference'>[2]</a>.",
+          "Cliniquement, l'intégrité du tendon distal du triceps brachial peut être évaluée simplement en demandant au sujet d'effectuer une extension résistée du coude. Les sujets aux prises avec une rupture complète du tendon du triceps en seront complètement incapables, en l'absence d'un autre muscle capable de substituer. En terme de fréquence relative, les rupture partielles du tendon du triceps sont encore plus rares que les ruptures complètes<a href='#ref2' class='reference'>[2]</a>.",
+          "Bien que l'examen clinique soit classiquement assez révélateur, la présence d'oedème et de lésions aux tissus mous en phase aiguë parfois engendrer un certain degré d'incertitude. Dans ce contexte, l'imagerie par ultrasonographie peut être utilisée pour mettre en évidence une discontinuité dans la substance du tendon, en plus de permettre la distinction entre les ruptures complètes vs partielles. La visualisation de la rupture permettra ainsi la mise sur pied d'un plan de traitement adapté, car les lésions complètes requièrent souvent une chirurgie immédiate (pour prévenir les rétractions) alors que les ruptures partielles peuvent être candidates à un traitement conservateur<a href='#ref2' class='reference'>[2]</a>.",
+          "Selon un consensus établi par la société européenne de radiologie musculosquelettique ('European Society of Musculoskeletal Radiology'), l'échographie musculosquelettique est une modalité d'imagerie de premier choix, en raison d'un consensus de grade '3' (selon l'échelle du 'Oxford Centre for Evidence-Based Medicine'), qui signifie que d'autres modalitées d'imagerie apportent rarement davantage d'informations significatives pour ce type de condition. Finalement, il faut préciser que la majorité de la littérature repose sur des études de cas, ou sur des extrapolations d'études rétrospectives (cote 'C' pour la méthodologie)<a href='#ref4' class='reference'>[4]</a>."
+        ]
+      },
+      {
+        "subtitle": "Syndrome de claquement du triceps ('Snapping triceps syndrome')",
+        "text": [
+          "Cette condition se caractérise par une luxation du chef médial du triceps en antérieur de l'épicondyle médial lors d'un flexion du coude. Puisque cette structure est adjacente au nerf ulnaire, il se produit donc une luxation antérieure simultanée de ces structures, qui génère classiquement deux 'claquements' audibles, d'où le nom de cette condition<a href='#ref2' class='reference'>[2]</a>.",
+          "Puisque ce phénomène affecte un ventre musculaire du triceps (et non pas son tendon), il en sera donc question dans le protocole qui traite du nerf ulnaire (région du coude)."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Nerf ulnaire",
+          "link": "/protocoles/coude/nerf-ulnaire"
+        },
+        {
+          "linkTitle": "Articulation huméro-radiale",
+          "link": "/protocoles/coude/articulation-humero-radiale"
+        },
+        {
+          "linkTitle": "Tendon fléchisseur commun & ligament latéral interne",
+          "link": "/protocoles/coude/tendon-flechisseur-commun-et-ligament-lateral-interne"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angelo Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. « Musculoskeletal Ultrasound Technical Guidelines (II. Elbow). » Eureopean Society of Muscloskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Keener, Jay D., Dara Chafik, H. Mike Kim, Leesa M. Galatz, et Ken Yamaguchi. « Insertional anatomy of the triceps brachii tendon. » Journal of Shoulder and Elbow Surgery 19, nᵒ 3 (avril 2010): 399‑405. doi:10.1016/j.jse.2009.10.008."
+        },
+        {
+          "text": "Klauser, Andrea S., Alberto Tagliafico, Gina M. Allen, Natalie Boutry, Rob Campbell, Michel Court-Payen, Andrew Grainger, et al. « Clinical Indications for Musculoskeletal Ultrasound: A Delphi-Based Consensus Paper of the European Society of Musculoskeletal Radiology. » European Radiology 22, nᵒ 5 (mai 2012): 1140‑48. doi:10.1007/s00330-011-2356-3."
+        },
+        {
+          "text": "O’Connor, Philip J., Andrew J. Grainger, S. R. Morgan, K. L. Smith, J. C. Waterton, et A. F. P. Nash. « Ultrasound Assessment of Tendons in Asymptomatic Volunteers: A Study of Reproducibility. » European Radiology 14, nᵒ 11 (12 août 2004): 1968‑73. doi:10.1007/s00330-004-2448-4."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Pratical [sic] Guide. Milan; New York: Springer Milan, 2012."
+        }
+      ]
+    }
+  }
+}
