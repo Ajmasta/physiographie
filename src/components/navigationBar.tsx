@@ -10,12 +10,10 @@ interface LinksList {
 
 export const NavigationBar = () => {
   const hiddenButtonRef = useRef<HTMLButtonElement>(null);
+  const dropdownRef = useRef<HTMLUListElement>(null);
 
   const createVerticalMenu = (name: LinksList, itemsList: LinksList[]) => {
-    const dropdownRef = useRef<HTMLUListElement>(null);
-
     const handleItemClick = () => {
-      // Focus the hidden button to remove focus from the dropdown
       if (hiddenButtonRef.current) {
         hiddenButtonRef.current.focus();
       }

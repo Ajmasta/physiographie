@@ -31,11 +31,18 @@ interface Vue {
   imagePositionnement: Images[];
   identification: Identification[];
 }
-
+interface TechniqueSubsection {
+  title: string;
+  imagePositionnement?: Images[];
+  text: (string | string[])[];
+  source?: string;
+}
 interface TechniqueContent {
   subtitle: string;
-  text?: (string | string[])[];
-  subsection?: Subsection[];
+  text: (string | string[])[];
+  subSection?: TechniqueSubsection[];
+  images?: Images[];
+  source?: string;
 }
 
 interface ApplicationDynamique {

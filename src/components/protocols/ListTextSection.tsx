@@ -7,9 +7,9 @@ import { Images } from "../../interfaces/protocol";
 
 interface Subsection {
   title: string;
-  imagePositionnement: Images[];
+  imagePositionnement?: Images[];
   text: (string | string[])[];
-  source: string;
+  source?: string;
 }
 interface ApplicationDynamique {
   title: string;
