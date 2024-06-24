@@ -1,6 +1,6 @@
 {
-  "title": "",
-  "latinName": "",
+  "title": "Articulation huméro-radiale",
+  "latinName": "Articulatio humeroradialis",
   "normesEtGeneralites": {
     "sectionTitle": "Normes et Généralités",
     "generalites": {
@@ -72,7 +72,7 @@
       {
         "title": "Vue Longitudinale",
         "source": "/Protocols/articulationHumeroRadiale/vueLongitudinale/",
-        "objectifs": ["Observation de l'articulation huméro-radiale", ""],
+        "objectifs": ["Observation de l'articulation huméro-radiale"],
         "parametres": ["Profondeur : 2-4 cm", "Gain : 70", "G/3/2"],
         "positionnement": [
           "Aspect antérieur",

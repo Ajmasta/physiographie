@@ -1,6 +1,6 @@
 {
-  "title": "",
-  "latinName": "",
+  "title": "Jonction gastrocnémiens / soléaire",
+  "latinName": "Gastrocnemius / Soleus",
   "normesEtGeneralites": {
     "sectionTitle": "Normes et Généralités",
     "generalites": {
@@ -129,8 +129,7 @@
         "title": "Vue Longitudinale",
         "source": "/Protocols/jonctionGastrocnemienSoleaire/vueLongitudinale/",
         "objectifs": [
-          "Pédagogique : Observation de la région de la jonction entre les gastrocnémiens et le soléaire",
-          ""
+          "Pédagogique : Observation de la région de la jonction entre les gastrocnémiens et le soléaire"
         ],
         "parametres": ["Profondeur : 6 cm", "Gain : 55-60", "G/3/3"],
         "positionnement": [

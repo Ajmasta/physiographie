@@ -69,7 +69,7 @@
       {
         "title": "Vue Longitudinale",
         "source": "/Protocols/tendonsFibulaires/vueLongitudinale/",
-        "objectifs": ["Évaluer l'intégrité des tendons fibulaires", ""],
+        "objectifs": ["Évaluer l'intégrité des tendons fibulaires"],
         "parametres": ["Profondeur : 2 cm", "Gain : 80", "G/3/2"],
         "positionnement": [
           "Tourner la sonde de 90° par rapport à la vue transversale",

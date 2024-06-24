@@ -1,6 +1,6 @@
 {
-  "title": "",
-  "latinName": "",
+  "title": "Tendon distal du biceps brachial",
+  "latinName": "Biceps brachii distal tendinis",
   "normesEtGeneralites": {
     "sectionTitle": "Normes et Généralités",
     "generalites": {
@@ -74,8 +74,7 @@
         "title": "Vue Longitudinale",
         "source": "/Protocols/tendonDistalBiceps/vueLongitudinale/",
         "objectifs": [
-          "Observation de l'insertion (distale) du biceps brachial",
-          ""
+          "Observation de l'insertion (distale) du biceps brachial"
         ],
         "parametres": ["Profondeur : 4 cm", "Gain : 60", "G/3/2"],
         "positionnement": [

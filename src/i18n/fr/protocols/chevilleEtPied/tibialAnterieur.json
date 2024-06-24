@@ -91,7 +91,7 @@
       {
         "title": "Vue Longitudinale",
         "source": "/Protocols/tibialAnterieur/vueLongitudinale/",
-        "objectifs": ["Évaluer l'intégrité du tendon du tibial antérieur", ""],
+        "objectifs": ["Évaluer l'intégrité du tendon du tibial antérieur"],
         "parametres": ["Profondeur : 2 cm", "Gain : 80", "G/3/2"],
         "positionnement": [
           "[Position 1] Tourner la sonde de 90° par rapport à la vue transversale",

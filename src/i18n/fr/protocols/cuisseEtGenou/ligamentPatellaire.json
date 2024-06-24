@@ -125,8 +125,7 @@
         "parametres": ["Profondeur : 2 cm", "Gain : 70", "G/3/3"],
         "positionnement": [
           "En vue longitudinale (parallèle au long axe du tibia), placer la sonde sur le ligament patellaire, de manière à ce que son extrémité distale soit alignée avec le rebord supérieur (crânial) de la tubérosité tibiale",
-          "Au besoin, balayer lentement la sonde en proximal et en distal afin de couvrir l'ensemble des structures d'intérêt (voir ci-bas)",
-          ""
+          "Au besoin, balayer lentement la sonde en proximal et en distal afin de couvrir l'ensemble des structures d'intérêt (voir ci-bas)"
         ],
         "imagePositionnement": [{ "path": "positionnement1.jpg" }],
         "identification": [
