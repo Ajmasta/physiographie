@@ -1,6 +1,6 @@
 import React, { useState, useRef, ReactNode } from "react";
 import { CSSTransition } from "react-transition-group";
-import { FaPlus } from "react-icons/fa";
+import { FaPlus, FaMinus } from "react-icons/fa";
 import TextGenerator from "./TextGenerator";
 
 interface Props {
@@ -21,8 +21,12 @@ const Collapse = ({ children, title, subtitle }: Props) => {
         }}
       >
         {isOpen ? (
-          <FaPlus
-            className={"duration-300 ease-in rotate-45"}
+          <FaMinus
+            className={
+              !subtitle
+                ? "duration-300 ease-in border-2 border-black w-4 h-4"
+                : "duration-300 ease-in border-2 border-[#818181] w-4 h-4"
+            }
             size={!subtitle ? 14 : 12}
             color={!subtitle ? "black" : "grey"}
             //style={{ backgroundColor: "black", borderRadius: "50px" }}
