@@ -26,3 +26,5 @@ dist-ssr
 # Ignore all JavaScript files and JavaScript map files
 *.js
 *.js.map
+# Local Netlify folder
+.netlify
