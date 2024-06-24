@@ -1,7 +1,7 @@
 {
   "name": "physiographie2",
   "homepage": "https://ajmasta.github.io/physiographie",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
