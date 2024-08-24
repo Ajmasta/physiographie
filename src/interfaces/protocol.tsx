@@ -31,6 +31,19 @@ interface Vue {
   imagePositionnement: Images[];
   identification: Identification[];
 }
+export interface VueDiaphragm {
+  parametres: (string | string[])[];
+  positionnement: (string | string[])[];
+  positionnementPatient: (string | string[])[];
+  imagePositionnement: Images[];
+  identification: Identification[];
+  valeursRefPathologies: (string | string[])[];
+  source: string;
+  title: string;
+  extraText?: string[];
+  video: Images;
+}
+
 interface TechniqueSubsection {
   title: string;
   imagePositionnement?: Images[];
@@ -73,12 +86,24 @@ interface NormesEtGeneralites {
   content?: string[];
   extraTable?: ExtraTable;
 }
+interface NormesEtGeneralitesDiaphragm {
+  sectionTitle: string;
+  generalites: Generalites;
+  content?: string[];
+  extraTable?: ExtraTable;
+}
 
 export interface Technique {
   sectionTitle: string;
   content: TechniqueContent[];
   applicationDynamique?: ApplicationDynamique;
   vues: Vue[];
+}
+export interface TechniqueDiaphragm {
+  sectionTitle: string;
+  content?: TechniqueContent[];
+  applicationDynamique?: ApplicationDynamique;
+  vues: VueDiaphragm[];
 }
 
 export enum ProtocolKeys {
@@ -149,11 +174,27 @@ export type ProtocolSections =
   | PertinenceClinique
   | LiensEtRefs;
 
+export type ProtocolSectionsDiaphragm =
+  | NormesEtGeneralitesDiaphragm
+  | TechniqueDiaphragm
+  | DescriptionAnatomique
+  | PertinenceClinique
+  | LiensEtRefs;
+
 export interface ProtocolData {
   title: string;
   latinName?: string;
   normesEtGeneralites: NormesEtGeneralites;
   technique: Technique;
+  descriptionAnatomique: DescriptionAnatomique;
+  pertinenceClinique: PertinenceClinique;
+  liensEtRefs: LiensEtRefs;
+}
+export interface ProtocolDataDiaphragm {
+  title: string;
+  latinName?: string;
+  normesEtGeneralites: NormesEtGeneralitesDiaphragm;
+  technique: TechniqueDiaphragm;
   descriptionAnatomique: DescriptionAnatomique;
   pertinenceClinique: PertinenceClinique;
   liensEtRefs: LiensEtRefs;

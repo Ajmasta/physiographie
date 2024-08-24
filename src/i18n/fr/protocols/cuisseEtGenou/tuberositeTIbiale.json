@@ -54,7 +54,7 @@
           "Visualisation de la tubérosité tibiale",
           "Si possible (selon l'équipement et l'anatomie du sujet), visualisation de la bourse infra-patellaire"
         ],
-        "parametres": ["Profondeur : 2 cm", "Gain : 70", "G/3/3"],
+        "parametres": ["Profondeur : 2 cm", "Gain : 70"],
         "positionnement": [
           "En vue longitudinale (parallèle au long axe de la cuisse), placer la sonde 5 cm en distal de la patella, approximativement alignée avec la ligne médiane"
         ],

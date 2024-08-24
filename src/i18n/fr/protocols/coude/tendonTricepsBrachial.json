@@ -97,7 +97,7 @@
         "title": "Vue Longitudinale",
         "source": "/Protocols/tendonTricepsBrachial/vueLongitudinale/",
         "objectifs": ["Observation du tendon du triceps brachial"],
-        "parametres": ["Profondeur : 3 cm", "Gain : 60", "G/3/2"],
+        "parametres": ["Profondeur : 3 cm", "Gain : 60"],
         "positionnement": [
           "Placer l'extrémité distale de la sonde sur la pointe de l'olécrâne, et aligner la sonde avec le long axe de la diaphyse humérale",
           "Au besoin, balayer ('scan') légèrement en médial et en latéral, tout en conservant l'orientation de la sonde, jusqu'à l'obtention d'une image optimale"

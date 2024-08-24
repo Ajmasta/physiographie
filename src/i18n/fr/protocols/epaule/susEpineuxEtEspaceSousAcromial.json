@@ -105,7 +105,7 @@
           "Observer le glissement normal du sous-épineux sous l'acromion (si aucune pathologie)",
           "Observer les structures délimitant l'espace sous-acromial (ainsi que le contenu)"
         ],
-        "parametres": ["Profondeur : 3 cm", "Gain : 80", "G/3/2"],
+        "parametres": ["Profondeur : 3 cm", "Gain : 80"],
         "positionnement": [
           "Placer la sonde dans un plan frontal (coronal) oblique qui permet de visualiser, dans le même champ, tant le bord latéral de l’acromion que la grosse tubérosité humérale <a href='#ref2' class='reference'>[2]</a>."
         ],

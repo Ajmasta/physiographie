@@ -151,7 +151,7 @@
           "Point de départ de l'examen ultrasonographique des muscles de l'abdomen",
           "Mesure des muscles droits de l'abdomen (épaisseur, aire de section transversale)"
         ],
-        "parametres": ["Profondeur : 5 cm", "Gain : 80", "G/3/2"],
+        "parametres": ["Profondeur : 5 cm", "Gain : 80"],
         "positionnement": [
           "Position 1 : Placer la sonde en vue transversale (horizontale) au niveau du nombril",
           "Position 2 : Déplacer la sonde légèrement en latéral du nombril et balayer tout corps musculaire du muscle droit abdominal afin de le visualiser en entier. N.b: la largeur de ce muscle dépasse fréquemment la largeur de la sonde et donc, de la fenêtre de visualisation",

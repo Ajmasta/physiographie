@@ -117,7 +117,7 @@
         "objectifs": [
           "Observation du nerf médian, et de sa localisation par rapport aux tendons des fléchisseurs superficiel et profond des doigts"
         ],
-        "parametres": ["Profondeur : 2 cm", "Gain : 80", "G/3/3"],
+        "parametres": ["Profondeur : 2 cm", "Gain : 80"],
         "positionnement": [
           "Tourner la sonde de 90° par rapport à la vue transversale"
         ],
@@ -170,7 +170,7 @@
           "Visualisation des principales structures délimitant le tunnel carpien proximal",
           "Observation du nerf médian"
         ],
-        "parametres": ["Profondeur : 2 cm", "Gain : 70", "G/3/3"],
+        "parametres": ["Profondeur : 2 cm", "Gain : 70"],
         "positionnement": [
           "Positionner la sonde au niveau de la limite proximale du tunnel carpien (pli de flexion du poignet)",
           "Tel qu'illustré sur l'image ci-jointe, tourner légèrement la sonde de manière à ce que son extrémité radiale soit légèrement plus distale que son extrémité ulnaire<a href='#ref6' class='reference'>[6]</a>"

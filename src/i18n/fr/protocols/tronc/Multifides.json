@@ -92,7 +92,7 @@
           "Observation et évaluation de la qualité/quantité du recrutement des muscles multifides lombaires",
           "Comparer le niveau de contraction des multifides par rapport aux muscles spinaux"
         ],
-        "parametres": ["Profondeur : 4 cm", "Gain : 80", "F/3/3"],
+        "parametres": ["Profondeur : 4 cm", "Gain : 80"],
         "positionnement": [
           "Position 1 : Placer la sonde en vue transversale au niveau du sacrum, avec le centre de la sonde au-dessus du processus épineux de S1",
           "Position 2 : Déplacer la sonde en crânial jusqu'à L4 ou L5, en prenant bien soin de garder le centre de la sonde aligné avec le processus épineux de cette même vertèbre",

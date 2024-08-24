@@ -100,7 +100,7 @@
           "Examen du tendon du sus-épineux",
           "Examen du tendon du sous-scapulaire"
         ],
-        "parametres": ["Profondeur : 4-5 cm", "Gain : 80-85", "G/3/2"],
+        "parametres": ["Profondeur : 4-5 cm", "Gain : 80-85"],
         "positionnement": [
           "Placer la sonde en vue transversale au niveau du sillon intertuberculaire",
           "Balayer lentement la région afin d’obtenir une vue couvrant l’ensemble des structures (idéalement, allant du processus coracoïde jusqu’au tendon du sus-épineux)",

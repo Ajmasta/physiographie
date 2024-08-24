@@ -107,7 +107,7 @@
           "Examen du tendon quadricipital (et de ses faisceaux constituants)",
           "Rechercher la présence d'épanchement au sein du repli synovial supra-patellaire"
         ],
-        "parametres": ["Profondeur : 3 cm", "Gain : 55", "G/3/2"],
+        "parametres": ["Profondeur : 3 cm", "Gain : 55"],
         "positionnement": [
           "En vue longitudinale (parallèle au long axe de la cuisse), placer l'extrémité distale de la sonde sur la patella",
           "Au besoin, ajuster l'angle de rotation et de bascule ('tilt') afin de minimiser l'anisotropie qui pourrait affecter le tendon quadricipital"
@@ -184,7 +184,7 @@
         "objectifs": [
           "Examen du tendon quadricipital (et de ses faisceaux constituants)"
         ],
-        "parametres": ["Profondeur : 3-4 cm", "Gain : 70-74", "F/1/3"],
+        "parametres": ["Profondeur : 3-4 cm", "Gain : 70-74"],
         "positionnement": [
           "Tourner la sonde de 90° par rapport à la vue longitudinale"
         ],

@@ -100,7 +100,7 @@
           "Guider les interventions thérapeutiques",
           "Monitorer l'effet d'interventions thérapeutiques"
         ],
-        "parametres": ["Profondeur : 3 cm", "Gain : 85", "G/3/3"],
+        "parametres": ["Profondeur : 3 cm", "Gain : 85"],
         "positionnement": [
           "Placer la sonde sur l'extrémité antérieure du calcanéum, dans le long axe du pied, légèrement en médial de la ligne médiane",
           "Il est ensuite possible de balayer en distal du pied pour suivre le parcours du fascia plantaire (portion médiale), en s’assurant de toujours le garder à l’intérieur du champ optique (en raison de sa forme triangulaire)"

@@ -84,7 +84,7 @@
           "Visualisation du nerf ulnaire au sein du tunnel cubital",
           ""
         ],
-        "parametres": ["Profondeur : 2 cm", "Gain : 80", "G/3/2"],
+        "parametres": ["Profondeur : 2 cm", "Gain : 80"],
         "positionnement": [
           "Tel qu'illustré sur l'image ci-jointe, en vue transversale oblique (presque perpendiculaire au long axe de l'humérus), positionner la sonde de manière à ce qu'elle recouvre la pointe de l'olécrane et l'épicondyle interne"
         ],

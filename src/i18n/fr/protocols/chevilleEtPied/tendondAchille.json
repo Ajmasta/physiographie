@@ -83,7 +83,7 @@
         "objectifs": [
           "Examen de l'enveloppe péritendineuse du tendon d'Achille<a href='#ref1' class='reference'>[1]</a>"
         ],
-        "parametres": ["Profondeur : 2 cm", "Gain : 55-60", "G/3/3"],
+        "parametres": ["Profondeur : 2 cm", "Gain : 55-60"],
         "positionnement": [
           "Placer la sonde en vue longitudinale (dans l’axe long du tendon), approximativement à la hauteur de la malléole interne",
           "Faire osciller lentement la sonde en médio-latéral du tendon afin de le couvrir sur toute sa surface",
@@ -137,7 +137,7 @@
           "Observation de l’angle de pennation entre le gastrocnémien et le soléaire",
           "Recherche de la présence du muscle plantaire"
         ],
-        "parametres": ["Profondeur : 2 cm", "Gain : 55-60", "G/3/3"],
+        "parametres": ["Profondeur : 2 cm", "Gain : 55-60"],
         "positionnement": [
           "Placer la sonde en vue transversale (dans l’axe court du tendon), approximativement à la hauteur de la malléole interne",
           "Faire osciller lentement la sonde en médio-latéral du tendon afin de le couvrir sur toute sa surface",

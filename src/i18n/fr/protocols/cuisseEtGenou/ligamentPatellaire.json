@@ -122,7 +122,7 @@
           "Examen du ligament patellaire et de son insertion sur la tubérosité tibiale",
           "Observation du coussinet graisseux de Hoffa"
         ],
-        "parametres": ["Profondeur : 2 cm", "Gain : 70", "G/3/3"],
+        "parametres": ["Profondeur : 2 cm", "Gain : 70"],
         "positionnement": [
           "En vue longitudinale (parallèle au long axe du tibia), placer la sonde sur le ligament patellaire, de manière à ce que son extrémité distale soit alignée avec le rebord supérieur (crânial) de la tubérosité tibiale",
           "Au besoin, balayer lentement la sonde en proximal et en distal afin de couvrir l'ensemble des structures d'intérêt (voir ci-bas)"
@@ -172,7 +172,7 @@
         "objectifs": [
           "Examen du tendon quadricipital (et de ses faisceaux constituants)"
         ],
-        "parametres": ["Profondeur : 2 cm", "Gain : 70", "G/3/3"],
+        "parametres": ["Profondeur : 2 cm", "Gain : 70"],
         "positionnement": [
           "Tourner la sonde de 90° par rapport à la vue longitudinale"
         ],

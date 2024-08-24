@@ -72,7 +72,7 @@
         "objectifs": [
           "Observer le sus-épineux recouvert du trapèze ainsi que leur relation avec les reliefs de la scapula"
         ],
-        "parametres": ["Profondeur : 3 cm", "Gain : 70-75", "D/4/2"],
+        "parametres": ["Profondeur : 3 cm", "Gain : 70-75"],
         "positionnement": [
           "Placer la sonde en vue longitudinale (par rapport aux fibres du sus-épineux) sur l’épine scapulaire, tout juste en latéral du centre de celle-ci",
           "Afin de mieux repérer et identifier les structures, balayer lentement de haut en bas pour observer et différencier l’épine scapulaire, le trapèze, le sus-épineux et le sous-épineux",
@@ -188,7 +188,7 @@
         "objectifs": [
           "Observer le sus-épineux recouvert du trapèze et leur relation avec les reliefs de la scapula"
         ],
-        "parametres": ["Profondeur : 5 cm", "Gain : 60-65", "G/3/2"],
+        "parametres": ["Profondeur : 5 cm", "Gain : 60-65"],
         "positionnement": [
           "Tourner la sonde de 90° par rapport à la vue longitudinale [approche #1, postérieure]"
         ],

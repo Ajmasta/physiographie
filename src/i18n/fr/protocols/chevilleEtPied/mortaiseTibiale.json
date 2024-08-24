@@ -117,7 +117,7 @@
           "Observation transversale des tendons du tibial antérieur et de l'extenseur de l'hallux",
           "Examen de la surface articulaire du talus"
         ],
-        "parametres": ["Profondeur : 2 cm", "Gain : 70", "G/3/3"],
+        "parametres": ["Profondeur : 2 cm", "Gain : 70"],
         "positionnement": [
           "Tourner la sonde à 90° par rapport à la vue longitudinale",
           "Balayer lentement la sonde en crânio-caudal (vers le haut et vers le bas) afin de couvrir toutes les structures recherchées (voir ci-bas)"

@@ -92,7 +92,7 @@
         "title": "Vue Longitudinale",
         "source": "/Protocols/tibialAnterieur/vueLongitudinale/",
         "objectifs": ["Évaluer l'intégrité du tendon du tibial antérieur"],
-        "parametres": ["Profondeur : 2 cm", "Gain : 80", "G/3/2"],
+        "parametres": ["Profondeur : 2 cm", "Gain : 80"],
         "positionnement": [
           "[Position 1] Tourner la sonde de 90° par rapport à la vue transversale",
           "[Position 2] Tout en conservant l'orientation de sonde utilisée au niveau du tibia distal (longitudinal), déplacer la sonde au niveau de l'insertion du premier cuéiforme médial",
@@ -173,7 +173,7 @@
           "Évaluation de l'intégrité du tendon du tibial antérieur",
           "Observer les sites d'insertion (distale) du tibial antérieur"
         ],
-        "parametres": ["Profondeur : 2 cm", "Gain : 80", "G/3/2"],
+        "parametres": ["Profondeur : 2 cm", "Gain : 80"],
         "positionnement": [
           "Placer la sonde sur l'aspect antérieur de la cheville, de manière à chevaucher l'espace articulaire tibio-talaire (au niveau de l'extrémité distale du tibia), et orienter la sonde dans l'axe court (transversal, perpendiculaire au long axe) du tendon du muscle tibial antérieur"
         ],

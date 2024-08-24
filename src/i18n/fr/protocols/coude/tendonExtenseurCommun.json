@@ -81,7 +81,7 @@
         "title": "Vue Longitudinale",
         "source": "/Protocols/tendonExtenseurCommun/vueLongitudinale/",
         "objectifs": ["Observation du tendon extenseur commun"],
-        "parametres": ["Profondeur : 3 cm", "Gain : 60", "G/3/2"],
+        "parametres": ["Profondeur : 3 cm", "Gain : 60"],
         "positionnement": [
           "Tel que démontré dans l'image ci-jointe, en vue longitudinale (presque parallèle au long axe de l'avant-bras), placer l'extrémité proximale de la sonde sur l'épicondyle externe",
           "Si nécessaire, appliquer une légère rotation à la sonde afin que celle-ci soit le plus possible parallèle au sens des fibres du tendon extenseur commun"

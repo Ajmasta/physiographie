@@ -131,7 +131,7 @@
         "objectifs": [
           "Pédagogique : Observation de la région de la jonction entre les gastrocnémiens et le soléaire"
         ],
-        "parametres": ["Profondeur : 6 cm", "Gain : 55-60", "G/3/3"],
+        "parametres": ["Profondeur : 6 cm", "Gain : 55-60"],
         "positionnement": [
           "Placer la sonde en vue longitudinale (alignée avec l’axe long de la jambe), au point du mollet où le galbe est le plus large (environ 5-10 cm en crânial du point où les deux chefs du gastrocnémiens se fusionnent)",
           "Déplacer la sonde légèrement en médial, afin de recouvrir exclusivement le chef médial du gastrocnémien (et non pas dans la zone où les deux chefs de chevauchent)"
@@ -171,7 +171,7 @@
         "objectifs": [
           "Pédagogique : Observation de la région de la jonction entre les gastrocnémiens et le soléaire"
         ],
-        "parametres": ["Profondeur : 6 cm", "Gain : 55-60", "G/3/3"],
+        "parametres": ["Profondeur : 6 cm", "Gain : 55-60"],
         "positionnement": [
           "Tourner la sonde de 90° par rapport à la vue longitudinale"
         ],

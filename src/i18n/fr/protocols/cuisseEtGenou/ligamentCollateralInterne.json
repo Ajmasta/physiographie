@@ -78,7 +78,7 @@
           "Examen des deux portions du ligament collatéral interne",
           "Si possible (selon l'équipement et l'anatomie du sujet), visualisation du ménisque interne"
         ],
-        "parametres": ["Profondeur : 2 cm", "Gain : 80", "G/3/3"],
+        "parametres": ["Profondeur : 2 cm", "Gain : 80"],
         "positionnement": [
           "En vue longitudinale (par rapport au trajet du ligament collatéral interne), placer la sonde au-dessus de ce dernier",
           "Pour guider l'angle de rotation nécessaire, il est possible de débuter avec un axe presque parallèle à celui formé par la diaphyse fémorale (voir l'image ci-contre), et d'ensuite ajuster l'angle de rotation jusqu'à l'obtention d'une image adéquate"

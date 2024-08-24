@@ -1,10 +1,9 @@
 import React from "react";
 import TextGenerator from "../TextGenerator";
-import VueSection, { Vue } from "./VueSection";
 import Collapse from "../Collapse";
 import ImageViewer from "./ImageViewer";
 import { Images } from "../../interfaces/protocol";
-import VueDiaphragmeSection from "./VueDiaphragmeSection";
+import VueDiaphragmeSection, { VueDiaphragm } from "./VueDiaphragmeSection";
 
 interface Subsection {
   title: string;
@@ -25,7 +24,7 @@ interface Content {
 }
 type Props = {
   content: Content[];
-  vues?: Vue[];
+  vues?: VueDiaphragm[];
   applicationDynamique?: ApplicationDynamique;
 };
 

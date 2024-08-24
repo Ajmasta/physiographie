@@ -82,7 +82,7 @@
         "title": "Vue Longitudinale",
         "source": "/Protocols/SousScapulaire/vueLongitudinale/",
         "objectifs": ["Examen du tendon du sous-scapulaire"],
-        "parametres": ["Profondeur : 3-4 cm", "Gain : 70-75", "D/4/2"],
+        "parametres": ["Profondeur : 3-4 cm", "Gain : 70-75"],
         "positionnement": [
           "Placer la sonde en vue longitudinale au niveau du sillon intertuberculaire",
           "Balayer la sonde de haut en bas afin de couvrir l'ensemble de la superficie du sous-scapulaire et de son tendon (puisque ces structures couvrent une superficie supérieure à la largeur du transducteur)  <a href='#ref1' class='reference'>[1]</a> <a href='#ref5' class='reference'>[5]</a>"
@@ -154,7 +154,7 @@
         "objectifs": [
           "Observer la structure multipennée du muscle sous-scapulaire"
         ],
-        "parametres": ["Profondeur : 3-4 cm", "Gain : 70-74", "F/1/3"],
+        "parametres": ["Profondeur : 3-4 cm", "Gain : 70-74"],
         "positionnement": [
           "Tourner la sonde de 90° par rapport à la vue longitudinale"
         ],
@@ -174,7 +174,7 @@
               {
                 "acronymes": ["D"],
                 "texte": [
-                  "Le grand pectoral, épaisse couche hypoéchoïque, apparaît au haut de l'image"
+                  "Le deltoïde, épaisse couche hypoéchoïque, apparaît au haut de l'image"
                 ]
               },
               {

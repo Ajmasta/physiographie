@@ -105,7 +105,7 @@
         "title": "Vue Longitudinale",
         "source": "/Protocols/bandeletteIlioTibiale/vueLongitudinale/",
         "objectifs": ["Examen de la bandelette ilio-tibiale"],
-        "parametres": ["Profondeur : 2 cm", "Gain : 70", "G/3/3"],
+        "parametres": ["Profondeur : 2 cm", "Gain : 70"],
         "positionnement": [
           "En vue longitudinale (parallèle au long axe du fémur), placer l'extrémité distale (caudale) de la sonde sur le tubercule de Gerdy",
           "Aligner l'extrémité proximale (crâniale) de manière à ce que la sonde ait une orientation parallèle au long axe de la diaphyse fémorale",

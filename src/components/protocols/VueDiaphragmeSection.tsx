@@ -1,6 +1,6 @@
 import React from "react";
 import ImageViewer from "./ImageViewer";
-import { FaBook, FaCheck, FaCrosshairs, FaRegUser } from "react-icons/fa6";
+import { FaCrosshairs, FaRegUser } from "react-icons/fa6";
 import { FaCog, FaRegListAlt, FaSearch } from "react-icons/fa";
 import TextGenerator from "../TextGenerator";
 import Collapse from "../Collapse";
@@ -18,8 +18,7 @@ interface IdentificationItem {
   imageIdentification: Images[];
 }
 
-export interface Vue {
-  objectifs: (string | string[])[];
+export interface VueDiaphragm {
   parametres: (string | string[])[];
   positionnement: (string | string[])[];
   positionnementPatient: (string | string[])[];
@@ -33,7 +32,7 @@ export interface Vue {
   video: Images;
 }
 type Props = {
-  vue: Vue;
+  vue: VueDiaphragm;
 };
 
 const VueDiaphragmeSection = ({ vue }: Props) => {
@@ -43,33 +42,6 @@ const VueDiaphragmeSection = ({ vue }: Props) => {
         <span id={vue.title} className="absolute" style={{ top: "-110px" }} />
 
         <div className="mt-2 bg-white">
-          <div className="flex flex-row items-center">
-            <FaCheck size={18} className="mr-2" />
-            <p
-              className="text-xl font-semibold "
-              style={{ fontVariant: "small-caps" }}
-            >
-              Objectifs
-            </p>
-          </div>
-          <ul className="ml-12">
-            {vue.objectifs?.map((objectif) =>
-              Array.isArray(objectif) ? (
-                <ul className="ml-4">
-                  {objectif.map((item) => (
-                    <li>
-                      <TextGenerator span text={item} />
-                    </li>
-                  ))}
-                </ul>
-              ) : (
-                <li>
-                  <TextGenerator span text={objectif} />
-                </li>
-              )
-            )}
-          </ul>
-
           <div className="flex flex-row items-center">
             <FaCog size={18} className="mr-2" />
             <p

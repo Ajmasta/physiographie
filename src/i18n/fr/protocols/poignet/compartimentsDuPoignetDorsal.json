@@ -90,7 +90,7 @@
         "objectifs": [
           "Observation de la disposition des différents compartiments dorsaux et de leur contenu"
         ],
-        "parametres": ["Profondeur : 2 cm", "Gain : 70", "G/3/3"],
+        "parametres": ["Profondeur : 2 cm", "Gain : 70"],
         "positionnement": [
           "Compartiment 1 : Placer la sonde en vue transversale (perpendiculaire au long axe de l'avant-bras) sur l'aspect latéral du radius, approximativement au niveau de la styloïde radiale, puis balayer lentement en proximal et en distal",
           "Compartiment 2 : Déplacer la sonde sur l'aspect dorsal du poignet, de manière à ce que centre de la sonde soit légèrement en médial (ulnaire) de la styloïde radiale",

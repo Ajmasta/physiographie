@@ -85,7 +85,7 @@
         "objectifs": [
           "Pédagogique : Observation de l'anatomie de l'avant-pied, plus particulièrement des orteils"
         ],
-        "parametres": ["Profondeur : 1 cm", "Gain : 70", "G/3/3"],
+        "parametres": ["Profondeur : 1 cm", "Gain : 70"],
         "positionnement": [
           "Placer la sonde le long axe de l'orteil, en s'assurant de recouvrir les trois phalanges (ce qui pourrait ne pas être possible en fonction de la morphologie du sujet et de la dimension, ou footprint, de la sonde).",
           "Balayer lentement en proximal des phalanges afin de pouvoir observer l'articulation métatarso-phalangienne et l'os métatarsien."

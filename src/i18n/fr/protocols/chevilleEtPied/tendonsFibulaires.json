@@ -70,7 +70,7 @@
         "title": "Vue Longitudinale",
         "source": "/Protocols/tendonsFibulaires/vueLongitudinale/",
         "objectifs": ["Évaluer l'intégrité des tendons fibulaires"],
-        "parametres": ["Profondeur : 2 cm", "Gain : 80", "G/3/2"],
+        "parametres": ["Profondeur : 2 cm", "Gain : 80"],
         "positionnement": [
           "Tourner la sonde de 90° par rapport à la vue transversale",
           "Alternativement, on peut imaginer deux droites : une dans l'axe longitundial de la sonde, et une autre tangentielle à l'aspect dorsal du pied. Ces deux droites devraient être approximativement parallèles.",
@@ -134,7 +134,7 @@
           "Évaluation de l'intégrité des tendons fibulaires et de leurs gaines synoviales",
           "Évaluation de la stabilité des tendons fibulaires lors de mouvements de circomduction, d'éversion et extension de cheville"
         ],
-        "parametres": ["Profondeur : 2 cm", "Gain : 80", "G/3/2"],
+        "parametres": ["Profondeur : 2 cm", "Gain : 80"],
         "positionnement": [
           "Placer la sonde sur l'aspect latéral de la cheville, de manière à recouvrir l'extrémité postéro-inférieure de la malléole latérale et l'extrémité supérieure (crâniale) du calcanéum",
           "On peut imaginer deux droites : une dans l'axe longitundial de la sonde, et une autre tangentielle à l'aspect dorsal du pied. L'angle formé par ces deux droites devrait s'approcher de 90°",

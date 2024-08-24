@@ -70,7 +70,7 @@
         "title": "Vue Longitudinale",
         "source": "/Protocols/ligamentCollateralExterne/vueLongitudinale/",
         "objectifs": ["Examen du ligament collatéral externe"],
-        "parametres": ["Profondeur : 2 cm", "Gain : 80", "G/3/3"],
+        "parametres": ["Profondeur : 2 cm", "Gain : 80"],
         "positionnement": [
           "En vue longitudinale (parallèle au long axe du tibia), placer l'extrémité distale (caudale) de la sonde sur la tête de la fibula",
           "Tourner lentement la sonde jusqu'à obtention d'une image du LCE aussi allongée que possible, c.-à-d. quand la sonde sera superposée avec le ligament de manière optimale<a href='#ref1' class='reference'>[1]</a>"

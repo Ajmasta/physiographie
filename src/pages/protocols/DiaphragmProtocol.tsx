@@ -7,10 +7,10 @@ import LinkList from "../../components/protocols/LinkList";
 import ReferenceList from "../../components/protocols/ReferenceList";
 import Collapse from "../../components/Collapse";
 import {
-  ProtocolSections,
-  ProtocolData,
+  ProtocolDataDiaphragm,
   Technique,
   ProtocolKeys,
+  ProtocolSectionsDiaphragm,
 } from "../../interfaces/protocol";
 import { ScrollRestoration } from "react-router-dom";
 import ListTextSectionDiaphragme from "../../components/protocols/ListTextSectionDiaphragme";
@@ -24,17 +24,17 @@ interface ContentItem {
 // Type guard functions
 
 function hasContent(
-  section: ProtocolSections
-): section is ProtocolSections & { content: ContentItem[] } {
+  section: ProtocolSectionsDiaphragm
+): section is ProtocolSectionsDiaphragm & { content: ContentItem[] } {
   return Array.isArray(section.content);
 }
 
-function hasVues(section: ProtocolSections): section is Technique {
+function hasVues(section: ProtocolSectionsDiaphragm): section is Technique {
   return "vues" in section;
 }
 
 function hasApplicationDynamique(
-  section: ProtocolSections
+  section: ProtocolSectionsDiaphragm
 ): section is Technique {
   return "applicationDynamique" in section;
 }
@@ -46,7 +46,7 @@ export interface SectionEntry {
 }
 
 interface Props {
-  protocolData: ProtocolData;
+  protocolData: ProtocolDataDiaphragm;
 }
 const DiaphragmProtocol = ({ protocolData }: Props) => {
   const [activeSection, setActiveSection] = useState("");
@@ -58,7 +58,7 @@ const DiaphragmProtocol = ({ protocolData }: Props) => {
       let subtitlesVues: string[] = [];
       let subtitleAppDynamic;
 
-      const section: ProtocolSections = protocolData[key];
+      const section: ProtocolSectionsDiaphragm = protocolData[key];
 
       if (section && hasContent(section)) {
         if ("content" in section) {

@@ -33,7 +33,7 @@
           "Examen du tendon du long chef du biceps brachial",
           "Examen du ligament transverse huméral"
         ],
-        "parametres": ["Profondeur: 3-4cm", "Gain: 70-75", "D/4/2"],
+        "parametres": ["Profondeur: 3-4cm", "Gain: 70-75"],
         "positionnement": [
           "Placer la sonde en vue transversale au niveau du sillon intertuberculaire"
         ],
@@ -125,7 +125,7 @@
             "Recherche d'un accrochage du tendon du long chef du biceps brachial au niveau de l'espace acromiohuméral"
           ]
         ],
-        "parametres": ["Profondeur: 3-4cm", "Gain: 70-75", "D/4/2"],
+        "parametres": ["Profondeur: 3-4cm", "Gain: 70-75"],
         "positionnement": [
           "Tourner la sonde de 90° par rapport à la vue transversale",
           "Le trajet du tendon suit la métaphyse humérale, ce qui engendre des zones d'anisotropie",
