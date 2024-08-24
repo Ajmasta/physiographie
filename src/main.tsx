@@ -47,6 +47,7 @@ import CanalTarsien from "./i18n/fr/protocols/chevilleEtPied/canalTarsien.json";
 import LigamentTaloFibulaireAnterieur from "./i18n/fr/protocols/chevilleEtPied/ligamentTaloFibulaireAnterieur.json";
 import FasciaPlantaire from "./i18n/fr/protocols/chevilleEtPied/fasciaPlantaire.json";
 import Orteils from "./i18n/fr/protocols/chevilleEtPied/orteils.json";
+import Diaphragm from "./i18n/fr/protocols/diaphragme/Diaphragme.json";
 
 import Theorie from "./pages/theorie/Theorie";
 import Terminologie from "./pages/theorie/Terminologie";
@@ -55,6 +56,7 @@ import Technique from "./pages/theorie/Technique";
 import Avantages from "./pages/theorie/Avantages";
 import ProtocolIntro from "./pages/protocols/ProtocolIntro";
 import Equipe from "./pages/Equipe";
+import DiaphragmProtocol from "./pages/protocols/DiaphragmProtocol";
 
 const router = createBrowserRouter([
   {
@@ -437,6 +439,15 @@ const router = createBrowserRouter([
       <>
         <NavigationBar />
         <Protocol protocolData={Orteils} />
+      </>
+    ),
+  },
+  {
+    path: "protocoles/diaphragme/diaphragme",
+    element: (
+      <>
+        <NavigationBar />
+        <DiaphragmProtocol protocolData={Diaphragm} />
       </>
     ),
   },

@@ -1,0 +1,621 @@
+{
+  "title": "Diaphragme",
+  "latinName": "diaphragma",
+  "normesEtGeneralites": {
+    "sectionTitle": "Généralités",
+    "generalites": {
+      "sectionTitle": "Généralités",
+      "rangees": [
+        [
+          { "data": "Type de muscle", "header": true },
+          {
+            "data": "Muscle composé d’une cloison musculo-aponévrotique en forme de dôme concave vers le bas séparant le thorax de l’abdomen "
+          }
+        ],
+        [
+          { "data": "Origine", "header": true },
+          {
+            "data": "Centre phrénique du diaphragme, composé de deux coupoles diaphragmatiques asymétriques dont les sommets, plus haut à droite, se trouvent au niveau du 4e ou 5e espace intercostal et, à gauche, au niveau du 5e ou 6e espace intercostal "
+          }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          {
+            "data": "Processus xiphoïde, surfaces internes du 7e au 12e cartilage costal, bords médial et latéral du ligament arqué du diaphragme et de la 1ére à la 3e vertèbre lombaire. La portion du diaphragme en contact avec le gril costal est appelée la zone d’apposition (ZOA) située entre les 8e et 10e espaces intercostaux de la ligne axillaire moyenne ou antéro-axillaire "
+          }
+        ],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Nerf phrénique (C3-C5)" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "vues": [
+      {
+        "title": "Vue à la zone d'apposition (ZOA)",
+        "source": "/Protocols/diaphragme/",
+        "parametres": [
+          "Profondeur: 1.5-3cm",
+          "Sonde: Linéaire",
+          "Fréquence:7-18MHz",
+          "Mode: B et/ou M"
+        ],
+        "positionnementPatient": [
+          "Debout, assis, semi-assis ou décubitus dorsal",
+          "Les résultats dépendent du positionnement du patient; il a été démontré que l’épaisseur diaphragmatique est plus grande dans les positions debout et assise comparée au décubitus dorsal <a href='#ref2' class='reference'>[2]</a>. ",
+          "Le décubitus dorsal est favorisé pour sa meilleure reproductibilité et moins de variabilité <a href='#ref1' class='reference'>[1]</a>. ",
+          "Le ratio d’épaississement n’est pas différent entre la position assise, debout et en décubitus dorsal <a href='#ref2' class='reference'>[2]</a>. "
+        ],
+        "positionnement": [
+          "Orientation longitudinale",
+          "Au niveau du 8e ou 9e espace intercostal entre la ligne mi-axillaire et la ligne antéro-axillaire  "
+        ],
+        "imagePositionnement": [
+          {
+            "path": "imageSujet1.jpg",
+            "descriptionText": "8EIC : 8e espace intercostal, 9 EIC : 9e espace intercostal, LAA : ligne antéro-axillaire, LMA : ligne mi-axillaire   "
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["C"],
+                "texte": ["Ombrage de la côte"]
+              },
+              {
+                "acronymes": ["Ca"],
+                "texte": ["Direction caudale"]
+              },
+              {
+                "acronymes": ["Cr"],
+                "texte": ["Direction crâniale"]
+              },
+              {
+                "acronymes": ["D"],
+                "texte": ["Diaphragme"]
+              },
+              {
+                "acronymes": ["F"],
+                "texte": ["Foie"]
+              },
+              {
+                "acronymes": ["IC"],
+                "texte": ["Muscles intercostaux"]
+              },
+              {
+                "acronymes": ["Pé"],
+                "texte": ["Péritoine"]
+              },
+              {
+                "acronymes": ["Pl"],
+                "texte": ["Plèvre "]
+              }
+            ],
+            "imageIdentification": [
+              {
+                "path": "identificationZOA1.jpg",
+                "descriptionText": "En mode B lorsque le diaphragme est en fin expiration"
+              },
+              {
+                "path": "identificationZOA2.jpg",
+                "descriptionText": "En mode B lorsque le diaphragme est en fin d'inspiration"
+              },
+              {
+                "path": "identificationZOA3.jpg",
+                "descriptionText": "En mode M durant le cycle respiratoire"
+              }
+            ]
+          }
+        ],
+        "video": {
+          "path": "zonedApposition.mp4"
+        },
+        "valeursRefPathologies": [
+          "Épaisseur diaphragmatique et dysfonction diaphragmatique :",
+          [
+            "Une différence entre l’hémidiaphragme gauche et droite de 0.33 cm est anormale  <a href='#ref3' class='reference'>[3]</a>. ",
+            "Une épaisseur à CRF < 0.2 cm ET un épaississement < 20 % sont indicatifs d’une paralysie diaphragmatique  <a href='#ref8' class='reference'>[8]</a>.",
+            "Dans un cas de paralysie diaphragmatique chronique, l’épaisseur diaphragmatique est < 0.2 cm, alors que dans un cas de paralysie diaphragmatique aigu, l’épaisseur ne sera pas nécessairement affectée  <a href='#ref9' class='reference'>[9]</a>. "
+          ],
+          "Sevrage du ventilateur mécanique aux soins intensifs :",
+          [
+            "Valeurs du seuil de fraction d’épaississement, mesurée à l’hémidiaphragme D, pour extuber avec succès : ",
+            "> 36% avec une sensibilité de 0.82, une spécificité de 0.88, une valeur prédictive positive de 0.92 et prédictive négative de 0.75 <a href='#ref10' class='reference'>[10]</a>",
+            "≥ 26% avec une sensibilité de 0.96, une spécificité de 0.68, une valeur prédictive positive de 0.89 et prédictive négative de 0.86 <a href='#ref11' class='reference'>[11]</a>"
+          ],
+          "Relation entre l’épaisseur diaphragmatique et le succès d’extubation, issue des soins critiques canadiens <a href='#ref12' class='reference'>[12]</a> :",
+          [
+            "Après 4 jours de ventilation mécanique, 40% des patients ventilés présentent une diminution de l’épaisseur diaphragmatique, et en conséquence, une diminution du taux de réussite du sevrage ventilatoire <a href='#ref8' class='reference'>[8]</a>.",
+            "En contrepartie, certains patients ventilés présentent une augmentation de l’épaisseur diaphragmatique, et en conséquence, une diminution du taux de réussite du sevrage ventilatoire <a href='#ref12' class='reference'>[12]</a>.",
+            "L’augmentation de l’épaisseur diaphragmatique durant la ventilation n’a pas encore été expliqué, mais un grand effort inspiratoire était associé à l’augmentation de l’épaisseur diaphragmatique <a href='#ref12' class='reference'>[12]</a>.",
+            "D’autres études ont noté une relation linéaire entre l’épaisseur diaphragmatique et le succès de sevrage ventilatoire <a href='#ref8' class='reference'>[8]</a>. "
+          ],
+          "Élastographie (kPa) chez MPOC :",
+          [
+            "CRF: 33.25 ± 10.76, CPT: 35.83 ± 8.64  <a href='#ref7' class='reference'>[7]</a> "
+          ],
+          "Dépistage pré-opératoire de chirurgie cardiaque : ",
+          [
+            "Une fraction d’épaississement < 38.1% est un facteur prédictif de complications pulmonaires post-opératoires <a href='#ref13' class='reference'>[13]</a>. "
+          ]
+        ],
+        "normes": [
+          [
+            { "data": "Mesure", "header": true },
+            { "data": "Position", "header": true },
+            { "data": "Valeur et écart type", "header": true },
+            { "data": "Écart", "header": true },
+            { "data": "Limite inférieure de la normalité ", "header": true }
+          ],
+          [
+            {
+              "data": "Géométrique: <br /> Épaisseur statique (cm)",
+              "rowspan": 5
+            },
+            {
+              "data": "Décubitus dorsal <a href='#ref3' class='reference'>[3]</a>",
+              "rowspan": 5
+            },
+            {
+              "data": "<span class='cell-centered'>Hémidiaphragme D à CRF </span>",
+              "colspan": 3
+            }
+          ],
+          [
+            { "data": "♂: 0.38 ± 0.15 <br /> ♀: 0.27 ± 0.1  " },
+            { "data": "♂: (0.16 – 0.76) <br /> ♀: (0.13 – 0.53) " },
+            { "data": "" }
+          ],
+          [
+            {
+              "data": "<span class='cell-centered'>Hémidiaphragme G à CRF </span>",
+              "colspan": 3
+            }
+          ],
+          [
+            { "data": "♂: 0.37 ± 0.17  <br /> ♀: 0.31 ± 0.19   " },
+            { "data": "♂: (0.12 – 0.8) <br /> ♀: (0.12 – 1.18) " },
+            { "data": "" }
+          ],
+          [
+            {
+              "data": "Une différence de 0.33 entre les hémidiaphragmes devrait être considérée anormale <a href='#ref3' class='reference'>[3]</a> ",
+              "colspan": 3
+            }
+          ],
+          [
+            {
+              "data": "Géométrique: <br /> Ratio d’épaississement (épaisseur CPT/ épaisseur CRF)",
+              "rowspan": 4
+            },
+            {
+              "data": "Décubitus dorsal <a href='#ref3' class='reference'>[3]</a>",
+              "rowspan": 4
+            },
+            {
+              "data": "<span class='cell-centered'>Hémidiaphragme D </span>",
+              "colspan": 3
+            }
+          ],
+          [
+            { "data": "♂: 1.8 ± 0.5 <br /> ♀: 1.8 ± 0.5  " },
+            { "data": "♂: (1.17 – 3.9) <br /> ♀: (1.1 – 3.6) " },
+            { "data": "" }
+          ],
+          [
+            {
+              "data": "<span class='cell-centered'>Hémidiaphragme G</span>",
+              "colspan": 3
+            }
+          ],
+          [
+            { "data": "♂: 2.0 ± 0.5   <br /> ♀: 1.9 ± 0.5   " },
+            { "data": "♂: (1.1 – 3.5) <br /> ♀: (1.1 – 4.2)" },
+            { "data": "" }
+          ],
+          [
+            {
+              "data": "Géométrique: <br /> Fraction d’épaississement (% = (épaisseur CPT - épaisseur CRF) / épaisseur CRF x 100)",
+              "rowspan": 5
+            },
+            {
+              "data": "Debout <a href='#ref4' class='reference'>[4]</a>",
+              "rowspan": 2
+            },
+            {
+              "data": "<span class='cell-centered'>Hémidiaphragme D </span>",
+              "colspan": 3
+            }
+          ],
+          [{ "data": "174 " }, { "data": "(151 – 197) " }, { "data": "" }],
+          [
+            {
+              "data": "Assis <a href='#ref4' class='reference'>[4]</a> "
+            },
+            { "data": "97" },
+            { "data": "( 83 – 110) " },
+            { "data": "" }
+          ],
+          [
+            {
+              "data": "Semi-assis <a href='#ref5' class='reference'>[5]</a> "
+            },
+            { "data": "♂: 204 ± 62   <br /> ♀: 170 ± 44   " },
+            { "data": "" },
+            { "data": "♂: 80 <br /> ♀: 82" }
+          ],
+          [
+            {
+              "data": "Décubitus dorsal  <a href='#ref4' class='reference'>[4]</a>"
+            },
+            { "data": "65" },
+            { "data": "(61 – 69)" },
+            { "data": "" }
+          ],
+          [
+            {
+              "data": "Échogénicité: sur une échelle de 0-255  <a href='#ref6' class='reference'>[6]</a> * "
+            },
+            { "data": "" },
+            { "data": "♂: 70.4 ± 13.5 **  <br /> ♀: 72.3 ±15.0 ** " },
+            { "data": "" },
+            { "data": "" }
+          ],
+          [
+            { "data": "Élastographie / Shear modulus (kPa)", "rowspan": 2 },
+            {
+              "data": "Décubitus dorsal  <a href='#ref7' class='reference'>[7]</a>",
+              "rowspan": 2
+            },
+            {
+              "data": "<span class='cell-centered'>Hémidiaphragme D </span>",
+              "colspan": 3
+            }
+          ],
+          [
+            { "data": "CRF: 38.49 ± 9.42  <br /> CPT: 51.84 ±16.83   " },
+            { "data": "" },
+            { "data": "" }
+          ]
+        ]
+      },
+
+      {
+        "title": "Vue subcostale antérieure",
+        "source": "/Protocols/diaphragme/",
+        "parametres": [
+          "Profondeur: 1.5-3cm",
+          "Sonde: Curvilinéaire",
+          "Fréquence: 2.5-5.0MHz <a href='#ref1' class='reference'>[1]</a>",
+          "Mode: Pour repérage du diaphragme : B, Pour mesure : M "
+        ],
+        "positionnement": [
+          "Orientation transversale",
+          "Placement sous le gril costal entre la ligne mi-claviculaire et la ligne axillaire antérieure",
+          "Direction des ondes en postérieure, médiale et crâniale"
+        ],
+        "positionnementPatient": [
+          "Debout, assis, semi-assis ou décubitus dorsal",
+          "Les résultats dépendent du positionnement du patient; il a été démontré que l’excursion en décubitus dorsal est plus grande que dans la position assise ou debout <a href='#ref15' class='reference'>[15]</a>. "
+        ],
+        "imagePositionnement": [
+          {
+            "path": "identificationSubcostal.jpg",
+            "descriptionText": "LAA: ligne axillaire antérieure, LMC: ligne médio-claviculaire (LMC)"
+          }
+        ],
+        "video": {
+          "path": "vueSubcostale.mp4"
+        },
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["De"],
+                "texte": ["Diaphragme en fin expiration"]
+              },
+              {
+                "acronymes": ["Di"],
+                "texte": ["Diaphragme en fin inspiration"]
+              },
+              {
+                "acronymes": ["F"],
+                "texte": ["foie"]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identificationSubcostal1.jpg", "descriptionText": "" },
+              { "path": "identificationSubcostal2.jpg", "descriptionText": "" },
+              { "path": "identificationSubcostal3.jpg", "descriptionText": "" }
+            ]
+          }
+        ],
+        "valeursRefPathologies": [
+          "Excursion: Paralysie/Dysfonction diaphragmatique",
+          [
+            "À volume courant, en présence de paralysie , on ne trouve aucun mouvement ou un mouvement paradoxal (crânial) ≤ 0.5cm de l’hémidiaphragme atteint  <a href='#ref8' class='reference'>[8]</a>. ",
+            "À respiration profonde (CRF → CPT), on peut observer un mouvement paradoxal (crânial) ≥ 0.1cm de l’hémidiaphragme atteint  <a href='#ref8' class='reference'>[8]</a>. ",
+            "L’hémidiaphragme sain chez un sujet avec une paralysie diaphragmatique peut avoir une augmentation de l’excursion par rapport à la valeur normative d’un patient contrôle  <a href='#ref8' class='reference'>[8]</a>. "
+          ]
+        ],
+        "normes": [
+          [
+            { "data": "Mesure", "header": true },
+            { "data": "Position", "header": true },
+            { "data": "Valeur et écart type", "header": true },
+            { "data": "Écart", "header": true },
+            { "data": "Limite inférieure de la normalité ", "header": true }
+          ],
+          [
+            {
+              "data": "Vélocité (cm/s)",
+              "rowspan": 5
+            },
+            {
+              "data": "<span class='cell-centered'>Hémidiaphragme D </span>",
+              "colspan": 4
+            }
+          ],
+          [
+            { "data": "Assis <a href='#ref16' class='reference'>[16]</a>" },
+            { "data": "♂: 1.93 ± 0.76  <br /> ♀: 1.75 ± 0.6" },
+            { "data": "" },
+            { "data": "" }
+          ],
+          [
+            {
+              "data": "Semi-assis à 30 -45⁰ <a href='#ref17' class='reference'>[17]</a>"
+            },
+            { "data": "♂ et ♀ : 1,3 ± 0,4 " },
+            { "data": "" },
+            { "data": "" }
+          ],
+          [
+            {
+              "data": "<span class='cell-centered'>Hémidiaphragme G </span>",
+              "colspan": 4
+            }
+          ],
+          [
+            { "data": "Assis <a href='#ref16' class='reference'>[16]</a>" },
+            { "data": "♂: 1.97 ± 0.57  <br /> ♀: 1.94 ± 0.72" },
+            { "data": "" },
+            { "data": "" }
+          ],
+          [
+            {
+              "data": "Géométrique: <br /> Excursion diaphragmatique à volume courant (cm) ",
+              "rowspan": 6
+            },
+            {
+              "data": "<span class='cell-centered'>Hémidiaphragme D </span>",
+              "colspan": 4
+            }
+          ],
+          [
+            { "data": "Debout <a href='#ref18' class='reference'>[18]</a>" },
+            { "data": "♂: 1.8 ± 0,3   <br /> ♀: 1.6 ± 0.3" },
+            { "data": "♂: (1.1 – 2.5) <br /> ♀: (1 – 2.2) " },
+            { "data": "" }
+          ],
+          [
+            { "data": "Semi-assis <a href='#ref5' class='reference'>[5]</a>" },
+            { "data": "♂: 1.5 ± 0.4    <br /> ♀: 1.4 ± 0.3" },
+            { "data": "" },
+            { "data": "♂: 0.7 <br /> ♀: 0.8" }
+          ],
+          [
+            {
+              "data": "Décubitus dorsal <a href='#ref19' class='reference'>[19]</a> "
+            },
+            { "data": "♂: 2.03 ± 0.57    <br /> ♀: 1.51 ± 0.37" },
+            { "data": "" },
+            { "data": "" }
+          ],
+          [
+            {
+              "data": "<span class='cell-centered'>Hémidiaphragme G</span>",
+              "colspan": 4
+            }
+          ],
+          [
+            { "data": "Debout <a href='#ref18' class='reference'>[18]</a>" },
+            { "data": "♂: 1.8 ± 0,4   <br /> ♀: 1.6 ± 0.4" },
+            { "data": "♂: (1 – 2.6) <br /> ♀: (0.9 – 2.4) " },
+            { "data": "" }
+          ],
+          [
+            {
+              "data": "Géométrique: <br /> Excursion diaphragmatique lors de la respiration profonde, VR à CPT (cm)",
+              "rowspan": 7
+            },
+            {
+              "data": "<span class='cell-centered'>Hémidiaphragme D </span>",
+              "colspan": 4
+            }
+          ],
+          [
+            { "data": "Debout <a href='#ref18' class='reference'>[18]</a>" },
+            { "data": "♂: 7.0 ± 1.1   <br /> ♀: 5.7 ± 1 " },
+            { "data": "♂: (4.7-9.2)  <br /> ♀: (3.6-7.7) " },
+            { "data": "♂: 4.7 <br /> ♀: 3.6 " }
+          ],
+          [
+            { "data": "Semi-assis <a href='#ref5' class='reference'>[5]</a>" },
+            { "data": "♂: 7.8 ± 0.8    <br /> ♀: 6.4 ± 1" },
+            { "data": "" },
+            { "data": "♂: 6.2 <br /> ♀: 4.4 " }
+          ],
+          [
+            {
+              "data": "Décubitus dorsal <a href='#ref15' class='reference'>[15]</a>"
+            },
+            { "data": "♂: 7.1 <br /> ♀: 6 " },
+            { "data": "♂: (6.5-8)  <br /> ♀: (5-7)" },
+            { "data": "" }
+          ],
+          [
+            {
+              "data": "<span class='cell-centered'>Hémidiaphragme G </span>",
+              "colspan": 4
+            }
+          ],
+          [
+            { "data": "Debout <a href='#ref18' class='reference'>[18]</a>" },
+            { "data": "♂: 7.5 ± 0.9    <br /> ♀: 6.4 ± 1" },
+            { "data": "♂: (5.6 – 9.3)   <br /> ♀: (4.3 – 8.4)" },
+            { "data": "♂: 5.6   <br /> ♀: 4.3" }
+          ],
+          [
+            {
+              "data": "Décubitus dorsal <a href='#ref15' class='reference'>[15]</a>"
+            },
+            { "data": "♂: 7.1   <br /> ♀: 6.2" },
+            { "data": "♂: (6.8 – 8.5)   <br /> ♀: (5.2 – 7.2)" },
+            { "data": "" }
+          ]
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomie Descriptive",
+    "content": [
+      {
+        "text": [
+          "Le diaphragme est le muscle principal de la respiration. La contraction du diaphragme peut être involontaire ou volontaire et son innervation provient du nerf phrénique (C3-C4-C5). Le diaphragme est composé principalement d’une cloison musculo-aponévrotique séparant le thorax de l’abdomen avec un allure de dôme concave vers le bas. Il origine du centre phrénique du diaphragme, composé de deux coupoles asymétriques dont les sommets, plus haut à droite, se trouvent au niveau du 4e ou 5e espace intercostal et à gauche au niveau du 5e ou du 6e espace intercostal. Il s’insère ensuite sur le processus xiphoïde, les surfaces internes du 7e au 12e cartilage costal, les bords médial et latéral du ligament arqué du diaphragme et de la 1ère à la 3e vertèbre lombaire.",
+          "Il y a une portion musculaire du diaphragme qui est en contact avec le grill costal; cette portion est appelée la zone d’apposition (ZOA). La ZOA est située entre les 8e et 10e espaces intercostaux, entre la ligne axillaire moyenne et antéro-axillaire. La partie supérieure du diaphragme est en contact avec la plèvre et le péricarde alors que la partie inférieure est accolée sur le péritoine. Sous l’hémidiaphragme droit, on retrouve le foie et le rien droit et sous l’hémidiaphragme gauche, on retrouve l’estomac, la rate, l’angle colique et le rein gauche.  "
+        ]
+      }
+    ],
+    "images": [
+      {
+        "path": "descriptionAnatomique.jpg",
+        "descriptionText": "Sarwal A, Walker FO, Cartwright MS. Neuromuscular ultrasound for evaluation of the diaphragm. Muscle Nerve. 2013;47(3):319-29. "
+      }
+    ],
+    "source": "/Protocols/diaphragme/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Pertinence Clinique",
+    "content": [
+      {
+        "subtitle": "Dysfonction diaphragmatique : ",
+        "text": [
+          "Suivi de la récupération de la fonction diaphragmatique <a href='#ref8' class='reference'>[8]</a>",
+          "La scoliose peut être source de dysfonction diaphragmatique et d’une atteinte de la fonction respiratoire <a href='#ref20' class='reference'>[20]</a>.",
+          "La paralysie diaphragmatique peut être de cause iatrogénique ou neurologique (AVC, lésion médulaire etc.) <a href='#ref14' class='reference'>[14]</a>. ",
+          "Le biofeedback peut être utilisé en traitement de la dysfonction diaphragmatique <a href='#ref20' class='reference'>[20]</a>. "
+        ]
+      },
+      {
+        "subtitle": "Patients ventilés mécaniquement / état critique : ",
+        "text": [
+          "Analyse de la fonction diaphragmatique <a href='#ref21' class='reference'>[21]</a>",
+          "Estimation du succès de sevrage d’assistance ventilatoire <a href='#ref22' class='reference'>[22]</a> "
+        ]
+      },
+      {
+        "subtitle": "Chirurgie cardiaque :",
+        "text": [
+          "Atteinte du nerf phrénique en post-opératoire de chirurgie cardiaque <a href='#ref21' class='reference'>[21]</a>",
+          "Mesure prédictive préopératoire pour des complications pulmonaires post opératoires (voir observation à la ZOA) dans les cas de chirurgie cardiaque <a href='#ref12' class='reference'>[12]</a> "
+        ]
+      },
+      {
+        "subtitle": "Évaluation du diaphragme chez les patients vivant avec une maladie pulmonaire obstructive chronique <a href='#ref1' class='reference'>[22]</a>",
+        "text": ["Suivi complémentaire à la fonction respiratoire"]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Liens et Références",
+    "voirAussi": {
+      "sectionTitle": "Voir aussi",
+      "content": [
+        {
+          "linkTitle": "Muscle abdominaux",
+          "link": "https://physiographie.ca/protocoles#tronc"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "Références",
+      "content": [
+        {
+          "text": "Santana PV, Cardenas LZ, Albuquerque ALP, Carvalho CRR, Caruso P. Diaphragmatic ultrasound: a review of its methodological aspects and clinical uses. J Bras Pneumol. 2020;46(6):e20200064."
+        },
+        {
+          "text": "Hellyer NJ, Bernstetter AS, Cieslak KR, Donahue GF, Steiner EA, et al. Comparison of diaphragm thickness measurements among postures via ultrasound imaging. PM&R. 2016;9(1):21-5."
+        },
+        {
+          "text": "Boon AJ, Harper CJ, Ghahfarokhi LS, Strommen JA, Watson JC, Sorenson EJ. Two-dimensional ultrasound imaging of the diaphragm: quantitative values in normal subjects. Muscle Nerve. 2013;47(6):884-9."
+        },
+        {
+          "text": "Brown C, Tseng SC, Mitchell K, Roddey T. Body Position Affects Ultrasonographic Measurement of Diaphragm Contractility. Cardiopulm Phys Ther J. 2018;29(4):166-72."
+        },
+        {
+          "text": "Cardenas LZ, Santana PV, Caruso P, Ribeiro de Carvalho CR, Pereira de Albuquerque AL. Diaphragmatic Ultrasound Correlates with Inspiratory Muscle Strength and Pulmonary Function in Healthy Subjects. Ultrasound Med Biol. 2018;44(4):786-93."
+        },
+        {
+          "text": "van Doorn JLM, Wijntjes J, Saris CGJ, Ottenheijm CAC, van Alfen N, Doorduin J. Association of diaphragm thickness and echogenicity with age, sex, and body mass index in healthy subjects. Muscle Nerve. 2022;66(2):197-202."
+        },
+        {
+          "text": "Sendur HN, Cerit MN, Sendur AB, Ozhan Oktar S, Yucel C. Evaluation of Diaphragm Thickness and Stiffness Using Ultrasound and Shear-Wave Elastography. Ultrasound Q. 2022;38(1):89-93."
+        },
+        {
+          "text": "Laghi FA, Jr., Saad M, Shaikh H. Ultrasound and non-ultrasound imaging techniques in the assessment of diaphragmatic dysfunction. BMC Pulm Med. 2021;21(1):85."
+        },
+        {
+          "text": "Boussuges A, Bregeon F, Blanc P, Gil JM, Poirette L. Characteristics of the paralysed diaphragm studied by M-mode ultrasonography. Clin Physiol Funct Imaging. 2019;39(2):143-9."
+        },
+        {
+          "text": "Ferrari G, De Filippi G, Elia F, Panero F, Volpicelli G, Apra F. Diaphragm ultrasound as a new index of discontinuation from mechanical ventilation. Crit Ultrasound J. 2014;6(1):8."
+        },
+        {
+          "text": "Pirompanich P, Romsaiyut S. Use of diaphragm thickening fraction combined with rapid shallow breathing index for predicting success of weaning from mechanical ventilator in medical patients. J Intensive Care. 2018;6:6."
+        },
+        {
+          "text": "Goligher EC, Dres M, Fan E, Rubenfeld GD, Scales DC, Herridge MS, et al. Mechanical Ventilation-induced Diaphragm Atrophy Strongly Impacts Clinical Outcomes. Am J Respir Crit Care Med. 2018;197(2):204-13."
+        },
+        {
+          "text": "Cavayas YA, Rodrigue É, Lamarche Y, Girard M, Wang HT, et al. Preoperative diaphragm function is associated with postoperative pulmonary complications after cardiac surgery. Critical Care Medicine. 2019;47(12)."
+        },
+        {
+          "text": "Wormser J, Le Neindre A. L’échographie du diaphragme: principes et intérêts pour le kinésithérapeute. Kinesither. 2017;17(182):66."
+        },
+        {
+          "text": "Boussuges A, Rives S, Finance J, Bregeon F. Assessment of diaphragmatic function by ultrasonography: Current approach and perspectives. World J Clin Cases. 2020;8(12):2408-24."
+        },
+        {
+          "text": "Boussuges A, Chaumet G, Boussuges M, Menard A, Delliaux S, Bregeon F. Ultrasound assessment of the respiratory system using diaphragm motion-volume indices. Front Med (Lausanne). 2023;10:1190891."
+        },
+        {
+          "text": "Soilemezi E, Tsagourias M, Talias MA, Soteriades ES, Makrakis V, Zakynthinos E, et al. Sonographic assessment of changes in diaphragmatic kinetics induced by inspiratory resistive loading. Respirology. 2013;18(3):468-73."
+        },
+        {
+          "text": "Boussuges A, Gole Y, Blanc P. Diaphragmatic motion studied by m-mode ultrasonography: methods, reproducibility, and normal values. Chest. 2009;135(2):391-400."
+        },
+        {
+          "text": "Scarlata S, Mancini D, Laudisio A, Benigni A, Antonelli Incalzi R. Reproducibility and Clinical Correlates of Supine Diaphragmatic Motion Measured by M-Mode Ultrasonography in Healthy Volunteers. Respiration. 2018;96(3):259-66."
+        },
+        {
+          "text": "Ellis R, Helsby J, Naus J, Bassett S, Fernandez-de-Las-Penas C, Carnero SF, et al. Exploring the use of ultrasound imaging by physiotherapists: An international survey. Musculoskelet Sci Pract. 2020;49:102213."
+        },
+        {
+          "text": "Fayssoil A, Mansencal N, Nguyen LS, Orlikowski D, Prigent H, Bergounioux J, et al. Diaphragm Ultrasound in Cardiac Surgery: State of the Art. Medicines (Basel). 2022;9(1)."
+        },
+        {
+          "text": "Lewinska A, Shahnazaryan K. The Use of Diaphragm Ultrasonography in Pulmonary Physiotherapy of COPD Patients: A Literature Review. J Clin Med. 2020;9(11)."
+        },
+        {
+          "text": "Sarwal A, Walker FO, Cartwright MS. Neuromuscular ultrasound for evaluation of the diaphragm. Muscle Nerve. 2013;47(3):319-29."
+        }
+      ]
+    }
+  }
+}

@@ -180,6 +180,7 @@
         "imagePositionnement": [{ "path": "positionnement1.jpg" }],
         "identification": [
           {
+            "title": "[Vue pour la cheville gauche]",
             "legend": [
               {
                 "acronymes": ["T"],

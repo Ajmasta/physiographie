@@ -1,10 +1,11 @@
 import React from "react";
 import ImageViewer from "./ImageViewer";
-import { FaCheck, FaCrosshairs } from "react-icons/fa6";
-import { FaCog, FaSearch } from "react-icons/fa";
+import { FaBook, FaCheck, FaCrosshairs, FaRegUser } from "react-icons/fa6";
+import { FaCog, FaRegListAlt, FaSearch } from "react-icons/fa";
 import TextGenerator from "../TextGenerator";
 import Collapse from "../Collapse";
 import { Images } from "../../interfaces/protocol";
+import Table, { TableCellData } from "./Table";
 
 interface LegendItem {
   acronymes: string[];
@@ -21,17 +22,21 @@ export interface Vue {
   objectifs: (string | string[])[];
   parametres: (string | string[])[];
   positionnement: (string | string[])[];
+  positionnementPatient: (string | string[])[];
   imagePositionnement: Images[];
   identification: IdentificationItem[];
+  valeursRefPathologies: (string | string[])[];
   source: string;
   title: string;
   extraText?: string[];
+  normes?: TableCellData[][];
+  video: Images;
 }
 type Props = {
   vue: Vue;
 };
 
-const VueSection = ({ vue }: Props) => {
+const VueDiaphragmeSection = ({ vue }: Props) => {
   return (
     <div className="relative text-lg leading-8">
       <Collapse title={vue.title} subtitle>
@@ -100,6 +105,23 @@ const VueSection = ({ vue }: Props) => {
           <ImageViewer images={vue.imagePositionnement} source={vue.source} />
           <div>
             <div className="flex flex-row items-center">
+              <FaRegUser size={18} className="mr-2" />
+              <p
+                className="text-xl font-semibold "
+                style={{ fontVariant: "small-caps" }}
+              >
+                Positionnement du patient
+              </p>
+            </div>
+            <ul className="ml-12">
+              {vue.positionnementPatient.map((conseil) => (
+                <li>
+                  <TextGenerator span text={conseil} />
+                </li>
+              ))}
+            </ul>
+
+            <div className="flex flex-row items-center">
               <FaSearch size={18} className="mr-2" />
               <p
                 className="text-xl font-semibold "
@@ -141,14 +163,55 @@ const VueSection = ({ vue }: Props) => {
                 );
               })}
             </div>
+            <div className="flex flex-row items-center">
+              <FaSearch size={18} className="mr-2" />
+              <p
+                className="text-xl font-semibold "
+                style={{ fontVariant: "small-caps" }}
+              >
+                Vidéo
+              </p>
+            </div>
+            <div className="flex justify-center w-full mb-4">
+              <video controls>
+                <source src={vue.source + vue.video.path} type="video/mp4" />
+              </video>
+            </div>
+          </div>
+          <div className="flex flex-row items-center mb-4">
+            <FaRegListAlt size={18} className="mr-2" />
+            <p
+              className="text-xl font-semibold"
+              style={{ fontVariant: "small-caps" }}
+            >
+              Valeurs normatives pour la zone d'apposition
+            </p>
           </div>
           {vue.extraText?.map((text) => (
             <TextGenerator text={text} />
           ))}
+          {vue.normes && <Table rows={vue.normes} />}
         </div>
+        <ul className="ml-12">
+          {vue.valeursRefPathologies?.map((valeur) =>
+            Array.isArray(valeur) ? (
+              <ul className="ml-4">
+                {valeur.map((item) => (
+                  <li>
+                    <TextGenerator span text={item} />
+                  </li>
+                ))}
+              </ul>
+            ) : (
+              <li>
+                <TextGenerator span text={valeur} classes="underline" />
+              </li>
+            )
+          )}
+        </ul>
       </Collapse>
     </div>
   );
 };
 
-export default VueSection;
+export default VueDiaphragmeSection;

@@ -151,12 +151,6 @@
                 "texte": [
                   "Le gastrocnémien (chef médial) apparaît immédiatement en superficie du soléaire (c.-à-d. en haut et à gauche de ce dernier), sous la forme d’une zone triangulaire à l’échotexture striée, typiquement musculaire. On peut également observer que l’orientation des fibres du gastrocnémien est profondément différente de celles du soléaire, d’où le fait que l’échotexture de ces deux régions soit si différente (voir la section Anatomie ci-haut)."
                 ]
-              },
-              {
-                "acronymes": ["P"],
-                "texte": [
-                  "Le muscle soléaire peut être observé tout juste au-dessus du tibia, que l’on peut décrire comme une épaisse zone hyperéchoïque dont les fibres musculaires incurvées sont aisément distinguables"
-                ]
               }
             ],
             "imageIdentification": [
@@ -165,10 +159,6 @@
               {
                 "path": "identification3.jpg",
                 "descriptionText": "Gastrocnémien (chef médial)"
-              },
-              {
-                "path": "identification4.jpg",
-                "descriptionText": "Muscle plantaire"
               },
               { "path": "identification5.jpg" }
             ]

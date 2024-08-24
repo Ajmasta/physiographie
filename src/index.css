@@ -20,7 +20,10 @@ ul {
   text-align: "left";
   padding: 2px;
 }
-
+.cell-centered {
+  display: flex;
+  justify-content: center;
+}
 .subsection-enter {
   opacity: 0;
   max-height: 0px;

@@ -78,8 +78,8 @@
         ],
         "parametres": ["Profondeur : 4 cm", "Gain : 60", "G/3/2"],
         "positionnement": [
-          "Tel que démontré dans l'image ci-jointe, en vue longitudinale oblique (presque parallèle au long axe du fémur), la sonde sur le col fémoral, soit légèrement en distal du grand trochanter [GT] (voire à la même hauteur, chez certains sujets)",
-          "Balayer ('scan') légèrement en proximal et en distal jusqu'à l'obtention d'une image optimale, c.-à-d. dans laquelle sont visibles la tête et le col fémoral"
+          "Placer la sonde en vue longitudinale légèrement oblique (presque parallèle au long axe de l’humérus) tout juste en distal de l’interligne articulaire du coude pour repérer la jonction myotendineuse du biceps distal qui plonge en profondeur à ce niveau. ",
+          "Balayer en glissant la sonde légèrement en distal et latéral jusqu’à la visualisation de la tubérosité radiale où s’insère le tendon. "
         ],
         "imagePositionnement": [{ "path": "positionnement1.jpg" }],
         "identification": [
@@ -106,7 +106,7 @@
               {
                 "acronymes": ["B"],
                 "texte": [
-                  "Le muscle brachial,zone légèrement hypoéchoïque dans le coin inférieur gauche de l'iamge, est partiellement visible sous le tendon du biceps brachial"
+                  "Le muscle brachial,zone légèrement hypoéchoïque dans le coin inférieur gauche de l'image, est partiellement visible sous le tendon du biceps brachial"
                 ]
               }
             ],
