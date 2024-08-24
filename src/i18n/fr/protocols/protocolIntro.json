@@ -135,6 +135,22 @@
       ]
     },
     {
+      "title": "Diaphragme",
+      "id": "diaphragme",
+      "subSections": [
+        {
+          "title": "Diaphragme",
+          "protocols": [
+            {
+              "title": "Diaphragme",
+              "link": "diaphragme/diaphragme"
+            }
+          ],
+          "image": "/Diaphragm.jpg"
+        }
+      ]
+    },
+    {
       "title": "Tronc",
       "id": "tronc",
       "subSections": [

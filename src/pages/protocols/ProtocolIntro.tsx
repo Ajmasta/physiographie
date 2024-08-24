@@ -33,7 +33,10 @@ const ProtocolIntro = () => {
             {section.subSections.map((subSection) => (
               <Collapse subtitle title={subSection.title}>
                 <div className="flex flex-col items-center md:flex-row">
-                  <img src={subSection.image} className="py-4 rounded-[50px]" />
+                  <img
+                    src={subSection.image}
+                    className="py-4 rounded-[50px] max-w-[269px]"
+                  />
                   <div className="flex flex-col gap-3 px-4 lg:flex-wrap">
                     {subSection.protocols.map((protocol) => (
                       <Link to={protocol.link}>
