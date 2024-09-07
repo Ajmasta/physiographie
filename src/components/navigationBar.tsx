@@ -84,11 +84,6 @@ export const NavigationBar = () => {
               })
             )}
           </ul>
-          <Link to="/equipe">
-            <p className="text-sm cursor-pointer md:text-lg text-slate-400">
-              L'équipe
-            </p>
-          </Link>
         </div>
       </div>
       <div className="w-full h-4 bg-physioBlue"></div>

@@ -12,5 +12,23 @@
       "title": "Par où commencer ?",
       "description": "Apprenez à qui est destiné Physiographie, les principes de navigation et d'utilisation du site et bien plus encore"
     }
-  }
+  },
+  "descriptionSection": [
+    {
+      "title": "Du nouveau sur Physiographie!",
+      "text": "Ouvert depuis l’été 2014, le site Physiographie célèbre ses 10 ans par une refonte du site Internet pour améliorer l’expérience de navigation et l’ajout progressif de nouveaux protocoles."
+    },
+    {
+      "title": "Qu’est-ce que Physiographie?",
+      "text": "Physiographie propose des protocoles d’imagerie par ultrasonographie et diverses informations pédagogiques afin de produire des images de qualité de structures anatomiques d’intérêt en physiothérapie. Il s’agit également d’un outil de transfert de connaissances qui recense l’anatomie descriptive et synthétise des valeurs normatives."
+    },
+    {
+      "title": "Pourquoi créer ce genre de site?",
+      "text": "Les physiothérapeutes emploient de plus en plus l’imagerie par ultrasonographie dans leur pratique clinique. Toutefois, l’offre de formation spécifique à la physiothérapie demeure limitée à ce jour. Afin de favoriser l’acquisition ou le maintien d’expertise relatif à l’imagerie par ultrasonographie, cet outil pédagogique : propose des paramètres d’imagerie; guide le clinicien pour le positionnement de la sonde d’ultrasonographie; identifie des structures d’intérêt sur des images d’ultrasonographie et complémente les protocoles par des informations pertinentes (mesures de résultats, valeurs normatives, etc.)"
+    },
+    {
+      "title": "L’équipe derrière Physiographie",
+      "text": "Ce projet est né d’une idée originale de Prof. Dany H. Gagnon, pht, Ph.D., alors professeur agrégé à l’École de réadaptation de la Faculté de médecine de l’Université de Montréal et chercheur au laboratoire de pathokinésiologie du Centre de recherche interdisciplinaire réadaptation du Montréal métropolitain (CRIR). Ce projet a démarré grâce à la participation de M. Philippe Paquette, pht alors stagiaire en recherche clinique au laboratoire de pathokinésiologie au laboratoire de pathokinésiologie du CRIR et M. Antoine Deschamps-Laporte, alors étudiant au programme continuum baccalauréat-maîtrise en physiothérapie à l’École de réadaptation de la Faculté de médecine de l’Université de Montréal pour la création du contenu et la conception du site. La mise à jour du site est une initiative de M. Philippe Paquette, pht, Ph.D., alors professeur adjoint de clinique à l’École de réadaptation de la Faculté de médecine de l’Université de Montréal et de MM. Adrien Moevus et Keroles Soliman, étudiants au programme continuum baccalauréat-maîtrise en physiothérapie à l’École de réadaptation de la Faculté de l’Université de Montréal qui sont soutenus par une bourse de développement pédagogique des programmes de physiothérapie."
+    }
+  ]
 }
