@@ -1,0 +1,217 @@
+{
+  "title": "Distal Biceps Brachii Tendon",
+  "latinName": "Biceps brachii distal tendinis",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Muscle Type", "colspan": 2, "header": true },
+          { "data": "Bi-articular, digastric" }
+        ],
+        [
+          { "data": "Origin", "rowspan": 2, "header": true },
+          { "data": "Long Head" },
+          { "data": "Supraglenoid tubercle (scapula)" }
+        ],
+        [
+          { "data": "Short Head" },
+          { "data": "Apex of coracoid process (scapula)" }
+        ],
+        [
+          { "data": "Common Insertion", "colspan": 2, "header": true },
+          { "data": "Radial tuberosity (medial aspect of radius)" }
+        ],
+        [
+          { "data": "Innervation", "colspan": 2, "header": true },
+          { "data": "Musculocutaneous nerve (C5-C6)" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Measurement", "header": true },
+          { "data": "Mean ± Standard Deviation", "header": true }
+        ],
+        [
+          { "data": "Distal biceps brachii tendon", "rowspan": 2 },
+          { "data": "Length (mm)" },
+          { "data": "21.5 ± 2.3 <a href='#ref4' class='reference'>[4]</a>" }
+        ],
+        [
+          { "data": "Width (mm)" },
+          { "data": "7.1 ± 2.8 <a href='#ref4' class='reference'>[4]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Subject seated facing the examiner, upper limb placed on the examination surface",
+          "Examination of the biceps brachii insertion requires the subject's elbow to be in full extension and the forearm maintained in maximal passive supination",
+          "For comfort, the examination surface (e.g., height-adjustable electric table) can be raised, and a pillow can be placed under the subject's elbow",
+          "Maintaining the forearm in full supination for an extended period can be facilitated by asking the subject to slightly tilt their trunk toward the examined forearm side<a href='#ref3' class='reference'>[3]</a>"
+        ]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "Ask the subject to perform resisted elbow flexion to locate and palpate the distal tendon and muscle belly of the biceps brachii",
+          "Locate the proximal end of the radius by asking the subject to perform pro-supination movements and palpating the posterolateral aspect of the elbow"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/tendonDistalBicepsBrachial/vueLongitudinale/",
+        "objectifs": [
+          "Observation of the (distal) insertion of the biceps brachii"
+        ],
+        "parametres": ["Depth: 4 cm", "Gain: 60"],
+        "positionnement": [
+          "Place the probe in a slightly oblique longitudinal view (almost parallel to the long axis of the humerus) just distal to the elbow joint line to locate the myotendinous junction of the distal biceps that dives deep at this level.",
+          "Scan by sliding the probe slightly distally and laterally until visualizing the radial tuberosity where the tendon inserts."
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["R"],
+                "texte": [
+                  "The radius appears at the bottom of the image as a hyperechoic convex zone. The radial head is also visible to the left of the line, although the image is slightly blurry at this location (since the parameters have been optimized for visualizing the biceps tendon)"
+                ]
+              },
+              {
+                "acronymes": ["TB"],
+                "texte": [
+                  "The bicipital tuberosity, a relief of the radius, is located at its apex. Note that if the subject's forearm is not positioned in supination, it may be impossible to obtain an image of the radial tuberosity, as it will be oriented toward the middle of the forearm (thus toward the ulna)"
+                ]
+              },
+              {
+                "acronymes": ["TBB"],
+                "texte": [
+                  "The biceps brachii tendon here takes the form of a thick hyperechoic band within which a fairly well-defined fibrillar pattern is drawn. The hypoechoic areas within the biceps brachii tendon reflect artifacts, probably due to the proximity of structures such as the brachial artery"
+                ]
+              },
+              {
+                "acronymes": ["B"],
+                "texte": [
+                  "The brachialis muscle, a slightly hypoechoic area in the lower left corner of the image, is partially visible under the biceps brachii tendon"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Radius" },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Bicipital tuberosity"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Distal biceps brachii tendon"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Brachialis"
+              },
+              { "path": "identification6.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomical Description",
+    "content": [
+      {
+        "text": [
+          "As mentioned in the table above, the biceps brachii inserts on the radial tuberosity, a bony relief located on the medial aspect of the proximal radius, just below its neck. Unlike the distal tendon of the brachialis muscle, the distal biceps tendon [DBT], which is relatively long (7cm), is not surrounded by muscle, making it more vulnerable to direct trauma. The brachialis muscle being deep, the biceps is therefore a superficial muscle, making it an excellent candidate for ultrasound imaging examination.",
+          "Since the biceps brachii is a supinator muscle (in addition to being a powerful forearm flexor), its insertion is more easily visualized when the forearm is positioned in supination, which makes the medial aspect of the radius accessible to ultrasound beams.",
+          "For more information on the proximal portion of the biceps brachii, in the shoulder region, we invite you to <a href='/protocoles/epaule/biceps-brachial' class='underline'>consult the protocol</a> dedicated to it<a href='#ref3' class='reference'>[3]</a>."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Distal Biceps Brachii Tendon Rupture",
+        "text": [
+          "Distal biceps brachii tendon ruptures are rather rare: indeed, among all tendon ruptures/injuries that occur in the biceps, only 3% are distal tendon ruptures<a href='#ref5' class='reference'>[5]</a>. Typically, this type of injury occurs when significant extension force is applied to a flexed elbow, and typically affects men aged 40 to 60 years, in the dominant upper limb<a href='#ref4' class='reference'>[4]</a>.",
+          "Clinical examination typically reveals proximal retraction of the biceps brachii muscle belly, as well as an obvious decrease in elbow flexion strength and forearm supination<a href='#ref4' class='reference'>[4]</a>.",
+          "According to the European Society of Musculoskeletal Radiology consensus, no consensus has yet been established regarding the level of evidence supporting the use of ultrasound imaging in the context of distal biceps brachii tendon rupture. Nevertheless, currently available results seem to indicate that ultrasound is of comparable value to other equivalent imaging techniques<a href='#ref7' class='reference'>[7]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Biceps Brachii [shoulder section]",
+          "link": "/protocoles/epaule/biceps-brachial"
+        },
+        {
+          "linkTitle": "Humeroradial Joint",
+          "link": "/protocoles/coude/articulation-humero-radiale"
+        },
+        {
+          "linkTitle": "Common Flexor Tendon & Medial Collateral Ligament",
+          "link": "/protocoles/coude/tendon-flechisseur-commun-et-ligament-lateral-interne"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Athwal, George S., Scott P. Steinmann, et Damian M. Rispoli. « The Distal Biceps Tendon: Footprint and Relevant Clinical Anatomy. » The Journal of Hand Surgery 32, nᵒ 8 (octobre 2007): 1225‑29. doi:10.1016/j.jhsa.2007.05.027."
+        },
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angelo Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. « Musculoskeletal Ultrasound Technical Guidelines (II. Elbow). » Eureopean Society of Muscloskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Forthman, Christopher L., Ryan M. Zimmerman, Michael J. Sullivan, et Gerard T. Gabel. « Cross-sectional anatomy of the bicipital tuberosity and biceps brachii tendon insertion: Relevance to anatomic tendon repair. » Journal of Shoulder and Elbow Surgery 17, nᵒ 3 (mai 2008): 522‑26. doi:10.1016/j.jse.2007.11.002."
+        },
+        {
+          "text": "Hamilton, W, et ML Ramsey. « Rupture of the distal tendon of the biceps brachii. » The University of Pennsylvania Orthopaedic Journal, nᵒ 12 (1999): 21‑26."
+        },
+        {
+          "text": "Hutchinson, Hank L., David Gloystein, et Martin Gillespie. « Distal biceps tendon insertion: An anatomic study. » Journal of Shoulder and Elbow Surgery 17, nᵒ 2 (mars 2008): 342‑46. doi:10.1016/j.jse.2007.05.005."
+        },
+        {
+          "text": "Klauser, Andrea S., Alberto Tagliafico, Gina M. Allen, Natalie Boutry, Rob Campbell, Michel Court-Payen, Andrew Grainger, et al. « Clinical Indications for Musculoskeletal Ultrasound: A Delphi-Based Consensus Paper of the European Society of Musculoskeletal Radiology. » European Radiology 22, nᵒ 5 (mai 2012): 1140‑48. doi:10.1007/s00330-011-2356-3."
+        },
+        {
+          "text": "Mazzocca, Augustus D., Mark Cohen, Eric Berkson, Gregory Nicholson, Bradley C. Carofino, Robert Arciero, et Anthony A. Romeo. « The anatomy of the bicipital tuberosity and distal biceps tendon. » Journal of Shoulder and Elbow Surgery 16, nᵒ 1 (janvier 2007): 122‑27. doi:10.1016/j.jse.2006.04.012."
+        },
+        {
+          "text": "Morrey, B. F., L. J. Askew, K. N. An, et J. H. Dobyns. « Rupture of the Distal Tendon of the Biceps Brachii. A Biomechanical Study. » The Journal of Bone & Joint Surgery 67, nᵒ 3 (1 mars 1985): 418‑21."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Pratical [sic] Guide. Milan; New York: Springer Milan, 2012."
+        }
+      ]
+    }
+  }
+}

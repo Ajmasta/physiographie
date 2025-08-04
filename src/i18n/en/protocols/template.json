@@ -1,0 +1,164 @@
+{
+  "title": "",
+  "latinName": "",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [{ "data": "Muscle type", "header": true }, { "data": "" }],
+        [{ "data": "Origin", "header": true }, { "data": "" }],
+        [{ "data": "Insertion", "header": true }, { "data": "" }],
+        [{ "data": "Innervation", "header": true }, { "data": "" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative values",
+      "rangees": [
+        [
+          { "data": "Measurement", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plane", "header": true },
+          { "data": "Mean ± standard deviation", "header": true }
+        ],
+        [{ "data": "" }, { "data": "" }, { "data": "" }, { "data": "" }],
+        [{ "data": "" }, { "data": "" }],
+        [{ "data": "" }, { "data": "" }, { "data": "" }],
+        [{ "data": "" }, { "data": "" }]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject positioning",
+        "text": ["", "", ""]
+      },
+      {
+        "subtitle": "Anatomical landmarks and palpation",
+        "text": ["", ""]
+      }
+    ],
+    "applicationDynamique": {
+      "title": "Dynamic Application",
+      "iframe": ""
+    },
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "",
+        "objectifs": ["", ""],
+        "parametres": ["", "", ""],
+        "positionnement": ["", "", ""],
+        "imagePositionnement": [{ "path": "", "descriptionText": "" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": [""],
+                "texte": [""]
+              },
+              {
+                "acronymes": [""],
+                "texte": [""]
+              },
+              {
+                "acronymes": [""],
+                "texte": [""]
+              },
+              {
+                "acronymes": [""],
+                "texte": [""]
+              }
+            ],
+            "imageIdentification": [{ "path": "", "descriptionText": "" }]
+          }
+        ]
+      },
+      {
+        "title": "Transverse View",
+        "source": "",
+        "objectifs": ["", ""],
+        "parametres": ["", "", ""],
+        "positionnement": ["", "", ""],
+        "imagePositionnement": [{ "path": "", "descriptionText": "" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": [""],
+                "texte": [""]
+              },
+              {
+                "acronymes": [""],
+                "texte": [""]
+              },
+              {
+                "acronymes": [""],
+                "texte": [""]
+              },
+              {
+                "acronymes": [""],
+                "texte": [""]
+              }
+            ],
+            "imageIdentification": [{ "path": "", "descriptionText": "" }]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "",
+        "text": ["", "", ["", ""], ""]
+      },
+      {
+        "subtitle": "",
+        "text": ["", "", "", "", "", "", "", ""]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See also",
+      "content": [
+        {
+          "linkTitle": "",
+          "link": ""
+        },
+        {
+          "linkTitle": "",
+          "link": ""
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        { "text": "" },
+        { "text": "" },
+        { "text": "" },
+        { "text": "" },
+        { "text": "" },
+        { "text": "" },
+        { "text": "" },
+        { "text": "" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "title": "Common extensor tendon",
+  "latinName": "",
+  "normesEtGeneralites": {
+    "sectionTitle": "Norms and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Bony attachment points", "header": true, "rowspan": 2 },
+          {
+            "data": "Anterolateral surface of the lateral epicondyle (humerus)"
+          }
+        ],
+        [{ "data": "Lateral supracondylar line" }],
+        [
+          {
+            "data": "Muscles forming the tendon",
+            "header": true,
+            "rowspan": 4
+          },
+          { "data": "Extensor carpi radialis brevis" }
+        ],
+        [{ "data": "Extensor digitorum communis" }],
+        [{ "data": "Extensor digiti minimi" }],
+        [{ "data": "Extensor carpi ulnaris" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative values",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Measurement", "header": true },
+          { "data": "Subject type", "header": true },
+          { "data": "Mean", "header": true }
+        ],
+        [
+          { "data": "Common extensor tendon", "rowspan": 4 },
+          { "data": "Maximum thickness (mm)", "rowspan": 2 },
+          { "data": "Asymptomatic" },
+          { "data": "3.0<a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "With lateral epicondylitis" },
+          { "data": "4.8<a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Cross-sectional area (mm²)", "rowspan": 2 },
+          { "data": "Asymptomatic" },
+          { "data": "25.5<a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "With lateral epicondylitis" },
+          { "data": "43.5<a href='#ref7' class='reference'>[7]</a>" }
+        ]
+      ],
+      "text": [
+        "Unlike the <a href='/protocoles/coude/tendon-flechisseur-commun-et-ligament-lateral-interne'>common flexor tendon</a>, whose ultrasonographic examination relies mainly on subjective observations (rather than quantitative), the common extensor tendon can be measured more reliably, and it appears that the results correlate quite closely with symptomatology<a href='#ref7' class='reference'>[7]</a>."
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject positioning",
+        "text": [
+          "Subject seated facing the examiner, upper limb placed on the examination surface, with a towel or pillow under the elbow",
+          "Examination of the common extensor tendon requires access to the lateral aspect of the elbow, with the elbow flexed to 90° and the shoulder in internal rotation (with the forearm flat on the examination surface as shown in the image in the 'Patient positioning' section)",
+          "Alternatively, it is also possible to examine the common extensor tendon by keeping the elbows in full extension, thumbs pointing toward the ceiling and hands joined<a href='#ref1' class='reference'>[1]</a>"
+        ]
+      },
+      {
+        "subtitle": "Anatomical landmarks and palpation",
+        "text": ["Locate and palpate the lateral epicondyle and humeral head"]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/tendonExtenseurCommun/vueLongitudinale/",
+        "objectifs": ["Observation of the common extensor tendon"],
+        "parametres": ["Depth: 3 cm", "Gain: 60"],
+        "positionnement": [
+          "As shown in the attached image, in longitudinal view (almost parallel to the long axis of the forearm), place the proximal end of the probe on the lateral epicondyle",
+          "If necessary, apply a slight rotation to the probe so that it is as parallel as possible to the direction of the common extensor tendon fibers"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["RH"],
+                "texte": [
+                  "The radial head appears on the right of the image as a rounded hyperechoic area. Note the presence, to the right of the RH, of the radial neck and shaft, as well as, to the left, the joint space of the humeroradial joint"
+                ]
+              },
+              {
+                "acronymes": ["LE"],
+                "texte": [
+                  "The lateral epicondyle is visible to the left of the radial head. It can be recognized by its 'downward slope' profile<a href='#ref14' class='reference'>[14]</a>"
+                ]
+              },
+              {
+                "acronymes": ["CET"],
+                "texte": [
+                  "The common extensor tendon corresponds to the vast hyperechoic area with fibrillar echotexture that lies superficial to the radial head and lateral epicondyle. It is not possible to distinguish the different tendons that constitute the common extensor tendon."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Radial head"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Lateral epicondyle"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Common extensor tendon"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomical Description",
+    "content": [
+      {
+        "text": [
+          "The common extensor tendon is a structure that serves as the proximal attachment point (origin) for several muscles of the lateral forearm. Among these muscles are four extensor muscles and one supinator muscle, all superficial: the extensor carpi radialis brevis [ECRB], extensor digitorum communis [EDC], extensor carpi ulnaris [ECU], extensor digiti minimi [EDM], and supinator. The ECRB, EDC, and ECU have truly fused proximal tendons, forming a common tendon, while the EDM and supinator have distinct tendons but insert at the same site as the ECRB, EDC, and ECU. The ECRB tendon, being the deepest, is adjacent to the humeral capitulum and glides on its surface during elbow flexion and extension movements. This is why the diagnosis of lateral epicondylitis absolutely requires involvement of at least the ECRB tendon (see 'Clinical Relevance' section below)<a href='#ref14' class='reference'>[14]</a>.",
+          "The muscles of the forearm are classified according to their belonging to the medial or lateral compartments, based on their anatomical location. As the muscular mass of the forearm can be anatomically complex, it is important to know the normal anatomy to be able to identify the structures visualized during ultrasonographic examination (adapted from Walz et al, 2010)."
+        ]
+      }
+    ],
+    "table": [
+      [
+        { "data": "Muscle name", "header": true, "rowspan": 2 },
+        { "data": "Latin name", "header": true, "rowspan": 2 },
+        { "data": "Function", "header": true, "rowspan": 2 },
+        { "data": "Origin", "header": true, "colspan": 2 },
+        { "data": "Insertion", "header": true, "rowspan": 2 }
+      ],
+      [
+        { "data": "1st head", "header": true },
+        { "data": "2nd head (if applicable)", "header": true }
+      ],
+      [
+        { "data": "Pronator teres" },
+        { "data": "Pronator teres" },
+        { "data": "Forearm pronation" },
+        { "data": "Medial epicondyle (via common tendon)", "rowspan": 5 },
+        { "data": "Coronoid process" },
+        { "data": "Lateral aspect of radius" }
+      ],
+      [
+        { "data": "Flexor carpi radialis" },
+        { "data": "Flexor carpi radialis" },
+        { "data": "Wrist flexion and abduction (radial deviation)" },
+        { "data": "N/A", "rowspan": 2 },
+        { "data": "Anterior surface of base of 2nd and 3rd metacarpal bones" }
+      ],
+      [
+        { "data": "Palmaris longus" },
+        { "data": "Palmaris longus" },
+        { "data": "Wrist flexion, tensioning of palmar aponeurosis" },
+        { "data": "Flexor retinaculum, palmar aponeurosis" }
+      ],
+      [
+        { "data": "Flexor carpi ulnaris" },
+        { "data": "Flexor carpi ulnaris" },
+        { "data": "Hand flexion and adduction (ulnar deviation)" },
+        { "data": "Ulnar head: Olecranon and dorsal aspect of proximal ulna" },
+        { "data": "Pisiform, hamate and base of 5th metacarpal" }
+      ],
+      [
+        { "data": "Flexor digitorum superficialis" },
+        { "data": "Flexor digitorum superficialis" },
+        { "data": "Flexion of middle phalanx and metacarpophalangeal joint" },
+        {
+          "data": "Coronoid process, Oblique line (radius). (Actually has 3 heads: humeral, radial and ulnar)"
+        },
+        { "data": "Palmar aspect of middle phalanx of digits 2-5" }
+      ],
+      [
+        { "data": "Flexor digitorum profundus" },
+        { "data": "Flexor digitorum profundus" },
+        {
+          "data": "Flexion of distal phalanx (Accessory) Wrist & proximal phalanx flexion"
+        },
+        {
+          "data": "Proximal 3/4 of anteromedial aspect of ulna and interosseous membrane",
+          "colspan": 2
+        },
+        { "data": "Dorsal aspect of distal phalanx of digits 2-5" }
+      ],
+      [
+        { "data": "Flexor pollicis longus" },
+        { "data": "Flexor pollicis longus" },
+        { "data": "Thumb flexion" },
+        {
+          "data": "Middle portion of anterior radius and interosseous membrane & medial aspect of coronoid process",
+          "colspan": 2
+        },
+        { "data": "Palmar aspect of base of distal phalanx of thumb" }
+      ],
+      [
+        { "data": "Brachioradialis" },
+        { "data": "Brachioradialis" },
+        { "data": "Elbow flexion" },
+        {
+          "data": "Upper lateral supracondylar line (humerus)",
+          "colspan": 2
+        },
+        { "data": "Lateral aspect of radial styloid" }
+      ]
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Lateral epicondylitis ('Tennis elbow')",
+        "text": [
+          "The condition commonly known as tennis elbow consists of an involvement of the common extensor tendon at the lateral epicondyle (and not an involvement of the lateral epicondyle, as the name might suggest). It is an overuse condition caused by excessive traction at the osteotendinous attachment of the common extensor tendon<a href='#ref2' class='reference'>[2]</a>.",
+          "As the nickname tennis elbow suggests, the practice of certain sports (including tennis) seems to be associated with the clinical picture. Indeed, this condition is frequently encountered in tennis players, due to powerful backhand strokes that generate considerable tension in the common extensor tendon. Nevertheless, this condition is encountered much more frequently in non-athletes.",
+          "From a pathophysiological perspective, this condition can result from repetitive overuse (chronic microtrauma) in various professional or recreational activities. This leads to a degenerative process that can lead to partial or complete ruptures of the common extensor tendon or involvement of the bony insertion site (enthesitis)<a href='#ref2' class='reference'>[2]</a>.",
+          "During physical examination, subjects with lateral epicondylitis present with pain on palpation of the lateral aspect of the elbow, which persists (although of lesser intensity) in the proximal region of the forearm. In subjects who have had this condition for several months (or more), there may be persistent pain at rest associated with decreased range of motion at the elbow and wrist<a href='#ref2' class='reference'>[2]</a>.",
+          "Typically, the diagnosis can be made solely based on a conclusive physical examination, but ultrasound imaging can be used in the presence of a refractory or complex case.",
+          "According to an expert consensus from the European Society of Musculoskeletal Radiology, ultrasound imaging is recognized as a first-choice imaging modality for examining structures involved in lateral epicondylitis (grade 3/3 consensus). Moreover, the level of evidence (grade 'A') indicates that the literature contains several unanimous randomized clinical trials and cohort studies on the subject<a href='#ref6' class='reference'>[6]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See also",
+      "content": [
+        {
+          "linkTitle": "Triceps brachii tendon",
+          "link": "/protocoles/coude/tendon-triceps-brachial"
+        },
+        {
+          "linkTitle": "Common flexor tendon & Medial collateral ligament",
+          "link": "/protocoles/coude/tendon-flechisseur-commun-et-ligament-lateral-externe"
+        },
+        {
+          "linkTitle": "Humeroradial joint",
+          "link": "/protocoles/coude/articulation-humero-radiale"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angel Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. 'Musculoskeletal Ultrasound Technical Guidelines (V. Elbow).' European Society of Musculoskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "McNally, Eugene G. Practical Musculoskeletal Ultrasound. Churchill Livingstone/Elsevier, 2014."
+        },
+        {
+          "text": "O'Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        }
+      ]
+    }
+  }
+}

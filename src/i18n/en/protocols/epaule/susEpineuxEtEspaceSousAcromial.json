@@ -1,0 +1,269 @@
+{
+  "title": "Supraspinatus & Subacromial Space",
+  "latinName": "Dynamic Application",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Muscle Type", "header": true },
+          { "data": "Mono-articular, unipennate" }
+        ],
+        [
+          { "data": "Origin", "header": true },
+          { "data": "Supraspinous fossa (scapula)" }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          { "data": "Greater tuberosity (humerus)" }
+        ],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Suprascapular nerve (C5-C6)" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [
+        [
+          { "data": "Measurement", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plane", "header": true },
+          { "data": "Mean ± Standard Deviation", "header": true }
+        ],
+        [
+          { "data": "Tendon thickness (mm)", "rowspan": 2 },
+          { "data": "Supraspinatus", "rowspan": 2 },
+          { "data": "Transverse plane" },
+          { "data": "5.97 ± 1.20 <a href='#ref3' class='reference'>[3]</a>" }
+        ],
+        [
+          { "data": "Longitudinal plane" },
+          { "data": "5.90 ± 1.03 <a href='#ref3' class='reference'>[3]</a>" }
+        ],
+        [
+          {
+            "data": "Subacromial-subdeltoid bursa thickness (mm)",
+            "colspan": 2
+          },
+          { "data": "Sagittal plane" },
+          { "data": "0.5 ± 0.3 <a href='#ref4' class='reference'>[4]</a>" }
+        ],
+        [
+          { "data": "Distance (cm)", "rowspan": 3 },
+          {
+            "data": "Acromion (lateral border) and greater tuberosity (apex, at the most proximal point of the acromion)",
+            "rowspan": 2,
+            "colspan": 2
+          },
+          { "data": "2.25 ± 0.38 <a href='#ref5' class='reference'>[5]</a>" }
+        ],
+        [{ "data": "1.91 - 2.84 <a href='#ref6' class='reference'>[6]</a>" }],
+        [
+          {
+            "data": "Acromion (lateral border) and humeral head",
+            "colspan": 2
+          },
+          { "data": "1.09 ± 0.21 <a href='#ref4' class='reference'>[4]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Starting position",
+          ["Seated, shoulder exposed and arm at rest along the body"],
+          "Instructions to subject (as applicable)",
+          [
+            "Slowly raise the arm in an anterolateral plane (scaption) with palm facing the ceiling;",
+            "If applicable: perform the shoulder elevation arc that reproduces symptoms;"
+          ],
+          "Shoulder: Maintain in slight external rotation (hence palm facing ceiling)",
+          "Elbow: Can be flexed or not"
+        ]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "Palpate the acromioclavicular joint (see the section on <a class='underline' href='protocoles/epaule/acromio-claviculaire'> acromioclavicular joint </a>)",
+          "Locate and palpate the greater tuberosity (see the section on <a class='underline' href='protocoles/epaule/biceps-brachial'> biceps brachii) </a>"
+        ]
+      }
+    ],
+    "applicationDynamique": {
+      "title": "Dynamic Application",
+      "iframe": "<iframe width=\"395\" height=\"296\" src=\"https://www.youtube.com/embed/k0MfHW7PwiE\" title=\"Dynamic ultrasound of the subacromial space\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/supraspinatusAndSpace/longitudinalView/",
+        "objectifs": [
+          "Observe normal sliding of the supraspinatus under the acromion (if no pathology)",
+          "Observe the structures delimiting the subacromial space (and its contents)"
+        ],
+        "parametres": ["Depth: 3 cm", "Gain: 80"],
+        "positionnement": [
+          "Place the probe in an oblique frontal (coronal) plane that allows visualization of both the lateral border of the acromion and the humeral greater tuberosity in the same field <a href='#ref2' class='reference'>[2]</a>."
+        ],
+        "imagePositionnement": [
+          {
+            "path": "imagePositionnement1.jpg",
+            "descriptionText": "Starting probe position (at rest)"
+          },
+          {
+            "path": "imagePositionnement2.jpg",
+            "descriptionText": "Probe position, arm elevated"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["MD"],
+                "texte": [
+                  "The middle deltoid, a hypoechoic triangular area with typical muscular striation echotexture, is visible in the upper right quadrant"
+                ]
+              },
+              {
+                "acronymes": ["A"],
+                "texte": [
+                  "The acromion, a thick hyperechoic layer at the superior surface, appears in the upper-left portion of the image"
+                ]
+              },
+              {
+                "acronymes": ["SS"],
+                "texte": [
+                  "The supraspinatus tendon is located between the humeral head (greater tuberosity) and the deltoid. It appears as a linear hyperechoic area, appearing and disappearing from the right half of the image"
+                ]
+              },
+              {
+                "acronymes": ["HH"],
+                "texte": [
+                  "The humeral head (greater tuberosity), whose normal sliding under the acromion can be observed, appears as an almost triangular hyperechoic area"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "imageIdentification1.jpg" },
+              {
+                "path": "imageIdentification2.jpg",
+                "descriptionText": "Middle deltoid"
+              },
+              {
+                "path": "imageIdentification3.jpg",
+                "descriptionText": "Acromion"
+              },
+              {
+                "path": "imageIdentification4.jpg",
+                "descriptionText": "Supraspinatus"
+              },
+              {
+                "path": "imageIdentification5.jpg",
+                "descriptionText": "Humeral head"
+              },
+              { "path": "imageIdentification6.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "It is important, first, to define the terms that will be used in this section:",
+          "The volume of the subacromial space is mainly delimited by:",
+          "<ul class='margin-left'><li>Superior (cranial) limit: coracoacromial arch, which includes:</li><ul class='margin-left'><li>Acromioclavicular joint</li><li>Coracoid process</li><li>Coracoacromial ligament</li></ul><li>Inferior (caudal) limit: Humeral head</li></ul>",
+          "The subacromial space contains:",
+          "<ul class='margin-left'><li>The rotator cuff tendons</li><li>The long head of the biceps brachii</li><li>The subacromial-subdeltoid bursa</li><li>A variable amount of adipose and connective tissue</li></ul>",
+          "Acromiohumeral distance: radiological notion, distance between the inferior (caudal) margin of the acromion and the superior (cranial) margin of the humeral head. In the literature, alternative definitions (slightly different landmarks) are sometimes found, which are normally clearly defined by the authors. The term 'acromiohumeral space' is sometimes used to refer to the structures enclosed between the acromion and the humeral head",
+          "The term 'subacromial space' is often used when describing a common musculoskeletal pathology of the shoulder: impingement syndrome. Simply put, this syndrome can be defined as a conflict between a container and its contents, i.e., respectively, the subacromial space and the structures that occupy it. When the volume of the container decreases, for example in the case of inferior osteophytes at the acromioclavicular joint, the content, normally constant in its dimensions, becomes compressed by adjacent structures. When a chronicity factor is added to the mechanism already in place, more serious problems can occur (e.g., subacromial-subdeltoid bursitis, leading to supraspinatus tendinosis up to possible tendon rupture) <a href='#ref2' class='reference'>[2]</a>",
+          "Reminder about supraspinatus anatomy (see the section on <a class='underline' href='protocoles/epaule/sus-epineux'>supraspinatus</a>)",
+          "The supraspinatus muscle is a small muscle located on the posterosuperior aspect of the shoulder. It is one of the four muscles composing the rotator cuff, along with the subscapularis (anterior aspect), infraspinatus and teres minor (both on the posterior aspect). The supraspinatus originates from the supraspinous fossa, whose name refers to the spine of the scapula, located inferiorly (caudal) to this site. The superior surface of the humeral greater tuberosity receives the distal insertion of this muscle. The supraspinatus has only one muscle belly and has an origin-insertion axis (when in anatomical position) oriented from inside to outside, back to front, and slightly top to bottom. Thus, this muscle has an action of external rotation (especially) and abduction of the glenohumeral joint.",
+          "A good understanding of muscle orientation is imperative, especially when performing an ultrasonographic examination. To visualize the course of the supraspinatus tendon, one can start with the intra-articular portion of the long biceps. Indeed, these two tendons are parallel (only at this location) and the long biceps tendon has an echotexture and echogenicity that make it an easily recognizable reference point.",
+          "When examined with the shoulder in resting position, only the distal portion of the supraspinatus tendon is accessible, the difference being masked by the acromioclavicular arch and the humeral head. During an ultrasonographic evaluation, the patient is often asked to place the palmar surface of their hand on the superior aspect of their ipsilateral iliac crest. This position (sometimes referred to as the Middleton position or modified Crass position) has the effect of making the supraspinatus more anterior, providing access to its entire tendon and its musculotendinous junction.",
+          "At its distal third, the infraspinatus muscle passes through the subacromial space, just before the distal musculotendinous junction. The subacromial space is an entity mainly delimited by the coracoacromial arch and the humeral head. This space contains, among others, the rotator cuff tendons, the long biceps, and the subacromial/subdeltoid bursa. The volume of this space varies from one individual to another due to several factors, including:",
+          "<ul class='margin-left'><li>Well-documented anatomical variability;</li><li>Shoulder position (neutral vs. rotation / flexion / abduction);</li><li>Age (possible degenerative component);</li><li>Potential presence of one of many shoulder pathologies</li></ul>",
+          "This anatomical variability is often subject to a classification that recognizes 3 types of acromion, namely: flat (type I, 4.7% of the population); curved (type II, 51.76% of the population) and hooked (type III, 43.52% of the population). There is also an interesting correlation between acromion morphology (defined according to the above-mentioned classification) and the incidence of complete rotator cuff tears, which was studied on 140 shoulders in a study by Bigliani et al, summarized in the table 1 below.",
+          "Incidence of complete rotator cuff tears: <ul class='margin-left'><li>Type I (flat): 3%</li><li>Type II (curved): 24.2%</li><li>Type III (hooked): 69.8%</li></ul>",
+          "Several other measurements and classifications (alternative or complementary) describe the morphology of the acromion and subacromial space, including the acromion index (AI), lateral acromial angle (LAA), critical shoulder angle (CSA), and acromial slope (AS)."
+        ]
+      }
+    ],
+    "images": [{ "path": "anatomieDescriptive.gif" }],
+    "source": "/Protocols/supraspinatusAndSpace/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Adhesive Capsulitis:",
+        "text": [
+          "During dynamic examination, if the supraspinatus tendon does not slide easily under the acromion, this is a sign that may suggest the presence of adhesive capsulitis <a href='#ref2' class='reference'>[2]</a>."
+        ]
+      },
+      {
+        "subtitle": "Subacromial-subdeltoid Bursitis:",
+        "text": [
+          "Subacromial-subdeltoid bursitis: in case of fluid accumulation within the subacromial-subdeltoid bursa (not the case in a healthy subject), this may indicate an impingement syndrome"
+        ]
+      },
+      {
+        "subtitle": "Supraspinatus Impingement Syndrome:",
+        "text": [
+          "The most obvious application is undoubtedly the visualization of supraspinatus impingement, which can be easily observed in dynamic application, as demonstrated above."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Supraspinatus, scapular region",
+          "link": "protocoles/epaule/sus-epineux-post"
+        },
+        {
+          "linkTitle": "Supraspinatus (anterolateral region)",
+          "link": "protocoles/epaule/sus-epineux"
+        },
+        {
+          "linkTitle": "Acromioclavicular joint",
+          "link": "protocoles/epaule/acromio-claviculaire"
+        },
+        {
+          "linkTitle": "Biceps brachii",
+          "link": "protocoles/epaule/biceps-brachial"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Jacobson JA. Shoulder US: anatomy, technique, and scanning pitfalls. Radiology. 2011;260(1):6-16."
+        },
+        {
+          "text": "Beggs I, et al. Musculoskeletal Ultrasound Technical Guidelines: Shoulder. European Society of MusculoSkeletal Radiology."
+        },
+        {
+          "text": "Khoury V, et al. Ultrasound of the shoulder. Semin Musculoskelet Radiol. 2013;17(1):3-19."
+        },
+        {
+          "text": "Schmidt WA, et al. Standard reference values for musculoskeletal ultrasonography. Ann Rheum Dis. 2004;63(8):988-994."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "title": "Supraspinatus [Posterior Aspect]",
+  "latinName": "Supraspinatus",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Muscle Type", "header": true },
+          { "data": "Mono-articular, multipennate" }
+        ],
+        [
+          { "data": "Origin", "header": true },
+          { "data": "Supraspinous fossa (scapula)" }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          { "data": "Greater tuberosity (humerus)" }
+        ],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Suprascapular nerve (C5-C6)" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [
+        [
+          { "data": "Measurement", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plane", "header": true },
+          { "data": "Mean ± SD", "header": true }
+        ],
+        [
+          { "data": "Muscle belly thickness (mm)" },
+          { "data": "Supraspinatus" },
+          { "data": "At midpoint of muscle belly" },
+          { "data": "3.03 ± 0.63<a href='#ref4' class='reference'>[4]</a>" }
+        ],
+        [
+          { "data": "Cross-sectional area (cm2)" },
+          { "data": "Supraspinatus" },
+          { "data": "At midpoint of scapular spine" },
+          { "data": "6.99 ± 0.44<a href='#ref5' class='reference'>[5]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Seated with shoulder exposed",
+          "Shoulder at rest, arm along the body"
+        ]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "Palpate the main reliefs and landmarks of the scapula (spine, inferior angle, lateral border)"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/supraspinatusPost/longitudinalView/",
+        "objectifs": [
+          "Observe the supraspinatus covered by the trapezius and their relationship with scapular reliefs"
+        ],
+        "parametres": ["Depth: 3 cm", "Gain: 70-75"],
+        "positionnement": [
+          "Place the probe in longitudinal view (relative to supraspinatus fibers) on the scapular spine, just lateral to its center",
+          "To better locate and identify structures, slowly scan from superior to inferior to observe and differentiate the scapular spine, trapezius, supraspinatus, and infraspinatus",
+          "Move the probe slightly upward so that the scapular spine is just visible in the field",
+          "Two approaches are used to demonstrate all structures:",
+          [
+            "Approach #1 is posterior and closer to the medial border of the scapula",
+            "Approach #2 is posterolateral and closer to the lateral border of the scapula"
+          ]
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positioning1.jpg",
+            "descriptionText": "Probe position, posterior approach, longitudinal view (back)"
+          },
+          {
+            "path": "positioning2.jpg",
+            "descriptionText": "Probe position, posterior approach, longitudinal view (side)"
+          },
+          {
+            "path": "positioning3.jpg",
+            "descriptionText": "Probe position, posterolateral approach, longitudinal view (back)"
+          },
+          {
+            "path": "positioning4.jpg",
+            "descriptionText": "Probe position, posterolateral approach, longitudinal view (side)"
+          }
+        ],
+        "identification": [
+          {
+            "subtitle": "Approach #1: Posterior",
+            "legend": [
+              {
+                "acronymes": ["SSF", "S"],
+                "texte": [
+                  "The supraspinous fossa and scapular spine are visible in the lower and lower-right portions of the image, respectively. Their surface appears strongly hyperechoic due to the cortical bone reflecting the majority of ultrasound waves"
+                ]
+              },
+              {
+                "acronymes": ["SS"],
+                "texte": [
+                  "The supraspinatus muscle occupies the center of the image, appearing as a thick layer of mixed echogenicity with easily visible striations"
+                ]
+              },
+              {
+                "acronymes": ["MT"],
+                "texte": [
+                  "The middle trapezius, a hypoechoic layer just superficial to the supraspinatus, is visible in the upper portion of the image"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Supraspinous fossa & spine"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Supraspinatus"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Middle trapezius"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          },
+          {
+            "subtitle": "Approach #2: Posterolateral",
+            "legend": [
+              {
+                "acronymes": ["SSF", "S"],
+                "texte": [
+                  "The supraspinous fossa and scapular spine are visible in the lower and lower-right portions of the image, respectively. Their surface appears strongly hyperechoic due to the cortical bone reflecting the majority of ultrasound waves"
+                ]
+              },
+              {
+                "acronymes": ["SS"],
+                "texte": [
+                  "The supraspinatus muscle occupies the center of the image, appearing as a thick layer of mixed echogenicity with easily visible striations"
+                ]
+              },
+              {
+                "acronymes": ["MT"],
+                "texte": [
+                  "The middle trapezius, a hypoechoic layer just superficial to the supraspinatus, is visible in the upper portion of the image"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification6.jpg" },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Humeral head"
+              },
+              {
+                "path": "identification8.jpg",
+                "descriptionText": "Supraspinatus"
+              },
+              {
+                "path": "identification9.jpg",
+                "descriptionText": "Posterior deltoid"
+              },
+              { "path": "identification10.jpg" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/supraspinatusPost/transverseView/",
+        "objectifs": [
+          "Observe the supraspinatus covered by the trapezius and their relationship with scapular reliefs"
+        ],
+        "parametres": ["Depth: 5 cm", "Gain: 60-65"],
+        "positionnement": [
+          "Rotate the probe 90° relative to the longitudinal view [approach #1, posterior]"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positioning1.jpg",
+            "descriptionText": "Probe position, transverse view (back)"
+          },
+          {
+            "path": "positioning2.jpg",
+            "descriptionText": "Probe position, transverse view (side)"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["SB", "SSF", "S"],
+                "texte": [
+                  "The scapula (from left to right: superior border; supraspinous fossa; scapular spine) occupies the left, right, and lower portions of the image. The supraspinous fossa, due to the favorable beam incidence angle, appears more strongly hyperechoic than other areas"
+                ]
+              },
+              {
+                "acronymes": ["SS"],
+                "texte": [
+                  "The supraspinatus muscle here takes a water drop shape (with the point oriented toward the right of the image) with heterogeneous echotexture"
+                ]
+              },
+              {
+                "acronymes": ["MT"],
+                "texte": [
+                  "The middle trapezius, whose contour follows the shape of the superior border, scapular spine, and supraspinatus, takes the form of a triangular hypoechoic area in the upper-left quadrant of the image"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Scapula: superior border, supraspinous fossa & spine"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Supraspinatus"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Middle trapezius"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The supraspinatus muscle is a small muscle located on the posterosuperior aspect of the shoulder. It is one of the four muscles composing the rotator cuff, along with the subscapularis (anterior aspect), infraspinatus, and teres minor (both on the posterior aspect). The supraspinatus originates from the supraspinous fossa, whose name refers to the scapular spine, located inferiorly (caudal) to this site. The superior surface of the humeral greater tuberosity receives the distal insertion of this muscle. The supraspinatus has only one muscle belly and has an origin-insertion axis (when in anatomical position) oriented from inside to outside, back to front, and slightly from top to bottom. Thus, this muscle has an action of external rotation (primarily) and abduction of the glenohumeral joint.",
+          "A good understanding of the muscle's orientation is imperative, especially when undertaking an ultrasonographic examination. To visualize the course of the supraspinatus tendon, one can start with the intra-articular portion of the long head of biceps. Indeed, these two tendons are parallel (only at this location) and the long head of biceps tendon has an echotexture and echogenicity that make it an easily recognizable reference point."
+        ]
+      }
+    ],
+    "images": [{ "path": "anatomicalDescription.gif" }],
+    "source": "/Protocols/supraspinatusPost/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Pedagogy",
+        "text": [
+          "The examination of the supraspinatus as described in this section is not part of the classic routine of ultrasonographic shoulder evaluation.",
+          "The techniques demonstrated are of more pedagogical interest (e.g., anatomy demonstration, practice of ultrasound equipment use) than clinical"
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Infraspinatus (Scapular Region)",
+          "link": "shoulder/infraspinatus-posterior"
+        },
+        {
+          "linkTitle": "Supraspinatus (Anterolateral Region)",
+          "link": "shoulder/supraspinatus"
+        },
+        {
+          "linkTitle": "Supraspinatus & Subacromial Space",
+          "link": "shoulder/supraspinatus-and-subacromial-space"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Jacobson, Jon A. \"Shoulder US: Anatomy, Technique, and Scanning Pitfalls.\" Radiology 260, no. 1 (July 1, 2011): 6–16. doi:10.1148/radiol.11101082."
+        },
+        {
+          "text": "Yu, Tung-Yang, Wen-Chung Tsai, Ju-Wen Cheng, Yun-Ming Yang, Fang-Chen Liang, and Chien-Hung Chen. \"The Effects of Aging on Quantitative Sonographic Features of Rotator Cuff Tendons.\" Journal of Clinical Ultrasound: JCU 40, no. 8 (October 2012): 471–78. doi:10.1002/jcu.21919."
+        },
+        {
+          "text": "Juul-Kristensen, B., F. Bojsen-Møller, E. Holst, and C. Ekdahl. \"Comparison of Muscle Sizes and Moment Arms of Two Rotator Cuff Muscles Measured by Ultrasonography and Magnetic Resonance Imaging.\" European Journal of Ultrasound: Official Journal of the European Federation of Societies for Ultrasound in Medicine and Biology 11, no. 3 (June 2000): 161–73."
+        },
+        {
+          "text": "Katayose, M., and D. J. Magee. \"The Cross-Sectional Area of Supraspinatus as Measured by Diagnostic Ultrasound.\" The Journal of Bone and Joint Surgery. British Volume 83, no. 4 (May 2001): 565–68."
+        }
+      ]
+    }
+  }
+}

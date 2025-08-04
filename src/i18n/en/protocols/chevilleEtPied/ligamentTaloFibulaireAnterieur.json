@@ -1,0 +1,231 @@
+{
+  "title": "Anterior talofibular ligament",
+  "latinName": "Ligamentum talofibulare anterius",
+  "normesEtGeneralites": {
+    "sectionTitle": "Norms and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Origin", "header": true },
+          { "data": "Anterior border of lateral malleolus" }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          { "data": "Lateral aspect of talus neck" }
+        ],
+        [
+          { "data": "Function", "header": true },
+          {
+            "data": "Primary restraint to anterior talar translation and internal rotation"
+          }
+        ],
+        [
+          { "data": "Orientation", "header": true },
+          {
+            "data": "Horizontal in neutral position, becomes vertical in plantar flexion"
+          }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative values",
+      "rangees": [
+        [
+          { "data": "Measurement", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Mean ± standard deviation", "header": true }
+        ],
+        [
+          { "data": "Length (mm)", "rowspan": 2 },
+          { "data": "ATFL - Neutral position" },
+          { "data": "18.8 ± 2.1 <a href='#ref1' class='reference'>[1]</a>" }
+        ],
+        [
+          { "data": "ATFL - Plantar flexion" },
+          { "data": "20.8 ± 2.7 <a href='#ref1' class='reference'>[1]</a>" }
+        ],
+        [
+          { "data": "Thickness (mm)", "rowspan": 2 },
+          { "data": "ATFL - Normal" },
+          { "data": "2.4 ± 0.3 <a href='#ref2' class='reference'>[2]</a>" }
+        ],
+        [
+          { "data": "ATFL - Post-injury" },
+          { "data": "3.7 ± 0.7 <a href='#ref2' class='reference'>[2]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject positioning",
+        "text": [
+          "Supine or seated position",
+          "Ankle in slight plantar flexion (15-20°) and internal rotation",
+          "Place a small pillow or towel roll under the lateral malleolus for comfort and optimal positioning"
+        ]
+      },
+      {
+        "subtitle": "Anatomical landmarks and palpation",
+        "text": [
+          "Locate and palpate the anterior border of the lateral malleolus",
+          "Identify the lateral talar neck",
+          "The ligament runs between these two points in an anteromedial direction"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/ligamentTaloFibulaireAnterieur/vueLongitudinale/",
+        "objectifs": [
+          "Assessment of ligament integrity",
+          "Measurement of ligament thickness",
+          "Evaluation of fiber orientation"
+        ],
+        "parametres": ["Depth: 2-3 cm", "Gain: 65"],
+        "positionnement": [
+          "Place the probe parallel to the ligament's course, from the anterior border of the lateral malleolus to the lateral talar neck",
+          "Maintain gentle pressure to ensure good contact while avoiding compression of the ligament",
+          "Perform dynamic examination with anterior drawer and inversion stress if indicated"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["ATFL"],
+                "texte": [
+                  "The anterior talofibular ligament appears as a hyperechoic band with parallel fiber orientation, extending from the lateral malleolus to the talus"
+                ]
+              },
+              {
+                "acronymes": ["LM"],
+                "texte": [
+                  "The lateral malleolus is seen as a curved hyperechoic line with posterior acoustic shadowing"
+                ]
+              },
+              {
+                "acronymes": ["T"],
+                "texte": [
+                  "The talus appears as a hyperechoic line with its characteristic curved surface"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Anterior talofibular ligament"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Lateral malleolus"
+              },
+              { "path": "identification4.jpg", "descriptionText": "Talus" },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomical Description",
+    "content": [
+      {
+        "text": [
+          "The anterior talofibular ligament (ATFL) is the most commonly injured ligament in lateral ankle sprains. It is a flat, quadrilateral ligament that extends from the anterior border of the lateral malleolus to the lateral aspect of the talar neck.",
+          "The ATFL is the weakest of the lateral ankle ligaments and is the first to be injured in an inversion ankle sprain. Its orientation changes significantly with ankle position, becoming more vertical in plantar flexion, which explains its vulnerability during plantar flexion and inversion movements.",
+          "The ligament is closely related to the lateral ankle joint capsule and often contains mechanoreceptors important for proprioception and ankle stability."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/ligamentTaloFibulaireAnterieur/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Lateral ankle sprain",
+        "text": [
+          "Lateral ankle sprains are among the most common musculoskeletal injuries, with the ATFL being involved in approximately 85% of cases. The mechanism typically involves excessive inversion and plantar flexion.",
+          "Ultrasound examination can help grade the severity of the injury:",
+          "Grade I: Ligament stretching with minimal fiber disruption",
+          "Grade II: Partial tear with some fiber discontinuity",
+          "Grade III: Complete rupture with full thickness discontinuity"
+        ]
+      },
+      {
+        "subtitle": "Chronic ankle instability",
+        "text": [
+          "Following acute injury, some patients develop chronic ankle instability. Ultrasound can help assess ligament healing and identify potential causes of persistent instability:",
+          "- Thickened, hypoechoic appearance suggesting poor healing",
+          "- Elongated ligament with laxity on stress testing",
+          "- Associated peroneal tendon pathology"
+        ]
+      },
+      {
+        "subtitle": "Diagnostic accuracy",
+        "text": [
+          "A 2015 systematic review evaluated different diagnostic methods for lateral ankle ligament injuries. The results for ultrasound were:",
+          "Sensitivity: 98.9%",
+          "Specificity: 96.2%",
+          "Cost: $97 ± 45",
+          "These results suggest that ultrasound is a highly accurate and cost-effective method for evaluating ATFL injuries."
+        ]
+      },
+      {
+        "subtitle": "Comparative diagnostic value",
+        "text": [
+          "A comparative study of diagnostic methods for lateral ankle ligament injuries found:",
+          [
+            "Physical examination < 48h post-injury is less sensitive and has very low specificity",
+            "When performed by an experienced evaluator, ultrasound is a preferred modality due to its high sensitivity and specificity (if > 48h post-injury)",
+            "While not the best option, physical examination > 48h post-injury, when used alone, remains affordable and reasonably sensitive and specific"
+          ]
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See also",
+      "content": [
+        {
+          "linkTitle": "Tibial mortise",
+          "link": "/protocoles/cheville-pied/mortaise-tibiale/"
+        },
+        {
+          "linkTitle": "Fibular tendons",
+          "link": "/protocoles/cheville-pied/tendons-fibulaires/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angel Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. 'Musculoskeletal Ultrasound Technical Guidelines (VI. Ankle).' European Society of Musculoskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "McNally, Eugene G. Practical Musculoskeletal Ultrasound. Churchill Livingstone/Elsevier, 2014."
+        },
+        {
+          "text": "O'Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        }
+      ]
+    }
+  }
+}

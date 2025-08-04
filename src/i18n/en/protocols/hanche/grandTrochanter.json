@@ -1,0 +1,336 @@
+{
+  "title": "Greater Trochanter",
+  "latinName": "Trochanter major",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Greater Trochanter Facet", "header": true },
+          { "data": "Main Associated Muscle(s)**", "header": true },
+          { "data": "Relative Depth", "header": true }
+        ],
+        [
+          { "data": "Anterior" },
+          { "data": "Tensor fasciae latae" },
+          { "data": "Superficial" }
+        ],
+        [
+          { "data": "Middle", "rowspan": 3 },
+          { "data": "Tensor fasciae latae" },
+          { "data": "Superficial" }
+        ],
+        [
+          { "data": "Gluteus medius (insertion site)" },
+          { "data": "Intermediate" }
+        ],
+        [{ "data": "Gluteus minimus (insertion site)" }, { "data": "Deep" }],
+        [
+          { "data": "Posterior" },
+          { "data": "Gluteus maximus" },
+          { "data": "Superficial" }
+        ]
+      ],
+      "text": ["**Visible during ultrasonographic examination"]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [[{ "data": "No data available", "header": true }]]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "The subject should be positioned in contralateral lateral decubitus (i.e., right side lying for examining the left greater trochanter, and vice versa)",
+          "The hip being examined should be in slight flexion, and a pillow can be placed between the subject's knees for comfort"
+        ]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "Locate and palpate the greater trochanter, which is the main bony prominence on the lateral aspect of the proximal thigh",
+          "To facilitate probe positioning, determine the anterior and posterior margins of the greater trochanter by palpation"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/grandTrochanter/vueTransversale/",
+        "objectifs": [
+          "Observation of the three facets of the greater trochanter and surrounding musculotendinous structures"
+        ],
+        "parametres": ["Depth: 4 cm", "Gain: 70"],
+        "positionnement": [
+          "Anterior facet:",
+          [
+            "Place the probe in longitudinal view, almost parallel to the trunk, at the level of the anterior border of the greater trochanter"
+          ],
+          "Middle facet:",
+          [
+            "Moving the probe slightly distally (a few centimeters), rotate the probe slightly so that its proximal end is slightly posterior to its distal end (in this image, counterclockwise)"
+          ],
+          "Posterior facet:",
+          [
+            "Again, move the probe slightly distally, then apply rotation in the same direction as before, to obtain an angle of approximately 45° with the trunk axis"
+          ]
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Anterior facet: probe position in longitudinal view"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Middle facet: probe position in longitudinal view"
+          },
+          {
+            "path": "positionnement3.jpg",
+            "descriptionText": "Posterior facet: probe position in longitudinal view"
+          },
+          {
+            "path": "positionnement4.jpg",
+            "descriptionText": "Relative placement of the three probe positions"
+          }
+        ],
+        "identification": [
+          {
+            "title": "[Anterior Facet]",
+            "legend": [
+              {
+                "acronymes": ["GT"],
+                "texte": [
+                  "The greater trochanter is visible in the lower right portion of the image, appearing as a large circular hyperechoic area"
+                ]
+              },
+              {
+                "acronymes": ["Gmin"],
+                "texte": [
+                  "The gluteus minimus, a large triangular hyperechoic area with typical muscular echotexture (muscle striations clearly visible) appears in the center-left of the image"
+                ]
+              },
+              {
+                "acronymes": ["Gmed"],
+                "texte": [
+                  "The gluteus medius, a hyperechoic zone less defined than the gluteus minimus, appears superficial to it"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Greater trochanter"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Gluteus minimus"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Gluteus medius"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          },
+          {
+            "title": "[Middle Facet]",
+            "legend": [
+              {
+                "acronymes": ["GT"],
+                "texte": [
+                  "The greater trochanter is visible in the lower right corner of the image"
+                ]
+              },
+              {
+                "acronymes": ["Gmin"],
+                "texte": [
+                  "The gluteus minimus (distal portion) here appears as a slightly hyperechoic area with less defined echotexture than at the anterior facet of the greater trochanter"
+                ]
+              },
+              {
+                "acronymes": ["Gmed"],
+                "texte": [
+                  "The gluteus medius is present on the surface of the gluteus minimus, and can be described as a long triangular hyperechoic area with striated appearance"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification6.jpg" },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Greater trochanter"
+              },
+              {
+                "path": "identification8.jpg",
+                "descriptionText": "Gluteus minimus"
+              },
+              {
+                "path": "identification9.jpg",
+                "descriptionText": "Gluteus medius"
+              },
+              { "path": "identification10.jpg" }
+            ]
+          },
+          {
+            "title": "[Posterior Facet]",
+            "legend": [
+              {
+                "acronymes": ["GT"],
+                "texte": [
+                  "The greater trochanter, a vast rounded hyperechoic area with somewhat irregular surface, appears in the lower half of the image"
+                ]
+              },
+              {
+                "acronymes": ["Gmed"],
+                "texte": [
+                  "The gluteus medius (distal portion) appears on the surface of the greater trochanter as a tapered hyperechoic area"
+                ]
+              },
+              {
+                "acronymes": ["Gmax"],
+                "texte": [
+                  "The gluteus maximus is visible in the upper portion of the image, appearing here as a large hyperechoic area with muscular echotexture. Note that the hypoechoic region below the dotted line is due to an artifact."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification11.jpg" },
+              {
+                "path": "identification12.jpg",
+                "descriptionText": "Greater trochanter"
+              },
+              {
+                "path": "identification13.jpg",
+                "descriptionText": "Gluteus medius"
+              },
+              {
+                "path": "identification14.jpg",
+                "descriptionText": "Gluteus maximus"
+              },
+              { "path": "identification15.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The greater trochanter [GT] is a bony prominence of the proximal femur that serves as an attachment point for several pelvic girdle muscles. The GT is located on the lateral aspect of the femur and is a frequently used bony landmark during physical examination, postural assessment, or ultrasonographic examination.",
+          "The GT has three facets: anterior, middle, and posterior (or posterosuperior) facets. These facets primarily serve as insertion sites for two hip abductor muscles, namely the gluteus minimus and gluteus medius. The gluteus maximus, on the other hand, attaches more distally to the gluteal tuberosity of the femur and to the iliotibial tract<a href='#ref2' class='reference'>[2]</a>.",
+          "Both trochanters (the GT and lesser trochanter) are extra-articular, meaning they are not covered by the structures that define the hip joint (primarily the joint capsule)<a href='#ref2' class='reference'>[2]</a>. The tensor fasciae latae is also associated with the GT, although it does not attach to it: given the origin-insertion axis of this muscle and the fact that it overlaps the anterolateral aspect of the GT, hip flexion-extension movements can cause sliding between these structures. For more information on this topic, see the clinical relevance section below."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Greater Trochanteric Pain Syndrome [GTPS]",
+        "text": [
+          "Ultrasound imaging is frequently used to evaluate subjects with bursopathy or tendinopathy in the greater trochanter region. Since it can be difficult to differentiate between these two types of pathologies based solely on clinical examination, they are sometimes grouped under the term 'greater trochanteric pain syndrome'<a href='#ref2' class='reference'>[2]</a>.",
+          "This syndrome more commonly affects middle-aged women, who report acute pain in the posterolateral aspect of the greater trochanter, particularly during sleep and deep palpation, without presenting mobility limitations. The causes of this syndrome are not yet consensus in the scientific literature, although research seems to point toward the involvement of microtrauma leading to hip abductor tendon ruptures<a href='#ref4' class='reference'>[4]</a><a href='#ref5' class='reference'>[5]</a><a href='#ref15' class='reference'>[15]</a>. The emergence of this hypothesis would replace the pathophysiological mechanism that, until then, was considered most probable, i.e., trochanteric bursitis<a href='#ref2' class='reference'>[2]</a>.",
+          "This syndrome is considered analogous to rotator cuff tendon tears, and as in the case of the shoulder, ultrasound imaging can be useful in demonstrating the presence of pathological changes within the gluteal muscle tendons<a href='#ref2' class='reference'>[2]</a>. However, the scientific literature regarding the usefulness of ultrasound in trochanteric pain syndrome currently relies mainly on lower quality articles (e.g., case studies), which explains why ultrasound is currently little used in this type of condition<a href='#ref11' class='reference'>[11]</a>."
+        ]
+      },
+      {
+        "subtitle": "Snapping Hip",
+        "text": [
+          "The term 'snapping hip' refers to a condition characterized by hip pain accompanied by a snapping sound during hip movements (e.g., while walking). These signs and symptoms are not very specific and can therefore be associated with a large number of intra- or extra-articular pathologies<a href='#ref2' class='reference'>[2]</a>."
+        ]
+      },
+      {
+        "subtitle": "Internal: For more information on this topic, please consult the <a href='/protocoles/hanche/col-femoral/' class='underline'>femoral neck protocol.</a>",
+        "text": [
+          "External: this type of phenomenon is often caused by friction (or impingement) of the iliotibial band on the greater trochanter and is associated with symptomatology very similar to snapping caused by the iliopsoas tendon (see <a href='/protocoles/hanche/col-femoral/' class='underline'>the femoral neck protocol</a> on this topic). The clinical presentation of external cases is mainly differentiated by the presence of referred pain to the lateral aspect of the hip, although subjects may also be completely asymptomatic. The movements associated with symptoms are as follows: a hip in extension and adduction moved into flexion and external rotation with the knee flexed. <a href='#ref2' class='reference'>[2]</a>"
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Femoral Neck",
+          "link": "/protocoles/hanche/col-femoral"
+        },
+        {
+          "linkTitle": "Iliotibial Band",
+          "link": "/protocoles/cuisse-et-genou/bandelette-ilio-tibiale"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angelo Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. « Musculoskeletal Ultrasound Technical Guidelines (IV. Hip). » European Society of Musculoskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Clark, John M., M. A. R. Freeman, et David Witham. « The relationship of neck orientation to the shape of the proximal femur. » The Journal of Arthroplasty 2, nᵒ 2 (1987): 99‑109. doi:10.1016/S0883-5403(87)80016-5."
+        },
+        {
+          "text": "Connell, David A., Cheryl Bass, Christopher J. Sykes, David Young, et Elton Edwards. « Sonographic Evaluation of Gluteus Medius and Minimus Tendinopathy. » European Radiology 13, nᵒ 6 (juin 2003): 1339‑47. doi:10.1007/s00330-002-1740-4."
+        },
+        {
+          "text": "Cvitanic, Oliver, Gregory Henzie, Nicholas Skezas, Jack Lyons, et Jon Minter. « MRI Diagnosis of Tears of the Hip Abductor Tendons (Gluteus Medius and Gluteus Minimus). » American Journal of Roentgenology 182, nᵒ 1 (1 janvier 2004): 137‑43. doi:10.2214/ajr.182.1.1820137."
+        },
+        {
+          "text": "D'lima, Darryl D., Andrew G. Urquhart, Knute O. Buehler, Richard H. Walker, et Clifford W. Colwell. « The Effect of the Orientation of the Acetabular and Femoral Components on the Range of Motion of the Hip at Different Head-Neck Ratios*. » The Journal of Bone & Joint Surgery 82, nᵒ 3 (1 mars 2000): 315‑21."
+        },
+        {
+          "text": "Faulkner, Kenneth G., Steven R. Cummings, Dennis Black, Lisa Palermo, Claus-C. Glüer, et Harry K. Genant. « Simple Measurement of Femoral Geometry Predicts Hip Fracture: The Study of Osteoporotic Fractures. » Journal of Bone and Mineral Research 8, nᵒ 10 (1 octobre 1993): 1211‑17. doi:10.1002/jbmr.5650081008."
+        },
+        {
+          "text": "Hsu, RW, Himeno S, Coventry Mb, et Chao Ey. « Normal Axial Alignment of the Lower Extremity and Load-Bearing Distribution at the Knee. » Clinical Orthopaedics and Related Research, nᵒ 255 (juin 1990): 215‑27."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "K, Margo, Drezner J, et Motzkin D. « Evaluation and Management of Hip Pain: An Algorithmic Approach. » The Journal of Family Practice 52, nᵒ 8 (août 2003): 607‑17."
+        },
+        {
+          "text": "Klauser, Andrea S., Alberto Tagliafico, Gina M. Allen, Natalie Boutry, Rob Campbell, Michel Court-Payen, Andrew Grainger, et al. « Clinical Indications for Musculoskeletal Ultrasound: A Delphi-Based Consensus Paper of the European Society of Musculoskeletal Radiology. » European Radiology 22, nᵒ 5 (mai 2012): 1140‑48. doi:10.1007/s00330-011-2356-3."
+        },
+        {
+          "text": "Nötzli, H. P., T. F. Wyss, C. H. Stoecklin, M. R. Schmid, K. Treiber, et J. Hodler. « The Contour of the Femoral Head-Neck Junction as a Predictor for the Risk of Anterior Impingement. » Journal of Bone & Joint Surgery, British Volume 84-B, nᵒ 4 (1 mai 2002): 556‑60. doi:10.1302/0301-620X.84B4.12014."
+        },
+        {
+          "text": "Oswald, Michael H., Roland P. Jakob, Erich Schneider, et Henri-Marcel Hoogewoud. « Radiological analysis of normal axial alignment of femur and tibia in view of total knee arthroplasty. » The Journal of Arthroplasty 8, nᵒ 4 (août 1993): 419‑26. doi:10.1016/S0883-5403(06)80042-2."
+        },
+        {
+          "text": "Reikeråls, Olav, Ingjald Bjerkreim, et Alf Kolbenstvedt. « Anteversion of the Acetabulum and Femoral Neck in Normals and in Patients with Osteoarthritis of the Hip. » Acta Orthopaedica 54, nᵒ 1 (1 janvier 1983): 18‑23. doi:10.3109/17453678308992864."
+        },
+        {
+          "text": "Sayegh, Fares, Michael Potoupnis, et George Kapetanos. « Greater Trochanter Bursitis Pain Syndrome in Females with Chronic Low Back Pain and Sciatica. » Acta Orthopaedica Belgica 70, nᵒ 5 (2004): 423‑28."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Practical Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Tönnis, D., et A. Heinecke. « Current Concepts Review - Acetabular and Femoral Anteversion: Relationship with Osteoarthritis of the Hip*. » The Journal of Bone & Joint Surgery 81, nᵒ 12 (1 décembre 1999): 1747‑70."
+        },
+        {
+          "text": "Yoshioka, Y., D. Siu, et T. D. Cooke. « The Anatomy and Functional Axes of the Femur. » The Journal of Bone and Joint Surgery. American Volume 69, nᵒ 6 (juillet 1987): 873‑80."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "title": "Tibial Tuberosity",
+  "latinName": "Tuberositas tibiae",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Attachment site for", "header": true },
+          { "data": "Patellar ligament (or tendon) distal insertion" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [],
+      "text": ["No data available in the literature"]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Supine position, with the knee and lower third of the thigh exposed",
+          "A knee flexion of 20-30° (using a pillow under the popliteal fossa) allows for slight tension in the extensor mechanism, thus reducing problems related to anisotropy of the anterior tendons (caused by their concave profile when the knee is in full extension)<a href='#ref2' class='reference'>[2]</a><a href='#ref3' class='reference'>[3]</a>"
+        ],
+        "images": [
+          {
+            "path": "positionnement1.jpg",
+            "description": "Subject position, leg extended"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "description": "Subject position, leg slightly flexed"
+          }
+        ],
+        "source": "/Protocols/tuberositeTibiale/"
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "Locate and palpate the tibial tuberosity, patellar ligament, and the articular joint lines (medial and lateral) of the tibiofemoral joint"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/tuberositeTibiale/vueLongitudinale/",
+        "objectifs": [
+          "Visualization of the tibial tuberosity",
+          "If possible (depending on equipment and subject's anatomy), visualization of the infrapatellar bursa"
+        ],
+        "parametres": ["Depth: 2 cm", "Gain: 70"],
+        "positionnement": [
+          "In longitudinal view (parallel to the long axis of the thigh), place the probe 5 cm distal to the patella, approximately aligned with the midline"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["TT"],
+                "texte": [
+                  "The tibial tuberosity appears at the right portion of the image as a rounded area bordered by a hyperechoic line"
+                ]
+              },
+              {
+                "acronymes": ["PL"],
+                "texte": [
+                  "The patellar ligament is clearly visible in the central portion of the image, crossing from left (narrower) to right (wider). Its fibrillar organization can be appreciated, where an alternation of fine hyper- and hypoechoic lines are present in the longitudinal axis of the ligament."
+                ]
+              },
+              {
+                "acronymes": ["IPB"],
+                "texte": [
+                  "The infrapatellar bursa, often absent during ultrasonographic examination, is visible here just below the (distal) insertion of the patellar ligament. It appears as a small rounded hypoechoic area."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Tibial tuberosity"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Patellar ligament"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Patellar bursa"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The tibial tuberosity is a bony prominence located on the anterior aspect of the proximal tibial metaphysis, approximately 5 cm below the apex (inferior pole) of the patella<a href='#ref2' class='reference'>[2]</a>. Its importance is largely due to being the insertion site of the <a href='protocols/thigh-and-knee/patellar-ligament' class='underline'>patellar ligament (or tendon)</a>, and the pathology it is most commonly involved in, Osgood-Schlatter syndrome (see clinical relevance section below).",
+          "Additionally, we invite you to consult the pages on the <a href='protocols/thigh-and-knee/quadriceps-tendon' class='underline'>quadriceps tendon</a> and the <a href='protocols/thigh-and-knee/quadriceps' class='underline'>quadriceps femoris</a>."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Osgood-Schlatter Disease",
+        "text": [
+          "Osgood-Schlatter disease (OSD) is a traction apophysitis that affects the tibial tuberosity, following excessive and repeated traction from the patellar ligament. Apophysitis such as OSD affects children aged 10 to 15 years who participate in jumping sports. When repeated, traction trauma at the patellar ligament insertion generates damage within the apophyseal cartilage that varies greatly according to certain factors, including<a href='#ref2' class='reference'>[2]</a>:",
+          [
+            "Mechanical strength/resistance of tissues transmitting the traction force",
+            "Joint size",
+            "Subject's age",
+            "Stage of bone development"
+          ],
+          "The proposed pathophysiological mechanism is as follows<a href='#ref2' class='reference'>[2]</a>:",
+          [
+            "Chronic traction trauma at the level of apophyseal cartilage by the ligament/tendon",
+            "Micro-tears and widening of the growth plate",
+            "Avulsion of osteochondral fragments with tendinopathy within the ligament insertion (patellar in this case)"
+          ],
+          "Ultrasonography imaging can be useful in visualizing many signs suggestive of OSD, such as the presence of calcified fragments, infrapatellar bursitis, and irregularities in the bony contours of the tibial tuberosity<a href='#ref2' class='reference'>[2]</a>."
+        ]
+      },
+      {
+        "subtitle": "Sinding-Larsen-Johansson Disease",
+        "text": [
+          "Like Osgood-Schlatter disease, Sinding-Larsen-Johansson disease [SLJD] is a traction apophysitis that affects not the tibial tuberosity but rather the apex (inferior pole) of the patella. It is sometimes called 'pediatric jumper's knee' and also affects children aged 10 to 15 years<a href='#ref2' class='reference'>[2]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Patellar ligament / tendon",
+          "link": "thigh-and-knee/patellar-ligament"
+        },
+        {
+          "linkTitle": "Quadriceps tendon",
+          "link": "thigh-and-knee/quadriceps-tendon"
+        },
+        {
+          "linkTitle": "Quadriceps",
+          "link": "thigh-and-knee/quadriceps"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Balint, P. V., D. Kane, H. Wilson, I. B. McInnes, and R. D. Sturrock. 'Ultrasonography of Entheseal Insertions in the Lower Limb in Spondyloarthropathy., Annals of the Rheumatic Diseases 61, no. 10 (October 1, 2002): 905–10. doi:10.1136/ard.61.10.905."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Martinoli, Carlo. 'Musculoskeletal Ultrasound: Technical Guidelines.', Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Flaviis, Luca De, Renato Nessi, Pietro Scaglione, Giuseppe Balconi, Walter Albisetti, and Lorenzo E. Derchi. 'Ultrasonic Diagnosis of Osgood-Schlatter and Sinding-Larsen-Johansson Diseases of the Knee.', Skeletal Radiology 18, no. 3 (May 1989): 193–97. doi:10.1007/BF00360969."
+        },
+        {
+          "text": "Gholve, Purushottam A, David M Scher, Saurabh Khakharia, Roger F Widmann, and Daniel W Green. 'Osgood Schlatter Syndrome: Current Opinion in Pediatrics 19, no. 1 (February 2007): 44–50. doi:10.1097/MOP.0b013e328013dbea."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "O'Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Practical Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Stevens, Max A., Georges Y. El-Khoury, Mary H. Kathol, Eric A. Brandser, and Shirley Chow. 'Imaging Features of Avulsion Injuries.', RadioGraphics 19, no. 3 (May 1, 1999): 655–72. doi:10.1148/radiographics.19.3.g99ma05655."
+        }
+      ]
+    }
+  }
+}

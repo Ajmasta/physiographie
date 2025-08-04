@@ -1,0 +1,224 @@
+{
+  "title": "Infraspinatus [Scapular Region]",
+  "latinName": "Infraspinatus",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Muscle Type", "header": true },
+          { "data": "Mono-articular, multipennate" }
+        ],
+        [
+          { "data": "Origin", "header": true },
+          { "data": "Infraspinous fossa (scapula)" }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          { "data": "Greater tuberosity, lateral facet (humerus)" }
+        ],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Suprascapular nerve (C5-C6)" }
+        ],
+        [
+          { "data": "Action", "header": true },
+          {
+            "data": "External shoulder rotation, glenohumeral joint coaptation"
+          }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [
+        [
+          { "data": "Measurement", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plane", "header": true },
+          { "data": "Mean ± SD", "header": true }
+        ],
+        [
+          { "data": "Muscle belly thickness (mm)" },
+          { "data": "Infraspinatus" },
+          { "data": "Average of 4 points of muscle belly" },
+          { "data": "18.00 ± 0.50 <a href='#ref10' class='reference'>[10]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Seated with shoulder exposed",
+          "Shoulder at rest, arm along the body"
+        ]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "Palpate the main reliefs and landmarks of the scapula (spine, inferior angle, lateral border)"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/InfraspinatusScapular/vueTransversale/",
+        "objectifs": [
+          "Examination of the infraspinatus belly",
+          "Appreciate the multipennate morphology of the infraspinatus"
+        ],
+        "parametres": ["Depth: 5-6 cm", "Gain: 60-65"],
+        "positionnement": [
+          "Place the probe in transverse view (relative to infraspinatus fibers) on the scapular spine, just lateral to its center",
+          "To better locate and identify structures, slowly scan from superior to inferior to observe and differentiate the scapular spine, trapezius, infraspinatus, and supraspinatus",
+          "Move the probe slightly downward so that the scapular spine is just visible in the field"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Probe position, transverse view (back)"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Probe position, transverse view (side)"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["S", "IF"],
+                "texte": [
+                  "The scapular spine and infraspinous fossa appear in the lower left portion of the image. The cortical bone not allowing ultrasound penetration, the muscle-bone interface is strongly hyperechoic"
+                ]
+              },
+              {
+                "acronymes": ["LT"],
+                "texte": [
+                  "The lower trapezius, a hypoechoic band appearing at the top of the image, is the most superficial muscle"
+                ]
+              },
+              {
+                "acronymes": ["IS"],
+                "texte": [
+                  "The infraspinatus, a large almost triangular hypoechoic area, occupies the entirety of the infraspinous fossa"
+                ]
+              },
+              {
+                "acronymes": ["SEPTUM"],
+                "texte": [
+                  "One of the septa separating the superior head of the infraspinatus from the other heads appears as a hyperechoic line curved to the left"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Spine & infraspinous fossa"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Lower trapezius"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Infraspinatus"
+              },
+              { "path": "identification5.jpg", "descriptionText": "Septum" },
+              { "path": "identification6.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The infraspinatus muscle, located at the posterior aspect of the shoulder, is one of the 4 muscles belonging to the rotator cuff (along with the teres minor, subscapularis, and supraspinatus). This muscle maintains close relationships with the teres minor, both in terms of their location and more functional aspects.",
+          "The infraspinatus originates in the infraspinous fossa (scapula) and inserts, via a broad tendon, on the lateral facet of the greater tuberosity, just below the supraspinatus insertion. Although the gross anatomy of the infraspinatus is fairly well known, some important morphological concepts still lack consensus.",
+          "In the literature, when the pennation of the infraspinatus is described (it is often omitted), it is reported as either: multipennate, bipennate, compartmentalized, and/or fused with the teres minor <a href='#ref4' class='reference'>[4]</a><a href='#ref5' class='reference'>[5]</a><a href='#ref6' class='reference'>[6]</a><a href='#ref7' class='reference'>[7]</a><a href='#ref8' class='reference'>[8]</a>. However, a recent study <a href='#ref2' class='reference'>[2]</a> noted (in 100% of their 48 subjects) the unequivocal separation of the infraspinatus into 3 heads (superior, middle, and inferior). Each of these heads being clearly delimited by its own fascial envelope, but all being part of the same neuromuscular unit (although this aspect is subject to anatomical variability).",
+          "In ultrasonography, the different heads ('partitions') of the infraspinatus are well visible and clearly delimited: to avoid any confusion during structure identification, this concept must be well understood. There are 3 heads to the infraspinatus, each"
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/InfraspinatusScapular/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Pedagogy",
+        "text": [
+          "The examination of the infraspinatus as described in this section is not part of the classic routine of ultrasonographic shoulder evaluation.",
+          "The techniques demonstrated are of more pedagogical interest (e.g., anatomy demonstration, practice of ultrasound equipment use) than clinical."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Teres Minor & Infraspinatus",
+          "link": "protocoles/epaule/petit-rond-et-sous-epineux"
+        },
+        {
+          "linkTitle": "Supraspinatus (Scapular Region)",
+          "link": "protocoles/epaule/sus-epineux-post"
+        },
+        {
+          "linkTitle": "Acromioclavicular Joint",
+          "link": "protocoles/epaule/acromio-claviculaire"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Fabrizio, Philip A., and F. Richard Clemente. \"Anatomical structure and nerve branching pattern of the human infraspinatus muscle.\" Journal of Bodywork and Movement Therapies 18, no. 2 (April 2014): 228-32. doi:10.1016/j.jbmt.2013.11.016."
+        },
+        {
+          "text": "Jacobson, Jon A. \"Shoulder US: Anatomy, Technique, and Scanning Pitfalls.\" Radiology 260, no. 1 (July 1, 2011): 6–16. doi:10.1148/radiol.11101082."
+        },
+        {
+          "text": "Johnson, Donald Hugh, and Robert A. Pedowitz. Practical Orthopaedic Sports Medicine and Arthroscopy. Lippincott Williams & Wilkins, 2007."
+        },
+        {
+          "text": "Kato, Atsuo, Akimoto Nimura, Kumiko Yamaguchi, Tomoyuki Mochizuki, Hiroyuki Sugaya, and Keiichi Akita. \"An Anatomical Study of the Transverse Part of the Infraspinatus Muscle That Is Closely Related with the Supraspinatus Muscle.\" Surgical and Radiologic Anatomy 34, no. 3 (April 2012): 257-65. doi:10.1007/s00276-011-0872-0."
+        },
+        {
+          "text": "Keating, J. F., P. Waterworth, J. Shaw-Dunn, and J. Crossan. \"The Relative Strengths of the Rotator Cuff Muscles. A Cadaver Study.\" Journal of Bone & Joint Surgery, British Volume 75-B, no. 1 (January 1, 1993): 137-40."
+        },
+        {
+          "text": "Moore, Keith L., Anne M. R. Agur, and Arthur F. Dalley. Clinically Oriented Anatomy. 7th edition. LWW, 2013."
+        },
+        {
+          "text": "Standring, Susan, Neil R Borley, and Henry Gray. Gray's Anatomy: The Anatomical Basis of Clinical Practice. [Edinburgh]: Churchill Livingstone/Elsevier, 2008."
+        },
+        {
+          "text": "Yu, Tung-Yang, Wen-Chung Tsai, Ju-Wen Cheng, Yun-Ming Yang, Fang-Chen Liang, and Chien-Hung Chen. \"The Effects of Aging on Quantitative Sonographic Features of Rotator Cuff Tendons.\" Journal of Clinical Ultrasound: JCU 40, no. 8 (October 2012): 471–78. doi:10.1002/jcu.21919."
+        },
+        {
+          "text": "Juul-Kristensen, B., F. Bojsen-Møller, E. Holst, and C. Ekdahl. \"Comparison of Muscle Sizes and Moment Arms of Two Rotator Cuff Muscles Measured by Ultrasonography and Magnetic Resonance Imaging.\" European Journal of Ultrasound: Official Journal of the European Federation of Societies for Ultrasound in Medicine and Biology 11, no. 3 (June 2000): 161–73."
+        }
+      ]
+    }
+  }
+}

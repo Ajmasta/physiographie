@@ -1,0 +1,315 @@
+{
+  "title": "Fibular tendons",
+  "latinName": "Tendo fibularis",
+  "normesEtGeneralites": {
+    "sectionTitle": "Norms and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Muscle", "header": true },
+          { "data": "Fibularis brevis" },
+          { "data": "Fibularis longus" }
+        ],
+        [
+          { "data": "Origin", "header": true },
+          { "data": "Fibula (lower two-thirds, lateral surface)" },
+          { "data": "Fibula (upper half, lateral surface)" }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          { "data": "Fifth metatarsal (proximal portion)" },
+          {
+            "data": "First metatarsal (proximal portion), first cuneiform (lateral plantar surface)"
+          }
+        ],
+        [
+          { "data": "Action", "header": true },
+          { "data": "Plantar flexion, eversion", "colspan": 2 }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative values",
+      "rangees": [
+        [
+          { "data": "Measurement", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Mean ± standard deviation", "header": true }
+        ],
+        [
+          { "data": "Thickness (mm)", "rowspan": 2 },
+          { "data": "Fibularis longus tendon" },
+          { "data": "[Not available]" }
+        ],
+        [{ "data": "Fibularis brevis tendon" }, { "data": "[Not available]" }]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject positioning",
+        "text": [
+          "Supine position<a href='#ref2' class='reference'>[2]</a>",
+          "Lower limb extended, completely on the bed, and in internal rotation (toes pointing inward)",
+          "Depending on the subject's physiology, it may be necessary to place the ankle in inversion to provide a larger flat contact surface between the probe and the skin"
+        ]
+      },
+      {
+        "subtitle": "Anatomical landmarks and palpation",
+        "text": ["Locate and palpate the lateral malleolus and calcaneus"]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/tendonsFibulaires/vueLongitudinale/",
+        "objectifs": ["Evaluate the integrity of the fibular tendons"],
+        "parametres": ["Depth: 2 cm", "Gain: 80"],
+        "positionnement": [
+          "Rotate the probe 90° from the transverse view",
+          "Alternatively, imagine two lines: one in the longitudinal axis of the probe, and another tangential to the dorsal aspect of the foot. These two lines should be approximately parallel.",
+          "Due to normal anatomical variability, slightly rotate the probe until obtaining an optimal image of the fibular tendons (see below)"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Probe position, longitudinal view"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Schematic representation of the desired probe rotation angle"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["ML"],
+                "texte": [
+                  "The lateral malleolus is visible (although difficult to see) on the right side of the attached image, with only its apex visible as a curved hyperechoic line."
+                ]
+              },
+              {
+                "acronymes": ["LF"],
+                "texte": [
+                  "The fibularis longus tendon is easily visible in the upper part of the image. The typical echotexture of tendinous tissue in longitudinal view is recognizable, showing a very coherent (aligned) fibrillar organization with the mechanical axis of the tendon"
+                ]
+              },
+              {
+                "acronymes": ["CF"],
+                "texte": [
+                  "The fibularis brevis tendon, of which only the upper margin is clearly visible, is located below the fibularis longus tendon. Also, the parallel course of these two tendons is clearly distinguishable."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Lateral malleolus"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Fibularis longus tendon"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Fibularis brevis tendon"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/tendonsFibulaires/vueTransversale/",
+        "objectifs": [
+          "Evaluation of fibular tendons integrity and their synovial sheaths",
+          "Assessment of fibular tendons stability during circumduction, eversion, and ankle extension movements"
+        ],
+        "parametres": ["Depth: 2 cm", "Gain: 80"],
+        "positionnement": [
+          "Place the probe on the lateral aspect of the ankle, covering the postero-inferior end of the lateral malleolus and the superior (cranial) end of the calcaneus",
+          "Imagine two lines: one in the longitudinal axis of the probe, and another tangential to the dorsal aspect of the foot. The angle formed by these two lines should be close to 90°",
+          "If needed, modify the ankle inversion angle to optimize the contact surface between the probe and skin. Additionally, it may be necessary to use a larger amount of conduction gel than usual."
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Probe position, transverse view"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Schematic representation of the desired probe rotation angle"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["ML"],
+                "texte": [
+                  "The lateral (external) malleolus can be identified due to its distinctive shape that forms the relief of the external aspect of the ankle. Here, we clearly see the cortical bone, hyperechoic, describing a strongly convex relief."
+                ]
+              },
+              {
+                "acronymes": ["LF"],
+                "texte": [
+                  "The fibularis longus tendon appears to the right of the lateral malleolus, in its postero-inferior aspect. It is mainly recognized by its sheath (hypoechoic), which traces the ovoid contour of the tendon, which has echogenicity comparable to surrounding structures."
+                ]
+              },
+              {
+                "acronymes": ["CF"],
+                "texte": [
+                  "The fibularis brevis tendon is located between the lateral malleolus and the fibularis longus tendon, and has a significantly smaller diameter than the latter."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Lateral (external) malleolus"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Fibularis longus tendon"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Fibularis brevis tendon"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomical Description",
+    "content": [
+      {
+        "text": [
+          "The tendons of the fibularis brevis and longus muscles are easily accessible for palpation and ultrasonographic evaluation in their supra-, retro- and infra-malleolar course<a href='#ref2' class='reference'>[2]</a>. Despite several facilitating factors, the strongly curved course of these tendons can contribute to anisotropy, which can be avoided by maintaining the beam incidence angle with the tendons as perpendicular as possible.",
+          "These two tendons run along the lateral aspect of the ankle, where they encircle part of the lateral malleolus, which acts as a pulley (or lever arm) between their respective origins and insertions. In their supra-malleolar portion, the fibularis brevis and longus tendons share a common sheath, which separates into two below (inferior to) the malleolus. Two retinacula (superior and inferior) keep these tendons tightly in place behind the lateral malleolus and on the lateral surface of the calcaneus<a href='#ref2' class='reference'>[2]</a>. Within the osteo-fibrous canal formed by the lateral malleolus and the superior fibular retinaculum, the fibularis brevis tendon is normally located antero-medial to the fibularis longus tendon<a href='#ref12' class='reference'>[12]</a>. The role of the superior fibular retinaculum is to prevent anterior displacement of the fibular tendons, i.e., over the lateral malleolus<a href='#ref2' class='reference'>[2]</a>. Caudal (inferior) to the lateral malleolus, stabilization of the fibular tendons is ensured by the inferior fibular retinaculum.",
+          "In addition to their mobilizing roles (plantar flexion and ankle eversion), the fibular muscles are important ankle stabilizers<a href='#ref12' class='reference'>[12]</a>."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/tendonsFibulaires/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Tendinopathies",
+        "text": [
+          "In the present context, the term 'tendinopathy' encompasses tendinosis and tenosynovitis. Regarding the lateral aspect of the ankle, the most commonly affected tendons are the fibular tendons<a href='#ref6' class='reference'>[6]</a>.",
+          "One of the main proposed mechanisms to explain the occurrence of fibular tenosynovitis is the increase in mechanical stress around immobile pulleys (such as the lateral malleolus).",
+          "Otherwise, certain traumatic events such as ankle inversion injuries, calcaneal or lateral malleolus fractures can be the source of fibular tendon sheath lesions.",
+          "From a clinical perspective, fibular tenosynovitis classically presents as pain/tenderness on palpation along the entire fibular tendon sheath."
+        ]
+      },
+      {
+        "subtitle": "Ruptures",
+        "text": [
+          "The most frequent ruptures of the fibular tendons (longus or brevis) are longitudinal intra-substance ruptures. Complete (therefore transverse) ruptures of the fibular tendons are significantly less frequent than longitudinal ruptures. Ultrasonography imaging has been recognized as a first-line tool when fibular tendon rupture is suspected due to its particularly interesting psychometric qualities (sensitivity of 100% and specificity of 85%)<a href='#ref5' class='reference'>[5]</a>",
+          "Fibularis brevis tendon rupture:",
+          [
+            "Longitudinal rupture of the fibularis brevis tendon (also known as 'peroneal split syndrome') can be found in both young athletes and elderly individuals. However, the clinical presentation in these two populations is quite different: young athletes classically report significant pain, while elderly individuals may be completely asymptomatic.",
+            "The fibularis brevis tendon is more vulnerable to ruptures than the fibularis longus due to its location between the retromalleolar groove and the fibularis longus tendon, which explains increased mechanical stress at this location (particularly during ankle dorsiflexion movements). Moreover, during a longitudinal rupture of the fibularis brevis tendon, the fibularis longus tendon tends to lodge within the rupture site of the brevis tendon, which can slow down, or even prevent, any healing of the fibularis brevis tendon rupture<a href='#ref6' class='reference'>[6]</a>."
+          ],
+          "Fibularis longus tendon rupture:",
+          [
+            "At the retromalleolar level, fibularis longus tendon ruptures are often associated with fibularis brevis ruptures. In contrast, isolated fibularis longus ruptures are mostly located at the midfoot level<a href='#ref12' class='reference'>[12]</a>.",
+            "More often than not, traumatic ruptures are associated with events such as calcaneal fractures or direct crushing, for example during sports activities. Chronic ruptures, on the other hand, are generally related to a peroneal tubercle or hypertrophic cuboid bone, which contribute to a degenerative process<a href='#ref12' class='reference'>[12]</a>."
+          ]
+        ]
+      },
+      {
+        "subtitle": "Instability / Dislocation",
+        "text": [
+          "Chronic displacement (or sub-/dislocation) of the fibular tendons from the retromalleolar groove is a fairly uncommon condition, but one that some authors believe is underdiagnosed<a href='#ref8' class='reference'>[8]</a>. In these subjects, the tendons, which should be maintained posterior to the lateral malleolus, undergo lateral displacement (relative to their initial position). It is generally encountered in subjects with repeated ankle injuries (e.g., sprains)<a href='#ref2' class='reference'>[2]</a>, and/or practicing certain sports considered 'high-risk', such as skiing, soccer (football), ice skating, and ballet. These conditions thus cause laxity of the superior fibular retinaculum (which should normally keep the fibular tendons in place). Additionally, numerous documented anatomical variations (convex or shallow retromalleolar groove) can predispose to fibular tendon sub-/dislocations (in this case more often bilateral)<a href='#ref8' class='reference'>[8]</a>.",
+          "Superior fibular retinaculum hyperlaxity is classically caused by a sudden, vigorous, and forced movement in dorsiflexion and eversion of the foot. Fibular tendon instability can be classified (types I, II, III, or IV) according to which retinaculum fibers are affected, the severity degree of this involvement, the presence or absence of avulsion fragments, etc<a href='#ref2' class='reference'>[2]</a>.",
+          "Clinically, palpation of the fibular tendons lateral to the retromalleolar groove is sufficient for diagnosis, but following a recent traumatic event, clinical examination may be complicated by pain during mobilization and diffuse edema<a href='#ref12' class='reference'>[12]</a>.",
+          "Conservative treatment classically relies on maintaining the fibular tendons within the retromalleolar groove (e.g., by avoiding certain movements) to allow healing processes to take place within the superior fibular retinaculum<a href='#ref8' class='reference'>[8]</a>."
+        ]
+      },
+      {
+        "subtitle": "Presence of accessory muscles",
+        "text": [
+          "Accessory fibular muscles are a group of muscles that can be found at the lateral aspect of the ankle. These can have very varied origins and insertions, which explains why the terminology and classification of these muscles can potentially be confusing<a href='#ref12' class='reference'>[12]</a>.",
+          "The most frequent accessory muscle, according to cadaver studies<a href='#ref4' class='reference'>[4]</a><a href='#ref11' class='reference'>[11]</a>, is the fourth fibular/peroneal muscle ('peroneus quartus'), with a prevalence varying between 12% and 22% of study subjects. This muscle originates from the lateral portion of the distal fibula, descends postero-medial to the fibularis longus and brevis, and has a variable insertion site. Possible insertion sites include the calcaneus, 5th metatarsal, proximal 5th phalanx, fibular retinaculum, or cuboid.",
+          "Most of the time, this muscle is asymptomatic, but can sometimes cause crowding of the retromalleolar groove (space), and thus be a predisposing factor for dislocations and ruptures of the fibularis brevis tendon<a href='#ref12' class='reference'>[12]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See also",
+      "content": [
+        {
+          "linkTitle": "Anterior talofibular ligament",
+          "link": "/protocoles/cheville-et-pied/ligament-talo-fibulaire-anterieur/"
+        },
+        {
+          "linkTitle": "Tarsal tunnel",
+          "link": "/protocoles/cheville-et-pied/canal-tarsien/"
+        },
+        {
+          "linkTitle": "Anterior tibial",
+          "link": "/protocoles/cheville-et-pied/tibial-anterieur/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angelo Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. 'Musculoskeletal Ultrasound Technical Guidelines (VI. Ankle).' Eureopean Society of Muscloskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Brandes, Clayton B., and Ronald W. Smith. 'Characterization of Patients with Primary Peroneus Longus Tendinopathy: A Review of Twenty-Two Cases.' Foot & Ankle International 21, no. 6 (June 1, 2000): 462–68. doi:10.1177/107110070002100602."
+        },
+        {
+          "text": "Cheung, Yvonne, and Zehava Sadka Rosenberg. 'MR Imaging of the Accessory Muscles around the Ankle.' Magnetic Resonance Imaging Clinics of North America 9, no. 3 (August 2001): 465–73, x."
+        },
+        {
+          "text": "Grant, Thomas H., Armen S. Kelikian, Sean E. Jereb, and Robert J. McCarthy. 'Ultrasound Diagnosis of Peroneal Tendon Tears.' The Journal of Bone & Joint Surgery 87, no. 8 (August 1, 2005): 1788–94. doi:10.2106/JBJS.D.02450."
+        },
+        {
+          "text": "Fessell, D P, G M Vanderschueren, J A Jacobson, R Y Ceulemans, A Prasad, J G Craig, J A Bouffard, K K Shirazi, and M T van Holsbeeck. 'US of the Ankle: Technique, Anatomy, and Diagnosis of Pathologic Conditions.' RadioGraphics 18, no. 2 (March 1, 1998): 325–40. doi:10.1148/radiographics.18.2.9536481."
+        },
+        {
+          "text": "Krause, John O., and James W. Brodsky. 'Peroneus Brevis Tendon Tears: Pathophysiology, Surgical Reconstruction, and Clinical Results.' Foot & Ankle International 19, no. 5 (May 1, 1998): 271–79. doi:10.1177/107110079801900502."
+        },
+        {
+          "text": "McLennan, Jon G. 'Treatment of Acute and Chronic Luxations of the Peroneal Tendons.' The American Journal of Sports Medicine 8, no. 6 (December 1, 1980): 432–36. doi:10.1177/036354658000800609."
+        },
+        {
+          "text": "Patel, Smita, David P. Fessell, Jon A. Jacobson, Curtis W. Hayes, and Marnix T. van Holsbeeck. 'Artifacts, Anatomic Variants, and Pitfalls in Sonography of the Foot and Ankle.' American Journal of Roentgenology 178, no. 5 (May 1, 2002): 1247–54. doi:10.2214/ajr.178.5.1781247."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Pratical [sic] Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Sobel, Mark, Matthew E. Levy, and Walther H. O. Bohne. 'Congenital Variations of the Peroneus Quartus Muscle: An Anatomic Study.' Foot & Ankle International 11, no. 2 (October 1, 1990): 81–89. doi:10.1177/107110079001100204."
+        },
+        {
+          "text": "Wang, Xiao-Tian, Zehava Sadka Rosenberg, Michael B. Mechlin, and Mark E. Schweitzer. 'Normal Variants and Diseases of the Peroneal Tendons and Superior Peroneal Retinaculum: MR Imaging Features.' RadioGraphics 25, no. 3 (May 2005): 587–602. doi:10.1148/rg.253045123."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "title": "Common flexor tendon & Medial collateral ligament",
+  "latinName": "",
+  "normesEtGeneralites": {
+    "sectionTitle": "Norms and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Bony attachment point", "header": true },
+          { "data": "Medial epicondyle (or medial epicondyle) of humerus" }
+        ],
+        [
+          {
+            "data": "Muscles forming the tendon",
+            "header": true,
+            "rowspan": 5
+          },
+          { "data": "Pronator teres" }
+        ],
+        [{ "data": "Flexor carpi radialis" }],
+        [{ "data": "Palmaris longus" }],
+        [{ "data": "Flexor digitorum superficialis" }],
+        [{ "data": "Flexor carpi ulnaris" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative values",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Subject type", "header": true },
+          { "data": "Measurement", "header": true },
+          { "data": "Stress maneuver (yes/no)", "header": true },
+          { "data": "Mean ± standard deviation", "header": true }
+        ],
+        [
+          {
+            "data": "Medial collateral ligament (anterior band)",
+            "rowspan": 9
+          },
+          { "data": "Symptomatic" },
+          { "data": "Length (mm)", "rowspan": 3 },
+          { "data": "No" },
+          { "data": "2.62 ± 2.3 <a href='#ref13' class='reference'>[13]</a>" }
+        ],
+        [
+          { "data": "Asymptomatic", "rowspan": 2 },
+          { "data": "No" },
+          { "data": "2.51 ± 0.34 <a href='#ref13' class='reference'>[13]</a>" }
+        ],
+        [
+          { "data": "Yes" },
+          { "data": "2.54 ± 0.31 <a href='#ref13' class='reference'>[13]</a>" }
+        ],
+        [
+          { "data": "Symptomatic" },
+          { "data": "Width (mm)", "rowspan": 3 },
+          { "data": "No" },
+          { "data": "2.14 ± 0.44 <a href='#ref13' class='reference'>[13]</a>" }
+        ],
+        [
+          { "data": "Asymptomatic", "rowspan": 2 },
+          { "data": "No" },
+          { "data": "1.94 ± 0.24" }
+        ],
+        [
+          { "data": "Yes" },
+          { "data": "1.82 ± 0.27 <a href='#ref13' class='reference'>[13]</a>" }
+        ],
+        [
+          { "data": "Symptomatic" },
+          { "data": "Thickness (mm)", "rowspan": 3 },
+          { "data": "No" },
+          { "data": "4.01 ± 0.87 <a href='#ref13' class='reference'>[13]</a>" }
+        ],
+        [
+          { "data": "Asymptomatic", "rowspan": 2 },
+          { "data": "No" },
+          { "data": "4.60 ± 0.69 <a href='#ref13' class='reference'>[13]</a>" }
+        ],
+        [
+          { "data": "Yes" },
+          { "data": "4.59 ± 0.50 <a href='#ref13' class='reference'>[13]</a>" }
+        ]
+      ],
+      "text": [
+        "For the common flexor tendon, ultrasonographic examination relies mainly on subjective observations (rather than quantitative), e.g., loss of fibrillar echotexture, presence of focal hypoechoic areas or hyperemia, etc. Although it is possible to measure tendon thickness, there appear to be very few measurements reported in the literature as these are strongly affected by probe positioning and the evaluator's technique<a href='#ref9' class='reference'>[9]</a>."
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject positioning",
+        "text": [
+          "Subject seated facing the examiner, upper limb placed on the examination surface, with a towel or pillow under the elbow",
+          "Examination of the common flexor tendon requires access to the medial aspect of the elbow, ideally with the elbow flexed to approximately 60° and the shoulder in external rotation (taking care to respect the subject's joint limits)<a href='#ref1' class='reference'>[1]</a>"
+        ]
+      },
+      {
+        "subtitle": "Anatomical landmarks and palpation",
+        "text": [
+          "Locate the medial epicondyle, a bony prominence found just medial to the olecranon"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/tendonFlechisseurCommun/vueLongitudinale/",
+        "objectifs": [
+          "Observation of the common flexor tendon",
+          "Visualization of the medial collateral ligament"
+        ],
+        "parametres": ["Depth: 3 cm", "Gain: 60"],
+        "positionnement": [
+          "As shown in the attached image, in longitudinal view (almost parallel to the long axis of the forearm), place the proximal end of the probe on the medial epicondyle",
+          "Scan slightly proximally and distally until obtaining an optimal image"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "title": "[Common flexor tendon]",
+            "legend": [
+              {
+                "acronymes": ["ME"],
+                "texte": [
+                  "The medial epicondyle, on the left of the image, corresponds to the large rounded area bounded superiorly and to the right by a hyperechoic line (cortical bone)"
+                ]
+              },
+              {
+                "acronymes": ["U"],
+                "texte": [
+                  "The ulna has a similar appearance to the medial epicondyle and is located to its right"
+                ]
+              },
+              {
+                "acronymes": ["CFT"],
+                "texte": [
+                  "The common flexor tendon, distal (to the right) of the medial epicondyle, shows a well-visible fibrillar pattern in this image"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Medial epicondyle"
+              },
+              { "path": "identification3.jpg", "descriptionText": "Ulna" },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Common flexor tendon"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          },
+          {
+            "title": "[Medial collateral ligament]",
+            "legend": [
+              {
+                "acronymes": ["ME"],
+                "texte": [
+                  "The medial epicondyle corresponds to the convex hyperechoic area on the left of the image"
+                ]
+              },
+              {
+                "acronymes": ["U"],
+                "texte": [
+                  "The ulna is visible here on the right of the image as a rounded hyperechoic area"
+                ]
+              },
+              {
+                "acronymes": ["MCL"],
+                "texte": [
+                  "The medial collateral ligament is located between the medial epicondyle and the ulna. Its fibrillar echotexture can also be distinguished"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification6.jpg" },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Medial epicondyle"
+              },
+              { "path": "identification8.jpg", "descriptionText": "Ulna" },
+              {
+                "path": "identification9.jpg",
+                "descriptionText": "Medial collateral ligament"
+              },
+              { "path": "identification10.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomical Description",
+    "content": [
+      {
+        "text": [
+          "The common flexor tendon is a structure that serves as the proximal attachment point (origin) for several muscles of the anterior forearm. These muscles include four flexor muscles (flexor carpi radialis, flexor carpi ulnaris, palmaris longus, and flexor digitorum superficialis) and the pronator teres muscle (which also has a second proximal tendon)<a href='#ref2' class='reference'>[2]</a>. Most of the major flexor muscles of the wrist and fingers (extrinsic) thus have a common insertion on the medial epicondyle, with the exception of the flexor digitorum profundus, which instead originates from the proximal 3/4 of the anteromedial surface of the ulna and the interosseous membrane<a href='#ref10' class='reference'>[10]</a>.",
+          "The medial collateral ligament of the elbow is also known as the 'ulnar collateral ligament', 'medial collateral ligament', or 'internal collateral ligament'. This ligament, which is actually a ligamentous complex, is composed of three bands, all adjacent to each other:",
+          "<ul class='margin-left'><li>Anterior band: the most evident during ultrasonographic examination, it extends from the medial epicondyle to the medial aspect of the coronoid process of the ulna. This is the most important restraint during valgus stress at the elbow.</li><li>Posterior band: extends from the posterior aspect of the medial epicondyle to the medial border of the olecranon</li><li>Oblique band: also known as 'Cooper's ligament', the mechanically weakest of the three bands. It connects the ulnar insertions of the anterior and posterior bands.</li></ul>",
+          "The muscles of the forearm are classified according to their belonging to the medial or lateral compartments, based on their anatomical location. As the muscular mass of the forearm can be anatomically complex, it is important to know the normal anatomy to be able to identify the structures visualized during ultrasonographic examination (adapted from Walz et al, 2010)."
+        ]
+      }
+    ],
+    "table": [
+      [
+        { "data": "Muscle name", "header": true, "rowspan": 2 },
+        { "data": "Latin name", "header": true, "rowspan": 2 },
+        { "data": "Function", "header": true, "rowspan": 2 },
+        { "data": "Origin", "header": true, "colspan": 2 },
+        { "data": "Insertion", "header": true, "rowspan": 2 }
+      ],
+      [
+        { "data": "1st head", "header": true },
+        { "data": "2nd head (if applicable)", "header": true }
+      ],
+      [
+        { "data": "Pronator teres" },
+        { "data": "Pronator teres" },
+        { "data": "Forearm pronation" },
+        { "data": "Medial epicondyle (via common tendon)", "rowspan": 5 },
+        { "data": "Coronoid process" },
+        { "data": "Lateral aspect of radius" }
+      ],
+      [
+        { "data": "Flexor carpi radialis" },
+        { "data": "Flexor carpi radialis" },
+        { "data": "Wrist flexion and abduction (radial deviation)" },
+        { "data": "N/A", "rowspan": 2 },
+        { "data": "Anterior surface of base of 2nd and 3rd metacarpal bones" }
+      ],
+      [
+        { "data": "Palmaris longus" },
+        { "data": "Palmaris longus" },
+        { "data": "Wrist flexion, tensioning of palmar aponeurosis" },
+        { "data": "Flexor retinaculum, palmar aponeurosis" }
+      ],
+      [
+        { "data": "Flexor carpi ulnaris" },
+        { "data": "Flexor carpi ulnaris" },
+        { "data": "Hand flexion and adduction (ulnar deviation)" },
+        { "data": "Pisiform bone, hook of hamate, base of 5th metacarpal" }
+      ]
+    ]
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Medial epicondylitis (Golfer's elbow)",
+        "text": [
+          "Medial epicondylitis, also known as golfer's elbow, is characterized by pain and tenderness at the common flexor tendon origin. Ultrasound findings may include:",
+          "- Focal hypoechoic areas within the tendon",
+          "- Loss of normal fibrillar pattern",
+          "- Increased vascularity on power Doppler imaging",
+          "- Calcifications in chronic cases"
+        ]
+      },
+      {
+        "subtitle": "Medial collateral ligament injury",
+        "text": [
+          "The medial collateral ligament can be injured in throwing athletes or following acute trauma. Ultrasound examination can help assess:",
+          "- Ligament continuity",
+          "- Thickness changes",
+          "- Joint stability with dynamic testing",
+          "- Associated soft tissue injuries"
+        ]
+      },
+      {
+        "subtitle": "Ulnar nerve entrapment",
+        "text": [
+          "The ulnar nerve courses near the common flexor origin and medial collateral ligament. Ultrasound can help identify:",
+          "- Nerve compression or displacement",
+          "- Associated soft tissue masses",
+          "- Dynamic nerve instability during elbow flexion/extension"
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See also",
+      "content": [
+        {
+          "linkTitle": "Distal biceps brachii tendon",
+          "link": "/protocoles/epaule/biceps-brachial"
+        },
+        {
+          "linkTitle": "Humeroradial joint",
+          "link": "/protocoles/coude/articulation-humero-radiale"
+        },
+        {
+          "linkTitle": "Common extensor tendon",
+          "link": "/protocoles/coude/tendon-extenseur-commun"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angel Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. 'Musculoskeletal Ultrasound Technical Guidelines (V. Elbow).' European Society of Musculoskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "McNally, Eugene G. Practical Musculoskeletal Ultrasound. Churchill Livingstone/Elsevier, 2014."
+        },
+        {
+          "text": "O'Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        }
+      ]
+    }
+  }
+}

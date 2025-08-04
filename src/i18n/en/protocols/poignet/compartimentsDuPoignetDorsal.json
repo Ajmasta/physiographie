@@ -1,0 +1,332 @@
+{
+  "title": "Dorsal Wrist Compartments",
+  "latinName": "",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Compartments", "header": true },
+          { "data": "Tendon(s)", "header": true },
+          { "data": "Abbreviation", "header": true }
+        ],
+        [
+          { "data": "1", "rowspan": 2 },
+          { "data": "Extensor pollicis brevis" },
+          { "data": "EPB" }
+        ],
+        [{ "data": "Abductor pollicis longus" }, { "data": "APL" }],
+        [
+          { "data": "2", "rowspan": 2 },
+          { "data": "Extensor carpi radialis brevis" },
+          { "data": "ECRB" }
+        ],
+        [{ "data": "Extensor carpi radialis longus" }, { "data": "ECRL" }],
+        [
+          { "data": "3" },
+          { "data": "Extensor pollicis longus" },
+          { "data": "EPL" }
+        ],
+        [
+          { "data": "4", "rowspan": 2 },
+          { "data": "Extensor digitorum communis" },
+          { "data": "EDC" }
+        ],
+        [{ "data": "Extensor indicis proprius" }, { "data": "EIP" }],
+        [
+          { "data": "5" },
+          { "data": "Extensor digiti minimi" },
+          { "data": "EDM" }
+        ],
+        [
+          { "data": "6" },
+          { "data": "Extensor carpi ulnaris" },
+          { "data": "ECU" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [[{ "data": "No data available", "header": true }]]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Since the wrist extensor compartments are located on different aspects of the wrist, positions must be adapted according to the location of the compartment being evaluated",
+          "For all compartments, the subject should be seated in a comfortable position, with the upper limb resting on an examination table (ideally height-adjustable) to ensure comfort.",
+          "Compartment 1:",
+          [
+            "Elbow flexed at 90°, and forearm in neutral pro-supination (thumb oriented toward the ceiling, to have easy access to the radial styloid)"
+          ],
+          "Compartments 3 to 5:",
+          [
+            "Maintaining the elbow flexed at 90°, place the forearm in pronation (palm facing the table)"
+          ],
+          "Compartment 6:",
+          [
+            "Place the forearm in full pronation, so that the ulnar aspect of the hand faces the ceiling (ulnar styloid upward)",
+            "For subjects with limited pronation range, it is possible to maintain the elbow in extension, raise the examination table to shoulder height, and place the upper limb in internal rotation"
+          ]
+        ]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "Locate and palpate the radial styloid",
+          "Ask the subject to perform thumb extension/abduction to highlight the anatomical snuffbox, which helps locate the first three compartments",
+          "Palpate the distal radioulnar joint and the radial styloid"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/dorsalWristCompartments/transverseView/",
+        "objectifs": [
+          "Observation of the arrangement of the different dorsal compartments and their contents"
+        ],
+        "parametres": ["Depth: 2 cm", "Gain: 70"],
+        "positionnement": [
+          "Compartment 1: Place the probe in transverse view (perpendicular to the long axis of the forearm) on the lateral aspect of the radius, approximately at the level of the radial styloid, then slowly scan proximally and distally",
+          "Compartment 2: Move the probe to the dorsal aspect of the wrist, so that the center of the probe is slightly medial (ulnar) to the radial styloid",
+          "Compartment 3: Move the probe slightly medially (ulnar) until the center of the probe is aligned with the boundary between the medial and central thirds of the wrist",
+          "Compartments 4-5: Align the center of the probe with the center of the wrist",
+          "Compartment 6: Maintaining the probe in transverse view, place it at the proximal limit of the ulnar styloid, and scan slightly proximal-distal until obtaining a clear image of the extensor carpi ulnaris tendon"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Position for the first compartment, at the level of the radial styloid"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Position for the second compartment, just ulnar to the radial styloid"
+          },
+          {
+            "path": "positionnement3.jpg",
+            "descriptionText": "Position for the third compartment, probe moved medially"
+          },
+          {
+            "path": "positionnement4.jpg",
+            "descriptionText": "Position for the fourth and fifth compartments, at the center of the wrist"
+          },
+          {
+            "path": "positionnement5.jpg",
+            "descriptionText": "Position for the sixth compartment, proximal to the ulnar styloid"
+          }
+        ],
+        "identification": [
+          {
+            "title": "[Compartment 1]",
+            "legend": [
+              {
+                "acronymes": ["APL"],
+                "texte": [
+                  "The abductor pollicis longus appears at the top and slightly to the right of the image. It can be described as a rounded hyperechoic area whose border is defined only on the radial side."
+                ]
+              },
+              {
+                "acronymes": ["EPB"],
+                "texte": [
+                  "The extensor pollicis brevis is adjacent to the APL and has a very similar appearance. To distinguish them, it is important to know the probe orientation and to properly identify the ulnar and distal sides of the image (since their appearance alone does not allow differentiation)."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Abductor pollicis longus"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Extensor pollicis brevis"
+              },
+              { "path": "identification4.jpg" }
+            ]
+          },
+          {
+            "title": "[Compartment 2]",
+            "legend": [
+              {
+                "acronymes": ["R"],
+                "texte": [
+                  "The radius appears in the center of the image as a large rounded hyperechoic area"
+                ]
+              },
+              {
+                "acronymes": ["ECRB"],
+                "texte": [
+                  "The extensor carpi radialis brevis is visible on the surface of the radius, on the left side of the image. The ulnar margin of the ECRB tendon is defined by a clear hyperechoic line, while its radial limit is less defined and bordered by a hypoechoic area."
+                ]
+              },
+              {
+                "acronymes": ["ECRL"],
+                "texte": [
+                  "The extensor carpi radialis longus is similar to the ECRB and, as was the case for the APL and EPB, the distinction between the long and short radial extensors of the wrist relies mainly on their relative location in the radio-ulnar plane."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification5.jpg" },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Radius"
+              },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Extensor carpi radialis brevis"
+              },
+              {
+                "path": "identification8.jpg",
+                "descriptionText": "Extensor carpi radialis longus"
+              },
+              { "path": "identification9.jpg" }
+            ]
+          },
+          {
+            "title": "[Compartment 3]",
+            "legend": [
+              {
+                "acronymes": ["U"],
+                "texte": [
+                  "The ulna appears on the left of the image as a well-defined circular hyperechoic area"
+                ]
+              },
+              {
+                "acronymes": ["R-LT"],
+                "texte": [
+                  "The radius is visible to the right of the ulna and appears as a strongly hyperechoic relatively flat area, except for Lister's tubercle, a convex bony prominence that separates the second and third compartments"
+                ]
+              },
+              {
+                "acronymes": ["EPL"],
+                "texte": [
+                  "The extensor pollicis longus, a slightly hypoechoic oval-shaped area, appears just to the left of Lister's tubercle, adjacent to the dorsal surface of the radius"
+                ]
+              },
+              {
+                "acronymes": ["EDC"],
+                "texte": [
+                  "The extensor digitorum communis is present within the fourth compartment, whose ulnar boundary corresponds to the ulnar edge of the radius. The EDC here appears as a large hyperechoic area, within which it is possible to distinguish different independent tendon bundles"
+                ]
+              },
+              {
+                "acronymes": ["EDM"],
+                "texte": [
+                  "The extensor digiti minimi is located on the surface of the ulna and can be described as a medium-sized, more or less oval-shaped hyperechoic area"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification10.jpg" },
+              { "path": "identification11.jpg", "descriptionText": "Ulna" },
+              {
+                "path": "identification12.jpg",
+                "descriptionText": "Radius & Lister's tubercle"
+              },
+              {
+                "path": "identification13.jpg",
+                "descriptionText": "Extensor pollicis longus"
+              },
+              {
+                "path": "identification14.jpg",
+                "descriptionText": "Extensor digitorum communis"
+              },
+              {
+                "path": "identification15.jpg",
+                "descriptionText": "Extensor digiti minimi"
+              },
+              { "path": "identification16.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The dorsal aspect of the wrist contains six fibro-osseous compartments that house the extensor tendons. These compartments are formed by the extensor retinaculum, a strong fibrous band that prevents bowstringing of the tendons during wrist extension.",
+          "Each compartment has specific contents and anatomical relationships:",
+          "Compartment 1 (First Dorsal Compartment):",
+          "<ul class='margin-left'><li>Contains the abductor pollicis longus (APL) and extensor pollicis brevis (EPB) tendons</li><li>Located over the lateral aspect of the radial styloid</li><li>Important in De Quervain's tenosynovitis</li></ul>",
+          "Compartment 2 (Second Dorsal Compartment):",
+          "<ul class='margin-left'><li>Contains the extensor carpi radialis longus (ECRL) and brevis (ECRB) tendons</li><li>Located dorsal to the radial styloid</li><li>The largest of the six compartments</li></ul>",
+          "Compartment 3 (Third Dorsal Compartment):",
+          "<ul class='margin-left'><li>Contains the extensor pollicis longus (EPL) tendon</li><li>Courses around Lister's tubercle</li><li>The deepest of all compartments</li></ul>",
+          "Compartment 4 (Fourth Dorsal Compartment):",
+          "<ul class='margin-left'><li>Contains the extensor digitorum communis (EDC) and extensor indicis proprius (EIP) tendons</li><li>Located in the center of the dorsal wrist</li><li>The widest of all compartments</li></ul>",
+          "Compartment 5 (Fifth Dorsal Compartment):",
+          "<ul class='margin-left'><li>Contains the extensor digiti minimi (EDM) tendon</li><li>Located between the fourth and sixth compartments</li></ul>",
+          "Compartment 6 (Sixth Dorsal Compartment):",
+          "<ul class='margin-left'><li>Contains the extensor carpi ulnaris (ECU) tendon</li><li>Located in a groove on the dorsal surface of the ulna</li><li>Has its own fibrous sheath</li></ul>"
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "De Quervain's Tenosynovitis",
+        "text": [
+          "This condition affects the first dorsal compartment and is characterized by:",
+          "<ul class='margin-left'><li>Pain and swelling over the radial styloid</li><li>Difficulty with thumb movements</li><li>Positive Finkelstein test</li><li>Ultrasound may show tenosynovitis of APL and EPB tendons</li></ul>"
+        ]
+      },
+      {
+        "subtitle": "Intersection Syndrome",
+        "text": [
+          "This condition occurs where the first compartment tendons cross over the second compartment tendons, characterized by:",
+          "<ul class='margin-left'><li>Pain and crepitus about 4-6 cm proximal to the radial styloid</li><li>Common in rowers and weight lifters</li><li>Ultrasound may show peritendinous fluid and thickening</li></ul>"
+        ]
+      },
+      {
+        "subtitle": "ECU Tendinopathy",
+        "text": [
+          "The sixth compartment can be affected by various conditions:",
+          "<ul class='margin-left'><li>Tendinosis or tenosynovitis</li><li>Subluxation of the ECU tendon</li><li>Often associated with sports involving repetitive wrist motion</li></ul>"
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Median Nerve",
+          "link": "wrist/median-nerve"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Lee, J. C., and J. Healy. \"Normal Sonographic Anatomy of the Wrist and Hand.\" RadioGraphics 25.6 (2005): 1577-1590."
+        },
+        {
+          "text": "Campbell, D. G., et al. \"Dorsal Wrist Anatomy and Pathology.\" Seminars in Musculoskeletal Radiology 11.1 (2007): 11-23."
+        }
+      ]
+    }
+  }
+}

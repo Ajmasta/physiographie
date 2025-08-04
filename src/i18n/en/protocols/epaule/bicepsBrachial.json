@@ -1,0 +1,339 @@
+{
+  "title": "Biceps Brachii",
+  "latinName": "Biceps brachii",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Muscle Type", "colspan": 2, "header": true },
+          { "data": "Bi-articular, digastric" }
+        ],
+        [
+          { "data": "Origin", "rowspan": 2, "header": true },
+          { "data": "Long Head" },
+          { "data": "Supraglenoid tubercle (scapula)" }
+        ],
+        [
+          { "data": "Short Head" },
+          { "data": "Apex of coracoid process (scapula)" }
+        ],
+        [
+          { "data": "Common Insertion", "colspan": 2, "header": true },
+          { "data": "Radial tuberosity (radius)" }
+        ],
+        [
+          { "data": "Innervation", "colspan": 2, "header": true },
+          { "data": "Musculocutaneous nerve (C5-C6)" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values from Literature",
+      "rangees": [
+        [
+          { "data": "Measurement", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plane", "header": true },
+          { "data": "Mean ± SD", "header": true }
+        ],
+        [
+          { "data": "Tendon thickness (mm)", "rowspan": 2 },
+          { "data": "Long head of biceps brachii", "rowspan": 2 },
+          { "data": "Transverse plane" },
+          { "data": "3.03 ± 0.63" }
+        ],
+        [{ "data": "Longitudinal plane" }, { "data": "3.27 ± 0.83" }]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Seated with shoulder exposed",
+          "Shoulder:",
+          [
+            "Neutral flexion-abduction",
+            "Slight external rotation may help better center structures in the screen"
+          ],
+          "Elbow:",
+          ["90° flexion", "Full supination"]
+        ]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "The long head of biceps tendon is located within the intertubercular groove",
+          "The intertubercular groove is found between the lesser and greater tuberosities, located respectively on the anterior and lateral aspects of the humeral head"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/BicepsBrachial/vueTransversale/",
+        "objectifs": [
+          "Examination of the long head of biceps brachii tendon",
+          "Examination of the transverse humeral ligament"
+        ],
+        "parametres": ["Depth: 3-4cm", "Gain: 70-75"],
+        "positionnement": [
+          "Place the probe in transverse view at the level of the intertubercular groove"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Probe position, transverse view (front)"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Probe position, transverse view (back)"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["D"],
+                "texte": ["The deltoid appears at the top of the image"]
+              },
+              {
+                "acronymes": ["LT", "GT"],
+                "texte": [
+                  "The lesser tuberosity and greater tuberosity (prominences of the humeral head, circular hypoechoic area) occupy the central part of the screen on the left and right respectively."
+                ]
+              },
+              {
+                "acronymes": ["THL"],
+                "texte": [
+                  "The transverse humeral ligament (thin hypoechoic layer) forms the 'roof' of the osteofibrous canal that is the bicipital groove. These are located anterolaterally to the humeral head, at the upper/left part of the image (depending on probe positioning)"
+                ]
+              },
+              {
+                "acronymes": ["LHB"],
+                "texte": [
+                  "The long head of biceps tendon is visible within the bicipital groove"
+                ]
+              },
+              {
+                "acronymes": ["SS"],
+                "texte": [
+                  "The subscapularis tendon can be seen on the left side of the image, on the lesser tuberosity of the humerus"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              {
+                "path": "identification1.jpg"
+              },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Deltoid"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Lesser tuberosity and greater tuberosity"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Transverse humeral ligament"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Long head of biceps tendon"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Subscapularis tendon"
+              },
+              {
+                "path": "identification7.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/BicepsBrachial/vueLongitudinale/",
+        "objectifs": [
+          "Static application:",
+          [
+            "Examination of the biceps brachii tendon",
+            "Examination of the musculotendinous junction of the long head of biceps brachii tendon",
+            "Examination of the muscle belly of biceps brachii"
+          ],
+          "Dynamic application:",
+          [
+            "Investigation of impingement of the long head of biceps brachii tendon at the level of the acromiohumeral space"
+          ]
+        ],
+        "parametres": ["Depth: 3-4cm", "Gain: 70-75"],
+        "positionnement": [
+          "Rotate the probe 90° from the transverse view",
+          "The tendon's path follows the humeral metaphysis, which creates areas of anisotropy",
+          "It is therefore important to hold the probe parallel to the tendon while applying slight pressure on its distal (inferior) tip"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Probe position, longitudinal view (front)"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Probe position, longitudinal view (back)"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["D"],
+                "texte": ["The deltoid appears at the top of the image"]
+              },
+              {
+                "acronymes": ["H"],
+                "texte": [
+                  "The humeral metaphysis is at the bottom of the image and also appears as a thick hypoechoic layer"
+                ]
+              },
+              {
+                "acronymes": ["LHB"],
+                "texte": [
+                  "The long head of biceps tendon is located in the center of the image"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              {
+                "path": "identification1.jpg"
+              },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Deltoid"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Humerus"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Long head of biceps tendon"
+              },
+              {
+                "path": "identification5.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The proximal portion of the long head of biceps tendon is located within the joint and synovial membrane of the glenohumeral joint. This tendon then continues distally via the intertubercular groove (or 'bicipital groove'), which is formed by the lesser and greater tuberosities, located respectively on the anterior and lateral aspects of the humeral head.",
+          "The synovial sheath of the glenohumeral joint extends 3-4 cm distal to the lower end of the intertubercular groove and thus communicates with the long head of biceps tendon sheath. This contiguity explains the frequent relationship between symptoms/conditions of the long head of biceps tendon and the glenohumeral joint.",
+          "The long head of biceps tendon, due to its curvilinear path (due to an origin located medially to its muscle belly), has an intrinsic tendency to displace toward the midline, particularly during powerful contraction. The transverse humeral ligament, by covering the bicipital groove, closes the groove into an osteofibrous canal and thus helps reduce the likelihood of this phenomenon occurring. The rotator interval is the name given to the space between the subscapularis and supraspinatus tendons, and contains the long head of biceps tendon, the coracohumeral ligament, and the superior glenohumeral ligament. These three structures work together to maintain the long head of biceps tendon in place within the intertubercular groove.",
+          "Unlike its counterpart, the short head of biceps brachii tendon reaches its origin without passing through the glenohumeral joint and is therefore rarely involved in shoulder pathologies <a href='#ref1' class='reference'>[1]</a>.",
+          "The subacromial space is an entity primarily bounded by the coracoacromial arch and the humeral head. This space contains, among others, the rotator cuff tendons, the long head of biceps tendon, and the subacromial/subdeltoid bursa <a href='#ref1' class='reference'>[1]</a>."
+        ]
+      }
+    ],
+    "images": [{ "path": "anatomy.gif" }],
+    "source": "/Protocols/BicepsBrachial/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Long Head of Biceps Brachii Tendon",
+        "text": [
+          "Bicipital Tendinopathy",
+          [
+            "The intra-articular portion of the long head of biceps tendon may show effusion in the tendon sheath <a href='#ref1' class='reference'>[1]</a>",
+            "This sign suggests bicipital tendinopathy but is not sufficient for diagnosis"
+          ],
+          "Attrition Tendinosis on Irregular Bone",
+          [
+            "Identify longitudinal splits <a href='#ref1' class='reference'>[1]</a>",
+            "Be careful not to confuse with a bifid tendon (anatomical variant)"
+          ],
+          "Suspected Rupture:",
+          [
+            "Identify a discontinuity of the long head of biceps tendon",
+            "Useful when clinical examination is complex (e.g., obese patients)"
+          ],
+          "Suspected Impingement",
+          [
+            "Using dynamic examination, it is possible to identify impingement within the acromiohumeral space <a href='#ref2' class='reference'>[2]</a>"
+          ],
+          "Visualize Subluxation of Long Head of Biceps Tendon from Bicipital Groove",
+          [
+            "Identify tendon snapping, often during simultaneous abduction and internal/external rotation"
+          ]
+        ]
+      },
+      {
+        "subtitle": "Biceps Brachii Muscle Belly",
+        "text": [
+          "Muscle Weakness in Elbow Flexion",
+          ["Possibility of demonstrating atrophy"]
+        ]
+      },
+      {
+        "subtitle": "Rotator Cuff",
+        "text": [
+          "Ultrasonographic Examination of the Rotator Cuff:",
+          ["Starting point, or reference, for examining other structures"],
+          "Rotator Cuff Tendinopathies (Advanced Stages)",
+          [
+            "There may be rupture of the long head of biceps tendon stabilizers within the rotator interval <a href='#ref1' class='reference'>[1]</a>",
+            "This leads to instability, which can result in tendon dislocation",
+            "At these stages of tendinopathy, rupture of the stabilizers often follows a subscapularis tear <a href='#ref1' class='reference'>[1]</a>"
+          ]
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Rotator Interval",
+          "link": "protocoles/epaule/intervalle-des-rotateurs"
+        },
+        {
+          "linkTitle": "Supraspinatus (Anterolateral Region)",
+          "link": "protocoles/epaule/sus-epineux"
+        },
+        {
+          "linkTitle": "Acromioclavicular Joint",
+          "link": "protocoles/epaule/acromio-claviculaire"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Yablon, Corrie M., Asheesh Bedi, Yoav Morag, and Jon A. Jacobson. \"Ultrasonography of the Shoulder with Arthroscopic Correlation.\" Clinics in Sports Medicine 32, no. 3 (July 2013): 391–408. doi:10.1016/j.csm.2013.03.001."
+        },
+        {
+          "text": "Yu, Tung-Yang, Wen-Chung Tsai, Ju-Wen Cheng, Yun-Ming Yang, Fang-Chen Liang, and Chien-Hung Chen. \"The Effects of Aging on Quantitative Sonographic Features of Rotator Cuff Tendons.\" Journal of Clinical Ultrasound: JCU 40, no. 8 (October 2012): 471–78. doi:10.1002/jcu.21919."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "theory": {
+    "name": "Théorie",
+    "link": "/theorie",
+    "items": [
+      {
+        "name": "Terminologie et conventions",
+        "link": "/theorie/terminologie"
+      },
+      {
+        "name": "Principes physiques",
+        "link": "/theorie/principes-physiques"
+      },
+      {
+        "name": "La technique",
+        "link": "/theorie/technique"
+      },
+      {
+        "name": "Avantages et limites",
+        "link": "/theorie/avantages"
+      }
+    ]
+  },
+  "protocols": {
+    "name": "Protocoles",
+    "link": "/protocoles"
+  }
+}

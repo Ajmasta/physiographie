@@ -1,0 +1,175 @@
+{
+  "title": "Pes Anserinus Complex",
+  "latinName": "Pes anserinus",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Constituent Tendons", "header": true, "rowspan": 3 },
+          { "data": "Sartorius" }
+        ],
+        [{ "data": "Gracilis" }],
+        [{ "data": "Semitendinosus" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [],
+      "text": ["No data available"]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Supine position, lower limb in slight external rotation, with the knee maintained at approximately 20-30° of flexion<a href='#ref3' class='reference'>[3]</a>"
+        ]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "Locate and palpate the medial tibiofemoral joint line, medial tibial plateau, and tibial tuberosity"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/pesAnserinusComplex/longitudinalView/",
+        "objectifs": [
+          "Examination of the tendons constituting the pes anserinus complex"
+        ],
+        "parametres": ["Depth: 2 cm", "Gain: 70", "G/3/3"],
+        "positionnement": [
+          "In longitudinal view (parallel to the long axis of the tibia), place the probe at the level of the anteromedial aspect of the medial tibial plateau",
+          "To guide the necessary rotation angle, you can start with an axis almost parallel to that formed by the femoral shaft (see adjacent image), and then adjust the rotation angle until an adequate image is obtained"
+        ],
+        "imagePositionnement": [
+          { "path": "positionnement1.jpg", "descriptionText": "" }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["T"],
+                "texte": [
+                  "The tibia appears in the lower half of the image, and its cortical bone appears as a thick horizontal hyperechoic line."
+                ]
+              },
+              {
+                "acronymes": ["PAT"],
+                "texte": [
+                  "The tendons of the pes anserinus complex, which cannot be differentiated from each other, are partially visible just superficial to the tibia. Even though the tendon margins are not clearly defined, it is possible to follow the course of the tendons by recognizing their fibrillar echotexture typical of tendon tissue."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Tibia" },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Pes anserinus tendons"
+              },
+              { "path": "identification4.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The term 'pes anserinus complex' refers to the anatomical site where a group of three muscles located on the medial aspect of the thigh insert. In order from anterior to posterior, these are: the sartorius (formerly called the tailor's muscle); the gracilis; and the semitendinosus. These three muscles originate at the pelvic girdle, their muscle bellies traverse the medial aspect of the femur, and they finally insert on the anteromedial aspect of the proximal tibia. The choice of the term is explained by the overall appearance of the three flattened tendons at their insertion, which vaguely resembles the appearance of a goose's foot<a href='#ref3' class='reference'>[3]</a>.",
+          "The pes anserinus complex is located approximately 5-6 cm distal (caudal) to the medial tibiofemoral joint line. When these tendons are observed distally (close to their insertion), it should be noted that they are very closely superimposed on each other, and evaluation using ultrasound imaging does not allow them to be differentiated. In contrast, if observation is performed at a more proximal site (e.g., opposite the cranial portion of the popliteal fossa), it is generally easy to differentiate the tendons of these three muscles, which may (or may not) contain muscular tissue, as the location of the musculotendinous junctions is subject to some variability<a href='#ref3' class='reference'>[3]</a>.",
+          "Under the pes anserinus complex lies the distal attachment of the medial collateral ligament, which has been the subject of a protocol on Physiographie. Additionally, it is common to find a bursa positioned between the bone surface and the tendons of the pes anserinus complex, although this is quite inconsistent<a href='#ref3' class='reference'>[3]</a>."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Pes Anserinus Tendinopathy/Bursopathy",
+        "text": [
+          "The term 'pes anserinus tendino-bursitis syndrome' is frequently used in scientific literature, as well as the terms 'pes anserinus syndrome' or 'pes anserinus tendinitis/bursitis'. It is common for the clinical diagnosis of this condition to be based solely on signs and symptoms which, unfortunately, lead to divergent interpretations and nomenclature<a href='#ref4' class='reference'>[4]</a>. Some authors even report that the anatomical structure causing the symptoms is not identified, hence the lack of consensus in the literature<a href='#ref2' class='reference'>[2]</a>.",
+          "Pes anserinus tendino-bursitis is a frequent cause of medial knee pain, especially in people who are obese, have type II diabetes, knee osteoarthritis, or valgus knee deformity<a href='#ref2' class='reference'>[2]</a>. Classically, the clinical presentation includes pain in the medial aspect of the knee, accompanied by tenderness on palpation of the inferomedial region of the knee<a href='#ref1' class='reference'>[1]</a>.",
+          "In the presence of a subject where pes anserinus tendino-bursitis is suspected, ultrasound imaging is recognized as a reliable technique, capable of highlighting pes anserinus tendino-bursitis. According to a consensus established by the European Society of Musculoskeletal Radiology, this imaging technique is strongly recommended, due to a level '3' evidence (according to the Oxford Centre for Evidence-Based Medicine scale), which means that ultrasound is a first-choice technique, and other techniques rarely provide additional significant information. However, it should be noted that the majority of the literature is based on case studies or extrapolations from retrospective studies (grade 'C' for methodology)<a href='#ref7' class='reference'>[7]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Medial collateral ligament",
+          "link": "thigh-and-knee/medial-collateral-ligament"
+        },
+        {
+          "linkTitle": "Popliteal fossa",
+          "link": "thigh-and-knee/popliteal-fossa"
+        },
+        {
+          "linkTitle": "Iliotibial band",
+          "link": "thigh-and-knee/iliotibial-band"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Alvarez-Nemegyei, José. 'Risk Factors for Pes Anserinus Tendinitis/bursitis Syndrome: A Case Control Study.' Journal of Clinical Rheumatology: Practical Reports on Rheumatic & Musculoskeletal Diseases 13, no. 2 (April 2007): 63–65. doi:10.1097/01.rhu.0000262082.84624.37."
+        },
+        {
+          "text": "Alvarez-Nemegyei, Jose, and Juan J. Canoso. 'Evidence-Based Soft Tissue Rheumatology IV: Anserine Bursitis.' Journal of Clinical Rheumatology: Practical Reports on Rheumatic & Musculoskeletal Diseases 10, no. 4 (August 2004): 205–6. doi:10.1097/01.rhu.0000135561.41660.b0."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Helfenstein Jr, Milton, and Jorge Kuromoto. 'Anserine Syndrome.' Revista Brasileira de Reumatologia 50, no. 3 (June 2010): 313–27. doi:10.1590/S0482-50042010000300011."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Johnson, Donald Hugh, and Robert A. Pedowitz. Practical Orthopaedic Sports Medicine and Arthroscopy. Lippincott Williams & Wilkins, 2007."
+        },
+        {
+          "text": "Klauser, Andrea S., Alberto Tagliafico, Gina M. Allen, Natalie Boutry, Rob Campbell, Michel Court-Payen, Andrew Grainger, et al. 'Clinical Indications for Musculoskeletal Ultrasound: A Delphi-Based Consensus Paper of the European Society of Musculoskeletal Radiology.' European Radiology 22, no. 5 (May 2012): 1140–48. doi:10.1007/s00330-011-2356-3."
+        },
+        {
+          "text": "Martinoli, Carlo. 'Musculoskeletal Ultrasound: Technical Guidelines.' Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Meenagh, G., A. Iagnocco, E. Filippucci, L. Riente, A. Delle Sedie, S. Bombardieri, G. Valesini, and W. Grassi. 'Ultrasound Imaging for the Rheumatologist IV. Ultrasonography of the Knee.' Clinical and Experimental Rheumatology 24, no. 4 (August 2006): 357–60."
+        },
+        {
+          "text": "Ptasznik, Ronald. 'ULTRASOUND IN ACUTE AND CHRONIC KNEE INJURY.' Radiologic Clinics of North America 37, no. 4 (July 1, 1999): 797–830. doi:10.1016/S0033-8389(05)70130-5."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Practical Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Unlu, Zeliha, Bilgin Ozmen, Serdar Tarhan, Sibel Boyvoda, and Cihan Goktan. 'Ultrasonographic Evaluation of Pes Anserinus Tendino-Bursitis in Patients with Type 2 Diabetes Mellitus.' The Journal of Rheumatology 30, no. 2 (February 1, 2003): 352–54."
+        },
+        {
+          "text": "J. Uson, P. Aguado, M. Bernad, L. Mayordomo, E. Naredo, A. Balsa, E. Martín-Mola. 'Pes Anserinus Tendino-Bursitis: What Are We Talking About?' Scandinavian Journal of Rheumatology 29, no. 3 (January 1, 2000): 184–86. doi:10.1080/030097400750002076."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "title": "Teres Minor and Infraspinatus",
+  "latinName": "Teres minor & Infraspinatus",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "" },
+          { "data": "Teres Minor", "header": true },
+          { "data": "Infraspinatus", "header": true }
+        ],
+        [
+          { "data": "Muscle Type", "header": true },
+          { "data": "Mono-articular, unipennate" },
+          { "data": "Mono-articular, multipennate" }
+        ],
+        [
+          { "data": "Origin", "header": true },
+          { "data": "Scapula: lateral border" },
+          { "data": "Scapula: infraspinous fossa" }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          { "data": "Humerus: Greater tuberosity (posteroinferior facet)" },
+          { "data": "Humerus: Greater tuberosity (lateral facet)" }
+        ],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Axillary nerve" },
+          { "data": "Suprascapular nerve" }
+        ],
+        [
+          { "data": "Action", "header": true },
+          {
+            "data": "External shoulder rotation, glenohumeral joint coaptation",
+            "colspan": 2
+          }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [
+        [
+          { "data": "Measurement", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plane / Site", "header": true },
+          { "data": "Mean ± SD", "header": true }
+        ],
+        [
+          { "data": "Muscle belly thickness (mm)" },
+          { "data": "Infraspinatus" },
+          { "data": "Average of 4 points of muscle belly" },
+          {
+            "data": "18.00 ± 0.50 <a href='#ref11' class='reference'>[11]</a>"
+          }
+        ],
+        [
+          { "data": "Cross-sectional area (cm2)" },
+          { "data": "Infraspinatus & teres minor" },
+          { "data": "Average of 2 points of muscle belly" },
+          {
+            "data": "4.98 ± 0.31<a href='#ref12' class='reference'>[12]</a>"
+          }
+        ],
+        [
+          { "data": "Tendon thickness (mm)", "rowspan": 2 },
+          { "data": "Infraspinatus", "rowspan": 2 },
+          { "data": "Longitudinal plane" },
+          {
+            "data": "4.87 ± 1.17<a href='#ref11' class='reference'>[11]</a>"
+          }
+        ],
+        [
+          { "data": "Longitudinal plane" },
+          {
+            "data": "4.63 ± 1.13<a href='#ref11' class='reference'>[11]</a>"
+          }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [""],
+        "subSection": [
+          {
+            "title": "Choice of Evaluation Position",
+            "text": [
+              "Variant 1, below, is commonly used and allows good exposure of the posterolateral structures of the shoulder, particularly the infraspinatus and teres minor",
+              "Some authors <a href='#ref1' class='reference'>[1]</a> recommend variant 2 more. In some cases, variant 1 can cause excessive anteriorization of the teres minor tendon, making it difficult to distinguish from the infraspinatus."
+            ]
+          },
+          {
+            "title": "Variant 1: Hand on Contralateral Shoulder",
+            "text": [
+              "Seated with shoulder exposed",
+              "Shoulder:",
+              [
+                "Complete adduction",
+                "Internal rotation",
+                "Neutral flexion - extension"
+              ],
+              "Elbow:",
+              [
+                "Flexed to allow placement of the hand on the contralateral shoulder"
+              ]
+            ],
+            "imagePositionnement": [
+              {
+                "path": "positioning1.jpg",
+                "descriptionText": "Position #1 (back)"
+              },
+              {
+                "path": "positioning2.jpg",
+                "descriptionText": "Position #1 (side)"
+              },
+              {
+                "path": "positioning3.jpg",
+                "descriptionText": "Position #1 (front)"
+              }
+            ],
+            "source": "/Protocols/TeresMinorAndInfraspinatus/"
+          },
+          {
+            "title": "Variant 2: Shoulder at Rest, Back of Hand Placed on Ipsilateral Thigh",
+            "text": [
+              "Seated with shoulder exposed",
+              "Shoulder:",
+              ["Neutral flexion - abduction - rotation"],
+              "Elbow:",
+              ["90° flexion", "Full supination (palm facing ceiling)"]
+            ],
+            "imagePositionnement": [
+              {
+                "path": "positioning4.jpg",
+                "descriptionText": "Position #2 (back)"
+              },
+              {
+                "path": "positioning5.jpg",
+                "descriptionText": "Position #2 (side)"
+              },
+              {
+                "path": "positioning6.jpg",
+                "descriptionText": "Position #2 (front)"
+              }
+            ],
+            "source": "/Protocols/TeresMinorAndInfraspinatus/"
+          }
+        ]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "Palpate the scapular spine along its entire length as well as the medial border of the scapula",
+          "Also locate the greater tuberosity and the glenohumeral joint"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/TeresMinorAndInfraspinatus/longitudinalView/",
+        "objectifs": [
+          "Examination of the infraspinatus (muscle belly & tendon)",
+          "Examination of the teres minor (muscle belly & tendon)"
+        ],
+        "parametres": ["Depth: 5-6 cm", "Gain: 80-85"],
+        "positionnement": [
+          "Place the probe in longitudinal view (relative to infraspinatus fibers) on the scapular spine, just lateral to its center",
+          "To better locate and identify structures, slowly scan from superior to inferior to observe and differentiate the scapular spine, trapezius, supraspinatus, and infraspinatus",
+          [
+            "Once these structures are identified, move the probe laterally to the glenohumeral joint"
+          ],
+          "As the relative paths of these two muscles diverge, it is often necessary to use different probe angles to obtain an optimal image in either case",
+          "To better see the teres minor <a href='#ref4' class='reference'>[4]</a>:",
+          ["Move the probe slightly downward"]
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positioning1.jpg",
+            "descriptionText": "Probe position, variant 1 (front)"
+          },
+          {
+            "path": "positioning2.jpg",
+            "descriptionText": "Probe position, variant 1 (back)"
+          },
+          {
+            "path": "positioning3.jpg",
+            "descriptionText": "Probe position, variant 1 (side)"
+          },
+          {
+            "path": "positioning4.jpg",
+            "descriptionText": "Probe position, variant 2 (front)"
+          },
+          {
+            "path": "positioning5.jpg",
+            "descriptionText": "Probe position, variant 2 (back)"
+          },
+          {
+            "path": "positioning6.jpg",
+            "descriptionText": "Probe position, variant 2 (side)"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["PD"],
+                "texte": [
+                  "The posterior deltoid appears at the top of the image. It appears as a hypoechoic area with visible (comparatively hyperechoic) striations"
+                ]
+              },
+              {
+                "acronymes": ["HH"],
+                "texte": [
+                  "The humeral head (circular hypoechoic area) is visible in the lower right quadrant of the image"
+                ]
+              },
+              {
+                "acronymes": ["IS (Tm)"],
+                "texte": [
+                  "The infraspinatus and teres minor appear in the lower left quadrant, under the deltoid and on the surface of the humeral head. They cannot be clearly distinguished in this image due to their similar path and size."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              {
+                "path": "longitudinalView1.jpg"
+              },
+              {
+                "path": "longitudinalView2.jpg",
+                "descriptionText": "Posterior deltoid"
+              },
+              {
+                "path": "longitudinalView3.jpg",
+                "descriptionText": "Humeral head"
+              },
+              {
+                "path": "longitudinalView4.jpg",
+                "descriptionText": "Infraspinatus (teres minor)"
+              },
+              { "path": "longitudinalView5.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The teres minor and infraspinatus muscles, both located at the posterior aspect of the shoulder, are part of the 4 muscles belonging to the rotator cuff (along with the subscapularis and supraspinatus).",
+          "The infraspinatus originates in the infraspinous fossa (scapula) and inserts, via a broad tendon, on the lateral facet of the greater tuberosity, just below the supraspinatus insertion. Although the gross anatomy of the infraspinatus is fairly well known, some important morphological concepts still lack consensus.",
+          "In the literature, when the pennation of the infraspinatus is described (it is often omitted), it is reported as either: multipennate, bipennate, compartmentalized, and/or fused with the teres minor <a href='#ref6' class='reference'>[6]</a><a href='#ref7' class='reference'>[7]</a><a href='#ref8' class='reference'>[8]</a><a href='#ref9' class='reference'>[9]</a><a href='#ref10' class='reference'>[10]</a>. However, a recent study <a href='#ref3' class='reference'>[3]</a> noted (in 100% of their 48 subjects) the unequivocal separation of the infraspinatus into 3 heads (superior, middle, and inferior). Each of these heads being clearly delimited by its own fascial envelope, but all being part of the same neuromuscular unit (although this aspect is subject to anatomical variability).",
+          "In ultrasonography, the different heads ('partitions') of the infraspinatus are well visible and clearly delimited: to avoid any confusion during structure identification, this concept must be well understood",
+          "The teres minor, for its part, originates from a narrow band on the lateral border of the scapula, to also insert on the greater tuberosity (inferior and posterior to the infraspinatus tendon). The teres minor is the smallest muscle of the rotator cuff and, despite having a more oblique 'origin-insertion' axis than the infraspinatus, they remain quite similar to each other. This explains why these two muscles have the same action of external rotation and glenohumeral coaptation.",
+          "Over a large portion of its muscle belly, the infraspinatus is not covered by any other muscle. Indeed, the upper half of its origin (infraspinous fossa) is masked by the middle trapezius, while the deltoid (posterior and middle) covers the insertion and lateral portion of the muscle belly (from the middle of the scapular spine). This ease of access makes the infraspinatus a good landmark for examining the posterior (posterolateral) aspect of the shoulder. Additionally, the presence of the scapular spine superiorly provides an additional landmark for identifying surrounding structures.",
+          "When viewed above the infraspinous fossa, the muscle belly of the infraspinatus should be almost twice the size of the teres minor <a href='#ref4' class='reference'>[4]</a> (when compared based on their cross-sectional area).",
+          "The teres minor, as its name suggests, has a well-defined circular profile that allows, despite the contiguity of rotator cuff structures, to distinguish it well from the infraspinatus (which is flatter and wider) <a href='#ref1' class='reference'>[1]</a>."
+        ]
+      }
+    ],
+    "images": [{ "path": "anatomicalDescription.gif" }],
+    "source": "/Protocols/TeresMinorAndInfraspinatus/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Infraspinatus Atrophy [Suprascapular Nerve Neuropathy]",
+        "text": [
+          "As explained in the scapular notches & posterior labrum section, involvement of the suprascapular nerve at the suprascapular notch can cause atrophy of the infraspinatus (and supraspinatus)",
+          "As a visual reference, the cross-sectional area of the infraspinatus normally corresponds to twice the cross-sectional area of the teres minor"
+        ]
+      },
+      {
+        "subtitle": "Tendon Tears",
+        "text": [
+          "Despite their close proximity and sometimes almost fused appearance, the infraspinatus and teres minor can be subject to isolated tears (relative to each other) and must therefore be examined individually<a href='#ref1' class='reference'>[1]</a>.",
+          "Quite similar to supraspinatus tears, infraspinatus tendon tears can be partial, complete, or intrasubstance (i.e., affecting the central portion of the tendon without extending to its surface) <a href='#ref4' class='reference'>[4]</a>.",
+          "Complete tears of the infraspinatus tendon typically show significant retraction, often accompanied by a complete tear of the supraspinatus",
+          "Tears classically have a hypoechoic ultrasonographic appearance"
+        ]
+      },
+      {
+        "subtitle": "Tendinosis",
+        "text": [
+          "In contrast to tendon tears, infraspinatus tendinosis has a hyperechoic appearance, with swelling at affected sites <a href='#ref4' class='reference'>[4]</a>"
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Supraspinatus (Scapular Region)",
+          "link": "shoulder/supraspinatus-posterior"
+        },
+        {
+          "linkTitle": "Infraspinatus (Scapular Region)",
+          "link": "shoulder/infraspinatus"
+        },
+        {
+          "linkTitle": "Scapular Notches & Posterior Labrum",
+          "link": "shoulder/scapular-notches-and-labrum"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Bigliani, L. U., & Flatow, E. L. (2005). Shoulder arthroplasty. Springer."
+        },
+        {
+          "text": "Fabrizio, Philip A., and F. Richard Clemente. \"Anatomical Structure and Nerve Branching Pattern of the Human Infraspinatus Muscle.\" Journal of Bodywork and Movement Therapies 18, no. 2 (April 2014): 228–32. doi:10.1016/j.jbmt.2013.11.016."
+        },
+        {
+          "text": "Jacobson, Jon A. \"Shoulder US: Anatomy, Technique, and Scanning Pitfalls.\" Radiology 260, no. 1 (July 1, 2011): 6–16. doi:10.1148/radiol.11101082."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Johnson, Donald Hugh, and Robert A. Pedowitz. Practical Orthopaedic Sports Medicine and Arthroscopy. Lippincott Williams & Wilkins, 2007."
+        },
+        {
+          "text": "Kato, Atsuo, Akimoto Nimura, Kumiko Yamaguchi, Tomoyuki Mochizuki, Hiroyuki Sugaya, and Keiichi Akita. \"An Anatomical Study of the Transverse Part of the Infraspinatus Muscle That Is Closely Related with the Supraspinatus Muscle.\" Surgical and Radiologic Anatomy 34, no. 3 (April 2012): 257–65. doi:10.1007/s00276-011-0872-0."
+        },
+        {
+          "text": "Keating, J. F., P. Waterworth, J. Shaw-Dunn, and J. Crossan. \"The Relative Strengths of the Rotator Cuff Muscles. A Cadaver Study.\" Journal of Bone & Joint Surgery, British Volume 75-B, no. 1 (January 1, 1993): 137–40."
+        },
+        {
+          "text": "Moore, Keith L., Anne M. R. Agur, and Arthur F. Dalley. Clinically Oriented Anatomy. 7th edition. LWW, 2013."
+        },
+        {
+          "text": "Standring, Susan, Neil R Borley, and Henry Gray. Gray's Anatomy: The Anatomical Basis of Clinical Practice. [Edinburgh]: Churchill Livingstone/Elsevier, 2008."
+        },
+        {
+          "text": "Yu, Tung-Yang, Wen-Chung Tsai, Ju-Wen Cheng, Yun-Ming Yang, Fang-Chen Liang, and Chien-Hung Chen. \"The Effects of Aging on Quantitative Sonographic Features of Rotator Cuff Tendons.\" Journal of Clinical Ultrasound: JCU 40, no. 8 (October 2012): 471–78. doi:10.1002/jcu.21919."
+        },
+        {
+          "text": "Juul-Kristensen, B., F. Bojsen-Møller, E. Holst, and C. Ekdahl. \"Comparison of Muscle Sizes and Moment Arms of Two Rotator Cuff Muscles Measured by Ultrasonography and Magnetic Resonance Imaging.\" European Journal of Ultrasound: Official Journal of the European Federation of Societies for Ultrasound in Medicine and Biology 11, no. 3 (June 2000): 161–73."
+        }
+      ]
+    }
+  }
+}

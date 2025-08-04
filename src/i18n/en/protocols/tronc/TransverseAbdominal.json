@@ -1,0 +1,330 @@
+{
+  "title": "Transversus Abdominis",
+  "latinName": "Transversus abdominis",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          {
+            "data": "Main Attachments",
+            "header": true,
+            "rowspan": 4
+          },
+          { "data": "Cranial: Cartilage of ribs 5 to 7, xiphoid process" }
+        ],
+        [{ "data": "Caudal: Pubic bones, iliac crest, inguinal ligament" }],
+        [{ "data": "Lateral: Thoracolumbar fascia" }],
+        [{ "data": "Other: Digitations at the level of the diaphragm" }],
+        [
+          { "data": "Innervation", "header": true },
+          {
+            "data": "Lower intercostal, iliohypogastric, and ilioinguinal nerves (roots T7-T11)"
+          }
+        ],
+        [
+          { "data": "Action", "header": true },
+          { "data": "Compression of abdominal contents" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Measurement", "header": true, "colspan": 2 },
+          { "data": "At the level of", "header": true },
+          { "data": "Value", "header": true }
+        ],
+        [
+          { "data": "Transversus abdominis muscle", "rowspan": 6 },
+          { "data": "Thickness (cm)", "rowspan": 4 },
+          { "data": "Male" },
+          {
+            "data": "Just below the rib cage, aligned with the anterior superior iliac spine",
+            "rowspan": 2
+          },
+          {
+            "data": "L: 0.35 - 0.79 <br /> R: 0.32 - 0.76 <a href='#ref7' class='reference'>[7]</a>"
+          }
+        ],
+        [
+          { "data": "Female" },
+          {
+            "data": "L: 0.28 - 0.60 <br /> R: 0.23 - 0.55 <a href='#ref7' class='reference'>[7]</a>"
+          }
+        ],
+        [
+          { "data": "Male" },
+          {
+            "data": "At the midpoint of a line connecting the anterior superior iliac spine and the lower border of the rib cage at the mid-axillary line",
+            "rowspan": 2
+          },
+          {
+            "data": "L: 0.25 - 0.77 <br /> R: 0.19 - 0.71 <a href='#ref7' class='reference'>[7]</a>"
+          }
+        ],
+        [
+          { "data": "Female" },
+          {
+            "data": "L: 0.17 - 0.57 <br /> R: 0.18 - 0.58 <a href='#ref7' class='reference'>[7]</a>"
+          }
+        ],
+        [
+          { "data": "Thickness at rest (mm)", "colspan": 2 },
+          {
+            "data": "Intersection of the horizontal line through the umbilicus and the vertical line through the axillary fold",
+            "rowspan": 2
+          },
+          { "data": "3.0 ± 0.9 <a href='#ref3' class='reference'>[3]</a>" }
+        ],
+        [
+          { "data": "Thickness during contraction (mm)", "colspan": 2 },
+          { "data": "3.7 ± 1.3 <a href='#ref3' class='reference'>[3]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": ["Supine position, legs extended", "Abdomen exposed"]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "Locate the xiphoid process, lower ribs, and anterior superior iliac spines"
+        ]
+      }
+    ],
+    "applicationDynamique": {
+      "title": "Dynamic Application",
+      "iframe": "<iframe width=\"395\" height=\"296\" src=\"https://www.youtube.com/embed/pLeSqAvoIZE\" title=\"Dynamic ultrasound of the transversus abdominis muscle\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "vues": [
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/transversusAbdominis/transverseView/",
+        "objectifs": [
+          "Static observation of the transversus abdominis muscle",
+          "Dynamic visualization of transversus abdominis muscle contraction: biofeedback"
+        ],
+        "parametres": [
+          "Depth: 4-5 cm",
+          "Gain: 80",
+          "G/3/2",
+          "Note: These parameters will differ according to the subject's physique (particularly depth). Although this is always the case, the variability observed for the abdominal region will be even more significant, particularly in obese or pregnant subjects, etc."
+        ],
+        "positionnement": [
+          "Note: It is recommended to start by locating the rectus abdominis muscle and surrounding structures, as described in <a href='/protocols/trunk/rectus-abdominis/' class='underline'>the rectus abdominis protocol</a>",
+          "Position 1: Place the probe in longitudinal view at the level of the intertubercular groove",
+          "Position 2: Move the probe slightly laterally to locate the transversus abdominis (so that it occupies a larger portion of the image)",
+          "Position 3: Perform a slight rotation of the probe to align it with the fibers of the transversus abdominis. Depending on the craniocaudal positioning of the probe, the rotation may be more or less significant. A simple visual reference can be to align the medial side of the probe toward the umbilicus (for approximate orientation)"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Starting position of the probe, at the level of the linea semilunaris"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Probe moved laterally to better visualize the transversus abdominis muscle"
+          },
+          {
+            "path": "positionnement3.jpg",
+            "descriptionText": "Rotation of the probe to align with the fibers of the transversus abdominis"
+          }
+        ],
+        "identification": [
+          {
+            "title": "[Position 1: Above the linea semilunaris]",
+            "legend": [
+              {
+                "acronymes": ["SCF"],
+                "texte": [
+                  "Subcutaneous fat can be observed in the upper portion of the image as a thick hypoechoic layer without particular tissue organization"
+                ]
+              },
+              {
+                "acronymes": ["RA"],
+                "texte": [
+                  "The rectus abdominis muscle is located on the right side of the image, beneath the subcutaneous fat. This muscle appears as a slightly hyperechoic rounded area, bordered deeply by a strongly hyperechoic fascia"
+                ]
+              },
+              {
+                "acronymes": ["EO"],
+                "texte": [
+                  "The external oblique muscle, a slightly hyperechoic linear area, appears on the left side of the image, just beneath the subcutaneous fat. It is recognized as being the most superficial, and one can appreciate the clearly defined fascia surrounding it"
+                ]
+              },
+              {
+                "acronymes": ["IO"],
+                "texte": [
+                  "The internal oblique muscle appears as a thick area just deep to the external oblique, whose medial border (on the right of the image) is adjacent to the linea semilunaris"
+                ]
+              },
+              {
+                "acronymes": ["TrA"],
+                "texte": [
+                  "The transversus abdominis muscle is the deepest muscle on this image, just beneath the internal oblique. When the probe is positioned this way, it appears quite similar to the external oblique"
+                ]
+              },
+              {
+                "acronymes": ["LSL"],
+                "texte": [
+                  "The linea semilunaris is the structure that separates the rectus abdominis muscle from the internal oblique in the center of the image, and can be described as a narrow triangular hyperechoic area"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Subcutaneous fat"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Rectus abdominis muscle"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "External oblique muscle"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Internal oblique muscle"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Transversus abdominis muscle"
+              },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Linea semilunaris"
+              },
+              { "path": "identification8.jpg" }
+            ]
+          },
+          {
+            "title": "[Position 2: Probe moved laterally, above the transversus abdominis]",
+            "legend": [
+              {
+                "acronymes": ["EO"],
+                "texte": [
+                  "The external oblique muscle is present in the upper left part of the image and can be described as a fusiform hyperechoic area"
+                ]
+              },
+              {
+                "acronymes": ["IO"],
+                "texte": [
+                  "The internal oblique muscle is again located beneath the external oblique and appears as a thick, slightly wavy rectangular hyperechoic area"
+                ]
+              },
+              {
+                "acronymes": ["TrA"],
+                "texte": [
+                  "The transversus abdominis muscle appears once again as a thin hyperechoic linear area, deep to the internal oblique muscle"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification9.jpg" },
+              {
+                "path": "identification10.jpg",
+                "descriptionText": "External oblique muscle"
+              },
+              {
+                "path": "identification11.jpg",
+                "descriptionText": "Internal oblique muscle"
+              },
+              {
+                "path": "identification12.jpg",
+                "descriptionText": "Transversus abdominis muscle"
+              },
+              { "path": "identification13.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The transversus abdominis is the deepest of the lateral abdominal muscles. It forms a broad muscular sheet that wraps around the abdomen, with fibers running horizontally from the thoracolumbar fascia to the linea alba.",
+          "This muscle is unique in its continuous arrangement around the abdomen, forming a natural 'corset' that provides stability to the trunk and assists in controlling intra-abdominal pressure. Its fibers are arranged in a transverse direction, unlike the oblique orientation of the internal and external oblique muscles.",
+          "The muscle has extensive attachments, including:",
+          "<ul class='margin-left'><li>Superiorly: to the inner surface of the lower six costal cartilages, interdigitating with the diaphragm</li><li>Posteriorly: to the thoracolumbar fascia</li><li>Inferiorly: to the iliac crest and lateral third of the inguinal ligament</li></ul>",
+          "The muscle's aponeurosis contributes to the posterior and anterior rectus sheaths, ultimately joining with the contralateral muscle at the linea alba. This arrangement is crucial for maintaining abdominal wall integrity and function."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Core Stability",
+        "text": [
+          "The transversus abdominis plays a crucial role in core stability:",
+          "<ul class='margin-left'><li>Contributes to spinal stabilization through increased intra-abdominal pressure</li><li>Acts as part of the deep core muscle system</li><li>Important in both static and dynamic postural control</li></ul>"
+        ]
+      },
+      {
+        "subtitle": "Low Back Pain",
+        "text": [
+          "The muscle's function is often altered in low back pain:",
+          "<ul class='margin-left'><li>Delayed activation in patients with chronic low back pain</li><li>Reduced thickness and altered recruitment patterns</li><li>Important target for rehabilitation exercises</li></ul>"
+        ]
+      },
+      {
+        "subtitle": "Pregnancy and Postpartum",
+        "text": [
+          "The transversus abdominis is particularly relevant in obstetric contexts:",
+          "<ul class='margin-left'><li>Undergoes significant changes during pregnancy</li><li>Important in postpartum recovery</li><li>Can be affected in diastasis recti</li></ul>"
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Rectus Abdominis",
+          "link": "trunk/rectus-abdominis"
+        },
+        {
+          "linkTitle": "Multifidus",
+          "link": "trunk/multifidus"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Hodges, P. W., and C. A. Richardson. \"Inefficient Muscular Stabilization of the Lumbar Spine Associated with Low Back Pain: A Motor Control Evaluation of Transversus Abdominis.\" Spine 21.22 (1996): 2640-2650."
+        },
+        {
+          "text": "Teyhen, D. S., et al. \"The Use of Ultrasound Imaging of the Abdominal Drawing-in Maneuver in Subjects With Low Back Pain.\" Journal of Orthopaedic & Sports Physical Therapy 35.6 (2005): 346-355."
+        },
+        {
+          "text": "Ferreira, P. H., et al. \"Changes in Recruitment of the Abdominal Muscles in People With Low Back Pain: Ultrasound Measurement of Muscle Activity.\" Spine 29.22 (2004): 2560-2566."
+        },
+        {
+          "text": "Critchley, D. J., and F. J. Coutts. \"Abdominal Muscle Function in Chronic Low Back Pain Patients: Measurement With Real-Time Ultrasound Scanning.\" Physiotherapy 88.6 (2002): 322-332."
+        }
+      ]
+    }
+  }
+}

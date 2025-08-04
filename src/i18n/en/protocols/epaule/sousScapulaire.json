@@ -1,0 +1,303 @@
+{
+  "title": "Subscapularis",
+  "latinName": "Subscapularis",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Muscle Type", "header": true },
+          { "data": "Mono-articular, multipennate" }
+        ],
+        [
+          { "data": "Origin", "header": true },
+          { "data": "Subscapular fossa (scapula)" }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          { "data": "Lesser tuberosity (humerus)" }
+        ],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Upper and lower subscapular nerves (C5-C6)" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [
+        [
+          { "data": "Measurement", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plane", "header": true },
+          { "data": "Mean ± Standard Deviation", "header": true }
+        ],
+        [
+          { "data": "Thickness (mm)", "rowspan": 2 },
+          { "data": "Subscapularis tendon", "rowspan": 2 },
+          { "data": "Transverse plane" },
+          { "data": "5.07 ± 0.97 <a href='#ref4' class='reference'>[4]</a>" }
+        ],
+        [
+          { "data": "Longitudinal plane" },
+          { "data": "4.67 ± 0.87 <a href='#ref4' class='reference'>[4]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Seated with shoulder exposed",
+          "Shoulder:",
+          [
+            "Neutral flexion – abduction (important to keep the elbow resting on the iliac crest)<a href='#ref5' class='reference'>[5]</a><a href='#ref6' class='reference'>[6]</a>",
+            "Start in neutral internal/external rotation"
+          ],
+          "Elbow:",
+          [
+            "90° flexion",
+            "Slight supination (can help avoid the natural tendency for shoulder elevation/abduction)"
+          ]
+        ]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "Locate the intertubercular groove (see the section on <a class='underline' href='protocoles/epaule/biceps-brachial'> biceps brachial </a> to learn more)",
+          "Once the bicipital groove is identified, position the shoulder in external rotation, while ensuring not to induce flexion/abduction (keep the elbow against the thorax)"
+        ]
+      }
+    ],
+    "applicationDynamique": {
+      "title": "Dynamic Application",
+      "iframe": "<iframe width=\"395\" height=\"296\" src=\"https://www.youtube.com/embed/BKlTAhaCsrs\" title=\"Dynamic ultrasound of the subscapularis (longitudinal view)\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/SousScapulaire/vueLongitudinale/",
+        "objectifs": ["Examination of the subscapularis tendon"],
+        "parametres": ["Depth: 3-4 cm", "Gain: 70-75"],
+        "positionnement": [
+          "Place the probe in longitudinal view at the level of the intertubercular groove",
+          "Sweep the probe up and down to cover the entire area of the subscapularis and its tendon (since these structures cover an area larger than the width of the transducer) <a href='#ref1' class='reference'>[1]</a> <a href='#ref5' class='reference'>[5]</a>"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "vueLongitudinale1.jpg",
+            "descriptionText": "Probe position, longitudinal view (front)"
+          },
+          {
+            "path": "vueLongitudinale2.jpg",
+            "descriptionText": "Probe position, longitudinal view (back)"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["HH"],
+                "texte": [
+                  "The humeral head, a large circular <a class='underline' href='theory/terminology'>hypoechoic</a> area, appears on the right side of the image"
+                ]
+              },
+              {
+                "acronymes": ["AD"],
+                "texte": [
+                  "The anterior deltoid, a thick layer slightly <a class='underline' href='theory/terminology'>hyperechoic</a> compared to the humeral head, is visible in the upper portion of the image"
+                ]
+              },
+              {
+                "acronymes": ["CP"],
+                "texte": [
+                  "The coracoid process, a prominence of the scapula, is located on the left side of the image. A shadow zone (<a class='underline' href='theory/terminology'>artifact</a>) can also be seen under this structure."
+                ]
+              },
+              {
+                "acronymes": ["SS"],
+                "texte": [
+                  "The subscapularis tendon can be observed between the anterior deltoid and the humeral head and presents an <a class='underline' href='theory/terminology'>echogenicity</a> similar to that of the muscle but with a smoother and more homogeneous <a class='underline' href='theory/terminology'>echotexture</a>."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "vueLongitudinale1.jpg", "descriptionText": "" },
+              {
+                "path": "vueLongitudinale2.jpg",
+                "descriptionText": "Humeral head"
+              },
+              {
+                "path": "vueLongitudinale3.jpg",
+                "descriptionText": "Anterior deltoid"
+              },
+              {
+                "path": "vueLongitudinale4.jpg",
+                "descriptionText": "Coracoid process"
+              },
+              {
+                "path": "vueLongitudinale5.jpg",
+                "descriptionText": "Subscapularis tendon"
+              },
+              { "path": "vueLongitudinale6.jpg", "descriptionText": "" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/SousScapulaire/vueTransversale/",
+        "objectifs": [
+          "Observe the multipennate structure of the subscapularis muscle"
+        ],
+        "parametres": ["Depth: 3-4 cm", "Gain: 70-74"],
+        "positionnement": ["Rotate the probe 90° from the longitudinal view"],
+        "imagePositionnement": [
+          {
+            "path": "vueTransversale1.jpg",
+            "descriptionText": "Probe position, transverse view (front)"
+          },
+          {
+            "path": "vueTransversale2.jpg",
+            "descriptionText": "Probe position, transverse view (back)"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["D"],
+                "texte": [
+                  "The deltoid, a thick hypoechoic layer, appears at the top of the image"
+                ]
+              },
+              {
+                "acronymes": ["SS"],
+                "texte": [
+                  "The subscapularis can be observed under the deltoid as a hyperechoic structure that follows the contour of the lesser tuberosity"
+                ]
+              },
+              {
+                "acronymes": ["LT"],
+                "texte": [
+                  "The lesser tuberosity appears at the bottom of the image as a plateau-like area with hyperechoic margins, under the subscapularis muscle"
+                ]
+              },
+              {
+                "acronymes": ["F"],
+                "texte": [
+                  "The fascicles present in the subscapularis, which refer to its multipennate structure, are visible within the belly of the subscapularis. These take the form of alternating hyper- and hypoechoic fascicles, which are tendinous and muscular fascicles respectively"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              {
+                "path": "vueTransversale1.jpg"
+              },
+              {
+                "path": "vueTransversale2.jpg",
+                "descriptionText": "Deltoid"
+              },
+              {
+                "path": "vueTransversale3.jpg",
+                "descriptionText": "Subscapularis"
+              },
+              {
+                "path": "vueTransversale4.jpg",
+                "descriptionText": "Lesser tuberosity"
+              },
+              {
+                "path": "vueTransversale5.jpg",
+                "descriptionText": "Fascicles (multipennate structure)"
+              },
+              {
+                "path": "vueTransversale6.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The subscapularis muscle is primarily located on the anterior aspect of the shoulder. It is one of the four muscles composing the rotator cuff, along with the supraspinatus (superior aspect), infraspinatus and teres minor (both on the posterior aspect). The subscapularis originates from the anterior surface of the scapula, which is called the subscapular fossa in reference to this muscle's origin. The subscapularis is composed of two to three muscle bellies, or heads, which unite to form the subscapularis tendon and insert distally at the level of the humeral lesser tuberosity.",
+          "Due to the deeper location of its muscle belly, it is the only one of the four rotator cuff muscles that cannot be palpated, at least not easily and/or effectively. During an ultrasonographic evaluation, it is indeed necessary to position the shoulder in external rotation before being able to assess the proximal tendon of the subscapularis. This approach allows stretching of the subscapularis and thus clearing it from the coracoid process, which normally partially covers it. We can therefore benefit from more superficial access to this muscle which is ordinarily relatively buried under various obstacles to the ultrasound beam. Due to the axis formed by its tendons, the subscapularis muscle is a powerful internal rotator and adductor of the glenohumeral joint."
+        ]
+      }
+    ],
+    "images": [{ "path": "description1.gif" }],
+    "source": "/Protocols/SousScapulaire/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Isolated Subscapularis Tendon Tear",
+        "text": [
+          "Isolated tears of the subscapularis tendon (i.e., in the absence of other tendon tears) are rare. When they occur, they are mainly located at the insertion on the lesser tuberosity <a href='#ref1' class='reference'>[1]</a>.",
+          "Significant tendon retraction following a complete tear is quite common. This becomes even more evident when the shoulder is placed in external rotation <a href='#ref2' class='reference'>[2]</a>",
+          "When examining the subscapularis in transverse view, it is important not to confuse the multipennate structure (alternating hypo- and hyperechoic areas) with a tear <a href='#ref1' class='reference'>[1]</a>"
+        ]
+      },
+      {
+        "subtitle": "Rotator Cuff Pathology",
+        "text": [
+          "The subscapularis plays a crucial role in:",
+          "<ul class='margin-left'><li>Shoulder stability</li><li>Internal rotation strength</li><li>Prevention of anterior shoulder dislocation</li></ul>"
+        ]
+      },
+      {
+        "subtitle": "Post-surgical Assessment",
+        "text": [
+          "Ultrasound examination is valuable for:",
+          "<ul class='margin-left'><li>Evaluating repair integrity</li><li>Monitoring healing progress</li><li>Assessing muscle quality and function</li></ul>"
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Supraspinatus",
+          "link": "protocoles/epaule/sus-epineux"
+        },
+        {
+          "linkTitle": "Infraspinatus",
+          "link": "protocoles/epaule/sous-epineux"
+        },
+        {
+          "linkTitle": "Biceps brachii",
+          "link": "protocoles/epaule/biceps-brachial"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Jacobson JA. Shoulder US: anatomy, technique, and scanning pitfalls. Radiology. 2011;260(1):6-16."
+        },
+        {
+          "text": "Beggs I, et al. Musculoskeletal Ultrasound Technical Guidelines: Shoulder. European Society of MusculoSkeletal Radiology."
+        },
+        {
+          "text": "Teefey SA, et al. Detection and quantification of rotator cuff tears. J Bone Joint Surg Am. 2004;86(4):708-716."
+        },
+        {
+          "text": "Schmidt WA, et al. Standard reference values for musculoskeletal ultrasonography. Ann Rheum Dis. 2004;63(8):988-994."
+        }
+      ]
+    }
+  }
+}

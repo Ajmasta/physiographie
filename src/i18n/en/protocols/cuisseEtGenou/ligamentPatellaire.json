@@ -1,0 +1,293 @@
+{
+  "title": "Patellar Ligament",
+  "latinName": "Ligamentum patellae",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Attachments", "header": true, "rowspan": 2 },
+          { "data": "Proximal: Inferior pole of patella" }
+        ],
+        [{ "data": "Distal: tibial tuberosity" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Measurement", "header": true },
+          { "data": "Plane", "header": true },
+          { "data": "Subject Type", "header": true },
+          { "data": "Mean ± SD", "header": true }
+        ],
+        [
+          { "data": "Patellar ligament", "rowspan": 11 },
+          { "data": "Length (mm)" },
+          { "data": "N/A" },
+          { "data": "Symptomatic or not**" },
+          { "data": "53 ± 6 <a href='#ref11' class='reference'>[11]</a>" }
+        ],
+        [
+          { "data": "Thickness (mm)", "rowspan": 3 },
+          { "data": "Proximal portion of ligament", "rowspan": 2 },
+          { "data": "Asymptomatic" },
+          { "data": "3.8 ± 1.1 <a href='#ref11' class='reference'>[11]</a>" }
+        ],
+        [
+          { "data": "Symptomatic" },
+          { "data": "6.2 ± 2.2 <a href='#ref11' class='reference'>[11]</a>" }
+        ],
+        [
+          { "data": "Midpoint of ligament" },
+          { "data": "Symptomatic or not**" },
+          { "data": "4.0 ± 0.6 <a href='#ref11' class='reference'>[11]</a>" }
+        ],
+        [
+          { "data": "Width (mm)", "rowspan": 3 },
+          { "data": "Proximal portion of ligament" },
+          { "data": "Symptomatic or not**" },
+          { "data": "33 ± 3 <a href='#ref11' class='reference'>[11]</a>" }
+        ],
+        [
+          { "data": "Midpoint of ligament", "rowspan": 2 },
+          { "data": "Asymptomatic" },
+          { "data": "36 ± 3 <a href='#ref11' class='reference'>[11]</a>" }
+        ],
+        [
+          { "data": "Symptomatic" },
+          { "data": "37 ± 6 <a href='#ref11' class='reference'>[11]</a>" }
+        ],
+        [
+          { "data": "Cross-sectional area (cm2)", "rowspan": 4 },
+          { "data": "Proximal portion of ligament", "rowspan": 2 },
+          { "data": "Asymptomatic" },
+          { "data": "99 ± 29 <a href='#ref11' class='reference'>[11]</a>" }
+        ],
+        [
+          { "data": "Symptomatic" },
+          { "data": "161 ± 60 <a href='#ref11' class='reference'>[11]</a>" }
+        ],
+        [
+          { "data": "Midpoint of ligament", "rowspan": 2 },
+          { "data": "Asymptomatic" },
+          { "data": "108 ± 20 <a href='#ref11' class='reference'>[11]</a>" }
+        ],
+        [
+          { "data": "Symptomatic" },
+          { "data": "120 ± 19 <a href='#ref11' class='reference'>[11]</a>" }
+        ]
+      ],
+      "text": [
+        "** Symptomatic or not: When the difference between symptomatic and asymptomatic subjects was not statistically significant (p > 0.05), the measurement in this table corresponds to the average of measurements for each subject type."
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Supine position, with the knee and lower third of the thigh exposed",
+          "A knee flexion of 20-30° (using a pillow under the popliteal fossa) allows for slight tension in the extensor mechanism, thus reducing problems related to anisotropy of the anterior tendons (caused by their concave profile when the knee is in full extension)<a href='#ref3' class='reference'>[3]</a><a href='#ref12' class='reference'>[12]</a>"
+        ],
+        "images": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Subject position, leg extended"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Subject position, leg slightly flexed"
+          }
+        ],
+        "source": "/Protocols/ligamentPatellaire/"
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "Locate and palpate the patella, inferior pole (apex) and mediolateral borders",
+          "Palpate the patellar ligament progressing distally to the tibial tuberosity"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/ligamentPatellaire/vueLongitudinale/",
+        "objectifs": [
+          "Examination of the patellar ligament and its insertion on the tibial tuberosity",
+          "Observation of Hoffa's fat pad"
+        ],
+        "parametres": ["Depth: 2 cm", "Gain: 70"],
+        "positionnement": [
+          "In longitudinal view (parallel to the long axis of the tibia), place the probe on the patellar ligament, so that its distal end is aligned with the superior (cranial) border of the tibial tuberosity",
+          "If needed, slowly scan the probe proximally and distally to cover all structures of interest (see below)"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["PL"],
+                "texte": [
+                  "The patellar ligament appears as a thick hyperechoic band with fibrillar echotexture"
+                ]
+              },
+              {
+                "acronymes": ["T"],
+                "texte": [
+                  "The tibia is present in the lower right portion of the image. The cortical bone can be distinguished as a strongly hyperechoic line above a hypoechoic region (cortical bone not allowing ultrasound to pass through)"
+                ]
+              },
+              {
+                "acronymes": ["HFP"],
+                "texte": [
+                  "Hoffa's fat pad, an area of mixed echogenicity, is found in the center of the image, under the patellar ligament and to the left of the tibia. Note the presence of fat lobules of varying size and disorganized appearance."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Patellar ligament"
+              },
+              { "path": "identification3.jpg", "descriptionText": "Tibia" },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Hoffa's fat pad"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/ligamentPatellaire/vueTransversale/",
+        "objectifs": [
+          "Examination of the quadriceps tendon (and its constituent bundles)"
+        ],
+        "parametres": ["Depth: 2 cm", "Gain: 70"],
+        "positionnement": ["Rotate the probe 90° from the longitudinal view"],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["PL"],
+                "texte": [
+                  "The patellar ligament occupies the central portion of the image and appears as a hyperechoic area circumscribed (superficially and deeply) by a hyperechoic line. In the images showing the patellar ligament with anisotropy (images 3/4 and 4/4), one can clearly note the hypoechoic appearance of the patellar ligament, which allows it to be distinguished from surrounding tissues that are not susceptible to anisotropy (e.g., adipose tissue, bone)."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Patellar ligament (without anisotropy)",
+                "acronym": "PL"
+              },
+              { "path": "identification3.jpg" },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Patellar ligament (with anisotropy)",
+                "acronym": "PL"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The term 'patellar tendon', although very common, is subject to controversy. Indeed, since this structure connects two bony points (the patella and tibia), by definition, the exact term would be 'patellar ligament'. However, when studied histologically, the patellar ligament shows a structure quite different from that normally found in ligaments (although ligament organization is subject to some degree of variability). It's important to understand that collagen (the protein that constitutes a large portion of ligaments and tendons) has a very different architecture depending on the type of tissue in which it is found. Among the most studied collagen characteristics in histology are<a href='#ref7' class='reference'>[7]</a><a href='#ref9' class='reference'>[9]</a>:",
+          "<ul class='margin-left'><li>Bundle width</li><li>Cell morphology</li><li>Fibril to interstitial tissue ratio</li><li>Fibroblast density</li><li>Collagen fiber crimp characteristics (including period and amplitude of undulations)</li></ul>",
+          "The patellar ligament has cell morphology and crimp characteristics similar to the Achilles tendon. However, when compared to hamstring tendons, the patellar ligament has (statistically significant) differences in fibroblast density and fibril to interstitial tissue ratio. Finally, collagen bundle thickness tends to be quite similar in tendons and ligaments and thus cannot be used as a distinguishing criterion. In summary, the patellar ligament has histological attributes that are sometimes tendinous, sometimes ligamentous, and sometimes atypical of either tissue<a href='#ref7' class='reference'>[7]</a><a href='#ref9' class='reference'>[9]</a>.",
+          "From a functional perspective, the patellar ligament has a role typically played by tendons. Indeed, its participation in the knee extensor mechanism makes it an essential link in this joint, without which the quadriceps femoris could not accomplish its main function.",
+          "In scientific literature, both terms (tendon vs ligament) seem to be used relatively interchangeably, and in the presence of rather heterogeneous histological data, the choice of terminology is currently quite arbitrary (neither term being fundamentally incorrect).",
+          "The patellar ligament originates on the anterior surface and medial & lateral borders of the patella and covers its lower two-thirds<a href='#ref2' class='reference'>[2]</a>. The fibers then leave the inferior pole (apex) of the patella to insert at the tibial tuberosity<a href='#ref3' class='reference'>[3]</a>. The patellar ligament is slightly off-center relative to the patella's center, as slightly more than 60% of its width is located lateral to the apex<a href='#ref12' class='reference'>[12]</a>.",
+          "There is an anatomical variant (relatively frequent<a href='#ref2' class='reference'>[2]</a>) where the patellar ligament instead originates from the posterior surface of the patellar apex, whose degree of clinical relevance does not yet seem to have been established (i.e., we still don't know whether or not it is a risk factor for conditions like patellar tendinopathies).",
+          "Under the patellar ligament lies Hoffa's fat pad (also called Hoffa's body/fat pad, infrapatellar fat pad), a structure interposed between the femoral condyles and patella whose shock absorption role protects underlying structures. Hoffa's fat pad is intracapsular but extrasynovial, which has its share of clinical implications (see Clinical Relevance section)<a href='#ref3' class='reference'>[3]</a>.",
+          "The infrapatellar bursa is a small bursa located anterior to the proximal tibia, just under the distal portion of the patellar ligament<a href='#ref2' class='reference'>[2]</a>."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Patellar Tendinopathy ('Jumper's knee')",
+        "text": [
+          "Patellar tendinopathy (also known as 'jumper's knee') is a condition found especially in practitioners of sports involving frequent maximal jumps, including volleyball<a href='#ref11' class='reference'>[11]</a>, or frequent and powerful quadriceps contractions (such as kicking in soccer or running)<a href='#ref3' class='reference'>[3]</a>. The clinical diagnosis of patellar tendinopathy relies mainly on the presence of pain on palpation of the inferior pole of the patella. Typically, the pain is maximal when the knee is extended with the quadriceps femoris relaxed. Confirmation of the diagnosis usually involves magnetic resonance imaging [MRI]<a href='#ref15' class='reference'>[15]</a>. Numerous histopathological signs are also found within the patellar ligament, including collagen fiber tears followed by mucoid degeneration<a href='#ref3' class='reference'>[3]</a>.",
+          "Milder cases usually respond well to conservative treatment (including ice and relative rest), while more severe and/or chronic cases often require surgical treatment<a href='#ref3' class='reference'>[3]</a>.",
+          "On ultrasound examination, a hypoechoic focus is found within the central (deep) portion of the ligament near its insertion. When viewed in transverse view, the patellar ligament classically presents a central portion affected by degenerative signs, while the mediolateral sides remain essentially intact<a href='#ref3' class='reference'>[3]</a>. Furthermore, it has been demonstrated that ultrasound imaging is highly accurate for diagnosing patellar ligament ruptures (subsequently confirmed via surgery)<a href='#ref11' class='reference'>[11]</a>."
+        ]
+      },
+      {
+        "subtitle": "Hoffa's Syndrome (Hoffa's fat pad impingement)<a href='#ref16' class='reference'>[16]</a>",
+        "text": [
+          "Hoffa's fat pad conditions are often the result of trauma or degenerative processes. Although this structure is often subject to injury, there is relatively little scientific literature on the subject.",
+          "The term 'Hoffa's syndrome', or posterior impingement syndrome, refers to a mechanism where Hoffa's fat pad is 'pinched' (or 'trapped') between the patella and femur. There is another type of impingement mechanism, which is more frequently found, where the apex of the fat pad is pinched by the lateral femoral condyle.",
+          "Hoffa's fat pad can be injured in other conditions, without any impingement mechanism. These notably include: major knee trauma (especially during multiple ligament injuries), patellar dislocations, and especially following arthroscopy (which is the #1 cause of Hoffa's fat pad injury)."
+        ]
+      },
+      {
+        "subtitle": "Infrapatellar Bursitis<a href='#ref3' class='reference'>[3]</a>",
+        "text": [
+          "Inflammation of the infrapatellar bursa can occur in isolation or as part of a more generalized inflammatory process.",
+          "On ultrasound examination, the bursa appears as a fluid-filled space between the patellar ligament and the anterior tibia.",
+          "Treatment typically involves conservative measures, including rest, ice, and anti-inflammatory medications."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Quadriceps tendon",
+          "link": "protocoles/cuisse-genou/tendons-quadricipital"
+        },
+        {
+          "linkTitle": "Tibial tuberosity",
+          "link": "protocoles/cuisse-genou/tuberosite-tibiale"
+        },
+        {
+          "linkTitle": "Quadriceps muscle",
+          "link": "protocoles/cuisse-genou/quadriceps"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "McNally, Eugene G. Practical Musculoskeletal Ultrasound. Churchill Livingstone/Elsevier, 2014."
+        },
+        {
+          "text": "O'Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        }
+      ]
+    }
+  }
+}

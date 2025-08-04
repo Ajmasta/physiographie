@@ -1,0 +1,235 @@
+{
+  "title": "Iliotibial Band",
+  "latinName": "Tractus iliotibialis",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Attachments", "header": true, "rowspan": 2 },
+          {
+            "data": "Proximal: Tensor fasciae latae muscle, gluteus maximus, linea aspera (via intermuscular septum)"
+          }
+        ],
+        [
+          {
+            "data": "Distal: Lateral border of patella, lateral patellar retinaculum, Gerdy's tubercle (tibia)"
+          }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Measurement", "header": true },
+          { "data": "Plane", "header": true },
+          { "data": "Other info.", "header": true },
+          { "data": "Mean ± SD", "header": true }
+        ],
+        [
+          { "data": "Iliotibial band", "rowspan": 9 },
+          { "data": "Length (mm)" },
+          { "data": "Greater trochanter to Gerdy's tubercle" },
+          { "data": "N/A", "rowspan": 3 },
+          {
+            "data": "442 ± 17.8 (411 - 468) <a href='#ref10' class='reference'>[10]</a>"
+          }
+        ],
+        [
+          { "data": "Width (mm)" },
+          { "data": "Lateral epicondyle" },
+          {
+            "data": "37 ± 8.9 (23 - 51) <a href='#ref10' class='reference'>[10]</a>"
+          }
+        ],
+        [
+          {
+            "data": "Distance between ITB and posterior border of lat. epicondyle (mm)"
+          },
+          { "data": "N/A" },
+          {
+            "data": "2.5 ± 4.2 ([-4] - 9) <a href='#ref10' class='reference'>[10]</a>"
+          }
+        ],
+        [
+          { "data": "Thickness (mm)", "rowspan": 6 },
+          { "data": "Lateral femoral condyle", "rowspan": 3 },
+          { "data": "LLL" },
+          { "data": "(1.3 - 2.6) <a href='#ref4' class='reference'>[4]</a>" }
+        ],
+        [
+          { "data": "RLL" },
+          { "data": "(1.3 - 2.5) <a href='#ref4' class='reference'>[4]</a>" }
+        ],
+        [
+          { "data": "Mean" },
+          { "data": "1.95 ± 0.3 <a href='#ref4' class='reference'>[4]</a>" }
+        ],
+        [
+          { "data": "Lateral tibial condyle", "rowspan": 3 },
+          { "data": "LLL" },
+          { "data": "(2.0 - 4.5) <a href='#ref4' class='reference'>[4]</a>" }
+        ],
+        [
+          { "data": "RLL" },
+          { "data": "(2.3 - 4.8) <a href='#ref4' class='reference'>[4]</a>" }
+        ],
+        [
+          { "data": "Mean" },
+          { "data": "3.4 ± 0.5 <a href='#ref4' class='reference'>[4]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Supine position, lower limb in slight internal rotation, with the knee maintained at approximately 20-30° of flexion<a href='#ref1' class='reference'>[1]</a>"
+        ]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "Locate and palpate the lateral femoral epicondyle and lateral tibial plateau"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/bandeletteIlioTibiale/vueLongitudinale/",
+        "objectifs": ["Examination of the iliotibial band"],
+        "parametres": ["Depth: 2 cm", "Gain: 70"],
+        "positionnement": [
+          "In longitudinal view (parallel to the long axis of the femur), place the distal (caudal) end of the probe on Gerdy's tubercle",
+          "Align the proximal (cranial) end so that the probe has an orientation parallel to the long axis of the femoral shaft",
+          "To ensure that the probe is well positioned above the ITB, keep in mind that it is located just between the anterior third and middle third of the thigh<a href='#ref8' class='reference'>[8]</a>"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["F"],
+                "texte": [
+                  "The femur appears in the left portion of the image as a rounded area with hyperechoic margins"
+                ]
+              },
+              {
+                "acronymes": ["T"],
+                "texte": [
+                  "The tibia occupies the entire central and right portion of the image. Its surface appears hyperechoic due to its cortical bone strongly reflecting the ultrasound beam"
+                ]
+              },
+              {
+                "acronymes": ["ITB"],
+                "texte": [
+                  "The iliotibial band appears in the upper half of the image and can be described as a thick fibrous band with easily visible fibrillar echotexture"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Femur" },
+              { "path": "identification3.jpg", "descriptionText": "Tibia" },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Iliotibial band"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The iliotibial band [ITB], also known as the 'iliotibial tract' or 'Maissiat's band', is a fibrous reinforcement (or 'thickening') of the tensor fasciae latae muscle [TFL]. Proximally, it separates into two layers (deep and superficial) that enclose the TFL and serve as an anchor to the iliac crest. Additionally, it should be noted that the gluteus maximus muscle largely inserts onto the ITB<a href='#ref2' class='reference'>[2]</a>. The ITB is free of bony attachment exclusively in its portion extending between the lateral epicondyle and Gerdy's tubercle<a href='#ref3' class='reference'>[3]</a>.",
+          "In its more distal portion, the ITB passes superficial to the lateral femoral condyle to insert at Gerdy's tubercle, a bony prominence on the anterolateral aspect of the proximal tibia. The ITB is anchored to the distal tibia by fibrous bands that are closely associated with densely innervated and vascularized adipose tissue. In normal conditions (in a healthy subject), these fibrous bands prevent anterior 'rolling' of the ITB over the epicondyle<a href='#ref2' class='reference'>[2]</a>.",
+          "During knee flexion, the tibia performs an 'automatic' internal rotation, which compresses the ITB against the surface of the lateral epicondyle<a href='#ref2' class='reference'>[2]</a>. The TFL (and consequently the ITB) is a hip flexor, abductor, and external rotator, in addition to being an external rotator of the tibia on the femur."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Iliotibial Band Friction Syndrome",
+        "text": [
+          "Iliotibial band syndrome [ITBS] (or ITB friction syndrome) is the most common cause of lateral knee pain. Moreover, this condition is one of the most frequent among runners, accounting for up to 12% of all running-related overuse conditions<a href='#ref2' class='reference'>[2]</a>. Generally, subjects report pain during knee flexion, which tends to be maximal at an angle of 30°<a href='#ref3' class='reference'>[3]</a>. The clinical presentation includes pain/tenderness during palpation of the lateral aspect of the knee and, as mentioned, pain that increases with increased tension in the ITB.",
+          "According to the 'classic' definition, ITBS is an overuse injury characterized by excessive sliding, rolling, or friction of the iliotibial band over the lateral femoral epicondyle<a href='#ref3' class='reference'>[3]</a>. This mechanism would be caused by anterior and posterior movement of the ITB during knee extension and flexion, respectively. Additionally, a bursa located between the ITB and lateral epicondyle is sometimes involved in the symptomatology, and the presence of fluid within it can contribute to a 'thickening' of the ITB<a href='#ref1' class='reference'>[1]</a>.",
+          "An alternative definition of ITBS was proposed following a study conducted in 2006<a href='#ref2' class='reference'>[2]</a>: the injury would not be caused by friction of the ITB on the lateral epicondyle, but rather by compression of richly innervated and vascularized adipose tissue located between the ITB and the epicondyle (see Anatomy section above). This hypothesis is supported by the fact that the ITB is held in place on the femoral shaft by strong obliquely oriented fibrous tissue bands, which would prevent any anteroposterior 'rolling' of the ITB during knee flexion-extension movements.",
+          "The identified 'risk factors' or 'facilitating factors' are as follows: significant (excessive) volume of track running in the same direction, increase in weekly running distance, and downhill running<a href='#ref3' class='reference'>[3]</a>. During downhill running, it has been proposed that the reduction in knee flexion angle during each stride would prolong the total friction time between the ITB and underlying structures. In contrast, sprint-type running without incline would be less likely to cause such problems, as the knee then flexes at angles exceeding the 'critical' zone<a href='#ref1' class='reference'>[1]</a>.",
+          "In the presence of a subject where ITBS is suspected, ultrasound imaging is recognized as a valid technique, capable of highlighting relevant pathological signs. According to a consensus established by the European Society of Musculoskeletal Radiology, musculoskeletal ultrasound is equivalent to other techniques (including magnetic resonance imaging), due to a level '2' evidence (according to the Oxford Centre for Evidence-Based Medicine scale), which means that ultrasound is equivalent to other imaging techniques, and other techniques can provide other significant information. Finally, it should be noted that the majority of the literature is based on case studies or extrapolations from retrospective studies (grade 'C' for methodology)<a href='#ref7' class='reference'>[7]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Lateral collateral ligament",
+          "link": "/protocoles/cuisse-genou/ligament-collateral-externe/"
+        },
+        {
+          "linkTitle": "Popliteal fossa",
+          "link": "/protocoles/cuisse-genou/creux-poplite/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Fairclough, John, Koji Hayashi, Hechmi Toumi, Kathleen Lyons, Graeme Bydder, Nicola Phillips, Thomas M. Best, and Mike Benjamin. 'The Functional Anatomy of the Iliotibial Band during Flexion and Extension of the Knee: Implications for Understanding Iliotibial Band Syndrome.' Journal of Anatomy 208, no. 3 (March 1, 2006): 309–16. doi:10.1111/j.1469-7580.2006.00531.x."
+        },
+        {
+          "text": "Fredericson, Dr Michael, and Chuck Wolf. 'Iliotibial Band Syndrome in Runners.' Sports Medicine 35, no. 5 (September 23, 2012): 451–59. doi:10.2165/00007256-200535050-00006."
+        },
+        {
+          "text": "Goh, Lesley-Ann, Rethy K. Chhem, Shih-chang Wang, and Thomas Chee. 'Iliotibial Band Thickness: Sonographic Measurements in Asymptomatic Volunteers.' Journal of Clinical Ultrasound: JCU 31, no. 5 (June 2003): 239–44. doi:10.1002/jcu.10168."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Johnson, Donald Hugh, and Robert A. Pedowitz. Practical Orthopaedic Sports Medicine and Arthroscopy. Lippincott Williams & Wilkins, 2007."
+        },
+        {
+          "text": "Klauser, Andrea S., Alberto Tagliafico, Gina M. Allen, Natalie Boutry, Rob Campbell, Michel Court-Payen, Andrew Grainger, et al. 'Clinical Indications for Musculoskeletal Ultrasound: A Delphi-Based Consensus Paper of the European Society of Musculoskeletal Radiology.' European Radiology 22, no. 5 (May 2012): 1140–48. doi:10.1007/s00330-011-2356-3."
+        },
+        {
+          "text": "Martinoli, Carlo. 'Musculoskeletal Ultrasound: Technical Guidelines.' Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Messier, S. P., D. G. Edwards, D. F. Martin, R. B. Lowery, D. W. Cannon, M. K. James, W. W. Curl, H. M. Read, and D. M. Hunter. 'Etiology of Iliotibial Band Friction Syndrome in Distance Runners.' Medicine and Science in Sports and Exercise 27, no. 7 (July 1995): 951–60."
+        },
+        {
+          "text": "Orchard, John W., Peter A. Fricker, Anna T. Abud, and Bruce R. Mason. 'Biomechanics of Iliotibial Band Friction Syndrome in Runners.' The American Journal of Sports Medicine 24, no. 3 (June 1, 1996): 375–79. doi:10.1177/036354659602400321."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Practical Guide. Milan; New York: Springer Milan, 2012."
+        }
+      ]
+    }
+  }
+}

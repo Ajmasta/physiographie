@@ -1,0 +1,188 @@
+{
+  "title": "Soleus / Achilles tendon junction",
+  "latinName": "Soleus / Tendo calcaneus",
+  "normesEtGeneralites": {
+    "sectionTitle": "Norms and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [{ "data": "" }, { "data": "Soleus" }],
+        [
+          { "data": "Muscle type", "header": true },
+          { "data": "Mono-articular, unipennate" }
+        ],
+        [
+          { "data": "Origin", "header": true },
+          { "data": "Fibula, tibia (medial border)" }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          { "data": "Posterior border of calcaneus (via Achilles tendon)" }
+        ],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Tibial nerve (L5-S2)" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative values",
+      "rangees": [
+        [
+          { "data": "Measurement", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Site", "header": true },
+          { "data": "Other information", "header": true },
+          { "data": "Mean ± standard deviation", "header": true }
+        ],
+        [
+          { "data": "Thickness (mm)", "rowspan": 2 },
+          { "data": "Soleus", "rowspan": 2 },
+          { "data": "Distal third of muscle belly", "rowspan": 2 },
+          { "data": "At rest" },
+          { "data": "15.0 ± 3.1 <a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Maximum isometric contraction" },
+          { "data": "21.8 ± 2.5 <a href='#ref7' class='reference'>[7]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject positioning",
+        "text": [
+          "Prone position, ankle and foot in dorsiflexion, extending beyond the end of the table"
+        ]
+      },
+      {
+        "subtitle": "Anatomical landmarks and palpation",
+        "text": [
+          "Locate and palpate the Achilles tendon to its calcaneal insertion at the posterior midline of the lower calf<a href='#ref5' class='reference'>[5]</a>"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/jonctionSoleaireTendonAchille/vueLongitudinale/",
+        "objectifs": [
+          "Examination of the peritendinous sheath of the Achilles tendon<a href='#ref4' class='reference'>[4]</a>"
+        ],
+        "parametres": ["Depth: 2 cm", "Gain: 55-60"],
+        "positionnement": [
+          "Place the probe in longitudinal view (along the long axis of the tendon), approximately five centimeters above (cranial) the medial malleolus",
+          "Slowly oscillate the probe medio-laterally across the calf to cover its entire surface",
+          "Then evaluate the junction by scanning in a cranio-caudal axis to properly observe the transition between the soleus and Achilles tendon"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["S"],
+                "texte": [
+                  "The soleus muscle appears as a hypoechoic area with a striated pattern characteristic of muscle tissue"
+                ]
+              },
+              {
+                "acronymes": ["TA"],
+                "texte": [
+                  "The Achilles tendon appears as a hyperechoic band with a clearly visible fibrillar pattern"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Soleus muscle"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Achilles tendon"
+              },
+              { "path": "identification4.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomical Description",
+    "content": [
+      {
+        "text": [
+          "The soleus muscle is a powerful plantar flexor of the ankle. Unlike the gastrocnemius, which is biarticular (crossing both knee and ankle joints), the soleus is monoarticular, crossing only the ankle joint. This anatomical characteristic makes it particularly important for postural control and standing balance.",
+          "The soleus muscle has a complex architecture, with multiple pennation angles and aponeuroses. Its fibers converge into the Achilles tendon, which it shares with the gastrocnemius muscle. The junction between the soleus muscle and the Achilles tendon is a common site for strain injuries, particularly in athletes.",
+          "The musculotendinous junction of the soleus with the Achilles tendon is an area of particular clinical interest, as it is often involved in various pathological conditions. This junction represents a transition zone where muscle tissue gradually gives way to tendinous tissue, creating a region of potential mechanical stress."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/jonctionSoleaireTendonAchille/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Soleus strain",
+        "text": [
+          "Soleus muscle strains often occur at or near the musculotendinous junction with the Achilles tendon. These injuries are particularly common in athletes involved in running and jumping sports.",
+          "The diagnosis of soleus strains can be challenging clinically, as symptoms may mimic those of Achilles tendinopathy or gastrocnemius strains. Ultrasound examination allows for precise localization of the injury and assessment of its severity."
+        ]
+      },
+      {
+        "subtitle": "Achilles tendinopathy",
+        "text": [
+          "The soleus-Achilles tendon junction is a common site for the development of tendinopathy. The transition zone between muscle and tendon tissue can be subject to increased mechanical stress, particularly during repetitive activities.",
+          "Ultrasound examination can help differentiate between various types of Achilles tendinopathy and determine the exact location of pathological changes, which is crucial for appropriate treatment planning."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See also",
+      "content": [
+        {
+          "linkTitle": "Achilles tendon",
+          "link": "/protocoles/cheville-et-pied/tendon-d-achille/"
+        },
+        {
+          "linkTitle": "Gastrocnemius / soleus junction",
+          "link": "/protocoles/cheville-et-pied/jonction-gastrocnemien-soleaire/"
+        },
+        {
+          "linkTitle": "Plantar fascia",
+          "link": "/protocoles/cheville-et-pied/fascia-plantaire/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Martinoli, Carlo. 'Musculoskeletal Ultrasound: Technical Guidelines.' Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "O'Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Practical Guide. Milan; New York: Springer Milan, 2012."
+        }
+      ]
+    }
+  }
+}

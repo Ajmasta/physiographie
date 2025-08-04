@@ -1,0 +1,229 @@
+{
+  "title": "Ulnar nerve",
+  "latinName": "Nervus ulnaris",
+  "normesEtGeneralites": {
+    "sectionTitle": "Norms and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Nerve roots", "header": true },
+          { "data": "C8 to T1", "colspan": 2 }
+        ],
+        [
+          { "data": "Innervated tissues", "header": true, "rowspan": 10 },
+          { "data": "Sensory", "rowspan": 2 },
+          { "data": "Palmar aspect: 5th digit, ulnar portion of 4th digit" }
+        ],
+        [
+          {
+            "data": "Dorsal aspect: 5th digit, ulnar portion of 4th digit and radial portion of 3rd digit, portion of the posterolateral aspect of distal forearm",
+            "header": true
+          }
+        ],
+        [
+          { "data": "Motor", "header": true, "rowspan": 8 },
+          { "data": "Flexor carpi ulnaris" }
+        ],
+        [{ "data": "Flexor digitorum profundus" }],
+        [{ "data": "Lumbricals" }],
+        [{ "data": "Opponens digiti minimi" }],
+        [{ "data": "Flexor digiti minimi" }],
+        [{ "data": "Abductor digiti minimi" }],
+        [{ "data": "Interossei" }],
+        [{ "data": "Adductor pollicis" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative values",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Measurement", "header": true },
+          { "data": "Plane / Site", "header": true },
+          { "data": "Subject type", "header": true },
+          { "data": "Mean ± standard deviation", "header": true }
+        ],
+        [
+          { "data": "Ulnar nerve", "rowspan": 2 },
+          { "data": "Cross-sectional area (mm²)", "rowspan": 2 },
+          { "data": "Medial epicondyle", "rowspan": 2 },
+          { "data": "Asymptomatic" },
+          { "data": "7.5 <a href='#ref16' class='reference'>[16]</a>" }
+        ],
+        [
+          { "data": "Asymptomatic (upper limit)" },
+          { "data": "10 <a href='#ref19' class='reference'>[19]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject positioning",
+        "text": [
+          "Evaluation of the ulnar nerve requires access to the posterior aspect of the elbow, which should preferably be flexed to 90°.",
+          "To achieve this, place the patient's open hand flat on the examination surface, with the wrist in full extension and the elbow flexed to 90°.",
+          "If the facilities allow (with an adjustable height table or bed), the examination surface can be lowered so that the subject can be seated, which provides more stability for the ultrasonographic examination (in addition to imposing less stress on the shoulder)."
+        ],
+        "images": [{ "path": "positionnement1.jpg" }],
+        "source": "/Protocols/nerfUlnaire/"
+      },
+      {
+        "subtitle": "Anatomical landmarks and palpation",
+        "text": ["Locate and palpate the olecranon and medial epicondyle"]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/nerfUlnaire/vueTransversale/",
+        "objectifs": [
+          "Visualization of the ulnar nerve within the cubital tunnel",
+          ""
+        ],
+        "parametres": ["Depth: 2 cm", "Gain: 80"],
+        "positionnement": [
+          "As shown in the attached image, in oblique transverse view (almost perpendicular to the long axis of the humerus), position the probe so that it covers the tip of the olecranon and the medial epicondyle"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["CT"],
+                "texte": [
+                  "The cubital tunnel corresponds to the curved hyperechoic area (U-shaped) in the center of the image"
+                ]
+              },
+              {
+                "acronymes": ["UN"],
+                "texte": [
+                  "The ulnar nerve, a slightly flattened ovoid hyperechoic area, is found within the cubital tunnel, eccentric toward the medial (left) side of the image"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Cubital Tunnel"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Ulnar nerve"
+              },
+              { "path": "identification4.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomical Description",
+    "content": [
+      {
+        "text": [
+          "The ulnar nerve [UN] is a mixed nerve (i.e., sensory and motor) that is commonly nicknamed 'funny bone' in English, partly due to the sensation produced when it is struck. It is indeed the largest unprotected peripheral nerve, making it particularly vulnerable to direct trauma.",
+          "On the posteromedial aspect of the elbow, the ulnar nerve successively crosses the condylar groove and the cubital tunnel (or ulnar tunnel). The condylar groove is an osteofibrous groove formed by the olecranon (posterolaterally), the medial epicondyle (medially), and the cubital tunnel retinaculum (superficially), also known as Osborne's retinaculum. The cubital tunnel [CT] is located 1 cm distal to the condylar groove and lies between the ulnar and humeral heads of the flexor carpi ulnaris (see attached animation), which are connected by an aponeurotic arch called the 'arcuate ligament'. The arcuate ligament is actually an expansion of Osborne's retinaculum<a href='#ref3' class='reference'>[3]</a>.",
+          "Within the cubital tunnel, the ulnar nerve is very superficial and can be directly palpated just posterior to the tip of the olecranon. The shape of the CT is affected by the position in which the elbow is held. Indeed, when the elbow moves from its resting position (slight flexion), the CT and its contents change from an ovoid shape to an elliptical (more flattened) shape. In fact, it has been established that the cross-sectional area of the UN decreases by 55% during elbow flexion, in response to compression forces (via flattening of the CT) and traction forces to which it is subjected<a href='#ref7' class='reference'>[7]</a>."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Cubital tunnel syndrome",
+        "text": [
+          "Cubital tunnel syndrome [CTS] consists of compression of the ulnar nerve within the cubital tunnel. CTS ranks second in terms of prevalence for upper limb compression syndromes. This term encompasses all cases where the UN is subject to compression either within the condylar groove or within the cubital tunnel<a href='#ref3' class='reference'>[3]</a>.",
+          "The potential causes of UN compression are numerous, including<a href='#ref3' class='reference'>[3]</a>:",
+          [
+            "Direct compression of the UN due to a too shallow condylar groove",
+            "Bone misalignment (post-fracture) or anatomical variants (e.g., cubitus valgus)",
+            "Presence of osteophytes on the medial aspect of the elbow (associated with osteoarthritis) or heterotopic ossification",
+            "Space occupation by soft tissue lesions"
+          ],
+          "Although the diagnosis of CTS normally requires electromyographic examination, 'standard' clinical examination (which includes searching for Froment's sign) and ultrasound imaging are excellent screening and monitoring tools<a href='#ref5' class='reference'>[5]</a><a href='#ref11' class='reference'>[11]</a>. Clinically, subjects tend to report insidious pain on the medial aspect of the elbow, in addition to a range of peripheral nerve involvement symptoms (paresthesias, muscular weakness/fatiguability). Sensory symptoms affect the 5th digit, the ulnar portion of the 4th digit, while motor signs/symptoms affect all muscles innervated by the UN (see above, 'General Information' section). Muscle atrophy may also be observed in the first interosseous space and the hypothenar eminence, where a semi-flexion deformity may consequently appear (commonly called 'claw hand').",
+          "During ultrasonographic examination, the cross-sectional area [CSA] of the UN tends to be significantly larger than in healthy subjects and, in the presence of a unilateral syndrome, larger than the contralateral UN<a href='#ref12' class='reference'>[12]</a>.",
+          "As stated above, the threshold CSA value for a UN when CTS is suspected is 7.5 mm². However, as mentioned in the 'Anatomical Description' section, elbow position greatly influences the CSA of the UN due to dynamic compression/traction phenomena, and measurements should therefore be made with the elbow in full extension (since measurements from the literature are normally made with the elbow in extension)<a href='#ref16' class='reference'>[16]</a>.",
+          "According to a consensus established by the European Society of Musculoskeletal Radiology, musculoskeletal ultrasound is a first-choice imaging modality, due to a grade '3' consensus (according to the Oxford Centre for Evidence-Based Medicine scale), which means that other imaging modalities rarely provide more significant information for this type of condition. Also, it should be noted that the majority of the literature is based on retrospective cohort studies, case/control studies, or extrapolations from randomized clinical trials (grade 'B' for methodology)<a href='#ref11' class='reference'>[11]</a>."
+        ]
+      },
+      {
+        "subtitle": "Ulnar nerve dislocation",
+        "text": [
+          "Ulnar nerve dislocation can occur in two distinct contexts: in ulnar nerve instability syndromes [UNI], and sometimes in the presence of snapping triceps syndrome [STS].",
+          "The distinction between STS and UNI is important due to the radically different treatment plans for these two conditions. Indeed, if the surgical approach indicated for UNI (transposition surgery) is used for STS, symptoms will persist<a href='#ref9' class='reference'>[9]</a>."
+        ]
+      },
+      {
+        "subtitle": "Ulnar nerve instability",
+        "text": [
+          "This condition may be due to a congenital malformation in which Osborne's retinaculum is partially or completely absent. Subjects with this form of instability who perform elbow flexion see their ulnar nerve dislocate beyond the medial epicondyle (sometimes producing an audible snap) and return within the CT when the elbow returns to extension. In itself, the absence of Osborne's retinaculum is not necessarily pathological and is considered by some authors to be a normal anatomical variant. Indeed, between 16% and 47% of the asymptomatic population lives with ulnar nerve instability, although the vast majority of them present with UN subluxations (which reduce spontaneously)<a href='#ref3' class='reference'>[3]</a><a href='#ref13' class='reference'>[13]</a>.",
+          "This condition is frequently bilateral (almost 75% of cases) and asymptomatic. Symptomatic subjects most often report paresthesias when their flexed elbow rests on a hard surface and, rarely, the occurrence of chronic microtrauma (repeated subluxations) can lead to a condition called 'friction neuritis' and generate more significant symptomatology that sometimes requires surgical treatment<a href='#ref3' class='reference'>[3]</a>.",
+          "This type of condition is a perfect example of the usefulness of dynamic ultrasound imaging, as UN movements can be visualized while the subject performs elbow flexion-extension movements (which is not allowed by magnetic resonance imaging). The European Society of Musculoskeletal Radiology consensus also recommends the use of ultrasound in the context of ulnar nerve instability, as few other imaging modalities provide more information than ultrasound (grade 3 consensus). However, the consensus is essentially based on expert opinions without approval by experimental design studies (grade 'D' for methodology)."
+        ]
+      },
+      {
+        "subtitle": "Snapping triceps syndrome",
+        "text": [
+          "As mentioned in the protocol covering the distal triceps brachii tendon, this condition is characterized by dislocation of the medial head of the triceps anterior to the medial epicondyle during elbow flexion. Since this structure is adjacent to the ulnar nerve, there is therefore a simultaneous anterior dislocation of these structures, which classically generates two audible 'snaps', hence the name of this condition<a href='#ref3' class='reference'>[3]</a>.",
+          "The clinical presentation associated with this condition is generally quite similar to that of ulnar nerve instability (see above) and, as before, it frequently remains completely asymptomatic. The definitive causes are still uncertain, but the most commonly cited hypotheses include:",
+          [
+            "Hypertrophy (excessive) of the triceps brachii",
+            "Presence of a supernumerary (or accessory) tendon in the distal triceps",
+            "Anatomical variant in the medial head of the triceps",
+            "Post-traumatic bone abnormalities"
+          ]
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See also",
+      "content": [
+        {
+          "linkTitle": "Triceps brachii tendon",
+          "link": "/protocoles/coude/tendon-triceps-brachial"
+        },
+        {
+          "linkTitle": "Common flexor tendon & Medial collateral ligament",
+          "link": "/protocoles/coude/tendon-flechisseur-commun-et-ligament-lateral-externe"
+        },
+        {
+          "linkTitle": "Median nerve",
+          "link": "/protocoles/poignet/nerf-median"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Bayrak, Ayse Oytun, Ilkay Koray Bayrak, Hande Turker, Muzaffer Elmali, and Mehmet Selim Nural. 'Ultrasonography in Patients with Ulnar Neuropathy at the Elbow: Comparison of Cross-Sectional Area and Swelling Ratio with Electrophysiological Severity.' Muscle & Nerve 41, no. 5 (May 1, 2010): 661-66. doi:10.1002/mus.21563."
+        },
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angelo Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. 'Musculoskeletal Ultrasound Technical Guidelines (II. Elbow).' European Society of Musculoskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Campbell, W. W., R. M. Pridgeon, G. Riaz, J. Astruc, and K. S. Sahni. 'Variations in Anatomy of the Ulnar Nerve at the Cubital Tunnel: Pitfalls in the Diagnosis of Ulnar Neuropathy at the Elbow.' Muscle & Nerve 14, no. 8 (August 1, 1991): 733-38. doi:10.1002/mus.880140807."
+        },
+        {
+          "text": "Chiou, H. J., Y. H. Chou, S. P. Cheng, C. C. Hsu, R. C. Chan, C. M. Tiu, M. M. Teng, and C. Y. Chang. 'Cubital Tunnel Syndrome: Diagnosis by High-Resolution Ultrasonography.' Journal of Ultrasound in Medicine: Official Journal of the American Institute of Ultrasound in Medicine 17, no. 10 (October 1998): 643-48."
+        }
+      ]
+    }
+  }
+}

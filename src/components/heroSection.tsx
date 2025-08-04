@@ -1,14 +1,19 @@
 import { FaGraduationCap, FaBook } from "react-icons/fa6";
-import Text from "../i18n/fr/homepage.json";
 import HeroComponent from "./HeroComponent";
 import { Link } from "react-router-dom";
-export const HeroSection = () => {
+import { HomepageData } from "../interfaces/homepage";
+
+interface Props {
+  cardSection: HomepageData["cardSection"];
+}
+
+export const HeroSection = ({ cardSection }: Props) => {
   return (
     <div className="flex flex-wrap justify-center bg-white">
       <Link to="/theorie">
         <HeroComponent
-          title={Text.cardSection.cardOne.title}
-          description={Text.cardSection.cardOne.description}
+          title={cardSection.cardOne.title}
+          description={cardSection.cardOne.description}
         >
           <div className="p-1 border-2 rounded-full avatar">
             <div className="rounded-full bg-physioBlue ">
@@ -20,8 +25,8 @@ export const HeroSection = () => {
 
       <Link to="/protocoles">
         <HeroComponent
-          title={Text.cardSection.cardTwo.title}
-          description={Text.cardSection.cardTwo.description}
+          title={cardSection.cardTwo.title}
+          description={cardSection.cardTwo.description}
         >
           <div className="p-1 border-2 rounded-full avatar">
             <div className="rounded-full bg-physioBlue ">

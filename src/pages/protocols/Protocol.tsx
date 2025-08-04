@@ -14,6 +14,7 @@ import {
   ProtocolKeys,
 } from "../../interfaces/protocol";
 import { ScrollRestoration } from "react-router-dom";
+import { useProtocolTranslation } from "../../hooks/useProtocolTranslation";
 
 const INVIEW_THRESHOLD = 0.1;
 
@@ -46,19 +47,27 @@ export interface SectionEntry {
 }
 
 interface Props {
-  protocolData: ProtocolData;
+  protocolData?: ProtocolData;
+  protocolPath: string;
 }
-const Protocol = ({ protocolData }: Props) => {
+
+const Protocol = ({ protocolData: initialData, protocolPath }: Props) => {
+  const { data: translatedData } = useProtocolTranslation(protocolPath);
   const [activeSection, setActiveSection] = useState("");
   const [activeSubsection, setActiveSubsection] = useState<string[]>([]);
 
+  // Use translated data if available, otherwise fall back to initial data
+  const data = translatedData || initialData;
+
   const getSubsections = useMemo(() => {
+    if (!data) return () => [];
+
     return (key: ProtocolKeys) => {
       let subtitlesContent: string[] = [];
       let subtitlesVues: string[] = [];
       let subtitleAppDynamic;
 
-      const section: ProtocolSections = protocolData[key];
+      const section: ProtocolSections = data[key];
 
       if (section && hasContent(section)) {
         if ("content" in section) {
@@ -78,7 +87,7 @@ const Protocol = ({ protocolData }: Props) => {
 
       return [...subtitlesContent, ...subtitlesVues];
     };
-  }, [protocolData]);
+  }, [data]);
 
   const { ref: refTechnique, inView: inViewTechnique } = useInView({
     threshold: INVIEW_THRESHOLD,
@@ -101,8 +110,10 @@ const Protocol = ({ protocolData }: Props) => {
     triggerOnce: false,
   });
 
-  const sectionEntries: SectionEntry[] = useMemo(
-    () => [
+  const sectionEntries: SectionEntry[] = useMemo(() => {
+    if (!data) return [];
+
+    return [
       {
         key: ProtocolKeys.NormesEtGeneralites,
         inView: inViewGeneralites,
@@ -128,18 +139,20 @@ const Protocol = ({ protocolData }: Props) => {
         inView: inViewLiensEtRefs,
         subsections: getSubsections(ProtocolKeys.LiensEtRefs),
       },
-    ],
-    [
-      inViewTechnique,
-      inViewAnatomy,
-      inViewGeneralites,
-      inViewPertinence,
-      inViewLiensEtRefs,
-      getSubsections,
-    ]
-  );
+    ];
+  }, [
+    data,
+    inViewTechnique,
+    inViewAnatomy,
+    inViewGeneralites,
+    inViewPertinence,
+    inViewLiensEtRefs,
+    getSubsections,
+  ]);
 
   useEffect(() => {
+    if (!data) return;
+
     const mostVisibleSection = sectionEntries.reduce(
       (prev, current) => (current.inView ? current : prev),
       { key: undefined, subsections: [], inView: false }
@@ -150,6 +163,7 @@ const Protocol = ({ protocolData }: Props) => {
       setActiveSubsection(mostVisibleSection.subsections);
     }
   }, [
+    data,
     inViewTechnique,
     inViewAnatomy,
     inViewGeneralites,
@@ -157,9 +171,16 @@ const Protocol = ({ protocolData }: Props) => {
     sectionEntries,
   ]);
 
+  // Add loading state check with error display
+  if (!data) {
+    return (
+      <div className="flex flex-col items-center justify-center h-screen"></div>
+    );
+  }
+
   const getMenuContent = () => {
     return sectionEntries.map(({ key }) => {
-      return { sectionTitle: key && protocolData[key].sectionTitle, key };
+      return { sectionTitle: key && data[key].sectionTitle, key };
     });
   };
 
@@ -176,8 +197,8 @@ const Protocol = ({ protocolData }: Props) => {
 
       <div className="max-w-full pl-4 md:w-[70%] md:max-w-[1200px]">
         <div className="flex flex-col items-center justify-center ">
-          <h1 className="p-4 text-4xl font-bold">{protocolData.title}</h1>
-          <h2 className="text-2xl text-slate-400">{protocolData.latinName}</h2>
+          <h1 className="p-4 text-4xl font-bold">{data.title}</h1>
+          <h2 className="text-2xl text-slate-400">{data.latinName}</h2>
         </div>
         <div ref={refGeneralites} className="relative">
           <span
@@ -185,40 +206,36 @@ const Protocol = ({ protocolData }: Props) => {
             className="absolute"
             style={{ top: "-110px" }}
           />
-          <Collapse title={protocolData.normesEtGeneralites.sectionTitle}>
+          <Collapse title={data.normesEtGeneralites.sectionTitle}>
             <Table
-              rows={protocolData.normesEtGeneralites.valeursNormatives.rangees}
+              rows={data.normesEtGeneralites.valeursNormatives.rangees}
               sectionTitle={
-                protocolData.normesEtGeneralites.valeursNormatives.sectionTitle
+                data.normesEtGeneralites.valeursNormatives.sectionTitle
               }
-              text={protocolData.normesEtGeneralites.valeursNormatives.text}
+              text={data.normesEtGeneralites.valeursNormatives.text}
             />
-            {protocolData.normesEtGeneralites.extraTable && (
+            {data.normesEtGeneralites.extraTable && (
               <Table
-                rows={protocolData.normesEtGeneralites.extraTable.rangees}
-                sectionTitle={
-                  protocolData.normesEtGeneralites.extraTable.sectionTitle
-                }
-                text={protocolData.normesEtGeneralites.extraTable.text}
+                rows={data.normesEtGeneralites.extraTable.rangees}
+                sectionTitle={data.normesEtGeneralites.extraTable.sectionTitle}
+                text={data.normesEtGeneralites.extraTable.text}
               />
             )}
             <Table
-              rows={protocolData.normesEtGeneralites.generalites.rangees}
-              sectionTitle={
-                protocolData.normesEtGeneralites.generalites.sectionTitle
-              }
-              text={protocolData.normesEtGeneralites.generalites.text}
+              rows={data.normesEtGeneralites.generalites.rangees}
+              sectionTitle={data.normesEtGeneralites.generalites.sectionTitle}
+              text={data.normesEtGeneralites.generalites.text}
             />
           </Collapse>
         </div>
 
         <div ref={refTechnique} className="relative">
           <span id="technique" className="absolute" style={{ top: "-110px" }} />
-          <Collapse title={protocolData.technique.sectionTitle}>
+          <Collapse title={data.technique.sectionTitle}>
             <ListTextSection
-              content={protocolData.technique.content}
-              vues={protocolData.technique.vues}
-              applicationDynamique={protocolData.technique.applicationDynamique}
+              content={data.technique.content}
+              vues={data.technique.vues}
+              applicationDynamique={data.technique.applicationDynamique}
             />
           </Collapse>
         </div>
@@ -229,12 +246,12 @@ const Protocol = ({ protocolData }: Props) => {
             className="absolute"
             style={{ top: "-110px" }}
           />
-          <Collapse title={protocolData.descriptionAnatomique.sectionTitle}>
+          <Collapse title={data.descriptionAnatomique.sectionTitle}>
             <ParagraphTextSection
-              content={protocolData.descriptionAnatomique.content[0].text}
-              images={protocolData.descriptionAnatomique.images}
-              source={protocolData.descriptionAnatomique.source}
-              table={protocolData.descriptionAnatomique.table}
+              content={data.descriptionAnatomique.content[0].text}
+              images={data.descriptionAnatomique.images}
+              source={data.descriptionAnatomique.source}
+              table={data.descriptionAnatomique.table}
             />
           </Collapse>
         </div>
@@ -245,10 +262,8 @@ const Protocol = ({ protocolData }: Props) => {
             className="absolute"
             style={{ top: "-140px" }}
           />
-          <Collapse title={protocolData.pertinenceClinique.sectionTitle}>
-            <ListTextSection
-              content={protocolData.pertinenceClinique.content}
-            />
+          <Collapse title={data.pertinenceClinique.sectionTitle}>
+            <ListTextSection content={data.pertinenceClinique.content} />
           </Collapse>
         </div>
         <div ref={refLiensEtRefs} className="relative">
@@ -257,14 +272,14 @@ const Protocol = ({ protocolData }: Props) => {
             className="absolute"
             style={{ top: "-110px" }}
           />
-          <Collapse title={protocolData.liensEtRefs.sectionTitle}>
+          <Collapse title={data.liensEtRefs.sectionTitle}>
             <LinkList
-              content={protocolData.liensEtRefs.voirAussi.content}
-              sectionTitle={protocolData.liensEtRefs.voirAussi.sectionTitle}
+              content={data.liensEtRefs.voirAussi.content}
+              sectionTitle={data.liensEtRefs.voirAussi.sectionTitle}
             />
             <ReferenceList
-              content={protocolData.liensEtRefs.references.content}
-              sectionTitle={protocolData.liensEtRefs.references.sectionTitle}
+              content={data.liensEtRefs.references.content}
+              sectionTitle={data.liensEtRefs.references.sectionTitle}
             />
           </Collapse>
         </div>

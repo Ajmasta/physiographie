@@ -29,9 +29,26 @@
           { "data": "Nerf phrénique (C3-C5)" }
         ]
       ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Valeurs normatives",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Mesure", "header": true },
+          { "data": "Moyenne ± écart-type", "header": true }
+        ],
+        [
+          { "data": "Épaisseur du diaphragme au repos", "rowspan": 1 },
+          { "data": "mm" },
+          { "data": "1.6-1.9" }
+        ]
+      ]
     }
   },
+
   "technique": {
+    "content": [],
     "sectionTitle": "Technique",
     "vues": [
       {

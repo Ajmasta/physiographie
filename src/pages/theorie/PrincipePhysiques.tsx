@@ -1,153 +1,316 @@
+import React from "react";
 import Collapse from "../../components/Collapse";
 import TheorieParent from "../../components/theorie/TheorieParent";
-import principesPhysiques from "../../i18n/fr/theorie/principesPhysiques.json";
+import {
+  useTheoryTranslation,
+  TheoryData,
+} from "../../hooks/useTheoryTranslation";
 
 export const textStyle = "py-2 text-xl leading-8";
 
 const PrincipePhysiques = () => {
+  const { data, error } = useTheoryTranslation("principesPhysiques");
+
+  if (error) return <div>Error: {error}</div>;
+  if (!data) return <div>Loading...</div>;
+
+  const d = data as TheoryData;
+
+  // Helper to safely get nested values
+  const getValue = (obj: unknown, path: string): unknown => {
+    return path.split(".").reduce((acc, part) => {
+      if (acc && typeof acc === "object" && part in acc) {
+        return (acc as Record<string, unknown>)[part];
+      }
+      return null;
+    }, obj);
+  };
+
+  const renderText = (path: string) => {
+    const text = getValue(d, path);
+    if (!text) return null;
+    const arr = Array.isArray(text) ? text : [text];
+    return arr.map((item: string, index: number) => (
+      <p key={index} className={textStyle}>
+        {item}
+      </p>
+    ));
+  };
+
+  // Helper to get section content with type assertion
+  const getSection = (section: unknown) => section as Record<string, unknown>;
+
   return (
-    <TheorieParent title={principesPhysiques.title}>
-      <Collapse title={principesPhysiques.sectionOne.sectionTitle}>
-        <div>
-          <p className={textStyle}>
-            {principesPhysiques.sectionOne.content[0].text}
-          </p>
-        </div>
-        <div className="flex flex-row ">
+    <TheorieParent title={d.title as string}>
+      <Collapse title={getSection(d.sectionOne).sectionTitle as string}>
+        <div>{renderText("sectionOne.content.0.text")}</div>
+        <div className="flex flex-row">
           <div className="flex flex-col flex-1">
-            <p className={textStyle}>
-              {principesPhysiques.sectionOne.content[1].text[0]}
-            </p>
-            <p className={textStyle}>
-              {principesPhysiques.sectionOne.content[1].text[1]}
-            </p>
+            {renderText("sectionOne.content.1.text")}
           </div>
           <div className="flex flex-col flex-1 pb-2">
             <img
               className="h-full"
-              src={principesPhysiques.sectionOne.content[1].image}
+              src={
+                (
+                  (getSection(d.sectionOne).content as unknown[])[1] as Record<
+                    string,
+                    unknown
+                  >
+                ).image as string
+              }
+              alt={
+                (
+                  (getSection(d.sectionOne).content as unknown[])[1] as Record<
+                    string,
+                    unknown
+                  >
+                ).imageText &&
+                (
+                  (getSection(d.sectionOne).content as unknown[])[1] as Record<
+                    string,
+                    unknown
+                  >
+                ).imageText &&
+                ((
+                  (getSection(d.sectionOne).content as unknown[])[1] as Record<
+                    string,
+                    unknown
+                  >
+                ).imageText["text"] as string)
+              }
             />
             <a
               className="text-base"
-              href={principesPhysiques.sectionOne.content[1].imageText?.link}
+              href={
+                (
+                  (getSection(d.sectionOne).content as unknown[])[1] as Record<
+                    string,
+                    unknown
+                  >
+                ).imageText &&
+                ((
+                  (getSection(d.sectionOne).content as unknown[])[1] as Record<
+                    string,
+                    unknown
+                  >
+                ).imageText["link"] as string)
+              }
             >
-              {principesPhysiques.sectionOne.content[1].imageText?.text}
+              {(
+                (getSection(d.sectionOne).content as unknown[])[1] as Record<
+                  string,
+                  unknown
+                >
+              ).imageText &&
+                ((
+                  (getSection(d.sectionOne).content as unknown[])[1] as Record<
+                    string,
+                    unknown
+                  >
+                ).imageText["text"] as string)}
             </a>
           </div>
         </div>
-        <p className={textStyle}>
-          {principesPhysiques.sectionOne.content[2].text}
-        </p>
-        <p className={textStyle}>
-          {principesPhysiques.sectionOne.content[3].text}
-        </p>
+        {renderText("sectionOne.content.2.text")}
+        {renderText("sectionOne.content.3.text")}
         <div className="flex flex-row-reverse flex-wrap">
           <div className="flex flex-1">
-            <p className={textStyle}>
-              {principesPhysiques.sectionOne.content[4].text}
-            </p>
+            {renderText("sectionOne.content.4.text")}
           </div>
           <div className="flex flex-col flex-1 pb-2 min-w-[570px]">
             <img
               className="h-full"
-              src={principesPhysiques.sectionOne.content[4].image}
+              src={
+                (
+                  (getSection(d.sectionOne).content as unknown[])[4] as Record<
+                    string,
+                    unknown
+                  >
+                ).image as string
+              }
+              alt={
+                (
+                  (getSection(d.sectionOne).content as unknown[])[4] as Record<
+                    string,
+                    unknown
+                  >
+                ).imageText &&
+                ((
+                  (getSection(d.sectionOne).content as unknown[])[4] as Record<
+                    string,
+                    unknown
+                  >
+                ).imageText["text"] as string)
+              }
             />
             <a
               className="text-base"
-              href={principesPhysiques.sectionOne.content[4].imageText?.link}
+              href={
+                (
+                  (getSection(d.sectionOne).content as unknown[])[4] as Record<
+                    string,
+                    unknown
+                  >
+                ).imageText &&
+                ((
+                  (getSection(d.sectionOne).content as unknown[])[4] as Record<
+                    string,
+                    unknown
+                  >
+                ).imageText["link"] as string)
+              }
             >
-              {principesPhysiques.sectionOne.content[4].imageText?.text}
+              {(
+                (getSection(d.sectionOne).content as unknown[])[4] as Record<
+                  string,
+                  unknown
+                >
+              ).imageText &&
+                ((
+                  (getSection(d.sectionOne).content as unknown[])[4] as Record<
+                    string,
+                    unknown
+                  >
+                ).imageText["text"] as string)}
             </a>
           </div>
         </div>
       </Collapse>
-      <Collapse title={principesPhysiques.sectionTwo.sectionTitle}>
+      <Collapse title={getSection(d.sectionTwo).sectionTitle as string}>
         <div>
-          <p className={textStyle}>
-            {principesPhysiques.sectionTwo.content[0].text}
-          </p>
+          {renderText("sectionTwo.content.0.text")}
+          {renderText("sectionTwo.content.1.text")}
           <ol className="ml-8 list-decimal">
-            <li className={textStyle}>
-              {principesPhysiques.sectionTwo.content[1].text}
-            </li>
-            <ol className="ml-8" style={{ listStyleType: "lower-alpha" }}>
-              {principesPhysiques.sectionTwo.content[2].text.map((item) => (
-                <li className={textStyle}>{item}</li>
-              ))}
-            </ol>
-            <div className="flex flex-row-reverse flex-wrap">
-              <div className="flex flex-col flex-1">
-                {principesPhysiques.sectionTwo.content[3].text.map((item) => (
-                  <li className={textStyle}>{item}</li>
-                ))}
-              </div>
-              <div className="flex flex-col flex-1 pb-2 min-w-[570px]">
-                <img
-                  className="h-full"
-                  src={principesPhysiques.sectionTwo.content[3].image}
-                />
-                <a
-                  className="text-base"
-                  href={
-                    principesPhysiques.sectionTwo.content[3].imageText?.link
-                  }
-                >
-                  {principesPhysiques.sectionTwo.content[3].imageText?.text}
-                </a>
-              </div>
+            {(() => {
+              const items =
+                (getSection(d.sectionTwo).content as unknown[])[2] &&
+                (getSection(d.sectionTwo).content as unknown[])[2]["text"];
+              if (!items) return null;
+              const arr = Array.isArray(items) ? items : [items];
+              return arr.map((item: string, idx: number) => (
+                <li key={idx} className={textStyle}>
+                  {item}
+                </li>
+              ));
+            })()}
+          </ol>
+          <div className="flex flex-row-reverse flex-wrap">
+            <div className="flex flex-col flex-1">
+              {(() => {
+                const items =
+                  (getSection(d.sectionTwo).content as unknown[])[3] &&
+                  (getSection(d.sectionTwo).content as unknown[])[3]["text"];
+                if (!items) return null;
+                const arr = Array.isArray(items) ? items : [items];
+                return arr.map((item: string, idx: number) => (
+                  <li key={idx} className={textStyle}>
+                    {item}
+                  </li>
+                ));
+              })()}
             </div>
-            <li className={textStyle}>
-              {principesPhysiques.sectionTwo.content[4].text}
-            </li>
-          </ol>
-          <p className={textStyle}>
-            {principesPhysiques.sectionTwo.content[5].text}
-          </p>
-          <p className={textStyle}>
-            {principesPhysiques.sectionTwo.content[6].text}
-          </p>
-          <p className={textStyle}>
-            {principesPhysiques.sectionTwo.content[7].text}
-          </p>
-          <p className={textStyle}>
-            {principesPhysiques.sectionTwo.content[8].text}
-          </p>
+            <div className="flex flex-col flex-1 pb-2 min-w-[570px]">
+              <img
+                className="h-full"
+                src={
+                  getSection((getSection(d.sectionTwo).content as unknown[])[3])
+                    .image as string
+                }
+                alt={
+                  getSection((getSection(d.sectionTwo).content as unknown[])[3])
+                    .imageText &&
+                  (getSection(
+                    (getSection(d.sectionTwo).content as unknown[])[3]
+                  ).imageText["text"] as string)
+                }
+              />
+              <a
+                className="text-base"
+                href={
+                  getSection((getSection(d.sectionTwo).content as unknown[])[3])
+                    .imageText &&
+                  (getSection(
+                    (getSection(d.sectionTwo).content as unknown[])[3]
+                  ).imageText["link"] as string)
+                }
+              >
+                {getSection((getSection(d.sectionTwo).content as unknown[])[3])
+                  .imageText &&
+                  (getSection(
+                    (getSection(d.sectionTwo).content as unknown[])[3]
+                  ).imageText["text"] as string)}
+              </a>
+            </div>
+          </div>
+          {renderText("sectionTwo.content.4.text")}
+          {renderText("sectionTwo.content.5.text")}
+          {renderText("sectionTwo.content.6.text")}
+          {renderText("sectionTwo.content.7.text")}
+          {renderText("sectionTwo.content.8.text")}
           <ol className="ml-8 list-decimal">
-            {principesPhysiques.sectionTwo.content[9].text.map((item) => (
-              <li className={textStyle}>{item}</li>
-            ))}
+            {(() => {
+              const items =
+                (getSection(d.sectionTwo).content as unknown[])[9] &&
+                (getSection(d.sectionTwo).content as unknown[])[9]["text"];
+              if (!items) return null;
+              const arr = Array.isArray(items) ? items : [items];
+              return arr.map((item: string, idx: number) => (
+                <li key={idx} className={textStyle}>
+                  {item}
+                </li>
+              ));
+            })()}
           </ol>
-          <p className={textStyle}>
-            {principesPhysiques.sectionTwo.content[10].text}
-          </p>
+          {renderText("sectionTwo.content.10.text")}
           <ol className="ml-8 list-decimal">
-            {principesPhysiques.sectionTwo.content[11].text.map((item) => (
-              <li className={textStyle}>{item}</li>
-            ))}
+            {(() => {
+              const items =
+                (getSection(d.sectionTwo).content as unknown[])[11] &&
+                (getSection(d.sectionTwo).content as unknown[])[11]["text"];
+              if (!items) return null;
+              const arr = Array.isArray(items) ? items : [items];
+              return arr.map((item: string, idx: number) => (
+                <li key={idx} className={textStyle}>
+                  {item}
+                </li>
+              ));
+            })()}
           </ol>
         </div>
       </Collapse>
-      <Collapse title={principesPhysiques.sectionThree.sectionTitle}>
+      <Collapse title={getSection(d.sectionThree).sectionTitle as string}>
         <div>
-          <p className={textStyle}>
-            {principesPhysiques.sectionThree.content[0].text}
-          </p>
-          <p className={textStyle}>
-            {principesPhysiques.sectionThree.content[1].text}
-          </p>
-          <ul className="ml-8">
-            {principesPhysiques.sectionThree.content[2].text.map((item) => {
-              if (Array.isArray(item)) {
-                return item.map((subItem) => (
-                  <ul className="ml-8">
-                    <li className={textStyle}>{subItem}</li>
-                  </ul>
-                ));
-              } else {
-                return <li className={textStyle}>{item}</li>;
-              }
-            })}
-          </ul>
+          {renderText("sectionThree.content.0.text")}
+          {renderText("sectionThree.content.1.text")}
+          <ol className="ml-8 list-decimal">
+            {(() => {
+              const items =
+                (getSection(d.sectionThree).content as unknown[])[2] &&
+                (getSection(d.sectionThree).content as unknown[])[2]["text"];
+              if (!items) return null;
+              return (Array.isArray(items) ? items : [items]).map(
+                (item: string | string[], idx: number) => {
+                  if (Array.isArray(item)) {
+                    return (
+                      <ul key={idx} className="ml-8">
+                        {item.map((subItem: string, subIdx: number) => (
+                          <li key={`${idx}-${subIdx}`} className={textStyle}>
+                            {subItem}
+                          </li>
+                        ))}
+                      </ul>
+                    );
+                  }
+                  return (
+                    <li key={idx} className={textStyle}>
+                      {item}
+                    </li>
+                  );
+                }
+              );
+            })()}
+          </ol>
         </div>
       </Collapse>
     </TheorieParent>

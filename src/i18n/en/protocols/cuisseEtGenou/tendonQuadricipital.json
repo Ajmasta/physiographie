@@ -1,0 +1,325 @@
+{
+  "title": "Quadriceps Tendon",
+  "latinName": "Quadriceps tendinis",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Attachments", "header": true, "rowspan": 2 },
+          { "data": "Proximal: 4 heads of quadriceps" }
+        ],
+        [{ "data": "Distal: tibial tuberosity via the patellar tendon" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [
+        [
+          { "data": "Measurement", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plane / Site", "header": true },
+          { "data": "Subject Type", "header": true },
+          { "data": "Mean ± SD", "header": true }
+        ],
+        [
+          { "data": "Length", "rowspan": 2 },
+          { "data": "Quadriceps tendon", "rowspan": 8 },
+          {
+            "data": "Superior pole of patella to upper part of suprapatellar recess",
+            "rowspan": 2
+          },
+          { "data": "Male" },
+          { "data": "50 ± 9" }
+        ],
+        [{ "data": "Female" }, { "data": "49 ± 7" }],
+        [
+          { "data": "Anteroposterior thickness (mm)", "rowspan": 6 },
+          {
+            "data": "Superior aspect of suprapatellar recess",
+            "rowspan": 2
+          },
+          { "data": "Male" },
+          { "data": "7 ± 1" }
+        ],
+        [{ "data": "Female" }, { "data": "8 ± 1" }],
+        [
+          {
+            "data": "At tendon center",
+            "rowspan": 2
+          },
+          { "data": "Male" },
+          { "data": "7 ± 1" }
+        ],
+        [{ "data": "Female" }, { "data": "8 ± 1" }],
+        [
+          {
+            "data": "At patellar base",
+            "rowspan": 2
+          },
+          { "data": "Male" },
+          { "data": "7 ± 1" }
+        ],
+        [{ "data": "Female" }, { "data": "8 ± 1" }]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Supine position, with the knee and lower third of the thigh exposed",
+          "A knee flexion of 20-30° (using a pillow under the popliteal fossa) allows for slight tension in the extensor mechanism, thus reducing problems related to anisotropy of the anterior tendons (caused by their concave profile when the knee is in full extension)<a href='#ref1' class='reference'>[1]</a><a href='#ref4' class='reference'>[4]</a>"
+        ],
+        "images": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Subject position, leg extended"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Subject position, leg slightly flexed"
+          }
+        ],
+        "source": "/Protocols/tendonQuadricipital/"
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "Locate and palpate the patella",
+          "Ask the subject to perform an isometric contraction to locate and palpate the three superficial heads of the quadriceps"
+        ]
+      }
+    ],
+    "applicationDynamique": {
+      "title": "Dynamic Application",
+      "iframe": "<iframe width=\"395\" height=\"296\" src=\"https://www.youtube.com/embed/pAxBthKboiY\" title=\"Dynamic ultrasound of the quadriceps tendon\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/tendonQuadricipital/vueLongitudinale/",
+        "objectifs": [
+          "Examination of the quadriceps tendon (and its constituent bundles)",
+          "Check for effusion within the suprapatellar synovial recess"
+        ],
+        "parametres": ["Depth: 3 cm", "Gain: 55"],
+        "positionnement": [
+          "In longitudinal view (parallel to the long axis of the thigh), place the distal end of the probe on the patella",
+          "If needed, adjust the rotation and tilt angle to minimize anisotropy that could affect the quadriceps tendon"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["F"],
+                "texte": [
+                  "The femur appears as a long hyperechoic line at the lower portion of the image."
+                ]
+              },
+              {
+                "acronymes": ["P"],
+                "texte": [
+                  "The patella (superior dome) is located on the right of the image and can be described as a relatively small hyperechoic area, sloping from right to left and top to bottom"
+                ]
+              },
+              {
+                "acronymes": ["QT"],
+                "texte": [
+                  "The quadriceps tendon is a thick hyperechoic area crossing the image throughout its width (left to right). Note the clearly visible striated echotexture"
+                ]
+              },
+              {
+                "acronymes": ["SF-MF-DF"],
+                "texte": [
+                  "The superficial, middle, and deep fascicles (components of the quadriceps tendon) are quite clearly visible in this image. The likely collagenous tissue (hyperechoic) separating each fascicle (less hyperechoic) can be seen"
+                ]
+              },
+              {
+                "acronymes": ["PFFC"],
+                "texte": [
+                  "The prefemoral fat cushion is poorly defined in this image, but we can still identify the anatomical site it normally occupies (annotated dotted oval shape)."
+                ]
+              },
+              {
+                "acronymes": ["SPFC"],
+                "texte": [
+                  "The suprapatellar fat cushion, like the PFFC, is difficult to identify, but we can also recognize its location here."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Femur" },
+              { "path": "identification3.jpg", "descriptionText": "Patella" },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Quadriceps tendon"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Superficial, middle and deep fascicles"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Prefemoral fat cushion"
+              },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Suprapatellar fat cushion"
+              },
+              { "path": "identification8.jpg" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/tendonQuadricipital/vueTransversale/",
+        "objectifs": [
+          "Examination of the quadriceps tendon (and its constituent bundles)"
+        ],
+        "parametres": ["Depth: 3-4 cm", "Gain: 70-74"],
+        "positionnement": ["Rotate the probe 90° from the longitudinal view"],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["VM"],
+                "texte": [
+                  "The vastus medialis appears as a hypoechoic area on the left side of the image."
+                ]
+              },
+              {
+                "acronymes": ["QT"],
+                "texte": [
+                  "The quadriceps tendon, when observed in the 'normal' image (without anisotropy), appears as a large fusiform hyperechoic area. A fibrillar structure can also be observed (alternating hyper- and hypoechoic fascicles within the tendon)."
+                ]
+              },
+              {
+                "acronymes": [""],
+                "texte": [
+                  "In the image with anisotropy (image 7/8), the tendon appears as a hypoechoic area, while the surrounding structures (e.g., fascias, adipose tissue) maintain their more hyperechoic appearance."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Vastus medialis"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Quadriceps tendon"
+              },
+              { "path": "identification4.jpg" },
+              { "path": "identification5.jpg" },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Vastus medialis"
+              },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Quadriceps tendon (*with anisotropy*)"
+              },
+              { "path": "identification8.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The quadriceps tendon (QT) (not to be confused with the patellar tendon) is one of the three structures composing the knee extensor apparatus (the other two structures being the patellar tendon and the patella)."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Quadriceps Tendon Rupture",
+        "text": [
+          "Quadriceps tendon rupture is a serious injury that typically occurs in middle-aged or elderly individuals, often during a sudden eccentric contraction of the quadriceps muscle. Risk factors include:",
+          [
+            "Age (>40 years)",
+            "Obesity",
+            "Diabetes",
+            "Chronic kidney disease",
+            "Steroid use",
+            "Previous tendon injuries"
+          ],
+          "Ultrasound examination can reveal:",
+          [
+            "Complete or partial tendon discontinuity",
+            "Tendon retraction",
+            "Hematoma formation",
+            "Associated joint effusion"
+          ]
+        ]
+      },
+      {
+        "subtitle": "Tendinopathy",
+        "text": [
+          "Quadriceps tendinopathy is less common than patellar tendinopathy but can occur in athletes participating in jumping sports. Ultrasound findings may include:",
+          [
+            "Tendon thickening",
+            "Reduced echogenicity",
+            "Loss of normal fibrillar pattern",
+            "Neovascularization on Doppler imaging"
+          ]
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Patellar ligament / tendon",
+          "link": "thigh-and-knee/patellar-ligament"
+        },
+        {
+          "linkTitle": "Quadriceps muscle",
+          "link": "thigh-and-knee/quadriceps"
+        },
+        {
+          "linkTitle": "Tibial tuberosity",
+          "link": "thigh-and-knee/tibial-tuberosity"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Martinoli, Carlo. 'Musculoskeletal Ultrasound: Technical Guidelines.' Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "O'Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        }
+      ]
+    }
+  }
+}

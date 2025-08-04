@@ -1,0 +1,316 @@
+{
+  "title": "Supraspinatus (anterolateral aspect)",
+  "latinName": "Supraspinatus",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Muscle Type", "header": true },
+          { "data": "Mono-articular, multipennate" }
+        ],
+        [
+          { "data": "Origin", "header": true },
+          { "data": "Supraspinous fossa (scapula)" }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          { "data": "Greater tuberosity (humerus)" }
+        ],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Suprascapular nerve (C5-C6)" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [
+        [
+          { "data": "Measurement", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plane", "header": true },
+          { "data": "Mean ± Standard Deviation", "header": true }
+        ],
+        [
+          { "data": "Thickness (mm)", "rowspan": 3 },
+          { "data": "Supraspinatus tendon", "rowspan": 2 },
+          { "data": "Transverse" },
+          { "data": "5.97 ±1.20 <a href='#ref9' class='reference'>[9]</a>" }
+        ],
+        [
+          { "data": "Longitudinal" },
+          { "data": "5.90 ± 1.03 <a href='#ref9' class='reference'>[9]</a>" }
+        ],
+        [
+          { "data": "Supraspinatus muscle belly" },
+          { "data": "Longitudinal" },
+          { "data": "20.07 ± 0.74 <a href='#ref10' class='reference'>[10]</a>" }
+        ],
+        [
+          { "data": "Cross-sectional area (cm2)" },
+          { "data": "Supraspinatus muscle belly" },
+          { "data": "-" },
+          { "data": "6.99 ± 0.44 <a href='#ref11' class='reference'>[11]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "subSection": [
+          {
+            "title": "Choosing the Assessment Position",
+            "text": [
+              "The position we ask the subject to adopt will depend on their shoulder condition: if pain is present, we must make a choice based on its severity, irritability, and nature. Since the ultrasonographic evaluation can extend over several minutes, patient comfort is essential <a href='#ref1' class='reference'>[1]</a><a href='#ref6' class='reference'>[6]</a><a href='#ref7' class='reference'>[7]</a>",
+              "For a subject able to place the dorsal surface of their hand in the middle of their back with little or no pain: the 'Crass Position' is recommended (also called 'Stress Maneuver')",
+              "For a subject uncomfortable in the Crass position: the 'Modified Crass Position' (also called 'Middleton Position') will be chosen instead",
+              [
+                "Since the Crass position is often difficult to adopt, many authors recommend the modified Crass position from the outset"
+              ]
+            ]
+          },
+          {
+            "title": "Crass Position",
+            "text": [
+              "Seated with shoulder exposed",
+              "Instruction: Place the dorsal surface of the hand on the back, above the ipsilateral iliac crest",
+              "Shoulder:",
+              [
+                "Extension and internal rotation",
+                "Adduction (keep elbow against thorax)"
+              ],
+              "Elbow:",
+              ["Flexion", "Pronation"]
+            ],
+            "imagePositionnement": [
+              {
+                "path": "imagePositionnement1.jpg",
+                "descriptionText": "Crass position (back view)"
+              },
+              {
+                "path": "imagePositionnement2.jpg",
+                "descriptionText": "Crass position (side view)"
+              },
+              {
+                "path": "imagePositionnement3.jpg",
+                "descriptionText": "Crass position (front view)"
+              }
+            ],
+            "source": "/Protocols/SusEpineux/"
+          },
+          {
+            "title": "Modified Crass Position",
+            "text": [
+              "Seated with shoulder exposed",
+              "Instruction: Place the palmar surface of the hand on top of the ipsilateral iliac crest, with the elbow pointing backward.",
+              "Shoulder:",
+              [
+                "Extension",
+                "Scapular retraction (to avoid having the elbow pointing outward)"
+              ],
+              "Elbow:",
+              ["Flexion", "Supination", "Elbow point directed backward"]
+            ],
+            "imagePositionnement": [
+              {
+                "path": "imagePositionnement4.jpg",
+                "descriptionText": "Modified Crass position (back view)"
+              },
+              {
+                "path": "imagePositionnement5.jpg",
+                "descriptionText": "Modified Crass position (side view)"
+              },
+              {
+                "path": "imagePositionnement6.jpg",
+                "descriptionText": "Modified Crass position (front view)"
+              }
+            ],
+            "source": "/Protocols/SusEpineux/"
+          }
+        ],
+        "text": [""]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "Locate the intertubercular groove (see the section on <a class='underline' href='protocoles/epaule/biceps-brachial'>biceps brachial</a> to learn more)"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/SusEpineux/vueTransversale/",
+        "objectifs": ["Examination of the supraspinatus tendon"],
+        "parametres": ["Depth: 3-4 cm", "Gain: 70-75"],
+        "positionnement": [
+          "Place the probe in longitudinal view at the level of the intertubercular groove, as for the longitudinal evaluation of the intra-articular portion of the long biceps tendon",
+          "Rotate the transducer so that the long biceps tendon appears as elongated as possible (i.e., so that its fibers are ideally perfectly horizontal on the screen)",
+          "While maintaining the probe orientation, move the transducer upward (cranial) and backward to find the supraspinatus",
+          "Gently oscillate the transducer while visualizing the tendon to avoid any anisotropy"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "imagePositionnement1.jpg",
+            "descriptionText": "Probe in longitudinal view (Crass Position, front view)"
+          },
+          {
+            "path": "imagePositionnement2.jpg",
+            "descriptionText": "Probe in longitudinal view (Crass Position, side view)"
+          },
+          {
+            "path": "imagePositionnement3.jpg",
+            "descriptionText": "Probe in longitudinal view (Crass Position, back view)"
+          },
+          {
+            "path": "imagePositionnement4.jpg",
+            "descriptionText": "Probe in longitudinal view (Modified Crass Position, front view)"
+          },
+          {
+            "path": "imagePositionnement5.jpg",
+            "descriptionText": "Probe in longitudinal view (Modified Crass Position, side view)"
+          },
+          {
+            "path": "imagePositionnement6.jpg",
+            "descriptionText": "Probe in longitudinal view (Modified Crass Position, back view)"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["AD"],
+                "texte": [
+                  "The anterior deltoid appears at the top of the image"
+                ]
+              },
+              {
+                "acronymes": ["HH"],
+                "texte": [
+                  "The humeral head, a large circular hypoechoic area, occupies the lower half of the image"
+                ]
+              },
+              {
+                "acronymes": ["SS"],
+                "texte": [
+                  "The supraspinatus muscle tendon appears as a linear hyperechoic area located between the anterior deltoid and the humeral head. The appearance of the supraspinatus tendon when viewed this way is sometimes compared to that of a tire on a wheel (Jacobson)"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              {
+                "path": "imageIdentification1.jpg"
+              },
+              {
+                "path": "imageIdentification2.jpg",
+                "descriptionText": "Anterior deltoid"
+              },
+              {
+                "path": "imageIdentification3.jpg",
+                "descriptionText": "Humeral head"
+              },
+              {
+                "path": "imageIdentification4.jpg",
+                "descriptionText": "Supraspinatus"
+              },
+              {
+                "path": "imageIdentification5.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The supraspinatus muscle is a small muscle located on the posterosuperior aspect of the shoulder. It is one of the four muscles composing the rotator cuff, along with the subscapularis (anterior aspect), infraspinatus and teres minor (both on the posterior aspect). The supraspinatus originates from the supraspinous fossa, whose name refers to the spine of the scapula, located inferiorly (caudal) to this site. The superior surface of the humeral greater tuberosity receives the distal insertion of this muscle. The supraspinatus has only one muscle belly and has an origin-insertion axis (when in anatomical position) oriented from inside to outside, back to front, and slightly top to bottom. Thus, this muscle has an action of external rotation (especially) and abduction of the glenohumeral joint.",
+          "A good understanding of muscle orientation is imperative, especially when performing an ultrasonographic examination. To visualize the course of the supraspinatus tendon, one can start with the intra-articular portion of the long biceps. Indeed, these two tendons are parallel (only at this location) and the long biceps tendon has an echotexture and echogenicity that make it an easily recognizable reference point.",
+          "When examined with the shoulder in resting position, only the distal portion of the supraspinatus tendon is accessible <a href='#ref1' class='reference'>[1]</a>, the difference being masked by the acromioclavicular arch and the humeral head. During an ultrasonographic evaluation, the patient is often asked to adopt a position that will make the supraspinatus more anterior, providing access to its entire tendon and its musculotendinous junction.",
+          "At its distal third, the infraspinatus muscle passes through the subacromial space, just before the distal musculotendinous junction. The subacromial space is an entity mainly delimited by the coracoacromial arch and the humeral head. This space contains, among others, the rotator cuff tendons, the long biceps, and the subacromial/subdeltoid bursa<a href='#ref1' class='reference'>[1]</a>. The volume of this space varies from one individual to another due to several factors, including:",
+          "<ul class='margin-left'><li>Well-documented anatomical variability <a href='#ref2' class='reference'>[2]</a><a href='#ref3' class='reference'>[3]</a><a href='#ref8' class='reference'>[8]</a>;</li><li>Shoulder position (neutral vs. rotation / flexion / abduction);</li><li>Age (possible degenerative component);</li><li>Potential presence of one of many shoulder pathologies</li></ul>",
+          "This anatomical variability is often subject to a classification that recognizes 3 types of acromion, namely: flat (type I, 4.7% of the population); curved (type II, 51.76% of the population) and hooked (type III, 43.52% of the population). There is also an interesting correlation between acromion morphology (defined according to the above-mentioned classification) and the incidence of complete rotator cuff tears, which was studied on 140 shoulders in a study by Bigliani et al<a href='#ref4' class='reference'>[4]</a>, summarized in the table 1 below.",
+          "Incidence of complete rotator cuff tears: <ul class='margin-left'><li>Type I (flat): 3%</li><li>Type II (curved): 24.2%</li><li>Type III (hooked): 69.8%</li></ul>",
+          "Several other measurements and classifications (alternative or complementary) describe the morphology of the acromion and subacromial space, including the acromion index (AI), lateral acromial angle (LAA), critical shoulder angle (CSA), and acromial slope (AS)."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "path": "descriptionAnatomique.gif"
+      }
+    ],
+    "source": "/Protocols/SusEpineux/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Rotator Cuff Pathology",
+        "text": [
+          "The supraspinatus is commonly involved in rotator cuff pathology:",
+          "<ul class='margin-left'><li>Most frequently affected tendon in rotator cuff tears</li><li>Often involved in impingement syndrome</li><li>Key structure in shoulder pain evaluation</li></ul>"
+        ]
+      },
+      {
+        "subtitle": "Tendinopathy",
+        "text": [
+          "Ultrasonographic examination can reveal:",
+          "<ul class='margin-left'><li>Tendon thickening</li><li>Changes in echogenicity</li><li>Altered fiber pattern</li><li>Presence of calcifications</li></ul>"
+        ]
+      },
+      {
+        "subtitle": "Post-surgical Assessment",
+        "text": [
+          "Ultrasound is valuable for:",
+          "<ul class='margin-left'><li>Evaluating repair integrity</li><li>Monitoring healing progress</li><li>Assessing muscle quality</li></ul>"
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Supraspinatus & Subacromial Space",
+          "link": "protocoles/epaule/sus-epineux-et-espace-sous-acromial"
+        },
+        {
+          "linkTitle": "Supraspinatus (posterior aspect)",
+          "link": "protocoles/epaule/sus-epineux-post"
+        },
+        {
+          "linkTitle": "Biceps brachii",
+          "link": "protocoles/epaule/biceps-brachial"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Jacobson JA. Shoulder US: anatomy, technique, and scanning pitfalls. Radiology. 2011;260(1):6-16."
+        },
+        {
+          "text": "Beggs I, et al. Musculoskeletal Ultrasound Technical Guidelines: Shoulder. European Society of MusculoSkeletal Radiology."
+        },
+        {
+          "text": "Teefey SA, et al. Detection and quantification of rotator cuff tears. J Bone Joint Surg Am. 2004;86(4):708-716."
+        },
+        {
+          "text": "Bigliani LU, et al. The relationship of acromial architecture to rotator cuff disease. Clin Sports Med. 1991;10(4):823-838."
+        }
+      ]
+    }
+  }
+}

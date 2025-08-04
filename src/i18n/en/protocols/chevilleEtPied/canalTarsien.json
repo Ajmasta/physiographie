@@ -1,0 +1,285 @@
+{
+  "title": "Tarsal tunnel",
+  "latinName": "Canalis tarsi",
+  "normesEtGeneralites": {
+    "sectionTitle": "Norms and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Formed by", "header": true, "rowspan": 4 },
+          { "data": "Distal tibia (medial malleolus)" }
+        ],
+        [{ "data": "Medial aspect of calcaneus" }],
+        [{ "data": "Medial aspect of talus" }],
+        [{ "data": "Flexor retinaculum" }],
+        [
+          {
+            "data": "Contents <br /> (anterior → posterior)",
+            "header": true,
+            "rowspan": 6
+          },
+          { "data": "Tibialis posterior tendon (most anterior)" }
+        ],
+        [{ "data": "Flexor digitorum longus tendon" }],
+        [{ "data": "Posterior tibial vein" }],
+        [{ "data": "Posterior tibial artery" }],
+        [{ "data": "Tibial nerve" }],
+        [{ "data": "Flexor hallucis longus tendon (most posterior)" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative values",
+      "rangees": [],
+      "text": ["No data available"]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject positioning",
+        "text": [
+          "Supine position, lower limb in external rotation, with a towel/pillow under the lateral aspect of the foot (thus placing it in slight inversion) to increase the probe contact surface",
+          "Alternatively, the subject can be positioned sitting on the examination table, in a 'frog position', with the sole of the foot oriented inward"
+        ]
+      },
+      {
+        "subtitle": "Anatomical landmarks and palpation",
+        "text": [
+          "Locate and palpate the medial malleolus, sustentaculum tali and calcaneus"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/canalTarsien/vueTransversale/",
+        "objectifs": [
+          "Identification of tarsal tunnel contents",
+          "Assessment of flexor retinaculum",
+          "Evaluation of tibial nerve and vessels"
+        ],
+        "parametres": ["Depth: 3-4 cm", "Gain: 65"],
+        "positionnement": [
+          "Position #1: Place the probe in axial orientation posterior to the medial malleolus",
+          "Position #2: Move the probe distally to the level of the sustentaculum tali",
+          "Maintain gentle pressure to avoid compressing the neurovascular structures"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "title": "[Position #1: Probe at retro-malleolar level]",
+            "legend": [
+              {
+                "acronymes": ["MM"],
+                "texte": [
+                  "The medial malleolus appears as a hyperechoic curved structure at the top of the image"
+                ]
+              },
+              {
+                "acronymes": ["FR"],
+                "texte": [
+                  "The flexor retinaculum is visible as a thin hyperechoic band extending from the medial malleolus"
+                ]
+              },
+              {
+                "acronymes": ["TP"],
+                "texte": [
+                  "The tibialis posterior tendon appears as a round hyperechoic structure, most anterior in position"
+                ]
+              },
+              {
+                "acronymes": ["FDL"],
+                "texte": [
+                  "The flexor digitorum longus tendon is visible posterior to the tibialis posterior tendon"
+                ]
+              },
+              {
+                "acronymes": ["FHL"],
+                "texte": [
+                  "The flexor hallucis longus tendon is the most posterior tendon in the tunnel"
+                ]
+              },
+              {
+                "acronymes": ["VTP"],
+                "texte": [
+                  "The posterior tibial veins appear as compressible anechoic structures"
+                ]
+              },
+              {
+                "acronymes": ["ATP"],
+                "texte": [
+                  "The posterior tibial artery is identified by its pulsatile nature and resistance to compression"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Medial malleolus"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Flexor retinaculum"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Tibialis posterior tendon"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Flexor digitorum longus tendon"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Flexor hallucis longus tendon"
+              },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Posterior tibial veins"
+              },
+              {
+                "path": "identification8.jpg",
+                "descriptionText": "Posterior tibial artery"
+              },
+              { "path": "identification9.jpg" }
+            ]
+          },
+          {
+            "title": "[Position #2: Probe moved to infra-malleolar level]",
+            "legend": [
+              {
+                "acronymes": ["ST"],
+                "texte": [
+                  "The sustentaculum tali, the main bony landmark in this view, appears on the left of the image and is easily recognizable by its characteristic convex relief"
+                ]
+              },
+              {
+                "acronymes": ["FDL"],
+                "texte": [
+                  "The flexor digitorum longus tendon appears just to the right of the sustentaculum tali as a hyperechoic fibrillar structure"
+                ]
+              },
+              {
+                "acronymes": ["FHL"],
+                "texte": [
+                  "The flexor hallucis longus tendon is visible to the right (thus postero-inferior) of the flexor digitorum longus. These two tendons have a similar appearance."
+                ]
+              },
+              {
+                "acronymes": ["NT"],
+                "texte": [
+                  "The tibial nerve, a circular hyperechoic structure, is located deep to the posterior tibial veins and artery. During ultrasound examination, you can confirm it is a nerve by applying pressure with the probe and confirming that this structure is non-compressible."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification10.jpg" },
+              {
+                "path": "identification11.jpg",
+                "descriptionText": "Sustentaculum tali"
+              },
+              {
+                "path": "identification12.jpg",
+                "descriptionText": "Flexor digitorum longus tendon"
+              },
+              {
+                "path": "identification13.jpg",
+                "descriptionText": "Flexor hallucis longus tendon"
+              },
+              {
+                "path": "identification14.jpg",
+                "descriptionText": "Tibial nerve"
+              },
+              { "path": "identification15.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomical Description",
+    "content": [
+      {
+        "text": [
+          "The tarsal tunnel is an osteo-fibrous tunnel located on the medial aspect of the ankle, posterior to the medial malleolus. It is bounded by the flexor retinaculum superficially and by the medial surfaces of the talus and calcaneus deeply.",
+          "This tunnel contains multiple important structures arranged in a specific order from anterior to posterior: the tibialis posterior tendon, flexor digitorum longus tendon, posterior tibial vessels, tibial nerve, and flexor hallucis longus tendon.",
+          "The tibial nerve, which is a continuation of the posterior tibial nerve, divides within or distal to the tunnel into its terminal branches: the medial and lateral plantar nerves. These nerves provide sensory innervation to the plantar aspect of the foot and motor innervation to the intrinsic foot muscles."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/canalTarsien/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Nerve compressions",
+        "text": [
+          "Among the different types of nerve compressions that can occur at the ankle, the most well-known condition (and the most discussed in scientific literature) is tarsal tunnel syndrome<a href='#ref1' class='reference'>[1]</a>",
+          "This term refers to compression of the tibial nerve or one of its branches, which are<a href='#ref2' class='reference'>[2]</a>:",
+          ["Medial plantar nerve", "Lateral plantar nerve", "Calcaneal nerve"],
+          "According to the site of compression, which dictates the symptomatology (including the extent of paresthesias and electromyographic examination results), the syndrome can be classified as<a href='#ref2' class='reference'>[2]</a>:",
+          [
+            "Proximal: Compression of the main tibial nerve trunk",
+            "Distal: Compression of one of the tibial nerve branches"
+          ],
+          "Unfortunately, it is not always possible to identify the source of compression through ultrasound imaging. Typically, compression tends to be caused by the presence of a mass (e.g., flexor tenosynovitis, lipoma, presence of an accessory muscle) or by a traumatic injury, penetrating or non-penetrating<a href='#ref2' class='reference'>[2]</a>.",
+          "In some cases, dynamic ultrasound can demonstrate nerve entrapment during certain movements (plantar flexion, dorsiflexion with lateral movements). Additionally, if applying pressure on the nerve (using the probe) reproduces symptoms (known as the 'Ultrasound-guided Tinel test'), this increases suspicion of tarsal tunnel syndrome."
+        ]
+      },
+      {
+        "subtitle": "Tendinopathies",
+        "text": [
+          "Among all tendon injuries of the medial ankle, tibialis posterior tendon injuries are the most frequent and occur mainly distal to the medial malleolus. Ruptures can be acute or chronic, with chronic spontaneous ruptures being the most frequent<a href='#ref4' class='reference'>[4]</a>. Clinically, a complete rupture of the tibialis posterior tendon causes foot deformity with flattening (via loss of the medial longitudinal arch), since the tibialis posterior is a major stabilizer of the forefoot<a href='#ref2' class='reference'>[2]</a>.",
+          "Classically, tibialis posterior tendon injuries occur in overweight middle-aged women, or in people with rheumatological conditions (rheumatoid arthritis, seronegative spondyloarthropathy)<a href='#ref6' class='reference'>[6]</a>. Finally, certain types of ankle fractures can lead to various tendon injuries, including tibialis posterior tendon rupture.",
+          "Injuries to the flexor digitorum longus and flexor hallucis longus tendons, while possible, are significantly rarer."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See also",
+      "content": [
+        {
+          "linkTitle": "Tibial mortise",
+          "link": "/protocoles/cheville-et-pied/mortaise-tibiale/"
+        },
+        {
+          "linkTitle": "Anterior tibial",
+          "link": "/protocoles/cheville-et-pied/tibial-anterieur/"
+        },
+        {
+          "linkTitle": "Anterior talofibular ligament",
+          "link": "/protocoles/cheville-et-pied/ligament-talo-fibulaire-anterieur/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angel Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. 'Musculoskeletal Ultrasound Technical Guidelines (VI. Ankle).' European Society of Musculoskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "McNally, Eugene G. Practical Musculoskeletal Ultrasound. Churchill Livingstone/Elsevier, 2014."
+        },
+        {
+          "text": "O'Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        }
+      ]
+    }
+  }
+}

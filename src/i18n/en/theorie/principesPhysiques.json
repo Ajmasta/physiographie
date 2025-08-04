@@ -1,0 +1,147 @@
+{
+  "title": "Physical principles",
+  "sectionOne": {
+    "sectionTitle": "Waves",
+    "content": [
+      {
+        "text": [
+          "Ultrasounds are acoustic waves, i.e., mechanical forces in the form of waves (or oscillations) of positive pressure (compression) and negative pressure (rarefaction) of molecules through which the wave propagates (e.g., gas molecules in ambient air). High pressures imply close proximity between the molecules in the medium, which induces repulsion of these molecules from each other. As they repel each other, the point deserted by the repelled molecules becomes one of low pressure, before the cycle starts again (since molecules flee high-pressure areas to go to low-pressure areas)."
+        ]
+      },
+      {
+        "image": "/ondes-longitudinales.gif",
+        "imageText": {
+          "text": "Figure 1 - Longitudinal waves - Courtesy of Dr. Dan Russell, Grad. Prog. Acoustics, Penn State.",
+          "link": "http://www.acs.psu.edu/drussell/"
+        },
+        "text": [
+          "Polarization is the name given to the property that certain waves have of traveling in more than one orientation. Sound waves, when propagated in a gas or liquid, have only one possible orientation, i.e., that of the direction in which they travel: they are therefore called longitudinal waves (molecules only move back and forth in the axis of propagation).",
+          "This contrasts with waves like light which, being transverse waves, can travel in more than one orientation (up and down and left to right, for example). Acoustic waves, when propagated in a solid, also have the ability to be propagated transversely (shear wave), i.e., in an orientation perpendicular to the direction of sound propagation. However, the principles on which classical ultrasound is based use the properties of longitudinal waves, and it is therefore not necessary to consider transverse waves."
+        ]
+      },
+      {
+        "text": [
+          "When an acoustic wave is emitted in a medium, then perceived at a distance from the point of emission (e.g., a speaker emits a sound that is heard by an individual posted a few meters away), the molecules of the medium that supports the sound do not move from the speaker to the subject's ear. Rather, they are limited to oscillating from a high-pressure point to a low-pressure point at a given frequency (speed), which is defined by the vibration speed of the emitting source as well as by the nature of the medium where the sound travels."
+        ]
+      },
+      {
+        "text": [
+          "This frequency of molecular oscillation is the source of the sound frequency, which is measured in Hertz (Hz, an international system unit that refers to the number of cycles per second). The spectrum of sound frequencies audible to humans generally extends between 20 Hz and 20 KHz, while the pulser of an ultrasonograph used in musculoskeletal ultrasound generally emits ultrasounds whose frequency extends from 2 MHz to 18 MHz (MHz: megahertz, or one million Hertz)."
+        ]
+      },
+      {
+        "image": "/ondes-transverses.gif",
+        "imageText": {
+          "text": "Figure 2 - Transverse waves - Courtesy of Dr. Dan Russell, Grad. Prog. Acoustics, Penn State.",
+          "link": "http://www.acs.psu.edu/drussell/"
+        },
+        "text": [
+          "When an acoustic wave is emitted in a medium, then perceived at a distance from the point of emission (e.g., a speaker emits a sound that is heard by an individual posted a few meters away), the molecules of the medium that supports the sound do not move from the speaker to the subject's ear. Rather, they are limited to oscillating from a high-pressure point to a low-pressure point at a given frequency (speed), which is defined by the vibration speed of the emitting source as well as by the nature of the medium where the sound travels."
+        ]
+      }
+    ]
+  },
+  "sectionTwo": {
+    "sectionTitle": "Interaction with matter",
+    "content": [
+      {
+        "text": [
+          "Depending on the type of matter that the ultrasound beam encounters, different physical phenomena can occur:"
+        ]
+      },
+      {
+        "text": [
+          "Reflection: This phenomenon is the very basis of ultrasound imaging. When the beam passes from one medium to another that has a different acoustic impedance, part of the sound waves is reflected at the interface between these two media. The degree of reflection of a wave is influenced by:"
+        ]
+      },
+      {
+        "text": [
+          "The echogenicity of the tissue exposed to the waves",
+          "The difference in acoustic impedance of the two media forming the interface crossed by the wave",
+          "The texture (smooth vs rough) of the tissue exposed to the waves: smooth tissues (liver, diaphragm) reflect better than tissues with more irregular surfaces",
+          "The angle of reflection: the optimal reflection angle of a beam is perpendicular between the targeted tissue and the ultrasound beam (or parallel between the transducer surface and the tissue surface)"
+        ]
+      },
+      {
+        "text": [
+          "Refraction: When a wave passes from medium A to medium B and these media do not have the same 'resistance' to this wave, the angle in which this wave propagates will be affected. In the case of a sound wave, this 'resistance' is called acoustic impedance, while for light, we speak of the refractive index of a medium. To visualize what happens during the refraction of sound waves, we can refer to the phenomenon of light wave refraction: when a stick is placed in a glass of water and only part is immersed, one might think that the stick has an angle at the air-water interface point. It is actually the refraction of light waves that is at cause: at the point where the refractive index changes, light waves change direction before reaching our eyes. By analogy, we can say that it is an almost identical phenomenon that occurs with sound waves.",
+          "Scattering: The presence (and intensity) of this phenomenon depends on the homogeneity of the texture of the surface exposed to the ultrasound beam. Concretely, this phenomenon occurs when the surface is irregular and results in less spatial coherence of the reflected beam. This translates into a decrease in the possible precision of the structures forming the interface (as well as underlying tissues)."
+        ],
+        "image": "/refraction-ondes-sonores.gif",
+        "imageText": {
+          "text": "Figure 3 - Sound wave refraction - Courtesy of Dr. Dan Russell, Grad. Prog. Acoustics, Penn State.",
+          "link": "http://www.acs.psu.edu/drussell/"
+        }
+      },
+      {
+        "text": [
+          "Absorption: this phenomenon is responsible for most of the attenuation of ultrasound. This is a 'capture' of the energy contained in sound waves by the molecules that are exposed to them, then the conversion of this mechanical energy into thermal energy. However, the energy contained in ultrasound beams used in ultrasound is so weak that it causes no measurable temperature increase in tissues."
+        ]
+      },
+      {
+        "text": [
+          "Once the waves have been emitted by the transducer and subjected to the 4 phenomena defined above, they are then recaptured by this same transducer via a piezoelectric effect. The latency, or timing of beam return is one of the major variables interpreted by the ultrasonograph for image creation."
+        ]
+      },
+      {
+        "text": [
+          "Another of these fundamental variables at the very basis of how an ultrasonograph works is the intensity of the ultrasound beam return. This intensity is directly a function of the 4 physical phenomena listed earlier (reflection, refraction, scattering, and absorption). From a very practical point of view, tissue echogenicity is often referred to as a determinant of signal intensity. In ultrasound, unlike other imaging techniques (such as magnetic resonance imaging or radiography), the intensity of the perceived signal is not absolute, or defined, but rather relative to surrounding tissues. We will therefore speak of a 'hyperechoic tissue compared to another' since this same tissue could become isoechoic when compared to a structure of the same echogenicity. We therefore understand that ultrasounds reflected by a hypoechoic and hyperechoic tissue will appear respectively as dark and bright areas on the image produced by the ultrasonograph."
+        ]
+      },
+      {
+        "text": [
+          "The last of this information contained in the beam is the transverse location of sound waves. Several thousand crystals are present in the transducer, both to generate and capture ultrasounds. The position of the crystals that receive acoustic waves determines, via computer calculations, the location (mainly in the X and Y axis) where the ultrasounds were reflected."
+        ]
+      },
+      {
+        "text": [
+          "In summary, it is possible to state that the information used to create the image depends mainly on:"
+        ]
+      },
+      {
+        "text": [
+          "The amplitude of reflected sound waves",
+          "The reflection latency of waves",
+          "The transverse location at which waves are captured"
+        ]
+      },
+      {
+        "text": [
+          "Furthermore, we now understand that this information is largely determined by the propensity of tissues to affect the following four physical phenomena:"
+        ]
+      },
+      {
+        "text": ["Reflection", "Refraction", "Scattering", "Absorption"]
+      }
+    ]
+  },
+  "sectionThree": {
+    "sectionTitle": "Practical implications",
+    "content": [
+      {
+        "text": [
+          "This frequency of molecular oscillation is the source of the sound frequency, which is measured in Hertz (Hz, an international system unit that refers to the number of cycles per second). The spectrum of sound frequencies audible to humans generally extends between 20 Hz and 20 KHz, while the pulser of an ultrasonograph used in musculoskeletal ultrasound generally emits ultrasounds whose frequency extends from 2 MHz to 18 MHz (MHz: megahertz, or one million Hertz)."
+        ]
+      },
+      {
+        "text": [
+          "The choice of frequency used during an ultrasound has an impact on:"
+        ]
+      },
+      {
+        "text": [
+          "The depth of evaluated structures:",
+          [
+            "A transducer emitting at higher frequencies will be better suited for examining more superficial structures",
+            "A low-frequency transducer will be optimal for deeper structures"
+          ],
+          "The required resolution:",
+          [
+            "The higher the frequency, the higher the resolution",
+            "However, this increase in resolution comes at the expense of beam penetration"
+          ]
+        ]
+      }
+    ]
+  }
+}

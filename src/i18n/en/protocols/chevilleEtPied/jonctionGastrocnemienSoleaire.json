@@ -1,0 +1,303 @@
+{
+  "title": "Gastrocnemius / soleus junction",
+  "latinName": "Gastrocnemius / Soleus",
+  "normesEtGeneralites": {
+    "sectionTitle": "Norms and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "" },
+          { "data": "Gastrocnemius", "header": true },
+          { "data": "Soleus", "header": true }
+        ],
+        [
+          { "data": "Muscle type", "header": true },
+          { "data": "Biarticular, bipennate" },
+          { "data": "Mono-articular, unipennate" }
+        ],
+        [
+          { "data": "Origin", "header": true },
+          {
+            "data": "Medial head: Medial femoral condyle (superior surface)<br />Lateral head: Lateral femoral condyle (superior surface)"
+          },
+          { "data": "Fibula, tibia (medial surface)" }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          {
+            "data": "Calcaneus: Posterior surface, center (via Achilles tendon)",
+            "colspan": 2
+          }
+        ],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Tibial nerve (S1-S2)" },
+          { "data": "Tibial nerve (L5-S2)" }
+        ],
+        [
+          { "data": "Action", "header": true },
+          { "data": "Plantar flexion, knee flexion" },
+          { "data": "Plantar flexion" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative values",
+      "rangees": [
+        [
+          { "data": "Measurement", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Site", "header": true },
+          { "data": "Other information", "header": true },
+          { "data": "Mean ± standard deviation", "header": true }
+        ],
+        [
+          { "data": "Thickness (mm)", "rowspan": 10 },
+          { "data": "Gastrocnemius + soleus", "rowspan": 4 },
+          { "data": "Site of maximum calf diameter", "rowspan": 4 },
+          { "data": "Non-athlete women" },
+          { "data": "35.1 ± 5.6 <a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Athlete women" },
+          { "data": "38.0 ± 3.9 <a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Non-athlete men" },
+          { "data": "37.4 ± 6.5 <a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Athlete men" },
+          { "data": "39.6 ± 6.4 <a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Gastrocnemius (medial head)", "rowspan": 2 },
+          {
+            "data": "Central point of muscle belly (at medio-lateral and cranio-caudal view)",
+            "rowspan": 6
+          },
+          { "data": "At rest" },
+          { "data": "17.1 ± 1.3 <a href='#ref8' class='reference'>[8]</a>" }
+        ],
+        [
+          { "data": "Maximum isometric contraction" },
+          { "data": "16.9 ± 1.5 <a href='#ref8' class='reference'>[8]</a>" }
+        ],
+        [
+          { "data": "Gastrocnemius (lateral head)", "rowspan": 2 },
+          { "data": "At rest" },
+          { "data": "15.2 ± 1.0 <a href='#ref8' class='reference'>[8]</a>" }
+        ],
+        [
+          { "data": "Maximum isometric contraction" },
+          { "data": "22.0 ± 2.3 <a href='#ref8' class='reference'>[8]</a>" }
+        ],
+        [
+          { "data": "Soleus", "rowspan": 2 },
+          { "data": "At rest" },
+          { "data": "15.1 ± 2.2 <a href='#ref8' class='reference'>[8]</a>" }
+        ],
+        [
+          { "data": "Maximum isometric contraction" },
+          { "data": "21.0 ± 2.7 <a href='#ref8' class='reference'>[8]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject positioning",
+        "text": [
+          "Prone position, ankle and foot in dorsiflexion, extending beyond the end of the table"
+        ]
+      },
+      {
+        "subtitle": "Anatomical landmarks and palpation",
+        "text": [
+          "Locate and palpate the widest point of the calf contour",
+          "Palpate the two muscle bellies of the gastrocnemius",
+          "Locate the point where the two heads of the gastrocnemius merge into a common musculotendinous junction"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/jonctionGastrocnemienSoleaire/vueLongitudinale/",
+        "objectifs": [
+          "Educational: Observation of the junction region between the gastrocnemius and soleus"
+        ],
+        "parametres": ["Depth: 6 cm", "Gain: 55-60"],
+        "positionnement": [
+          "Place the probe in longitudinal view (aligned with the long axis of the leg), at the point where the calf contour is widest (approximately 5-10 cm cranial to the point where the two gastrocnemius heads merge)",
+          "Move the probe slightly medially to cover exclusively the medial head of the gastrocnemius (and not in the area where the two heads overlap)"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["S"],
+                "texte": [
+                  "The soleus muscle occupies the entire lower and right portion of the image, with its mixed echogenicity (but generally hypoechoic compared to the gastrocnemius)"
+                ]
+              },
+              {
+                "acronymes": ["G"],
+                "texte": [
+                  "The gastrocnemius (medial head) appears immediately superficial to the soleus (i.e., above and to the left of it), as a triangular area with striated, typically muscular echotexture. We can also observe that the fiber orientation of the gastrocnemius is profoundly different from that of the soleus, which explains why the echotexture of these two regions is so different (see Anatomy section above)."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Soleus" },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Gastrocnemius (medial head)"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/jonctionGastrocnemienSoleaire/vueTransversale/",
+        "objectifs": [
+          "Educational: Observation of the junction region between the gastrocnemius and soleus"
+        ],
+        "parametres": ["Depth: 6 cm", "Gain: 55-60"],
+        "positionnement": ["Rotate the probe 90° from the longitudinal view"],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["GI"],
+                "texte": [
+                  "The medial head of the gastrocnemius, the larger of the two gastrocnemius heads, appears in the upper left corner of the image as a large triangular area of mixed echogenicity"
+                ]
+              },
+              {
+                "acronymes": ["GE"],
+                "texte": [
+                  "The lateral head is similar to the medial head, though smaller, and partially covered by its medial counterpart near the midline"
+                ]
+              },
+              {
+                "acronymes": ["S"],
+                "texte": [
+                  "The soleus occupies the majority of the image, beneath the gastrocnemius, with its mixed echogenicity and curved contour at its superior limit"
+                ]
+              },
+              {
+                "acronymes": ["T"],
+                "texte": [
+                  "The tibia (posterior surface), a more or less rectilinear hyperechoic interface, is found in the lower left corner of the image"
+                ]
+              },
+              {
+                "acronymes": ["F"],
+                "texte": [
+                  "The fibula (posterior surface), in the lower right part of the image, appears similar to the tibia"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Gastrocnemius, medial head"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Gastrocnemius, lateral head"
+              },
+              { "path": "identification4.jpg", "descriptionText": "Soleus" },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Tibia (posterior surface)"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Fibula (posterior surface)"
+              },
+              { "path": "identification7.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomical Description",
+    "content": [
+      {
+        "text": [
+          "See the section on the <a href=/protocoles/cheville-et-pied/tendon-d-achille/ class='underline'>Achilles tendon.</a>",
+          "The gastrocnemius muscle is composed of two heads (medial/internal and lateral/external). The medial head is normally larger and closer to the midline than the lateral head. When observed in transverse view (short axis of the muscle), the medial head of the gastrocnemius normally has a triangular shape in the posterior leg. The lateral head (in the posterolateral leg) has a more flattened shape and is less voluminous than its medial counterpart<a href='#ref1' class='reference'>[1]</a>. Due to its poly-articular organization (crossing both the tibiofemoral and tibiocalcaneal joints), the gastrocnemius is a knee and ankle flexor. In contrast, the soleus, with its origin on the tibia, only allows ankle flexion.",
+          "Unlike the gastrocnemius, the soleus muscle is composed mainly of slow muscle fibers<a href='#ref1' class='reference'>[1]</a>, suggesting that this muscle has a more tonic (postural) than phasic function. Thus, when an Achilles tendon condition occurs (tendinopathy, partial or complete rupture), the first muscle to show significant atrophy is the soleus, since it is normally almost always active during simple daily activities<a href='#ref3' class='reference'>[3]</a>.",
+          "Despite their apparent functional similarity, the gastrocnemius and soleus are very different structurally. Indeed, the fibers of each unit constituting the triceps surae (soleus, medial and lateral heads of gastrocnemius) differ in their type (fast vs. slow), orientation, and pennation angle<a href='#ref5' class='reference'>[5]</a>. This has functional consequences (in terms of speed vs. force of contraction vs. fatigability) as well as practical implications during ultrasound examination of these structures."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/jonctionGastrocnemienSoleaire/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Education",
+        "text": [
+          "The examination of the junction between the gastrocnemius and soleus, as described in this section, is not part of the classical routine ultrasound evaluation of the ankle and foot.",
+          "The demonstrated techniques are of more educational interest (e.g., demonstration of anatomy, practice in using ultrasound equipment) than clinical."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See also",
+      "content": [
+        {
+          "linkTitle": "Achilles tendon",
+          "link": "/protocoles/cheville-et-pied/tendon-d-achille/"
+        },
+        {
+          "linkTitle": "Soleus / Achilles tendon junction",
+          "link": "/protocoles/cheville-et-pied/jonction-soleaire-tendon-achille/"
+        },
+        {
+          "linkTitle": "Plantar fascia",
+          "link": "/protocoles/cheville-et-pied/fascia-plantaire/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Martinoli, Carlo. 'Musculoskeletal Ultrasound: Technical Guidelines.' Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Hartgerink, Phil, David P. Fessell, Jon A. Jacobson, and Marnix T. van Holsbeeck. 'Full- versus Partial-Thickness Achilles Tendon Tears: Sonographic Accuracy and Characterization in 26 Cases with Surgical Correlation.' Radiology 220, no. 2 (August 1, 2001): 406–12. doi:10.1148/radiology.220.2.r01au41406."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Rana, Manku, Ghassan Hamarneh, and James M. Wakeling. '3D Fascicle Orientations in Triceps Surae.' Journal of Applied Physiology (Bethesda, Md.: 1985) 115, no. 1 (July 1, 2013): 116–25. doi:10.1152/japplphysiol.01090.2012."
+        }
+      ]
+    }
+  }
+}

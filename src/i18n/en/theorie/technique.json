@@ -1,0 +1,142 @@
+{
+  "title": "Technique",
+  "sectionOne": {
+    "title": "Practical aspects: Basic steps",
+    "content": [
+      {
+        "text": [
+          "First contact with the probe (A-R-T)",
+          ["A: Alignment", "R: Rotation", "T: Tilt"]
+        ]
+      },
+      {
+        "text": ["Image optimization", ["Depth", "Focus", "Gain"]]
+      },
+      {
+        "text": [
+          "Identification of anatomical structures, based on:",
+          [
+            "Their ultrasonographic characteristics (echogenicity, echotexture, etc.)",
+            "Their dimensions & location"
+          ]
+        ]
+      }
+    ]
+  },
+  "sectionTwo": {
+    "title": "Parameters",
+    "content": [
+      {
+        "text": [
+          "View / evaluation plane",
+          [
+            "The choice of plane is made based on the anatomy of the region and structures of interest"
+          ]
+        ],
+        "images": [
+          { "path": "plan_transverse1.jpg" },
+          { "path": "plan_longitudinal.jpg" }
+        ]
+      },
+      {
+        "text": [
+          "Depth",
+          [
+            "This parameter allows using the necessary depth to visualize structures of interest.",
+            "Excessive depth tends to decrease the quality (resolution) of the resulting image"
+          ]
+        ],
+        "images": [
+          { "path": "profondeur_3cm.jpg" },
+          { "path": "profondeur_4cm.jpg" },
+          { "path": "profondeur_6cm.jpg" },
+          { "path": "profondeur_12cm.jpg" }
+        ]
+      },
+      {
+        "text": [
+          "Focus",
+          ["A correctly adjusted focus allows for optimal image clarity"]
+        ],
+        "images": [{ "path": "focus_mauvais.jpg" }, { "path": "focus_bon.jpg" }]
+      },
+      {
+        "text": [
+          "Gain",
+          [
+            "Gain adjustment can be made based on the nature of the structure of interest.",
+            "If, for example, we are looking for a hypoechoic structure, the gain can be increased, but strongly hyperechoic structures will then disappear."
+          ]
+        ],
+        "images": [
+          { "path": "gain_trop_bas.jpg" },
+          { "path": "gain_bon_bas.jpg" },
+          { "path": "gain_trop_haut.jpg" },
+          { "path": "gain_bon_haut.jpg" }
+        ]
+      }
+    ]
+  },
+  "sectionThree": {
+    "title": "Artifacts",
+    "sections": {
+      "sectionOne": {
+        "title": "Definition",
+        "text": [
+          "In the broad sense of the term, when used in a scientific context, the word artifact refers to an alteration in the result of an examination, observation, or measurement that is due to the technical process used (Larousse Dictionary). For example, one can imagine a thermometer stored at room temperature which, when placed in the medium whose temperature is to be measured, would heat up said medium and thus bias the reading taken. Another example of a scenario where artifacts are quite common: standard optical microscopes. As soon as an image is distorted by an impurity or imperfection on the lens, artifacts can be generated. For anyone performing scientific observation, it is therefore imperative to know the process by which measurements are taken in order to recognize the many potential pitfalls that may lie in their path.",
+          "In ultrasound, the consequences of an unnoticed artifact can vary in severity depending on the case. Thus, it is essential to know how to recognize them, both to maintain optimal observation accuracy and to avoid generating false positives or false negatives."
+        ]
+      },
+      "sectionTwo": {
+        "title": "Types of artifacts",
+        "text": [
+          "Below are two types of artifacts that can be encountered when using musculoskeletal ultrasonography:",
+          [
+            "Modifiable: this type of artifact can be encountered if the technique is inadequate, if the parameters are incorrect, or if the equipment is defective",
+            "Non-modifiable: i.e., consequences of the intrinsic operating mode of ultrasonography. These cannot be avoided and do not result from an error or equipment defect. These are systematic artifacts that must be recognized and whose appearance (on the ultrasound image) must be interpreted differently from that, sometimes identical, of other structures that would not be subject to this type of artifact. These artifacts often result from the interaction of ultrasound with tissues adjacent to the tissue presenting the artifact (in the same axial or lateral plane)"
+          ]
+        ]
+      },
+      "sectionThree": {
+        "title": "Avoidable, modifiable artifacts",
+        "text": [
+          "Anisotropy: When the ultrasound beam hits the anisotropic tissue (e.g., tendon or ligament) perpendicularly, the 'true' echogenicity is reflected. A beam angle as small as 5° (relative to the long axis of the tissue) can cause the disappearance of the normally expected hyperechoic appearance. This can wrongly suggest an abnormal structure of this tissue (since abnormal tendons/ligaments are frequently hypoechoic).",
+          [
+            "This phenomenon requires even greater attention when the targeted anisotropic tissues have curvilinear or sinuous paths (e.g., the distal portion of the supraspinatus tendon). Probe positioning then becomes critical and can represent a challenge for an inexperienced evaluator.",
+            "As counter-intuitive as it may seem, anisotropy can also be useful for structure identification purposes. Indeed, it can help distinguish a ligament or tendon among a background of equally hypoechoic soft tissues whose apparent echogenicity is little/not altered by beam angle changes."
+          ]
+        ]
+      },
+      "sectionFour": {
+        "title": "Inevitable artifacts",
+        "text": [
+          "Acoustic shadowing / occultation zones ('shadowing'):",
+          [
+            "This artifact appears as a shadow zone underlying tissue that strongly attenuates the ultrasound beam (either through absorption, reflection, refraction, or dispersion). The image therefore appears as an anechoic zone under an interface that will often appear strongly hyperechoic",
+            "This is considered an artifact since the anechoic (or hypoechoic) appearance of the deepest zone is not a consequence of the characteristics of this tissue, but is in fact (exclusively or not) caused by the structure that shadows it."
+          ],
+          "Posterior acoustic enhancement (or increased through-transmission):",
+          [
+            "This artifact is mainly encountered when imaging fluids. There is a decrease in ultrasound beam attenuation in the fluid, down to the underlying tissues.",
+            "This appears as a fluid collection below which there is an abnormally hyperechoic tissue"
+          ],
+          "Posterior reverberation:",
+          [
+            "This phenomenon is encountered when the ultrasound beam interacts with a flat and smooth surface (e.g., an orthopedic fixator such as a metal plate). As the name of this artifact suggests, the ultrasound then reverberates (bounces, produces an echo) multiple times between the plate and the transducer surface.",
+            "On the produced image, this generates a series of bright echo lines between the structure and the probe that extend under the metal plate."
+          ],
+          "Ring-down artifact:",
+          [
+            "This is a variant of posterior reverberation where the reverberation under the metal plate (which translates into hyperechogenicity) is even more pronounced and continuous"
+          ],
+          "Beam-width artifact:",
+          [
+            "This phenomenon is analogous to the partial volume artifact (volume averaging artifact) in magnetic resonance imaging, where an object thinner than the latter's slice thickness results in an average, intermediate image of this structure and what surrounds it.",
+            "For example, if using a slice thickness of 1 mm and taking an image of an object measuring 0.5 mm, the generated image will represent 50% of the object and 50% of the medium in which it bathes (air, for example) and will appear paler and blurrier.",
+            "In the context of ultrasonography, if the ultrasound beam is too wide relative to a structure we are trying to observe, the resulting image comes to represent an average of the tissues surrounding this structure. We thus run the risk of 'losing' the shadow zone under the structure which, normally, would have contributed to identifying its presence."
+          ]
+        ]
+      }
+    }
+  }
+}

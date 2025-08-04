@@ -1,0 +1,258 @@
+{
+  "title": "Plantar Fascia",
+  "latinName": "Aponeurosis plantaris",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Associated muscles", "header": true },
+          { "data": "Gastrocnemius, soleus, plantaris" }
+        ],
+        [
+          { "data": "Origin", "header": true },
+          { "data": "Calcaneus (medial tubercle)" }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          { "data": "Metatarsophalangeal joints (plantar surface)" }
+        ],
+        [
+          { "data": "Action", "header": true },
+          { "data": "Stabilizer of the longitudinal plantar arch" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative values",
+      "rangees": [
+        [
+          { "data": "Measurement", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Site", "header": true },
+          { "data": "Subject type", "header": true },
+          { "data": "Mean (min-max range)", "header": true },
+          { "data": "[ L/R Δ ]", "header": true }
+        ],
+        [
+          { "data": "Thickness (mm)", "rowspan": 6 },
+          { "data": "Plantar fascia", "rowspan": 6 },
+          {
+            "data": "Intersection of plantar fascia and anterior aspect of calcaneus inferior border",
+            "rowspan": 6
+          },
+          { "data": "Control (healthy)" },
+          { "data": "3.3 (2.4 - 4.3)" },
+          { "data": "0.3 (0.0 - 0.7)" }
+        ],
+        [
+          { "data": "Plantar fasciitis, unilateral, asymptomatic" },
+          { "data": "3.6 (2.3 - 4.6)" },
+          { "data": "2.3 (0.7 - 4.9)", "rowspan": 2 }
+        ],
+        [
+          { "data": "Plantar fasciitis, unilateral, symptomatic" },
+          { "data": "5.9 (4.3 - 8.1)" }
+        ],
+        [
+          { "data": "Plantar fasciitis, bilateral" },
+          { "data": "6.0 (4.1 - 9.1)" },
+          { "data": "1.3 (0.0 - 3.9)" }
+        ],
+        [
+          { "data": "Achilles tendon injury" },
+          { "data": "3.8 (2.5 - 7.0)" },
+          { "data": "-" }
+        ],
+        [
+          { "data": "Ankle injury" },
+          { "data": "3.9 (3.1 - 6.0)" },
+          { "data": "-" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Prone position <a href='#ref5' class='reference'>[5]</a>",
+          "The feet can be allowed to hang over the end of the table (more comfortable position)",
+          "Alternatively, for increased stress on the plantar structures (including the fascia), the feet can be placed on the bed, resting on the toes (thus with the ankle positioned at a right angle)"
+        ]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": ["Locate and palpate the calcaneus and the metatarsal heads"]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/fasciaPlantaire/vueLongitudinale/",
+        "objectifs": [
+          "Evaluate plantar fascia thickness",
+          "Guide therapeutic interventions",
+          "Monitor the effect of therapeutic interventions"
+        ],
+        "parametres": ["Depth: 3 cm", "Gain: 85"],
+        "positionnement": [
+          "Place the probe on the anterior end of the calcaneus, along the long axis of the foot, slightly medial to the midline",
+          "It is then possible to scan distally along the foot to follow the course of the plantar fascia (medial portion), ensuring to keep it within the field of view (due to its triangular shape)"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["TC"],
+                "texte": [
+                  "The calcaneal head appears as a circular area with a hyperechoic margin in the lower left quadrant of the image"
+                ]
+              },
+              {
+                "acronymes": ["OFP"],
+                "texte": [
+                  "The origin of the plantar fascia is located just at the surface of the calcaneal head, on the left of the image, and appears as a triangular hyperechoic area with visible striated organization"
+                ]
+              },
+              {
+                "acronymes": ["FP"],
+                "texte": [
+                  "The plantar fascia is located to the right of its origin and displays the same echogenicity and texture as its origin"
+                ]
+              },
+              {
+                "acronymes": ["CFO"],
+                "texte": [
+                  "The flexor digitorum brevis muscle is located beneath the plantar fascia as a thick, slightly hyperechoic area"
+                ]
+              },
+              {
+                "acronymes": ["FIC"],
+                "texte": [
+                  "The inferior surface of the calcaneus is located beneath the flexor digitorum brevis muscle. It is recognizable by the cortical bone which appears as a long horizontal hyperechoic margin"
+                ]
+              },
+              {
+                "acronymes": ["CG"],
+                "texte": [
+                  "Below the Achilles tendon and to the left of the calcaneus is Kager's fat pad, which appears as a disorganized triangular hypoechoic area"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "initial.jpg" },
+              { "path": "TC.jpg", "descriptionText": "Calcaneal head" },
+              {
+                "path": "OFP.jpg",
+                "descriptionText": "Plantar fascia origin"
+              },
+              { "path": "FP.jpg", "descriptionText": "Plantar fascia" },
+              {
+                "path": "CFO.jpg",
+                "descriptionText": "Flexor digitorum brevis"
+              },
+              {
+                "path": "FIC.jpg",
+                "descriptionText": "Inferior surface of calcaneus"
+              },
+              { "path": "CFO.jpg", "descriptionText": "Fat pad" },
+              { "path": "final.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "Unlike the skin covering the dorsal region of the foot, the skin covering the plantar surface is thick, with an epidermis approximately eight times thicker than that of the dorsal surface <a href='#ref1' class='reference'>[1]</a>. At the posterior aspect, the skin covers a very thick subcutaneous tissue (plantar fat pad, average thickness of 18 mm) whose most obvious role is the absorption of impacts inherent to locomotion. Additionally, it has a recognized function as a static and dynamic stabilizer of the longitudinal arch <a href='#ref6' class='reference'>[6]</a>.",
+          "The plantar fascia is a fibrous connective tissue that can be divided into three sections (or 'cords'): central, lateral, and medial. The central portion, which is our focus, connects the calcaneus (medial tubercle) to the metatarsophalangeal joints (separating into 5 bands at the midtarsal level), and can be directly observed through ultrasound and magnetic resonance imaging. This portion of the plantar fascia has a triangular shape (wide posteriorly, narrow anteriorly) and stands out as being the thickest, widest, and strongest of the three cords.",
+          "From a functional and clinical perspective, the correlation between the plantar fascia and the triceps surae (gastrocnemius and soleus) is well established, but the anatomical foundations of this correlation were not/little known until recently. A study published in 2013 <a href='#ref8' class='reference'>[8]</a> established that the plantar fascia is connected to the paratenon of the Achilles tendon (not the tendon itself) through the calcaneal periosteum. This supports the idea that the triceps surae tends to be involved in pathologies involving the plantar fascia. Furthermore, the results of this study suggest that the lateral and medial portions of the plantar fascia could be a source of proprioceptive afferents involved in motor coordination, which is of particular interest in a rehabilitation context.",
+          "From a clinical physiotherapy perspective, the interest in the plantar fascia can be explained in part by its structure's tendency to change with certain mechanical stresses. These structural modifications can affect, for example, the thickness or stiffness of the plantar fascia <a href='#ref11' class='reference'>[11]</a> [See 'Clinical Relevance' section]. Also, as is the case for many other joints, plantar fascia ultrasound can be used for injection guidance, to avoid injection into the plantar fat pad, which would result in adipose tissue atrophy (and incidentally reduces the number of injections needed) <a href='#ref9' class='reference'>[9]</a>."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.png" }],
+    "source": "/Protocols/fasciaPlantaire/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Evaluation of plantar fascia thickness vs presence of plantar fasciitis",
+        "text": [
+          "An excellent systematic review published in 2014<a href='#ref6' class='reference'>[6]</a> evaluated more than thirty articles dealing with the management of plantar fasciitis using ultrasound imaging.",
+          "The current state of scientific literature suggests that the evaluation of plantar fascia thickness using ultrasound imaging is an effective and valid method for the diagnosis and monitoring of plantar fasciitis.",
+          "From a metrological quality perspective, ultrasound is comparable in several aspects (reliability, validity) to magnetic resonance imaging (MRI), and thus represents a very interesting option for clinicians given its high accessibility. Moreover, when compared to conventional radiography and MRI, ultrasound imaging is less expensive, faster, simpler to use, less invasive, and radiation-free.",
+          "Finally, the difference in plantar fascia thickness (healthy population vs. with plantar fasciitis) was found to be statistically significant (p < 0.0005), indicating that this data can be considered clinically significant<a href='#ref10' class='reference'>[10]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Achilles Tendon",
+          "link": "/protocoles/cheville-et-pied/tendon-d-achille/"
+        },
+        {
+          "linkTitle": "Toes",
+          "link": "/protocoles/cheville-et-pied/orteils/"
+        },
+        {
+          "linkTitle": "Gastrocnemius / Soleus Junction",
+          "link": "/protocoles/cheville-et-pied/jonction-gastrocs-soleaire/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Cheng, Ju-Wen, Wen-Chung Tsai, Tung-Yang Yu, and Kuo-Yao Huang. 'Reproducibility of Sonographic Measurement of Thickness and Echogenicity of the Plantar Fascia.' Journal of Clinical Ultrasound 40, no. 1 (January 2012): 14–19. doi:10.1002/jcu.20903."
+        },
+        {
+          "text": "Gibbon, W. W., and G. Long. 'Ultrasound of the Plantar Aponeurosis (fascia).' Skeletal Radiology 28, no. 1 (January 1, 1999): 21–26. doi:10.1007/s002560050467."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Martinoli, Carlo. 'Musculoskeletal Ultrasound: Technical Guidelines.' Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Mohseni-Bandpei, Mohammad Ali, Masoomeh Nakhaee, Mohammad Ebrahim Mousavi, Ali Shakourirad, Mohammad Reza Safari, and Reza Vahab Kashani. 'Application of Ultrasound in the Assessment of Plantar Fascia in Patients with Plantar Fasciitis: A Systematic Review.' Ultrasound in Medicine & Biology 40, no. 8 (August 2014): 1737–54. doi:10.1016/j.ultrasmedbio.2014.03.001."
+        },
+        {
+          "text": "Silvestri, Enzo, Alessandro Muda, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System: A Practical Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Stecco, Carla, Marco Corradin, Veronica Macchi, Aldo Morra, Andrea Porzionato, Carlo Biz, and Raffaele De Caro. 'Plantar Fascia Anatomy and Its Relationship with Achilles Tendon and Paratenon.' Journal of Anatomy 223, no. 6 (December 2013): 665–76. doi:10.1111/joa.12111."
+        },
+        {
+          "text": "Tsai, Wen-Chung, Chih-Chin Hsu, Carl P. C. Chen, Max J. L. Chen, Tung-Yang Yu, and Ying-Jen Chen. 'Plantar Fasciitis Treated with Local Steroid Injection: Comparison between Sonographic and Palpation Guidance.' Journal of Clinical Ultrasound: JCU 34, no. 1 (January 2006): 12–16. doi:10.1002/jcu.20177."
+        },
+        {
+          "text": "Wall, Janet Rae, Margo Amy Harkness, and Alan Crawford. 'Ultrasound Diagnosis of Plantar Fasciitis.' Foot & Ankle International 14, no. 8 (October 1, 1993): 465–70. doi:10.1177/107110079301400807."
+        },
+        {
+          "text": "Wu, Chueh-Hung, Ke-Vin Chang, Sun Mio, Wen-Shiang Chen, and Tyng-Guey Wang. 'Sonoelastography of the Plantar Fascia.' Radiology 259, no. 2 (May 1, 2011): 502–7. doi:10.1148/radiol.11101665."
+        }
+      ]
+    }
+  }
+}

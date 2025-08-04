@@ -1,0 +1,305 @@
+{
+  "title": "Median Nerve",
+  "latinName": "Nervus medianus",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Nerve Roots", "header": true },
+          { "data": "C5 to T1", "colspan": 2 }
+        ],
+        [
+          { "data": "Innervated Tissues", "header": true, "rowspan": 12 },
+          { "data": "Sensory", "rowspan": 2, "header": true },
+          {
+            "data": "Palmar aspect: thumb, 2nd finger and radial portion of 4th finger (C5-C8)"
+          }
+        ],
+        [
+          {
+            "data": "Dorsal aspect: tip of thumb, 2nd finger and radial portion of 4th finger (C5-C8)"
+          }
+        ],
+        [
+          { "data": "Motor", "header": true, "rowspan": 10 },
+          { "data": "Pronator teres (C6-C7)" }
+        ],
+        [{ "data": "Pronator quadratus (C7-C8)" }],
+        [{ "data": "Flexor carpi radialis (C6-C7)" }],
+        [{ "data": "Flexor digitorum superficialis* (C8-T1)" }],
+        [{ "data": "Flexor digitorum profundus* (C8-T1)" }],
+        [{ "data": "Flexor pollicis longus (C8-T1)" }],
+        [{ "data": "Abductor pollicis brevis (C8-T1)" }],
+        [{ "data": "Flexor pollicis brevis (C8-T1)" }],
+        [{ "data": "Opponens pollicis (C8-T1)" }],
+        [{ "data": "1st - 2nd lumbricals (C8-T1)" }]
+      ],
+      "text": ["*Only portions associated with corresponding fingers"]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Measurement", "header": true },
+          { "data": "Plane / Site", "header": true },
+          { "data": "Subject Type", "header": true },
+          { "data": "Mean ± SD", "header": true }
+        ],
+        [
+          { "data": "Median nerve", "rowspan": 8 },
+          { "data": "Cross-sectional area (cm2)", "rowspan": 8 },
+          { "data": "#1: Distal limit of carpal tunnel", "rowspan": 2 },
+          { "data": "With CTS*" },
+          { "data": "0.146 ± 0.047<a href='#ref9' class='reference'>[9]</a>" }
+        ],
+        [
+          { "data": "Healthy" },
+          { "data": "0.094 ± 0.019<a href='#ref9' class='reference'>[9]</a>" }
+        ],
+        [
+          { "data": "#2: Hook of hamate", "rowspan": 2 },
+          { "data": "With CTS" },
+          { "data": "0.112 ± 0.024<a href='#ref9' class='reference'>[9]</a>" }
+        ],
+        [
+          { "data": "Healthy" },
+          { "data": "0.084 ± 0.015<a href='#ref9' class='reference'>[9]</a>" }
+        ],
+        [
+          { "data": "#3: Proximal limit of carpal tunnel", "rowspan": 2 },
+          { "data": "With CTS" },
+          { "data": "0.144 ± 0.043<a href='#ref9' class='reference'>[9]</a>" }
+        ],
+        [
+          { "data": "Healthy" },
+          { "data": "0.096 ± 0.024<a href='#ref9' class='reference'>[9]</a>" }
+        ],
+        [
+          { "data": "#4: Distal third of forearm", "rowspan": 2 },
+          { "data": "With CTS" },
+          { "data": "0.049 ± 0.010<a href='#ref9' class='reference'>[9]</a>" }
+        ],
+        [
+          { "data": "Healthy" },
+          { "data": "0.048 ± 0.010<a href='#ref9' class='reference'>[9]</a>" }
+        ]
+      ],
+      "text": ["*CTS: Carpal Tunnel Syndrome"]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Seated comfortably, with the forearm in full supination (to expose the palmar/ventral aspect of the wrist)",
+          "The elbow is flexed at 90°, with the hand and fingers relaxed<a href='#ref6' class='reference'>[6]</a>"
+        ]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "Identify the bony landmarks of the proximal carpal tunnel: the scaphoid tubercle (radially) and the pisiform (ulnarly)",
+          "As mentioned earlier, the wrist flexion crease represents the proximal limit of the carpal tunnel. It can therefore be useful to ask the subject to perform wrist flexion to visualize the exact location of the crease."
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/nerfMedian/vueLongitudinale/",
+        "objectifs": [
+          "Observation of the median nerve and its location relative to the superficial and deep flexor tendons of the fingers"
+        ],
+        "parametres": ["Depth: 2 cm", "Gain: 80"],
+        "positionnement": ["Rotate the probe 90° from the transverse view"],
+        "imagePositionnement": [{ "path": "position1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["FT"],
+                "texte": [
+                  "The flexor tendons appear in the lower portion of the image. They can be recognized by their position, just superficial to the carpal bones, and by their clearly visible fibrillar echotexture"
+                ]
+              },
+              {
+                "acronymes": ["MN"],
+                "texte": [
+                  "The median nerve is visible on the surface of the flexor tendons. Although these two structures are very different in constitution, they have a very similar appearance in ultrasound imaging, and their distinction is facilitated by the presence of the hyperechoic fascia that separates them (as well as by their relative depth position)"
+                ]
+              },
+              {
+                "acronymes": ["SST"],
+                "texte": [
+                  "The subsynovial connective tissue<a href='#ref3' class='reference'>[3]</a> is the most superficial of the three structures highlighted in the longitudinal plane. It is a thin, echogenic structure that connects the median nerve to the flexor tendons within the carpal tunnel"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Flexor tendons"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Median nerve"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Subsynovial tissue"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/nerfMedian/vueTransversale/",
+        "objectifs": [
+          "Visualization of the main structures delimiting the proximal carpal tunnel",
+          "Observation of the median nerve"
+        ],
+        "parametres": ["Depth: 2 cm", "Gain: 70"],
+        "positionnement": [
+          "Position the probe at the proximal limit of the carpal tunnel (wrist flexion crease)",
+          "As shown in the attached image, slightly rotate the probe so that its radial end is slightly more distal than its ulnar end<a href='#ref6' class='reference'>[6]</a>"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["CB"],
+                "texte": [
+                  "The carpal bones appear at the bottom of the image and cannot be differentiated from each other. They can be described as a slightly curved hyperechoic area"
+                ]
+              },
+              {
+                "acronymes": ["S"],
+                "texte": [
+                  "The scaphoid appears on the left of the image as a rounded hyperechoic area"
+                ]
+              },
+              {
+                "acronymes": ["P"],
+                "texte": [
+                  "The pisiform is present on the right of the image, less defined than the scaphoid, and appears as a slightly hyperechoic area"
+                ]
+              },
+              {
+                "acronymes": ["FCR"],
+                "texte": [
+                  "The flexor carpi radialis tendon appears on the surface of the scaphoid and takes the form of a bean-shaped area defined by a hyperechoic line"
+                ]
+              },
+              {
+                "acronymes": ["MN"],
+                "texte": [
+                  "The median nerve occupies the central portion of the image. It can be described as a circular area bordered by a hyperechoic line and containing a number of clearly visible fascicles"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Carpal bones"
+              },
+              { "path": "identification3.jpg", "descriptionText": "Scaphoid" },
+              { "path": "identification4.jpg", "descriptionText": "Pisiform" },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Flexor carpi radialis"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Median nerve"
+              },
+              { "path": "identification7.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The median nerve [MN] is a mixed nerve (i.e., sensory and motor) that is especially well-known to the public as it is involved in carpal tunnel syndrome (see Clinical Relevance section). It is sometimes called the 'nerve of prehension' because it innervates many muscles responsible for flexion of the hand, fingers, and thumb. The MN receives afferents from the entire brachial plexus (roots C5 to T1) and is formed from portions of the lateral and medial cords<a href='#ref3' class='reference'>[3]</a>.",
+          "From the brachial plexus, the MN progresses distally along the lateral intermuscular septum, under the short head of the biceps brachii and lateral to the brachial artery. At mid-arm, the MN then passes to the medial aspect of the arm to join the ulnar fossa, where it is then the most medial structure, except for the common proximal tendon of the pronators and flexors. The MN progresses distally, medial to the elbow, under the flexor digitorum superficialis [FDS] and above the flexor digitorum profundus [FDP]. Once at the distal third of the forearm, the MN continues its course superficial to the FDS, medial to the flexor carpi radialis and lateral to the palmaris longus, before entering the carpal tunnel. It is only distal to the elbow that the median nerve begins to be directly involved in the transmission of sensory and motor nerve impulses<a href='#ref8' class='reference'>[8]</a>.",
+          "The proximal limit of the carpal tunnel corresponds to the wrist flexion crease, while the distal limit is at the level of the base of the third metacarpal bone. To better visualize their relative positions, the structures delimiting the carpal tunnel can be compared to the floor, ceiling, and walls of a room<a href='#ref8' class='reference'>[8]</a>:",
+          "<ul class='margin-left'><li>Floor: the carpal bones</li><li>Ceiling: the transverse carpal ligament (or 'flexor retinaculum', or simply 'carpal ligament')</li><li>Radial wall: the trapezium (carpal bone)</li><li>Ulnar wall: the hook of hamate (or 'unciform bone', a carpal bone)</li></ul>",
+          "Ten structures pass through the carpal tunnel, including 9 tendons (4 tendons of the FDS, 4 tendons of the FDP, and the flexor pollicis longus tendon) and the median nerve. It is within the carpal tunnel that the MN separates into three terminal branches, which innervate<a href='#ref8' class='reference'>[8]</a>:",
+          "<ul class='margin-left'><li>Lateral branches: the thumb and radial side of the index finger</li><li>Medial branches: the middle finger and radial side of the ring finger</li><li>Radial wall: the trapezium (carpal bone)</li><li>Ulnar wall: the hook of hamate (or 'unciform bone', a carpal bone)</li></ul>",
+          "At its entry into the carpal tunnel, the MN typically exhibits an oval profile, while it becomes progressively flattened as it progresses distally. The carpal ligament, which delimits the 'ceiling' of the tunnel (see above), is a thick fascia that extends from the trapezium and scaphoid tubercle (radially) to the pisiform and hook of hamate (ulnarly)<a href='#ref1' class='reference'>[1]</a>.",
+          "The anatomy of the peripheral nerves of the upper limb has been the subject of numerous studies over the last century. For example, in 1945, Sunderland was already describing the fascicular organization of the median nerve<a href='#ref15' class='reference'>[15]</a>. This organization has since been the subject of several studies confirming the arrangement of sensory and motor fibers that corresponds to the location (radial vs. ulnar) of the innervated structures. The attached diagram, adapted from a 2015 study, illustrates the arrangement of each of these fibers."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Carpal Tunnel Syndrome",
+        "text": [
+          "Carpal tunnel syndrome (CTS) is the most common entrapment neuropathy of the upper limb. It results from compression of the median nerve within the carpal tunnel, leading to symptoms such as numbness, tingling, and pain in the distribution of the median nerve (thumb, index, middle finger, and radial half of the ring finger).",
+          "Ultrasound imaging has become an increasingly important tool in the diagnosis and assessment of CTS. Key sonographic findings may include:",
+          "<ul class='margin-left'><li>Increased cross-sectional area of the median nerve at the carpal tunnel inlet</li><li>Flattening of the nerve within the tunnel</li><li>Decreased mobility of the nerve during finger flexion</li><li>Changes in the surrounding soft tissues</li></ul>",
+          "The normative values provided in this protocol can be particularly useful in assessing whether the median nerve dimensions are within normal limits or suggest pathological changes."
+        ]
+      },
+      {
+        "subtitle": "Anatomical Variations",
+        "text": [
+          "Several anatomical variations of the median nerve have been described, including:",
+          "<ul class='margin-left'><li>High division of the median nerve</li><li>Persistent median artery</li><li>Variations in the course and branching patterns</li></ul>",
+          "Recognition of these variations during ultrasound examination is important to avoid misdiagnosis and ensure appropriate treatment planning."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Dorsal Wrist Compartments",
+          "link": "protocoles/poignet/compartiments-du-poignet-dorsal/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Ettema, Anke M., et al. \"The Role of Subsynovial Connective Tissue in Carpal Tunnel Syndrome.\" Clinical Biomechanics 21.6 (2006): 631-638."
+        },
+        {
+          "text": "Cartwright, Michael S., et al. \"Evidence-Based Guideline: Neuromuscular Ultrasound for the Diagnosis of Carpal Tunnel Syndrome.\" Muscle & Nerve 46.2 (2012): 287-293."
+        },
+        {
+          "text": "Sunderland, S. \"The Intraneural Topography of the Radial, Median and Ulnar Nerves.\" Brain 68 (1945): 243-299."
+        }
+      ]
+    }
+  }
+}

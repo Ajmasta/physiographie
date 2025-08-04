@@ -1,0 +1,318 @@
+{
+  "title": "Tibialis anterior",
+  "latinName": "Tibialis anterior",
+  "normesEtGeneralites": {
+    "sectionTitle": "Norms and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Origin", "header": true },
+          { "data": "Tibia (upper half and lateral condyle)" }
+        ],
+        [
+          { "data": "Insertion", "header": true, "rowspan": 2 },
+          { "data": "First cuneiform (medial surface)" }
+        ],
+        [{ "data": "Base of first metatarsal (plantar aspect)" }],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Deep fibular nerve (L5 branch)" }
+        ],
+        [
+          { "data": "Action", "header": true },
+          { "data": "Dorsiflexion and inversion of ankle/foot" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative values",
+      "rangees": [
+        [
+          { "data": "Measurement", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Measurement site (Plane)", "header": true },
+          { "data": "Mean ± standard deviation", "header": true }
+        ],
+        [
+          { "data": "Thickness at rest (mm)" },
+          { "data": "Anterior tibial (muscle belly)", "rowspan": 2 },
+          {
+            "data": "Below tibial tuberosity, parallel to tibial crest",
+            "rowspan": 2
+          },
+          { "data": "24.6 ± 3.7<a href='#ref5' class='reference'>[5]</a>" }
+        ],
+        [
+          {
+            "data": "Thickness during 50% maximum voluntary contraction (mm)"
+          },
+          { "data": "28.2 ± 1.8<a href='#ref5' class='reference'>[5]</a>" }
+        ],
+        [
+          { "data": "Transverse diameter (mm)" },
+          { "data": "Anterior tibial tendon", "rowspan": 3 },
+          {
+            "data": "Distal tibia, anterior aspect (transverse plane)",
+            "rowspan": 2
+          },
+          { "data": "8.2 ± 1.75<a href='#ref10' class='reference'>[10]</a>" }
+        ],
+        [
+          { "data": "Sagittal diameter (mm)" },
+          { "data": "2.5 ± 0.65<a href='#ref10' class='reference'>[10]</a>" }
+        ],
+        [
+          { "data": "Transverse diameter (mm)" },
+          { "data": "Directly under the medial malleolus" },
+          { "data": "8.4 ± 2.1<a href='#ref10' class='reference'>[10]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject positioning",
+        "text": [
+          "Supine position, ankle in slight plantar flexion, lower limb supported by the table (not extending beyond)",
+          "It is also possible to flex the knee to 45° with the foot flat on the table, but this position does not allow for ankle mobilization during ultrasound"
+        ]
+      },
+      {
+        "subtitle": "Anatomical landmarks and palpation",
+        "text": [
+          "Locate and palpate the tibial crest and the anterior tibial (muscle and tendon) by asking the subject to perform ankle dorsiflexion and inversion"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/tibialAnterieur/vueLongitudinale/",
+        "objectifs": ["Evaluate the integrity of the anterior tibial tendon"],
+        "parametres": ["Depth: 2 cm", "Gain: 80"],
+        "positionnement": [
+          "[Position 1] Rotate the probe 90° from the transverse view",
+          "[Position 2] While maintaining the probe orientation used at the distal tibia (longitudinal), move the probe to the insertion at the medial first cuneiform",
+          "In case of suboptimal image quality, it may be necessary to adjust the probe orientation (rotation) to be truly parallel to the tendon path"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "[Position 1] Longitudinal view at the distal tibia level"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "[Position 2] Longitudinal view at the first cuneiform level"
+          }
+        ],
+        "identification": [
+          {
+            "title": "[Position 1: At the anterior aspect of the ankle]",
+            "legend": [
+              {
+                "acronymes": ["T"],
+                "texte": [
+                  "The distal tibia is easily distinguishable here in the left two-thirds of the image."
+                ]
+              },
+              {
+                "acronymes": ["TA"],
+                "texte": [
+                  "The anterior tibial tendon, a long hyperechoic area on the tibial surface, shows here a typical tendinous echotexture (clearly visible striated structure, hyperechoic appearance)."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Tibia" },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Anterior tibial"
+              },
+              { "path": "identification4.jpg" }
+            ]
+          },
+          {
+            "title": "[Position 2: Probe moved laterally, above the first cuneiform]",
+            "legend": [
+              {
+                "acronymes": ["C"],
+                "texte": [
+                  "The cuneiform has a much more irregular ('rugged') relief than what was observed at the distal tibia level. Nevertheless, it is still identifiable thanks to its cortical bone and due to the clearly visible anterior tibial tendon insertion (see above)."
+                ]
+              },
+              {
+                "acronymes": ["TA"],
+                "texte": [
+                  "The anterior tibial tendon is clearly visible on the cuneiform surface. Note that the tendon appears to 'dive' into the bone at its very end, which corresponds to the enthesis (attachment point of a tendon/ligament to a bone)."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification5.jpg" },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "First cuneiform"
+              },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Anterior tibial tendon"
+              },
+              { "path": "identification8.jpg" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/tibialAnterieur/vueTransversale/",
+        "objectifs": [
+          "Evaluation of anterior tibial tendon integrity",
+          "Observe the (distal) insertion sites of the anterior tibial"
+        ],
+        "parametres": ["Depth: 2 cm", "Gain: 80"],
+        "positionnement": [
+          "Place the probe on the anterior aspect of the ankle, straddling the tibiotalar joint space (at the distal end of the tibia), and orient the probe in the short axis (transverse, perpendicular to the long axis) of the anterior tibial muscle tendon"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "title": "[View for the left ankle]",
+            "legend": [
+              {
+                "acronymes": ["T"],
+                "texte": [
+                  "The tibial cortical bone appears here as a wide hyperechoic line in the center of the image. We can also see that below this line is a vast hypoechoic area attributable to the strong attenuation (via reflection, mostly) generated by the cortical bone."
+                ]
+              },
+              {
+                "acronymes": ["TA"],
+                "texte": [
+                  "The anterior tibial is located in the upper left portion of the image, adjacent to the tibial surface, and has a flattened (fusiform) appearance"
+                ]
+              },
+              {
+                "acronymes": ["LEH"],
+                "texte": [
+                  "The extensor hallucis longus is located to the right of the anterior tibial, and has a shape that vaguely resembles a trapezoid. We can notice the beginning of the tendon which appears as a hyperechoic area compared to the rest of the muscle, in its portion immediately adjacent to the tibial surface."
+                ]
+              },
+              {
+                "acronymes": ["LEO"],
+                "texte": [
+                  "The extensor digitorum longus, figure-8 shaped area just to the right of the extensor hallucis longus, is the smallest of the three extensor muscles that can be observed in this image."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Tibia" },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Anterior tibial"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Extensor hallucis longus"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Extensor digitorum longus"
+              },
+              { "path": "identification6.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomical Description",
+    "content": [
+      {
+        "text": [
+          "The anterior tibial is a powerful extensor and invertor muscle of the ankle and foot. Among all tendons crossing the anterior ankle, the anterior tibial tendon is the most medial and largest of them all. The three other tendons of the anterior ankle are as follows (from medial to lateral):",
+          "<ul class='margin-left'><li>Extensor hallucis longus</li><li>Extensor digitorum longus</li><li>Fibularis tertius</li></ul>",
+          "These four tendons are held in place by the extensor retinacula (superior and inferior), which prevents bowstringing (tendons taking the appearance of a bowstring during muscle contraction).",
+          "Given its superficial location, the anterior tibial can be highlighted through simple active dorsiflexion and inversion, which causes swelling of the muscle belly (anterior aspect of the leg) and the appearance of a tendinous 'cord' just lateral to the medial malleolus.<a href='#ref3' class='reference'>[3]</a>",
+          "The anterior tibial is a muscle that contributes significantly to the 'normal' gait pattern, particularly through its foot elevation action (which allows for appropriate heel strike). Clinically, the 'foot drop' sign is frequently indicative of anterior tibial dysfunction, which can be caused by multiple mechanisms (e.g., peripheral nerve injury, muscle weakness, etc.)<a href='#ref8' class='reference'>[8]</a>.",
+          "For more information about the anterior ankle region, we invite you to consult the section on the <a href='/protocoles/cheville-et-pied/mortaise-tibiale' class='underline'>tibial mortise.</a>"
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/tibialAnterieur/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Tibial Mortise",
+        "text": [
+          "See the section on the <a href='/protocoles/cheville-et-pied/mortaise-tibiale' class='underline'>tibial mortise.</a>"
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See also",
+      "content": [
+        {
+          "linkTitle": "Tibial mortise",
+          "link": "/protocoles/cheville-et-pied/mortaise-tibiale/"
+        },
+        {
+          "linkTitle": "Tarsal tunnel",
+          "link": "/protocoles/cheville-et-pied/canal-tarsien/"
+        },
+        {
+          "linkTitle": "Anterior talofibular ligament",
+          "link": "/protocoles/cheville-et-pied/ligament-talo-fibulaire-anterieur/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Arts, Ilse M.P., Sigrid Pillen, H. Jurgen Schelhaas, Sebastiaan Overeem, and Machiel J. Zwarts. 'Normal Values for Quantitative Muscle Ultrasonography in Adults.' Muscle & Nerve 41, no. 1 (January 1, 2010): 32–41. doi:10.1002/mus.21458."
+        },
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angelo Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. 'Musculoskeletal Ultrasound Technical Guidelines (VI. Ankle).' Eureopean Society of Muscloskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Cheung, Yvonne, and Zehava Sadka Rosenberg. 'MR Imaging of the Accessory Muscles around the Ankle.' Magnetic Resonance Imaging Clinics of North America 9, no. 3 (August 2001): 465–73, x."
+        },
+        {
+          "text": "Hodges, P.w., L.h.m. Pengel, R.d. Herbert, and S.c. Gandevia. 'Measurement of Muscle Contraction with Ultrasound Imaging.' Muscle & Nerve 27, no. 6 (June 1, 2003): 682–92. doi:10.1002/mus.10375."
+        },
+        {
+          "text": "Fessell, D P, G M Vanderschueren, J A Jacobson, R Y Ceulemans, A Prasad, J G Craig, J A Bouffard, K K Shirazi, and M T van Holsbeeck. 'US of the Ankle: Technique, Anatomy, and Diagnosis of Pathologic Conditions.' RadioGraphics 18, no. 2 (March 1, 1998): 325–40. doi:10.1148/radiographics.18.2.9536481."
+        },
+        {
+          "text": "Maganaris, Constantinos N. 'In Vivo Measurement-Based Estimations of the Moment Arm in the Human Tibialis Anterior Muscle-Tendon Unit.' Journal of Biomechanics 33, no. 3 (March 2000): 375–79. doi:10.1016/S0021-9290(99)00188-8."
+        },
+        {
+          "text": "Martinson, H., and M. J. Stokes. 'Measurement of Anterior Tibial Muscle Size Using Real-Time Ultrasound Imaging.' European Journal of Applied Physiology and Occupational Physiology 63, no. 3–4 (October 1, 1991): 250–54. doi:10.1007/BF00233856."
+        },
+        {
+          "text": "Patel, Smita, David P. Fessell, Jon A. Jacobson, Curtis W. Hayes, and Marnix T. van Holsbeeck. 'Artifacts, Anatomic Variants, and Pitfalls in Sonography of the Foot and Ankle.' American Journal of Roentgenology 178, no. 5 (May 1, 2002): 1247–54. doi:10.2214/ajr.178.5.1781247."
+        },
+        {
+          "text": "Schmidt, W. A., H. Schmidt, B. Schicke, and E. Gromnica-Ihle. 'Standard Reference Values for Musculoskeletal Ultrasonography.' Annals of the Rheumatic Diseases 63, no. 8 (August 1, 2004): 988–94. doi:10.1136/ard.2003.015081."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Pratical [sic] Guide. Milan; New York: Springer Milan, 2012."
+        }
+      ]
+    }
+  }
+}

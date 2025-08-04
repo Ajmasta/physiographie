@@ -1,0 +1,275 @@
+{
+  "title": "Achilles tendon",
+  "latinName": "Tendo calcaneus",
+  "normesEtGeneralites": {
+    "sectionTitle": "Norms and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Connected muscles", "header": true },
+          { "data": "Gastrocnemius, soleus, plantaris (which inserts into it)" }
+        ],
+        [
+          { "data": "Proximal attachment", "header": true },
+          {
+            "data": "Musculotendinous junction with soleus and extension towards gastrocnemius"
+          }
+        ],
+        [
+          { "data": "Insertion (distal)", "header": true },
+          { "data": "Calcaneus (posterior surface, center)" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative values",
+      "rangees": [
+        [
+          { "data": "Measurement", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Site", "header": true },
+          { "data": "Mean (standard error)", "header": true }
+        ],
+        [
+          { "data": "Thickness (cm)", "rowspan": 4 },
+          { "data": "Achilles tendon (healthy subjects)", "rowspan": 2 },
+          {
+            "data": "Midpoint between musculotendinous junction and calcaneal notch (A.T. insertion)"
+          },
+          { "data": "0.479 (0.006)<a href='#ref15' class='reference'>[15]</a>" }
+        ],
+        [
+          { "data": "Calcaneal notch (A.T. insertion)" },
+          { "data": "0.456 (0.005)<a href='#ref15' class='reference'>[15]</a>" }
+        ],
+        [
+          {
+            "data": "Achilles tendon (elite athletes [gymnasts])",
+            "rowspan": 2
+          },
+          {
+            "data": "Midpoint between musculotendinous junction and calcaneal notch (A.T. insertion)"
+          },
+          { "data": "0.583 (0.019)<a href='#ref15' class='reference'>[15]</a>" }
+        ],
+        [
+          { "data": "Calcaneal notch (A.T. insertion)" },
+          { "data": "0.490 (0.011)<a href='#ref15' class='reference'>[15]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject positioning",
+        "text": [
+          "Prone position, ankle and foot in dorsiflexion, extending beyond the end of the table"
+        ]
+      },
+      {
+        "subtitle": "Anatomical landmarks and palpation",
+        "text": [
+          "Locate and palpate the Achilles tendon to its calcaneal insertion at the posterior midline of the lower calf<a href='#ref10' class='reference'>[10]</a>"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/tendondAchille/vueLongitudinale/",
+        "objectifs": [
+          "Examination of the peritendinous sheath of the Achilles tendon<a href='#ref1' class='reference'>[1]</a>"
+        ],
+        "parametres": ["Depth: 2 cm", "Gain: 55-60"],
+        "positionnement": [
+          "Place the probe in longitudinal view (along the long axis of the tendon), approximately at the level of the medial malleolus",
+          "Slowly oscillate the probe medio-laterally across the tendon to cover its entire surface",
+          "Evaluate the tendon from the musculotendinous junction to the calcaneal insertion"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["TA"],
+                "texte": [
+                  "The Achilles tendon takes the form of a wide, slightly hyperechoic band, within which the striated organization of collagen fibers is clearly visible"
+                ]
+              },
+              {
+                "acronymes": ["C"],
+                "texte": [
+                  "The calcaneal cortical bone appears as a regular, slightly wavy hyperechoic line in the lower right quadrant of the image"
+                ]
+              },
+              {
+                "acronymes": ["CG"],
+                "texte": [
+                  "Below the Achilles tendon and to the left of the calcaneus lies Kager's fat pad, which appears as a disorganized hypoechoic triangular area"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Achilles tendon"
+              },
+              { "path": "identification3.jpg", "descriptionText": "Calcaneus" },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Kager's fat pad"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/tendondAchille/vueTransversale/",
+        "objectifs": [
+          "Measurement of Achilles tendon diameter (only in transverse plane<a href='#ref1' class='reference'>[1]</a>)",
+          "Examination of Achilles tendon integrity",
+          "Observation of pennation angle between gastrocnemius and soleus",
+          "Search for presence of plantaris muscle"
+        ],
+        "parametres": ["Depth: 2 cm", "Gain: 55-60"],
+        "positionnement": [
+          "Place the probe in transverse view (along the short axis of the tendon), approximately at the level of the medial malleolus",
+          "Slowly oscillate the probe medio-laterally across the tendon to cover its entire surface",
+          "Then evaluate the tendon from the musculotendinous junction to its calcaneal insertion"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["TA"],
+                "texte": [
+                  "The Achilles tendon appears as a large circular hyperechoic area in the center of the image"
+                ]
+              },
+              {
+                "acronymes": ["CG"],
+                "texte": ["Kager's fat pad is located deep to the tendon"]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Achilles tendon"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Kager's fat pad"
+              },
+              {
+                "path": "identification4.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomical Description",
+    "content": [
+      {
+        "text": [
+          "Easily accessible to palpation, the posterior aspect of the ankle is a region that lends itself very well to ultrasonographic examination. The anatomy of tendons in this region is limited to two elements: the Achilles tendon and the plantaris muscle tendon, which is not always present<a href='#ref4' class='reference'>[4]</a>. The Achilles tendon, or calcaneal tendon, is the distal extension of both the aponeurosis of the two gastrocnemius muscle bellies and the soleus muscle tendon.",
+          "The Achilles tendon is often referred to as the longest, strongest, and thickest tendon in the human body<a href='#ref2' class='reference'>[2]</a>: it indeed measures around 12 to 20 cm in length<a href='#ref2' class='reference'>[2]</a><a href='#ref14' class='reference'>[14]</a> with a cross-sectional area up to 65 mm2. Measurement during ultrasonographic evaluation of the Achilles tendon is normally performed in the transverse plane (short axis) since measurements made in the longitudinal plane tend to be overestimated (due to the oblique course of the tendon)<a href='#ref2' class='reference'>[2]</a>. At the calcaneal insertion, this same oblique course can create artifactual hypoechogenicity (wrongly suggesting tendinopathy), which disappears when the beam incidence angle is corrected<a href='#ref2' class='reference'>[2]</a>.",
+          "Many Achilles tendon injuries/ruptures occur between 2 and 6 cm proximal to its calcaneal insertion (which measures around 1 cm<a href='#ref2' class='reference'>[2]</a>), due to the relative decrease in vascularization in this region<a href='#ref4' class='reference'>[4]</a>. Furthermore, this tendon does not have a 'true' sheath, which explains why decreased echogenicity or the presence of fluid nearby may indicate paratenonitis.",
+          "Superficial to the tendon, there is a hyperechoic area compared to the center of the tendon: the paratenon. Deep to it lies Kager's fat pad<a href='#ref10' class='reference'>[10]</a>, a soft tissue area containing fat lobules. There are two bursae in the Achilles tendon region: the retrocalcaneal bursa, between the tendon and calcaneus, and the retroachilleal bursa, between the skin and tendon. The retroachilleal bursa is normally invisible in the absence of pathological mechanisms, while the retrocalcaneal bursa can measure up to 3 mm in thickness in a healthy subject<a href='#ref2' class='reference'>[2]</a>. The saphenous vein and sural nerve traverse the subcutaneous tissues at the posterolateral aspect of the ankle. Detection of the vein allows, by elimination, identification of the nerve, which is located on the medial side."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/tendondAchille/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Achilles Tendinopathy: Tendinosis",
+        "text": [
+          "Achilles tendinopathy is a clinical entity that encompasses two distinct conditions: tendinosis and paratenonitis (or tenosynovitis). These two conditions can hardly be distinguished based on signs and symptoms, while an ultrasonographic examination (as described above) allows for relatively easy differential diagnosis. In acute cases, Achilles tendinopathy typically presents with diffuse edema and pain/stiffness that may limit daily activities. In chronic stages, pain is notably less dominant in the clinical picture. It is often absent at rest and occurs during certain activities such as running (rarely during walking, except in severe cases). Diffuse tendon thickening may then be noted on palpation<a href='#ref2' class='reference'>[2]</a>.",
+          "In the presence of Achilles tendinosis, one can generally observe an intact and regular paratenon, along with a heterogeneous edematous tendon scattered with hypoechoic foci. Additionally, tendinosis is often bilateral.<a href='#ref2' class='reference'>[2]</a> Histopathological studies have shown that the structural changes observed in Achilles tendinosis are due to a degenerative mechanism (and the subsequent tissue repair) rather than an inflammatory mechanism<a href='#ref7' class='reference'>[7]</a>.",
+          "It should be noted that tendinosis and paratenonitis/tenosynovitis are quite distinct pathological entities, but they can very well coexist (simultaneously or not) in the same subject<a href='#ref2' class='reference'>[2]</a>."
+        ]
+      },
+      {
+        "subtitle": "Achilles Tendinopathy: Paratenonitis/tenosynovitis",
+        "text": [
+          "On ultrasonographic examination, Achilles paratenonitis, as opposed to tendinosis, is typically characterized by intact tendon interior, possibly irregular margins, and a heterogeneous, edematous paratenon with an 'adhesive' appearance (probably due to previous scarring process).<a href='#ref2' class='reference'>[2]</a>"
+        ]
+      },
+      {
+        "subtitle": "Achilles Tendon Rupture",
+        "text": [
+          "Achilles tendon ruptures are due to a slow, very progressive degenerative process within the substance of the tendon itself. The cascade begins with multiple microscopic lesions correlated with symptomatic episodes, which generally evolve into so-called 'interstitial' lesions (i.e., parallel to the long axis of the tendon)<a href='#ref2' class='reference'>[2]</a>.",
+          "If repeated (micro-) trauma to the tendon is maintained, interstitial lesions are followed by partial, then complete ruptures of the Achilles tendon, which are normally easily recognized clinically. Achilles tendon ruptures are more common in men, and certain predispositions have been raised in the literature, including advanced age, sedentary lifestyle, and decreased blood supply. Additionally, it should be noted that certain sports activities are considered higher risk, including running and soccer (football)<a href='#ref2' class='reference'>[2]</a>.",
+          "The ultrasonographic appearance of a complete Achilles tendon lesion is as follows: a focal hypo-/anechoic area of discontinuity in the tendon substance filled with hematoma<a href='#ref5' class='reference'>[5]</a>. It is also possible to observe a gap between the two tendon margins that can measure up to 20 mm<a href='#ref2' class='reference'>[2]</a>."
+        ]
+      },
+      {
+        "subtitle": "Calcaneal Enthesophyte",
+        "text": [
+          "The term 'calcaneal enthesophyte' refers to a pathological process in which progressive calcification of the Achilles tendon (at the calcaneal insertion) occurs. This is the most frequent condition of heterotopic ossification/calcification at the Achilles tendon insertion.",
+          "This phenomenon is especially found in runners and can be a source of pain, especially when the condition causes deformities and/or outgrowths within the Achilles tendon<a href='#ref2' class='reference'>[2]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See also",
+      "content": [
+        {
+          "linkTitle": "Soleus / Achilles tendon junction",
+          "link": "/protocoles/cheville-et-pied/jonction-soleaire-tendon-d-achille/"
+        },
+        {
+          "linkTitle": "Gastrocnemius / soleus junction",
+          "link": "/protocoles/cheville-et-pied/jonction-gastrocnemiens-soleaire"
+        },
+        {
+          "linkTitle": "Plantar fascia",
+          "link": "/protocoles/cheville-et-pied/fascia-plantaire"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angelo Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. 'Musculoskeletal Ultrasound Technical Guidelines (VI. Ankle).' European Society of Musculoskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Hollenberg, G. M., M. J. Adams, and E. P. Weinberg. 'Sonographic Appearance of Nonoperatively Treated Achilles Tendon Ruptures.' Skeletal Radiology 29, no. 5 (May 1, 2000): 259–64. doi:10.1007/s002560050604."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Kainberger, F M, A Engel, P Barton, P Huebsch, A Neuhold, and E Salomonowitz. 'Injury of the Achilles Tendon: Diagnosis with Sonography.' American Journal of Roentgenology 155, no. 5 (November 1, 1990): 1031–36. doi:10.2214/ajr.155.5.2120931."
+        },
+        {
+          "text": "Stenroth, Lauri, Jussi Peltonen, Neil J. Cronin, Sarianna Sipilä, and Taija Finni. 'Age-Related Differences in Achilles Tendon Properties and Triceps Surae Muscle Architecture in Vivo.' Journal of Applied Physiology 113, no. 10 (November 15, 2012): 1537–44. doi:10.1152/japplphysiol.00782.2012."
+        },
+        {
+          "text": "Emerson, Claire, Dylan Morrissey, Mark Perry, and Rosy Jalan. 'Ultrasonographically Detected Changes in Achilles Tendons and Self Reported Symptoms in Elite Gymnasts Compared with Controls--an Observational Study.' Manual Therapy 15, no. 1 (February 2010): 37-42. doi:10.1016/j.math.2009.05.008."
+        }
+      ]
+    }
+  }
+}

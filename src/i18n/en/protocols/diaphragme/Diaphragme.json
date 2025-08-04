@@ -1,0 +1,510 @@
+{
+  "title": "Diaphragm",
+  "latinName": "diaphragma",
+  "normesEtGeneralites": {
+    "sectionTitle": "General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Muscle type", "header": true },
+          {
+            "data": "Muscle composed of a dome-shaped musculoaponeurotic partition concave downward separating the thorax from the abdomen"
+          }
+        ],
+        [
+          { "data": "Origin", "header": true },
+          {
+            "data": "Phrenic center of the diaphragm, composed of two asymmetric diaphragmatic domes whose peaks, higher on the right, are at the level of the 4th or 5th intercostal space and, on the left, at the level of the 5th or 6th intercostal space"
+          }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          {
+            "data": "Xiphoid process, internal surfaces of the 7th to 12th costal cartilages, medial and lateral borders of the arcuate ligament of the diaphragm, and from the 1st to 3rd lumbar vertebrae. The portion of the diaphragm in contact with the rib cage is called the zone of apposition (ZOA) located between the 8th and 10th intercostal spaces of the midaxillary or anterior axillary line"
+          }
+        ],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Phrenic nerve (C3-C5)" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative values",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Measurement", "header": true },
+          { "data": "Mean ± standard deviation", "header": true }
+        ],
+        [
+          { "data": "Diaphragm thickness at rest", "rowspan": 1 },
+          { "data": "mm" },
+          { "data": "1.6-1.9" }
+        ]
+      ]
+    }
+  },
+
+  "technique": {
+    "content": [],
+    "sectionTitle": "Technique",
+    "vues": [
+      {
+        "title": "Zone of Apposition (ZOA) View",
+        "source": "/Protocols/diaphragme/",
+        "parametres": [
+          "Depth: 1.5-3cm",
+          "Probe: Linear",
+          "Frequency: 7-18MHz",
+          "Mode: B and/or M"
+        ],
+        "positionnementPatient": [
+          "Standing, sitting, semi-reclined or supine",
+          "Results depend on patient positioning; it has been shown that diaphragmatic thickness is greater in standing and sitting positions compared to supine <a href='#ref2' class='reference'>[2]</a>.",
+          "Supine position is preferred for better reproducibility and less variability <a href='#ref1' class='reference'>[1]</a>.",
+          "The thickening ratio is not different between sitting, standing, and supine positions <a href='#ref2' class='reference'>[2]</a>."
+        ],
+        "positionnement": [
+          "Longitudinal orientation",
+          "At the level of the 8th or 9th intercostal space between the midaxillary line and the anterior axillary line"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "imageSujet1.jpg",
+            "descriptionText": "8ICS: 8th intercostal space, 9ICS: 9th intercostal space, AAL: anterior axillary line, MAL: midaxillary line"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["C"],
+                "texte": ["Rib shadow"]
+              },
+              {
+                "acronymes": ["Ca"],
+                "texte": ["Caudal direction"]
+              },
+              {
+                "acronymes": ["Cr"],
+                "texte": ["Cranial direction"]
+              },
+              {
+                "acronymes": ["D"],
+                "texte": ["Diaphragm"]
+              },
+              {
+                "acronymes": ["F"],
+                "texte": ["Liver"]
+              },
+              {
+                "acronymes": ["IC"],
+                "texte": ["Intercostal muscles"]
+              },
+              {
+                "acronymes": ["Pé"],
+                "texte": ["Peritoneum"]
+              },
+              {
+                "acronymes": ["Pl"],
+                "texte": ["Pleura"]
+              }
+            ],
+            "imageIdentification": [
+              {
+                "path": "identificationZOA1.jpg",
+                "descriptionText": "In B-mode when the diaphragm is at end-expiration"
+              },
+              {
+                "path": "identificationZOA2.jpg",
+                "descriptionText": "In B-mode when the diaphragm is at end-inspiration"
+              },
+              {
+                "path": "identificationZOA3.jpg",
+                "descriptionText": "In M-mode during the respiratory cycle"
+              }
+            ]
+          }
+        ],
+        "video": {
+          "path": "zonedApposition.mp4"
+        },
+        "valeursRefPathologies": [
+          "Diaphragm thickness and dysfunction:",
+          [
+            "A difference between left and right hemidiaphragm of 0.33 cm is abnormal <a href='#ref3' class='reference'>[3]</a>.",
+            "A thickness at FRC < 0.2 cm AND thickening < 20% are indicative of diaphragmatic paralysis <a href='#ref8' class='reference'>[8]</a>.",
+            "In chronic diaphragmatic paralysis, diaphragm thickness is < 0.2 cm, while in acute diaphragmatic paralysis, thickness may not necessarily be affected <a href='#ref9' class='reference'>[9]</a>."
+          ],
+          "Mechanical ventilator weaning in intensive care:",
+          [
+            "Thickening fraction threshold values, measured at the right hemidiaphragm, for successful extubation:",
+            "> 36% with sensitivity 0.82, specificity 0.88, positive predictive value 0.92 and negative predictive value 0.75 <a href='#ref10' class='reference'>[10]</a>",
+            "≥ 26% with sensitivity 0.96, specificity 0.68, positive predictive value 0.89 and negative predictive value 0.86 <a href='#ref11' class='reference'>[11]</a>"
+          ],
+          "Relationship between diaphragm thickness and extubation success, from Canadian critical care <a href='#ref12' class='reference'>[12]</a>:",
+          [
+            "After 4 days of mechanical ventilation, 40% of ventilated patients show decreased diaphragm thickness, and consequently, decreased ventilator weaning success rate <a href='#ref8' class='reference'>[8]</a>.",
+            "Conversely, some ventilated patients show increased diaphragm thickness, and consequently, decreased ventilator weaning success rate <a href='#ref12' class='reference'>[12]</a>.",
+            "The increase in diaphragm thickness during ventilation has not yet been explained, but high inspiratory effort was associated with increased diaphragm thickness <a href='#ref12' class='reference'>[12]</a>.",
+            "Other studies have noted a linear relationship between diaphragm thickness and ventilator weaning success <a href='#ref8' class='reference'>[8]</a>."
+          ],
+          "Elastography (kPa) in COPD:",
+          [
+            "FRC: 33.25 ± 10.76, TLC: 35.83 ± 8.64 <a href='#ref7' class='reference'>[7]</a>"
+          ],
+          "Pre-operative screening for cardiac surgery:",
+          [
+            "A thickening fraction < 38.1% is a predictive factor for post-operative pulmonary complications <a href='#ref13' class='reference'>[13]</a>."
+          ]
+        ],
+        "normes": [
+          [
+            { "data": "Measurement", "header": true },
+            { "data": "Position", "header": true },
+            { "data": "Value and standard deviation", "header": true },
+            { "data": "Range", "header": true },
+            { "data": "Lower limit of normal", "header": true }
+          ],
+          [
+            {
+              "data": "A difference of 0.33 between hemidiaphragms should be considered abnormal <a href='#ref3' class='reference'>[3]</a>",
+              "colspan": 3
+            }
+          ],
+          [
+            {
+              "data": "Geometric: <br /> Thickening ratio (TLC thickness / FRC thickness)",
+              "rowspan": 4
+            },
+            {
+              "data": "Supine <a href='#ref3' class='reference'>[3]</a>",
+              "rowspan": 4
+            },
+            {
+              "data": "<span class='cell-centered'>Right hemidiaphragm</span>",
+              "colspan": 3
+            }
+          ],
+          [
+            { "data": "♂: 1.8 ± 0.5 <br /> ♀: 1.8 ± 0.5" },
+            { "data": "♂: (1.17 – 3.9) <br /> ♀: (1.1 – 3.6)" },
+            { "data": "" }
+          ],
+          [
+            {
+              "data": "<span class='cell-centered'>Left hemidiaphragm</span>",
+              "colspan": 3
+            }
+          ],
+          [
+            { "data": "♂: 2.0 ± 0.5 <br /> ♀: 1.9 ± 0.5" },
+            { "data": "♂: (1.1 – 3.5) <br /> ♀: (1.1 – 4.2)" },
+            { "data": "" }
+          ],
+          [
+            {
+              "data": "Geometric: <br /> Thickening fraction (% = (TLC thickness - FRC thickness) / FRC thickness x 100)",
+              "rowspan": 5
+            },
+            {
+              "data": "Standing <a href='#ref4' class='reference'>[4]</a>",
+              "rowspan": 2
+            },
+            {
+              "data": "<span class='cell-centered'>Right hemidiaphragm</span>",
+              "colspan": 3
+            }
+          ],
+          [{ "data": "174" }, { "data": "(151 – 197)" }, { "data": "" }],
+          [
+            {
+              "data": "Sitting <a href='#ref4' class='reference'>[4]</a>"
+            },
+            { "data": "97" },
+            { "data": "(83 – 110)" },
+            { "data": "" }
+          ],
+          [
+            {
+              "data": "Semi-reclined <a href='#ref5' class='reference'>[5]</a>"
+            },
+            { "data": "♂: 204 ± 62 <br /> ♀: 170 ± 44" },
+            { "data": "" },
+            { "data": "♂: 80 <br /> ♀: 82" }
+          ],
+          [
+            {
+              "data": "Supine <a href='#ref4' class='reference'>[4]</a>"
+            },
+            { "data": "65" },
+            { "data": "(61 – 69)" },
+            { "data": "" }
+          ],
+          [
+            {
+              "data": "Echogenicity: on a scale of 0-255 <a href='#ref6' class='reference'>[6]</a> *"
+            },
+            { "data": "" },
+            { "data": "♂: 70.4 ± 13.5 ** <br /> ♀: 72.3 ±15.0 **" },
+            { "data": "" },
+            { "data": "" }
+          ],
+          [
+            { "data": "Elastography / Shear modulus (kPa)", "rowspan": 2 },
+            {
+              "data": "Supine <a href='#ref7' class='reference'>[7]</a>",
+              "rowspan": 2
+            },
+            {
+              "data": "<span class='cell-centered'>Right hemidiaphragm</span>",
+              "colspan": 3
+            }
+          ],
+          [
+            { "data": "FRC: 38.49 ± 9.42 <br /> TLC: 51.84 ±16.83" },
+            { "data": "" },
+            { "data": "" }
+          ]
+        ]
+      },
+
+      {
+        "title": "Anterior Subcostal View",
+        "source": "/Protocols/diaphragme/",
+        "parametres": [
+          "Depth: 1.5-3cm",
+          "Probe: Curvilinear",
+          "Frequency: 2.5-5.0MHz <a href='#ref1' class='reference'>[1]</a>",
+          "Mode: For diaphragm localization: B, For measurement: M"
+        ],
+        "positionnement": [
+          "Transverse orientation",
+          "Placement under the rib cage between the midclavicular line and the anterior axillary line",
+          "Wave direction posterior, medial and cranial"
+        ],
+        "positionnementPatient": [
+          "Standing, sitting, semi-reclined or supine",
+          "Results depend on patient positioning; it has been shown that excursion in supine position is greater than in sitting or standing position <a href='#ref15' class='reference'>[15]</a>."
+        ],
+        "imagePositionnement": [
+          {
+            "path": "identificationSubcostal.jpg",
+            "descriptionText": "AAL: anterior axillary line, MCL: midclavicular line"
+          }
+        ],
+        "video": {
+          "path": "vueSubcostale.mp4"
+        },
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["De"],
+                "texte": ["Diaphragm at end-expiration"]
+              },
+              {
+                "acronymes": ["Di"],
+                "texte": ["Diaphragm at end-inspiration"]
+              },
+              {
+                "acronymes": ["F"],
+                "texte": ["Liver"]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identificationSubcostal1.jpg", "descriptionText": "" },
+              { "path": "identificationSubcostal2.jpg", "descriptionText": "" },
+              { "path": "identificationSubcostal3.jpg", "descriptionText": "" }
+            ]
+          }
+        ],
+        "valeursRefPathologies": [
+          "Excursion: Paralysis/Diaphragmatic Dysfunction",
+          [
+            "At tidal volume, in the presence of paralysis, there is either no movement or paradoxical movement (cranial) ≤ 0.5cm of the affected hemidiaphragm <a href='#ref8' class='reference'>[8]</a>.",
+            "During deep breathing (FRC → TLC), paradoxical movement (cranial) ≥ 0.1cm of the affected hemidiaphragm may be observed <a href='#ref8' class='reference'>[8]</a>.",
+            "The healthy hemidiaphragm in a subject with diaphragmatic paralysis may have increased excursion compared to the normative value of a control patient <a href='#ref8' class='reference'>[8]</a>."
+          ]
+        ],
+        "normes": [
+          [
+            { "data": "Measurement", "header": true },
+            { "data": "Position", "header": true },
+            { "data": "Value and standard deviation", "header": true },
+            { "data": "Range", "header": true },
+            { "data": "Lower limit of normal", "header": true }
+          ],
+          [
+            {
+              "data": "Velocity (cm/s)",
+              "rowspan": 5
+            },
+            {
+              "data": "<span class='cell-centered'>Right hemidiaphragm</span>",
+              "colspan": 4
+            }
+          ],
+          [
+            { "data": "Sitting <a href='#ref16' class='reference'>[16]</a>" },
+            { "data": "♂: 1.97 ± 0.57 <br /> ♀: 1.94 ± 0.72" },
+            { "data": "" },
+            { "data": "" }
+          ],
+          [
+            {
+              "data": "Semi-reclined at 30-45⁰ <a href='#ref17' class='reference'>[17]</a>"
+            },
+            { "data": "♂ and ♀: 1.3 ± 0.4" },
+            { "data": "" },
+            { "data": "" }
+          ],
+          [
+            {
+              "data": "<span class='cell-centered'>Left hemidiaphragm</span>",
+              "colspan": 4
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomical Description",
+    "content": [
+      {
+        "text": [
+          "The diaphragm is the main muscle of respiration. Diaphragm contraction can be involuntary or voluntary, and its innervation comes from the phrenic nerve (C3-C4-C5). The diaphragm is primarily composed of a musculoaponeurotic partition separating the thorax from the abdomen with a dome-like appearance concave downward. It originates from the phrenic center of the diaphragm, composed of two asymmetric domes whose peaks, higher on the right, are at the level of the 4th or 5th intercostal space and on the left at the level of the 5th or 6th intercostal space. It then inserts on the xiphoid process, the internal surfaces of the 7th to 12th costal cartilages, the medial and lateral borders of the arcuate ligament of the diaphragm, and from the 1st to 3rd lumbar vertebrae.",
+          "There is a muscular portion of the diaphragm that is in contact with the rib cage; this portion is called the zone of apposition (ZOA). The ZOA is located between the 8th and 10th intercostal spaces, between the midaxillary line and the anterior axillary line. The upper part of the diaphragm is in contact with the pleura and pericardium while the lower part is attached to the peritoneum. Under the right hemidiaphragm, we find the liver and right kidney, and under the left hemidiaphragm, we find the stomach, spleen, colic angle, and left kidney."
+        ]
+      }
+    ],
+    "images": [
+      {
+        "path": "descriptionAnatomique.jpg",
+        "descriptionText": "Sarwal A, Walker FO, Cartwright MS. Neuromuscular ultrasound for evaluation of the diaphragm. Muscle Nerve. 2013;47(3):319-29."
+      }
+    ],
+    "source": "/Protocols/diaphragme/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Diaphragmatic dysfunction:",
+        "text": [
+          "Monitoring recovery of diaphragmatic function <a href='#ref8' class='reference'>[8]</a>",
+          "Scoliosis can be a source of diaphragmatic dysfunction and respiratory function impairment <a href='#ref20' class='reference'>[20]</a>.",
+          "Diaphragmatic paralysis can be iatrogenic or neurological (stroke, spinal cord injury, etc.) <a href='#ref14' class='reference'>[14]</a>.",
+          "Biofeedback can be used in the treatment of diaphragmatic dysfunction <a href='#ref20' class='reference'>[20]</a>."
+        ]
+      },
+      {
+        "subtitle": "Mechanically ventilated / critically ill patients:",
+        "text": [
+          "Analysis of diaphragmatic function <a href='#ref21' class='reference'>[21]</a>",
+          "Estimation of ventilatory support weaning success <a href='#ref22' class='reference'>[22]</a>"
+        ]
+      },
+      {
+        "subtitle": "Cardiac surgery:",
+        "text": [
+          "Phrenic nerve injury post-cardiac surgery <a href='#ref21' class='reference'>[21]</a>",
+          "Preoperative predictive measurement for post-operative pulmonary complications (see ZOA observation) in cardiac surgery cases <a href='#ref12' class='reference'>[12]</a>"
+        ]
+      },
+      {
+        "subtitle": "Evaluation of the diaphragm in patients living with chronic obstructive pulmonary disease <a href='#ref1' class='reference'>[22]</a>",
+        "text": ["Complementary monitoring to respiratory function"]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See also",
+      "content": [
+        {
+          "linkTitle": "Abdominal muscles",
+          "link": "protocoles/tronc/muscle-droit-abdominal"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Santana PV, Cardenas LZ, Albuquerque ALP, Carvalho CRR, Caruso P. Diaphragmatic ultrasound: a review of its methodological aspects and clinical uses. J Bras Pneumol. 2020;46(6):e20200064."
+        },
+        {
+          "text": "Hellyer NJ, Bernstetter AS, Cieslak KR, Donahue GF, Steiner EA, et al. Comparison of diaphragm thickness measurements among postures via ultrasound imaging. PM&R. 2016;9(1):21-5."
+        },
+        {
+          "text": "Boon AJ, Harper CJ, Ghahfarokhi LS, Strommen JA, Watson JC, Sorenson EJ. Two-dimensional ultrasound imaging of the diaphragm: quantitative values in normal subjects. Muscle Nerve. 2013;47(6):884-9."
+        },
+        {
+          "text": "Brown C, Tseng SC, Mitchell K, Roddey T. Body Position Affects Ultrasonographic Measurement of Diaphragm Contractility. Cardiopulm Phys Ther J. 2018;29(4):166-72."
+        },
+        {
+          "text": "Cardenas LZ, Santana PV, Caruso P, Ribeiro de Carvalho CR, Pereira de Albuquerque AL. Diaphragmatic Ultrasound Correlates with Inspiratory Muscle Strength and Pulmonary Function in Healthy Subjects. Ultrasound Med Biol. 2018;44(4):786-93."
+        },
+        {
+          "text": "van Doorn JLM, Wijntjes J, Saris CGJ, Ottenheijm CAC, van Alfen N, Doorduin J. Association of diaphragm thickness and echogenicity with age, sex, and body mass index in healthy subjects. Muscle Nerve. 2022;66(2):197-202."
+        },
+        {
+          "text": "Sendur HN, Cerit MN, Sendur AB, Ozhan Oktar S, Yucel C. Evaluation of Diaphragm Thickness and Stiffness Using Ultrasound and Shear-Wave Elastography. Ultrasound Q. 2022;38(1):89-93."
+        },
+        {
+          "text": "Laghi FA, Jr., Saad M, Shaikh H. Ultrasound and non-ultrasound imaging techniques in the assessment of diaphragmatic dysfunction. BMC Pulm Med. 2021;21(1):85."
+        },
+        {
+          "text": "Boussuges A, Bregeon F, Blanc P, Gil JM, Poirette L. Characteristics of the paralysed diaphragm studied by M-mode ultrasonography. Clin Physiol Funct Imaging. 2019;39(2):143-9."
+        },
+        {
+          "text": "Ferrari G, De Filippi G, Elia F, Panero F, Volpicelli G, Apra F. Diaphragm ultrasound as a new index of discontinuation from mechanical ventilation. Crit Ultrasound J. 2014;6(1):8."
+        },
+        {
+          "text": "Pirompanich P, Romsaiyut S. Use of diaphragm thickening fraction combined with rapid shallow breathing index for predicting success of weaning from mechanical ventilator in medical patients. J Intensive Care. 2018;6:6."
+        },
+        {
+          "text": "Goligher EC, Dres M, Fan E, Rubenfeld GD, Scales DC, Herridge MS, et al. Mechanical Ventilation-induced Diaphragm Atrophy Strongly Impacts Clinical Outcomes. Am J Respir Crit Care Med. 2018;197(2):204-13."
+        },
+        {
+          "text": "Cavayas YA, Rodrigue É, Lamarche Y, Girard M, Wang HT, et al. Preoperative diaphragm function is associated with postoperative pulmonary complications after cardiac surgery. Critical Care Medicine. 2019;47(12)."
+        },
+        {
+          "text": "Wormser J, Le Neindre A. L'échographie du diaphragme: principes et intérêts pour le kinésithérapeute. Kinesither. 2017;17(182):66."
+        },
+        {
+          "text": "Boussuges A, Rives S, Finance J, Bregeon F. Assessment of diaphragmatic function by ultrasonography: Current approach and perspectives. World J Clin Cases. 2020;8(12):2408-24."
+        },
+        {
+          "text": "Boussuges A, Chaumet G, Boussuges M, Menard A, Delliaux S, Bregeon F. Ultrasound assessment of the respiratory system using diaphragm motion-volume indices. Front Med (Lausanne). 2023;10:1190891."
+        },
+        {
+          "text": "Soilemezi E, Tsagourias M, Talias MA, Soteriades ES, Makrakis V, Zakynthinos E, et al. Sonographic assessment of changes in diaphragmatic kinetics induced by inspiratory resistive loading. Respirology. 2013;18(3):468-73."
+        },
+        {
+          "text": "Boussuges A, Gole Y, Blanc P. Diaphragmatic motion studied by m-mode ultrasonography: methods, reproducibility, and normal values. Chest. 2009;135(2):391-400."
+        },
+        {
+          "text": "Scarlata S, Mancini D, Laudisio A, Benigni A, Antonelli Incalzi R. Reproducibility and Clinical Correlates of Supine Diaphragmatic Motion Measured by M-Mode Ultrasonography in Healthy Volunteers. Respiration. 2018;96(3):259-66."
+        },
+        {
+          "text": "Ellis R, Helsby J, Naus J, Bassett S, Fernandez-de-Las-Penas C, Carnero SF, et al. Exploring the use of ultrasound imaging by physiotherapists: An international survey. Musculoskelet Sci Pract. 2020;49:102213."
+        },
+        {
+          "text": "Fayssoil A, Mansencal N, Nguyen LS, Orlikowski D, Prigent H, Bergounioux J, et al. Diaphragm Ultrasound in Cardiac Surgery: State of the Art. Medicines (Basel). 2022;9(1)."
+        },
+        {
+          "text": "Lewinska A, Shahnazaryan K. The Use of Diaphragm Ultrasonography in Pulmonary Physiotherapy of COPD Patients: A Literature Review. J Clin Med. 2020;9(11)."
+        },
+        {
+          "text": "Sarwal A, Walker FO, Cartwright MS. Neuromuscular ultrasound for evaluation of the diaphragm. Muscle Nerve. 2013;47(3):319-29."
+        }
+      ]
+    }
+  }
+}

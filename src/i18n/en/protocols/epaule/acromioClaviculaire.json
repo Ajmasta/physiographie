@@ -1,0 +1,254 @@
+{
+  "title": "Acromioclavicular Joint",
+  "latinName": "Articulatio acromioclavicularis",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Joint Type", "header": true, "colspan": 2 },
+          { "data": "Plane synovial joint (arthrodial)" }
+        ],
+        [
+          {
+            "data": "Articular Surfaces",
+            "header": true,
+            "colspan": 2,
+            "rowspan": 2
+          },
+          { "data": "Medial border of acromion (scapula)" }
+        ],
+        [{ "data": "Lateral border of clavicle" }],
+        [
+          {
+            "data": "Articular Surface Orientation",
+            "header": true,
+            "colspan": 2
+          },
+          { "data": "Oblique: superior to inferior, lateral to medial" }
+        ],
+        [
+          {
+            "data": "Stabilizing Structures",
+            "header": true,
+            "rowspan": 6
+          },
+          { "data": "Intra-articular", "rowspan": 2 }
+        ],
+        [{ "data": "Acromioclavicular ligament" }],
+        [
+          { "data": "Extra-articular", "rowspan": 4 },
+          { "data": "Conoid ligament (coracoclavicular)" }
+        ],
+        [{ "data": "Trapezoid ligament (coracoclavicular)" }],
+        [{ "data": "Internal coracoclavicular ligament" }],
+        [{ "data": "Coracoacromial ligament" }],
+        [
+          { "data": "Stressed During", "header": true, "colspan": 2 },
+          { "data": "Primarily shoulder flexion-extension" }
+        ],
+        [
+          { "data": "Degrees of Freedom", "header": true, "colspan": 2 },
+          {
+            "data": "(Varies by author) 2: Rotation (internal/external), Tilt (anterior/posterior)"
+          }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [
+        [
+          { "data": "Measurement", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plane", "header": true },
+          { "data": "Mean ± SD", "header": true }
+        ],
+        [
+          { "data": "Distance (cm)", "rowspan": 3 },
+          {
+            "data": "Joint space at cranial aspect of clavicle and acromion"
+          },
+          { "data": "Transverse Plane", "rowspan": 3 },
+          { "data": "0.52 ± 0.16 <a href='#ref4' class='reference'>[4]</a>" }
+        ],
+        [
+          { "data": "Medial border of acromion to capsule" },
+          { "data": "0.25 ± 0.09 <a href='#ref5' class='reference'>[5]</a>" }
+        ],
+        [
+          { "data": "Medial border of clavicle to capsule" },
+          { "data": "0.17 ± 0.07 <a href='#ref5' class='reference'>[5]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Seated with shoulder exposed",
+          "Shoulder:",
+          ["Relaxed: neutral position in flexion - abduction - rotation"],
+          "Elbow:",
+          [
+            "90° flexion",
+            "Full supination (back of hand resting on ipsilateral thigh)"
+          ]
+        ]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "The acromioclavicular joint can be palpated by locating the acromion and moving slightly medially. The clavicle is typically elevated relative to the acromion."
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/AcromioClavicular/vueLongitudinale/",
+        "objectifs": [
+          "Examination of the acromioclavicular ligament",
+          "Examination of the coracoclavicular ligaments",
+          "Observation of the acromioclavicular space"
+        ],
+        "parametres": ["Depth: 2-3 cm", "Gain: 70-75"],
+        "positionnement": [
+          "Place the probe in the frontal (coronal) plane, or nearly aligned with the long axis of the clavicle (at the anterior aspect of the acromioclavicular joint)",
+          "Scan the probe slightly in an anteroposterior direction to properly evaluate the entire joint"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positioning1.jpg",
+            "descriptionText": "Probe position (front view)"
+          },
+          {
+            "path": "positioning2.jpg",
+            "descriptionText": "Probe position (back view)"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["A"],
+                "texte": [
+                  "The acromion, located on the right side of the image, appears as an almost triangular hypoechoic area"
+                ]
+              },
+              {
+                "acronymes": ["C"],
+                "texte": [
+                  "The clavicle, just to the left of the acromion, has a very similar ultrasonographic appearance to the acromion. The clavicle is often more superior (cranial) than the acromion (not very evident here)"
+                ]
+              },
+              {
+                "acronymes": ["ACL"],
+                "texte": [
+                  "The (superior) acromioclavicular ligament is visible at the top of the image, where it can be seen connecting the medial end of the acromion to the lateral border of the clavicle. It appears as a hyperechoic arch-shaped area (the ends are less hyperechoic due to the anisotropy characteristic of ligaments)."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "longitudinal1.jpg", "descriptionText": "" },
+              { "path": "longitudinal2.jpg", "descriptionText": "Acromion" },
+              { "path": "longitudinal3.jpg", "descriptionText": "Clavicle" },
+              {
+                "path": "longitudinal4.jpg",
+                "descriptionText": "Acromioclavicular ligament"
+              },
+              { "path": "longitudinal5.jpg", "descriptionText": "" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The acromioclavicular joint is located at the distal portion of the shoulder and is easily palpable due to its superficial location and the bony prominences that constitute it. It is an intrinsically unstable joint due to the poor congruence of its articular surfaces, which are flat relative to each other.",
+          "The two bones forming this joint, the clavicle and scapula, are connected in two ways: through the acromioclavicular joint and through the coracoclavicular ligaments. Additionally, in approximately 1/3 of cases, the articular congruence between the clavicle and acromion is enhanced by the presence of an intra-articular fibrocartilage, or meniscus.",
+          "This joint participates to varying degrees in various shoulder movements, with flexion-extension being generally considered the most important movement. Although the relationship between global shoulder movement dynamics and the arthrokinematics of each joint does not have absolute consensus, it can be stated that between extreme shoulder positions, the acromioclavicular joint has a range of motion of approximately 20 to 30 degrees.",
+          "The acromioclavicular joint's inferior (caudal) dislocation is restrained by certain fibers of the coracoacromial ligament. Superior stabilization is provided by the coracoclavicular ligaments.",
+          "Due to the obliquity of the surfaces forming the acromioclavicular joint, any movement of the scapula toward the midline (in the frontal plane) induces lateral gliding and concurrent elevation of the clavicle. The two coracoclavicular ligaments (conoid and trapezoid) have the primary mechanical function of absorbing cranial-caudal and medio-lateral shear induced by shoulder girdle muscle activation.",
+          "The coracoclavicular ligaments are generally poorly accessible to ultrasonographic evaluation of the shoulder due to the shadow cast by the clavicle, which covers them."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/AcromioClavicular/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Widening of the Acromioclavicular Space",
+        "text": [
+          "Ultrasonographic examination of the acromioclavicular joint can reveal widening of the space within the acromioclavicular joint"
+        ]
+      },
+      {
+        "subtitle": "Suspected Acromioclavicular Ligament Rupture",
+        "text": [
+          "During direct or indirect shoulder trauma, the stabilizers of the acromioclavicular joint may undergo partial or complete ruptures. Ultrasonography can aid diagnosis by identifying the injured structures and their respective degree of involvement"
+        ]
+      },
+      {
+        "subtitle": "Routine Evaluation",
+        "text": [
+          "The symptoms of acromioclavicular joint involvement are often similar to those of rotator cuff pathology. Thus, the acromioclavicular joint is part of the routine shoulder evaluation."
+        ]
+      },
+      {
+        "subtitle": "Os Acromiale",
+        "text": [
+          "Often an incidental finding (as it is frequently asymptomatic), an os acromiale can be identified during evaluation of the acromioclavicular joint. This is an anatomical variant present in approximately 8% of the population where the acromion tip is not fused and can result in an additional cartilaginous joint between the clavicle and acromion"
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Supraspinatus & Subacromial Space",
+          "link": "protocoles/epaule/sus-epineux-et-espace-sous-acromial"
+        },
+        {
+          "linkTitle": "Supraspinatus (Anterolateral Region)",
+          "link": "protocoles/epaule/sus-epineux"
+        },
+        {
+          "linkTitle": "Biceps Brachii",
+          "link": "protocoles/epaule/biceps-brachial"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Jacobson, Jon A. \"Shoulder US: Anatomy, Technique, and Scanning Pitfalls.\" Radiology 260, no. 1 (July 1, 2011): 6–16. doi:10.1148/radiol.11101082."
+        },
+        {
+          "text": "Yu, Tung-Yang, Wen-Chung Tsai, Ju-Wen Cheng, Yun-Ming Yang, Fang-Chen Liang, and Chien-Hung Chen. \"The Effects of Aging on Quantitative Sonographic Features of Rotator Cuff Tendons.\" Journal of Clinical Ultrasound: JCU 40, no. 8 (October 2012): 471–78. doi:10.1002/jcu.21919."
+        },
+        {
+          "text": "Kumar, Praveen, Jo Chetwynd, Arwel Evans, Gemma Wardle, Caroline Crick, and Belinda Richardson. \"Interrater and Intrarater Reliability of Ultrasonographic Measurements of Acromion-Greater Tuberosity Distance in Healthy People.\" Physiotherapy Theory and Practice 27, no. 2 (February 2011): 172–75. doi:10.3109/09593985.2010.481012."
+        }
+      ]
+    }
+  }
+}

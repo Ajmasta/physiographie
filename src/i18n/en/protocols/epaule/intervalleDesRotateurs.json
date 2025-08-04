@@ -1,0 +1,254 @@
+{
+  "title": "Rotator Interval",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Bounded by", "header": true, "rowspan": 2 },
+          { "data": "Subscapularis tendon" }
+        ],
+        [{ "data": "Supraspinatus tendon" }],
+        [
+          { "data": "Contains", "header": true, "rowspan": 3 },
+          { "data": "Long head of biceps tendon" }
+        ],
+        [{ "data": "Coracohumeral ligament" }],
+        [{ "data": "Superior glenohumeral ligament" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [
+        [
+          { "data": "Measurement", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plane", "header": true },
+          { "data": "Mean ± SD", "header": true }
+        ],
+        [
+          { "data": "Tendon thickness (mm)", "rowspan": 6 },
+          { "data": "Long head of biceps brachii", "rowspan": 2 },
+          { "data": "Transverse plane" },
+          { "data": "3.03 ± 0.63 <a href='#ref3' class='reference'>[3]</a>" }
+        ],
+        [
+          { "data": "Longitudinal plane" },
+          { "data": "3.27 ± 0.83 <a href='#ref3' class='reference'>[3]</a>" }
+        ],
+        [
+          { "data": "Subscapularis", "rowspan": 2 },
+          { "data": "Transverse plane" },
+          { "data": "5.07 ± 0.97 <a href='#ref3' class='reference'>[3]</a>" }
+        ],
+        [
+          { "data": "Longitudinal plane" },
+          { "data": "4.67 ± 0.87 <a href='#ref3' class='reference'>[3]</a>" }
+        ],
+        [
+          { "data": "Supraspinatus", "rowspan": 2 },
+          { "data": "Transverse plane" },
+          { "data": "5.97 ± 1.20 <a href='#ref3' class='reference'>[3]</a>" }
+        ],
+        [
+          { "data": "Longitudinal plane" },
+          { "data": "5.90 ± 1.03 <a href='#ref3' class='reference'>[3]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Modified Crass position: Allows for a degree of anteriorization of the greater tuberosity halfway between neutral position and Crass position<a href='#ref2' class='reference'>[2]</a>.",
+          "See the <a class='underline' href='protocoles/epaule/sus-epineux'> supraspinatus </a> section for more information on positioning.",
+          "Seated with shoulder exposed",
+          "Instruction: Place the palm of the hand on top of the ipsilateral iliac crest, with the elbow pointing backward",
+          "Shoulder:",
+          [
+            "Extension, external rotation",
+            "Shoulder girdle retraction (to avoid having the elbow pointing outward)"
+          ],
+          "Elbow:",
+          ["Flexion", "Supination", "Elbow point directed backward"]
+        ]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "The intertubercular groove is located between the lesser and greater tuberosities, situated respectively on the internal and anterior aspects of the shoulder",
+          "The subscapularis insertion, being on the lesser tuberosity, is accessible from the internal side of the bicipital groove",
+          "Conversely, the supraspinatus insertion is found on the external side of the bicipital groove"
+        ]
+      }
+    ],
+    "applicationDynamique": {
+      "title": "Dynamic Application",
+      "iframe": "<iframe width=\"396\" height=\"296\" src=\"https://www.youtube.com/embed/Z_tdhJsoom8\" title=\"Dynamic ultrasound of the rotator interval\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "vues": [
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/IntervalleDesRotateurs/vueTransversale/",
+        "objectifs": [
+          "Examination of the long head of biceps brachii tendon",
+          "Examination of the long head of biceps stabilizers",
+          "Examination of the supraspinatus tendon",
+          "Examination of the subscapularis tendon"
+        ],
+        "parametres": ["Depth: 4-5 cm", "Gain: 80-85"],
+        "positionnement": [
+          "Place the probe in transverse view at the level of the intertubercular groove",
+          "Slowly scan the region to obtain a view covering all structures (ideally, from the coracoid process to the supraspinatus tendon)",
+          "To obtain an optimal view of the supraspinatus tendon (longitudinal view relative to it), it will be necessary to rotate the probe in an axis normally parallel to the humeral shaft"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Probe position, transverse view (front)"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Probe position, transverse view (back)"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["D"],
+                "texte": [
+                  "The deltoid appears at the top of the image as a thick zone of mixed echogenicity having the typical echotexture of muscle tissue when observed in a non-parallel orientation to the fibers"
+                ]
+              },
+              {
+                "acronymes": ["HH"],
+                "texte": [
+                  "The humeral head is a (relatively) large circular area with a hyperechoic margin (cortical bone)"
+                ]
+              },
+              {
+                "acronymes": ["SS"],
+                "texte": [
+                  "The supraspinatus tendon appears on the surface of the humeral head, on the right side, as a thick band with hyperechoic borders and a more hypoechoic center"
+                ]
+              },
+              {
+                "acronymes": ["RI"],
+                "texte": [
+                  "The rotator interval is a space located just to the left of the supraspinatus tendon, which contains (among others) the long head of biceps tendon"
+                ]
+              },
+              {
+                "acronymes": ["Sub"],
+                "texte": [
+                  "The subscapularis tendon is found on the left side of the rotator interval, on the surface of the humeral head, and here takes on an appearance similar to the supraspinatus tendon"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Deltoid" },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Humeral head"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Supraspinatus"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Rotator interval"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Subscapularis"
+              },
+              { "path": "identification7.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The rotator interval is the name given to the triangular space bounded by the subscapularis and supraspinatus tendons. The term 'interval' refers to the following concept: among all the area of the humeral head covered by the rotator cuff muscles, this space is the only one free of muscular insertions.",
+          "In some other works <a href='#ref1' class='reference'>[1]</a>, the term 'rotator interval' may be used to globally designate the long head of biceps tendon and the ligamentous complex separating the subscapularis tendon from the other 3 rotator cuff tendons (teres minor, supraspinatus, and infraspinatus).",
+          "This region is important mainly because of its contents, which notably include the long head of biceps tendon as well as the coracohumeral and superior glenohumeral ligaments. For more information on these structures, their anatomy, and clinical relevance, we invite you to consult the <a href='protocoles/epaule/biceps-brachial' class='underline'>biceps brachii section.</a>"
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/IntervalleDesRotateurs/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Evaluation Routine",
+        "text": [
+          "Often, the rotator interval is examined at the same time as the long head of biceps tendon, because a slight change in patient position and device settings (optional, but recommended) is sufficient to highlight either structure"
+        ]
+      },
+      {
+        "subtitle": "Adhesive Capsulitis",
+        "text": [
+          "In the context of possible adhesive capsulitis, the free space within the rotator interval (whose boundaries are mentioned above) tends to decrease. Using ultrasonography, this space can be measured and compared to that of the opposite side."
+        ]
+      },
+      {
+        "subtitle": "Tendinopathies",
+        "text": [
+          "In the context of several tendinopathies, whether of the rotator cuff or the long head of biceps tendon, the free space within the rotator interval may also decrease, for example due to fluid infiltration within a tendon sheath."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Biceps",
+          "link": "protocoles/epaule/biceps-brachial"
+        },
+        {
+          "linkTitle": "Supraspinatus (Anterolateral Region)",
+          "link": "protocoles/epaule/sus-epineux"
+        },
+        {
+          "linkTitle": "Supraspinatus & Subacromial Space",
+          "link": "protocoles/epaule/sus-epineux-et-espace-sous-acromial"
+        },
+        {
+          "linkTitle": "Subscapularis",
+          "link": "protocoles/epaule/sous-scapulaire"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Jacobson, Jon A. \"Shoulder US: Anatomy, Technique, and Scanning Pitfalls.\" Radiology 260, no. 1 (July 1, 2011): 6–16. doi:10.1148/radiol.11101082."
+        },
+        {
+          "text": "Yu, Tung-Yang, Wen-Chung Tsai, Ju-Wen Cheng, Yun-Ming Yang, Fang-Chen Liang, and Chien-Hung Chen. \"The Effects of Aging on Quantitative Sonographic Features of Rotator Cuff Tendons.\" Journal of Clinical Ultrasound: JCU 40, no. 8 (October 2012): 471–78. doi:10.1002/jcu.21919."
+        }
+      ]
+    }
+  }
+}

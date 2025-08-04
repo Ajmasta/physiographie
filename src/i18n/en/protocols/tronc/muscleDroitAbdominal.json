@@ -1,0 +1,328 @@
+{
+  "title": "Rectus Abdominis",
+  "latinName": "Rectus abdominis",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Attachments", "header": true, "rowspan": 4 },
+          { "data": "Superior and lateral: Costal cartilage of ribs 5 to 7" }
+        ],
+        [{ "data": "Superior and medial: Xiphoid process" }],
+        [{ "data": "Medial: Linea alba" }],
+        [{ "data": "Inferior: Pubic crest" }],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Nerves T7 to T11 (segmental innervation)" }
+        ],
+        [
+          { "data": "Action", "header": true },
+          { "data": "Lumbar spine flexion" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Measurement", "header": true },
+          { "data": "At the level of", "colspan": 2, "header": true },
+          { "data": "Value", "header": true }
+        ],
+        [
+          { "data": "Rectus abdominis muscle", "rowspan": 4 },
+          { "data": "Thickness (cm)", "rowspan": 2 },
+          { "data": "Male" },
+          {
+            "data": "Just cranial and lateral to the umbilicus",
+            "rowspan": 4
+          },
+          {
+            "data": "L: 0.76 - 1.72 <br />R: 0.81 - 1.69 <a href='#ref6' class='reference'>[6]</a>"
+          }
+        ],
+        [
+          { "data": "Female" },
+          {
+            "data": "L: 0.72 - 1.32 <br /> R: 0.70 - 1.34 <a href='#ref6' class='reference'>[6]</a>"
+          }
+        ],
+        [
+          { "data": "Cross-sectional area (cm2)", "rowspan": 2 },
+          { "data": "Male" },
+          {
+            "data": "L: 4.89 - 11.41<br />R: 5.13 - 11.41 <a href='#ref6' class='reference'>[6]</a>"
+          }
+        ],
+        [
+          { "data": "Female" },
+          {
+            "data": "L: 3.72 - 7.24 <br /> R: 3.44 - 7.44 <a href='#ref6' class='reference'>[6]</a>"
+          }
+        ],
+        [
+          { "data": "Linea alba", "rowspan": 13 },
+          { "data": "Average length (cm)", "colspan": 2 },
+          { "data": "Xiphoid process to pubis" },
+          { "data": "29.11<a href='#ref1' class='reference'>[1]</a>" }
+        ],
+        [
+          { "data": "In nulliparous women", "rowspan": 6 },
+          {
+            "data": "Width at normal limit (90th percentile) (mm)",
+            "rowspan": 3
+          },
+          { "data": "Xiphoid process" },
+          { "data": "15 <a href='#ref8' class='reference'>[8]</a>" }
+        ],
+        [
+          { "data": "3 cm above umbilicus" },
+          { "data": "22 <a href='#ref8' class='reference'>[8]</a>" }
+        ],
+        [
+          { "data": "2 cm below umbilicus" },
+          { "data": "16 <a href='#ref8' class='reference'>[8]</a>" }
+        ],
+        [
+          { "data": "Average width (mm)", "rowspan": 3 },
+          { "data": "Xiphoid process" },
+          { "data": "7 ± 5 <a href='#ref8' class='reference'>[8]</a>" }
+        ],
+        [
+          { "data": "3 cm above umbilicus" },
+          { "data": "13 ± 7<a href='#ref8' class='reference'>[8]</a>" }
+        ],
+        [
+          { "data": "2 cm below umbilicus" },
+          { "data": "8 ± 6 <a href='#ref8' class='reference'>[8]</a>" }
+        ],
+        [
+          { "data": "Diastasis width (mm)", "rowspan": 6 },
+          { "data": "Adult < 45 years", "rowspan": 3 },
+          { "data": "Supra-umbilical" },
+          { "data": "10 <a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Umbilical ring" },
+          { "data": "27 <a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Infra-umbilical" },
+          { "data": "9 <a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Adult > 45 years", "rowspan": 3 },
+          { "data": "Supra-umbilical" },
+          { "data": "15 <a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Umbilical ring" },
+          { "data": "27 <a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Infra-umbilical" },
+          { "data": "14 <a href='#ref7' class='reference'>[7]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": ["Supine position, legs extended", "Abdomen exposed"]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": ["Locate the xiphoid process, lower ribs, and iliac crests"]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/rectusAbdominis/transverseView/",
+        "objectifs": [
+          "Starting point for ultrasonographic examination of abdominal muscles",
+          "Measurement of rectus abdominis muscles (thickness, cross-sectional area)"
+        ],
+        "parametres": ["Depth: 5 cm", "Gain: 80"],
+        "positionnement": [
+          "Position 1: Place the probe in transverse view (horizontal) at the level of the umbilicus",
+          "Position 2: Move the probe slightly lateral to the umbilicus and scan the entire muscular body of the rectus abdominis to visualize it completely. Note: the width of this muscle frequently exceeds the width of the probe and thus the viewing window",
+          "Position 3: Move the probe cranially to cover another segment of the rectus abdominis",
+          "Position 4: Move the probe cranially again to see an even higher segment of the rectus abdominis"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Starting position of the probe, above the umbilicus"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Probe moved laterally, above a rectus abdominis muscle"
+          },
+          {
+            "path": "positionnement3.jpg",
+            "descriptionText": "Probe moved cranially, above another segment of the rectus abdominis muscle"
+          },
+          {
+            "path": "positionnement4.jpg",
+            "descriptionText": "Probe moved further cranially, above another segment of the rectus abdominis muscle"
+          }
+        ],
+        "identification": [
+          {
+            "title": "[Position 1: Above the umbilicus]",
+            "legend": [
+              {
+                "acronymes": ["U"],
+                "texte": [
+                  "The umbilicus appears at the center of the image, at the top, as a triangular hypoechoic area (since it is filled with conduction gel) bordered by a hyperechoic margin"
+                ]
+              },
+              {
+                "acronymes": ["F"],
+                "texte": [
+                  "Subcutaneous fat can be observed in the upper portion of the image and can be recognized by its typical adipose tissue echotexture (large irregular-sized lobules without clear organization)"
+                ]
+              },
+              {
+                "acronymes": ["RAR/RAL"],
+                "texte": [
+                  "The rectus abdominis muscles (right and left) are located on either side of the umbilicus, beneath the subcutaneous fat. These muscles appear as fusiform hyperechoic areas bordered by fascia that converge at the center of the image."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Umbilicus" },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Subcutaneous fat"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Left and right rectus abdominis muscles"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          },
+          {
+            "title": "[Position 2: Probe moved laterally, above a rectus abdominis muscle]",
+            "legend": [
+              {
+                "acronymes": ["RA"],
+                "texte": [
+                  "The rectus abdominis muscle is located in the center of the image, beneath a layer of subcutaneous fat. This muscle also appears here as a fusiform hyperechoic area bordered by clearly defined fascia."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification6.jpg" },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Rectus abdominis"
+              }
+            ]
+          },
+          {
+            "title": "[Position 3: Probe moved cranially, above another segment of the rectus abdominis muscle]",
+            "legend": [
+              {
+                "acronymes": ["RA"],
+                "texte": [
+                  "The rectus abdominis muscle is located at the top of the image, beneath a thin layer of subcutaneous fat. As with the other sites, it appears as a fusiform hyperechoic area."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification8.jpg" },
+              {
+                "path": "identification9.jpg",
+                "descriptionText": "Rectus abdominis"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The rectus abdominis is a long, paired muscle that runs vertically on each side of the anterior abdominal wall. It is a key component of the core musculature and plays important roles in posture, trunk flexion, and abdominal wall integrity.",
+          "The muscle is divided into segments by three to four tendinous intersections (lineae transversae). These intersections are typically located at the level of the xiphoid process, the umbilicus, and approximately halfway between these points.",
+          "The rectus abdominis is enclosed in a fibrous sheath formed by the aponeuroses of the lateral abdominal muscles. This sheath is complete anteriorly but incomplete posteriorly below the arcuate line (located approximately one-third of the distance from the umbilicus to the pubis).",
+          "The linea alba, a fibrous structure formed by the fusion of the anterior and posterior rectus sheaths, separates the right and left rectus muscles in the midline. The width of the linea alba varies with location and can be affected by factors such as pregnancy and aging."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Diastasis Recti",
+        "text": [
+          "Diastasis recti is a condition characterized by separation of the rectus abdominis muscles along the linea alba. Key points include:",
+          "<ul class='margin-left'><li>Common during and after pregnancy</li><li>Can also occur in men, particularly those with obesity or who perform improper exercise</li><li>Ultrasound can be used to measure the inter-recti distance and monitor progress during rehabilitation</li></ul>"
+        ]
+      },
+      {
+        "subtitle": "Post-surgical Assessment",
+        "text": [
+          "Ultrasound examination of the rectus abdominis is valuable in various surgical contexts:",
+          "<ul class='margin-left'><li>Pre-operative planning for abdominal wall reconstruction</li><li>Assessment of muscle integrity after abdominal surgery</li><li>Monitoring of surgical site healing</li></ul>"
+        ]
+      },
+      {
+        "subtitle": "Sports Medicine Applications",
+        "text": [
+          "The rectus abdominis is frequently involved in sports-related conditions:",
+          "<ul class='margin-left'><li>Muscle strains and tears</li><li>Assessment of muscle thickness and symmetry in athletes</li><li>Evaluation of training-induced changes in muscle morphology</li></ul>"
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Transversus Abdominis",
+          "link": "trunk/transversus-abdominis"
+        },
+        {
+          "linkTitle": "Multifidus",
+          "link": "trunk/multifidus"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Beer, G. M., et al. \"The Normal Width of the Linea Alba in Nulliparous Women.\" Clinical Anatomy 22.6 (2009): 706-711."
+        },
+        {
+          "text": "Rankin, G., et al. \"Abdominal Muscle Size and Symmetry in Normal Subjects.\" Muscle & Nerve 34.3 (2006): 320-326."
+        },
+        {
+          "text": "Mota, P., et al. \"Ultrasound Imaging in Postpartum Women with Diastasis Recti: Reliability of Inter-Recti Distance Measurement.\" Journal of Orthopaedic & Sports Physical Therapy 48.9 (2018): 697-705."
+        },
+        {
+          "text": "Teyhen, D. S., et al. \"Ultrasound Characteristics of the Deep Abdominal Muscles During the Active Straight Leg Raise Test.\" Archives of Physical Medicine and Rehabilitation 90.5 (2009): 761-767."
+        }
+      ]
+    }
+  }
+}

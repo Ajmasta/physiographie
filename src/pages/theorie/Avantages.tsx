@@ -1,126 +1,180 @@
 import React from "react";
-import avantages from "../../i18n/fr/theorie/avantages.json";
 import TheorieParent from "../../components/theorie/TheorieParent";
 import { textStyle } from "./PrincipePhysiques";
 import Collapse from "../../components/Collapse";
+import {
+  useTheoryTranslation,
+  TheoryData,
+} from "../../hooks/useTheoryTranslation";
 
 const Avantages = () => {
+  const { data, error } = useTheoryTranslation("avantages");
+
+  if (error) return <div>Error: {error}</div>;
+  if (!data) return <div>Loading...</div>;
+
+  const d = data as TheoryData;
+  const getSection = (section: unknown) => section as Record<string, unknown>;
+
+  const renderNestedList = (
+    items: (string | string[])[],
+    listType: "decimal" | "disc",
+    idx?: number
+  ) => {
+    return items.map((item, itemIdx) => {
+      if (Array.isArray(item)) {
+        return (
+          <ul key={`${idx}-${itemIdx}`} className="ml-8">
+            {item.map((subItem, subIdx) => (
+              <li key={`${idx}-${itemIdx}-${subIdx}`} className={textStyle}>
+                {subItem}
+              </li>
+            ))}
+          </ul>
+        );
+      } else {
+        return (
+          <li key={`${idx}-${itemIdx}`} className={textStyle}>
+            {item}
+          </li>
+        );
+      }
+    });
+  };
+
   return (
-    <TheorieParent title={avantages.title}>
-      <Collapse title={avantages.sections.sectionOne.title}>
-        <p className={textStyle}>{avantages.sections.sectionOne.text}</p>
+    <TheorieParent title={d.title as string}>
+      <Collapse
+        title={
+          getSection(d.sections).sectionOne &&
+          (getSection(getSection(d.sections).sectionOne).title as string)
+        }
+      >
+        <p className={textStyle}>
+          {getSection(getSection(d.sections).sectionOne).text as string}
+        </p>
       </Collapse>
-      <Collapse title={avantages.sections.sectionTwo.title}>
-        <Collapse
-          subtitle
-          title={avantages.sections.sectionTwo.subsections.subsectionOne.title}
-        >
-          <ol className="ml-8 list-decimal">
-            {avantages.sections.sectionTwo.subsections.subsectionOne.text.map(
-              (item) => {
-                if (Array.isArray(item)) {
-                  return (
-                    <ul className="ml-8">
-                      {item.map((subItem) => (
-                        <li className={textStyle}>{subItem}</li>
-                      ))}
-                    </ul>
-                  );
-                } else {
-                  return <li className={textStyle}>{item}</li>;
-                }
-              }
-            )}
-          </ol>
-        </Collapse>
-        <Collapse
-          subtitle
-          title={avantages.sections.sectionTwo.subsections.subsectionTwo.title}
-        >
-          <ol className="ml-8 list-disc">
-            {avantages.sections.sectionTwo.subsections.subsectionTwo.text.map(
-              (item) => {
-                if (Array.isArray(item)) {
-                  return (
-                    <ul className="ml-8">
-                      {item.map((subItem) => (
-                        <li className={textStyle}>{subItem}</li>
-                      ))}
-                    </ul>
-                  );
-                } else {
-                  return <li className={textStyle}>{item}</li>;
-                }
-              }
-            )}
-          </ol>
-        </Collapse>
-      </Collapse>
-      <Collapse title={avantages.sections.sectionThree.title}>
+      <Collapse
+        title={
+          getSection(d.sections).sectionTwo &&
+          (getSection(getSection(d.sections).sectionTwo).title as string)
+        }
+      >
         <Collapse
           subtitle
           title={
-            avantages.sections.sectionThree.subsections.subsectionOne.title
+            getSection(
+              getSection(getSection(d.sections).sectionTwo).subsections
+            ).subsectionOne &&
+            (getSection(
+              getSection(
+                getSection(getSection(d.sections).sectionTwo).subsections
+              ).subsectionOne
+            ).title as string)
           }
         >
           <ol className="ml-8 list-decimal">
-            {avantages.sections.sectionThree.subsections.subsectionOne.text.map(
-              (item) => {
-                if (Array.isArray(item)) {
-                  return (
-                    <ul className="ml-8">
-                      {item.map((subItem) => (
-                        <li className={textStyle}>{subItem}</li>
-                      ))}
-                    </ul>
-                  );
-                } else {
-                  return <li className={textStyle}>{item}</li>;
-                }
-              }
+            {renderNestedList(
+              getSection(
+                getSection(
+                  getSection(getSection(d.sections).sectionTwo).subsections
+                ).subsectionOne
+              ).text as (string | string[])[],
+              "decimal",
+              1
             )}
           </ol>
         </Collapse>
         <Collapse
           subtitle
           title={
-            avantages.sections.sectionThree.subsections.subsectionTwo.title
+            getSection(
+              getSection(getSection(d.sections).sectionTwo).subsections
+            ).subsectionTwo &&
+            (getSection(
+              getSection(
+                getSection(getSection(d.sections).sectionTwo).subsections
+              ).subsectionTwo
+            ).title as string)
           }
         >
           <ol className="ml-8 list-disc">
-            {avantages.sections.sectionThree.subsections.subsectionTwo.text.map(
-              (item) => {
-                if (Array.isArray(item)) {
-                  return (
-                    <ul className="ml-8">
-                      {item.map((subItem) => (
-                        <li className={textStyle}>{subItem}</li>
-                      ))}
-                    </ul>
-                  );
-                } else {
-                  return <li className={textStyle}>{item}</li>;
-                }
-              }
+            {renderNestedList(
+              getSection(
+                getSection(
+                  getSection(getSection(d.sections).sectionTwo).subsections
+                ).subsectionTwo
+              ).text as (string | string[])[],
+              "disc",
+              2
             )}
           </ol>
         </Collapse>
       </Collapse>
-      <Collapse title={avantages.sectionFour.title}>
+      <Collapse
+        title={
+          getSection(d.sections).sectionThree &&
+          (getSection(getSection(d.sections).sectionThree).title as string)
+        }
+      >
+        <Collapse
+          subtitle
+          title={
+            getSection(
+              getSection(getSection(d.sections).sectionThree).subsections
+            ).subsectionOne &&
+            (getSection(
+              getSection(
+                getSection(getSection(d.sections).sectionThree).subsections
+              ).subsectionOne
+            ).title as string)
+          }
+        >
+          <ol className="ml-8 list-decimal">
+            {renderNestedList(
+              getSection(
+                getSection(
+                  getSection(getSection(d.sections).sectionThree).subsections
+                ).subsectionOne
+              ).text as (string | string[])[],
+              "decimal",
+              3
+            )}
+          </ol>
+        </Collapse>
+        <Collapse
+          subtitle
+          title={
+            getSection(
+              getSection(getSection(d.sections).sectionThree).subsections
+            ).subsectionTwo &&
+            (getSection(
+              getSection(
+                getSection(getSection(d.sections).sectionThree).subsections
+              ).subsectionTwo
+            ).title as string)
+          }
+        >
+          <ol className="ml-8 list-disc">
+            {renderNestedList(
+              getSection(
+                getSection(
+                  getSection(getSection(d.sections).sectionThree).subsections
+                ).subsectionTwo
+              ).text as (string | string[])[],
+              "disc",
+              4
+            )}
+          </ol>
+        </Collapse>
+      </Collapse>
+      <Collapse title={getSection(d.sectionFour).title as string}>
         <ol className="ml-8 list-disc">
-          {avantages.sectionFour.text.map((item) => {
-            if (Array.isArray(item)) {
-              return (
-                <ul className="ml-8">
-                  {item.map((subItem) => (
-                    <li className={textStyle}>{subItem}</li>
-                  ))}
-                </ul>
-              );
-            } else {
-              return <li className={textStyle}>{item}</li>;
-            }
-          })}
+          {renderNestedList(
+            getSection(d.sectionFour).text as (string | string[])[],
+            "disc",
+            5
+          )}
         </ol>
       </Collapse>
     </TheorieParent>

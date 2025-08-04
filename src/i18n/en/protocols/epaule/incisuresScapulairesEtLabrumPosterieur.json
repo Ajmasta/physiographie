@@ -1,0 +1,254 @@
+{
+  "title": "Scapular Notches & Posterior Labrum",
+  "latinName": "",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "" },
+          { "data": "Suprascapular Notch", "header": true },
+          { "data": "Spinoglenoid Notch", "header": true }
+        ],
+        [
+          { "data": "Location", "header": true },
+          { "data": "Superior border, anterior surface of scapula" },
+          {
+            "data": "Intersection of scapular spine and posterior border of glenoid cavity"
+          }
+        ],
+        [
+          { "data": "Alternative Name", "header": true },
+          { "data": "Scapular notch" },
+          { "data": "Greater scapular notch" }
+        ],
+        [
+          { "data": "Structures Passing Through", "header": true },
+          {
+            "data": "Suprascapular nerve, suprascapular artery (outside the foramen)"
+          },
+          { "data": "Suprascapular nerve, suprascapular artery" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [
+        [
+          {
+            "data": "No normative values are available for this section",
+            "header": true
+          }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Seated with shoulder exposed",
+          "Shoulder:",
+          [
+            "Complete adduction",
+            "Internal rotation",
+            "Neutral flexion - extension"
+          ],
+          "Elbow:",
+          "Flexed to allow placement of the hand on the contralateral shoulder"
+        ]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "Access to the posterior glenoid labrum can be achieved by locating the posterior aspect of the glenohumeral joint, clearly visualizing the angle of the glenoid articular surface",
+          "This surface has a nearly vertical orientation, but is actually oriented from superior to inferior, slightly from lateral to medial"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/incisuresScapulaires/vueTransversale/",
+        "objectifs": [
+          "Observation of the suprascapular nerve",
+          "Observation of the suprascapular & spinoglenoid notches"
+        ],
+        "parametres": ["Depth: 5 cm", "Gain: 80-85"],
+        "positionnement": [
+          "Approach similar to that used for examining the infraspinatus and teres minor",
+          [
+            "Place the probe in transverse view on the scapular spine (relative to infraspinatus fibers), just lateral to its center",
+            "To better locate and identify structures, slowly scan from superior to inferior to observe and differentiate the scapular spine, trapezius, supraspinatus, and infraspinatus",
+            "Once these structures are identified, move the probe laterally to the glenohumeral joint",
+            "Rotate the probe 90° to align it with the long axis of the infraspinatus tendon (which should be visible)"
+          ],
+          "Direct approach",
+          [
+            "The probe should be placed on the posterior surface of the glenohumeral joint, initially oriented in a horizontal axis",
+            "Slowly rotate the probe to see all tendons (below) in their entirety"
+          ]
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Probe position, transverse view (front)"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Probe position, transverse view (back)"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["PD"],
+                "texte": [
+                  "The posterior deltoid, a superficial hypoechoic layer, is located at the top of the image"
+                ]
+              },
+              {
+                "acronymes": ["IS"],
+                "texte": [
+                  "The infraspinatus is located just beneath the posterior deltoid, in the upper third of the image"
+                ]
+              },
+              {
+                "acronymes": ["Tm"],
+                "texte": [
+                  "The teres minor, which is separated from the infraspinatus by a hyperechoic fascia, shows part of its muscle belly on the left and center of the image, while its tendon disappears on the right side of the image"
+                ]
+              },
+              {
+                "acronymes": ["L"],
+                "texte": [
+                  "The posterior glenoid labrum appears as a hyperechoic triangle located near the center of the image"
+                ]
+              },
+              {
+                "acronymes": ["HH"],
+                "texte": [
+                  "The humeral head, a circular hypoechoic area, is located at the bottom right of the image, to the right of the labrum"
+                ]
+              },
+              {
+                "acronymes": ["SGN"],
+                "texte": [
+                  "The greater scapular notch (spinoglenoid notch) is located in the lower left portion of the image. Its surface (cortical bone) appears as a sinuous hyperechoic area, beneath which is a thick shadow zone"
+                ]
+              },
+              {
+                "acronymes": ["SN"],
+                "texte": [
+                  "The suprascapular nerve, at its passage through the greater scapular notch, appears just at its hollow. Here we can recognize a circular/oval area with hyperechoic margins"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              {
+                "path": "identification1.jpg"
+              },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Posterior deltoid"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Infraspinatus"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Teres minor"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Labrum"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Humeral head"
+              },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Greater scapular notch"
+              },
+              {
+                "path": "identification8.jpg",
+                "descriptionText": "Suprascapular nerve"
+              },
+              {
+                "path": "identification9.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The suprascapular notch, marked in blue in the adjacent animation, is a relief of the scapula located at its lateral superior border, just adjacent to the coracoid process <a href='#ref2' class='reference'>[2]</a>.",
+          "This notch is transformed into an osteofibrous canal by the presence of the transverse scapular ligament, analogous to the relationship between the bicipital groove and the transverse humeral ligament. Within this canal, or foramen, passes the suprascapular nerve, which provides motor innervation to the supraspinatus and infraspinatus muscles in addition to participating in the sensory innervation of several other muscles and ligaments in the rotator cuff region <a href='#ref2' class='reference'>[2]</a>. The literature attributes part of its importance to this site due to a related pathology: suprascapular nerve entrapment neuropathy. Sometimes traumatic, this pathology is mainly characterized by significant loss of strength and severe pain in the rotator cuff region. Suprascapular nerve entrapment can occur either within the suprascapular foramen or at the level of the greater scapular notch (also called spinoglenoid notch), marked in red in the adjacent animation. The spinoglenoid notch is located at the lateral end of the scapular spine and somewhat connects the infraspinous and supraspinous fossae.",
+          "There is documented anatomical variability for the suprascapular notch (and, incidentally, for the transverse scapular ligament) which, according to some authors <a href='#ref3' class='reference'>[3]</a><a href='#ref4' class='reference'>[4]</a>, could explain the apparent predisposition of certain individuals to develop this type of problem. It is also noted that athletes practicing overhead impact sports (volleyball, basketball) seem to be more prone to this type of condition.",
+          "The glenoid labrum is a fibrocartilaginous structure whose accessibility in ultrasonography varies depending on the approach used. During the evaluation of the suprascapular notch and adjacent structures, it is generally quite simple to visualize the posterior labrum, which caps the bony rim of the glenoid <a href='#ref1' class='reference'>[1]</a>. Indeed, the posterior labrum is more superficial, as is the inferior labrum, which is also accessible. In contrast, the anterior portion of the glenoid labrum is the deepest, and ultrasonographic observation of the superior portion is particularly difficult due to acoustic shadowing caused by the overlying acromion<a href='#ref1' class='reference'>[1]</a>."
+        ]
+      }
+    ],
+    "images": [{ "path": "anatomicalDescription.gif" }],
+    "source": "/Protocols/incisuresScapulaires/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Suprascapular Nerve Involvement at the Greater Scapular Notch",
+        "text": [
+          "If the suprascapular nerve is compressed within the greater scapular notch, the subsequent denervation will only affect the infraspinatus muscle (sparing the supraspinatus), where ultrasonography can be useful to observe denervation atrophy<a href='#ref1' class='reference'>[1]</a>",
+          "Since the suprascapular nerve is exclusively a motor nerve, no sensory involvement is present in the classic clinical presentation",
+          "Paralabral cyst is the main cause of suprascapular nerve involvement (Bianchi, 309). This can be visualized during musculoskeletal ultrasound <a href='#ref1' class='reference'>[1]</a>: it is an accumulation of synovial fluid within labral lesions"
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Infraspinatus (Scapular Region)",
+          "link": "protocoles/epaule/sous-epineux"
+        },
+        {
+          "linkTitle": "Supraspinatus (Scapular Region)",
+          "link": "protocoles/epaule/sus-epineux-post"
+        },
+        {
+          "linkTitle": "Teres Minor & Infraspinatus",
+          "link": "protocoles/epaule/petit-rond-et-sous-epineux"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Ofusori, David A., Raymond A. Ude, Christina U. Okwuonu, and Olamide A. Adesanya. \"Complete Absence of the Suprascapular Notch in a Nigerian Scapula: A Possible Cause of Suprascapular Nerve Entrapment.\" International Journal of Shoulder Surgery 2, no. 4 (2008): 85–86. doi:10.4103/0973-6042.44146."
+        },
+        {
+          "text": "Sangam, Muralidhar Reddy, and Sattiraju Sri Sarada Devi. \"Morphometry of Suprascapular Notch and Its Correlation with that of Scapula.\" Journal of Clinical and Diagnostic Research: JCDR 8, no. 4 (April 2014): AM01–02. doi:10.7860/JCDR/2014/7730.4217."
+        }
+      ]
+    }
+  }
+}

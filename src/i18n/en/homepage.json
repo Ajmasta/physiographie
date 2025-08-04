@@ -1,0 +1,34 @@
+{
+  "cardSection": {
+    "cardOne": {
+      "title": "Theory",
+      "description": "Learn about physical principles, equipment used, and terminology"
+    },
+    "cardTwo": {
+      "title": "Protocols",
+      "description": "Physiographie offers a growing collection of musculoskeletal ultrasonography imaging protocols."
+    },
+    "cardThree": {
+      "title": "Where to start?",
+      "description": "Learn who Physiographie is for, navigation principles, how to use the site, and much more"
+    }
+  },
+  "descriptionSection": [
+    {
+      "title": "What's new on Physiographie!",
+      "text": "Launched in summer 2014, Physiographie celebrates its 10th anniversary with a website redesign to improve navigation experience and the gradual addition of new protocols."
+    },
+    {
+      "title": "What is Physiographie?",
+      "text": "Physiographie offers ultrasonography imaging protocols and various educational information to produce quality images of anatomical structures relevant to physiotherapy. It is also a knowledge transfer tool that documents descriptive anatomy and synthesizes normative values."
+    },
+    {
+      "title": "Why create this type of site?",
+      "text": "Physiotherapists increasingly use ultrasonography imaging in their clinical practice. However, specific training opportunities in physiotherapy remain limited to date. To promote the acquisition or maintenance of expertise in ultrasonography imaging, this educational tool: proposes imaging parameters; guides the clinician for ultrasound probe positioning; identifies structures of interest on ultrasound images and complements protocols with relevant information (outcome measures, normative values, etc.)"
+    },
+    {
+      "title": "The team behind Physiographie",
+      "text": "This project originated from an idea by Prof. Dany H. Gagnon, PT, Ph.D., then Associate Professor at the School of Rehabilitation of the Faculty of Medicine at the University of Montreal and researcher at the Pathokinesiology Laboratory of the Center for Interdisciplinary Research in Rehabilitation of Greater Montreal (CRIR). This project started thanks to the participation of Mr. Philippe Paquette, PT, then clinical research intern at the Pathokinesiology Laboratory at CRIR, and Mr. Antoine Deschamps-Laporte, then student in the Bachelor-Master's continuum program in physiotherapy at the School of Rehabilitation of the Faculty of Medicine at the University of Montreal for content creation and website design. The website update is an initiative of Mr. Philippe Paquette, PT, Ph.D., then Clinical Assistant Professor at the School of Rehabilitation of the Faculty of Medicine at the University of Montreal, and Messrs. Adrien Moevus and Keroles Soliman, students in the Bachelor-Master's continuum program in physiotherapy at the School of Rehabilitation of the University of Montreal Faculty, who are supported by a pedagogical development scholarship from the physiotherapy programs."
+    }
+  ]
+}

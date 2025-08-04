@@ -1,0 +1,309 @@
+{
+  "title": "Popliteal Fossa",
+  "latinName": "Fossa poplitea",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          {
+            "data": "Contents (Main)",
+            "header": true,
+            "rowspan": 6,
+            "colspan": 2
+          },
+          { "data": "Popliteal artery" }
+        ],
+        [{ "data": "Popliteal vein" }],
+        [{ "data": "Saphenous vein" }],
+        [{ "data": "Common fibular (peroneal) nerve" }],
+        [{ "data": "Tibial nerve" }],
+        [{ "data": "Plantaris muscle (inconstant)" }],
+        [
+          { "data": "Boundaries", "header": true, "rowspan": 4 },
+          { "data": "Proximal", "rowspan": 2 },
+          {
+            "data": "Medial: Semitendinosus and semimembranosus tendons"
+          }
+        ],
+        [{ "data": "Lateral: Biceps femoris tendon" }],
+        [
+          { "data": "Distal", "rowspan": 2 },
+          { "data": "Medial: Medial head of gastrocnemius muscle" }
+        ],
+        [{ "data": "Lateral: Lateral head of gastrocnemius muscle" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [],
+      "text": ["No data available"]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Prone position, with the knee and lower third of the thigh exposed",
+          "A pillow can be placed under the subject's abdomen for comfort",
+          "A slight knee flexion (around 15-20°) can allow better visualization of the popliteal vein, which tends to collapse when the knee is in full extension. Knee flexion can be achieved using a pillow under the ankle or through passive flexion (performed by the examiner)<a href='#ref2' class='reference'>[2]</a><a href='#ref6' class='reference'>[6]</a>"
+        ],
+        "images": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Position with flexion using a towel"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Position with flexion maintained by the examiner"
+          }
+        ],
+        "source": "/Protocols/creuxPoplite/"
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "Palpate the joint lines (medial and lateral) of the tibiofemoral joint and the fibular head",
+          "Locate the tendons that form the medial and lateral margins of the popliteal fossa"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/creuxPoplite/vueTransversale/",
+        "objectifs": [
+          "Visualization of the popliteal neurovascular bundle",
+          "Observation of the femoral condyles, gastrocnemius muscle (medial > lateral) and popliteus"
+        ],
+        "parametres": ["Depth: 4 cm", "Gain: 70-75"],
+        "positionnement": [
+          "In transverse view (perpendicular to the long axis of the thigh), place the probe approximately at the level of the medial tibiofemoral joint",
+          "Scan medially and laterally (and if needed cranially and caudally) to observe all structures of interest"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["MFC"],
+                "texte": [
+                  "The medial femoral condyle appears in the lower left corner of the image, appearing as a circular area with hyperechoic borders (cortical bone) and a hypoechoic center"
+                ]
+              },
+              {
+                "acronymes": ["AC"],
+                "texte": [
+                  "The articular cartilage of the medial femoral condyle appears on its surface and can be described as a fairly thick hypoechoic layer that follows the curvature of the condyle"
+                ]
+              },
+              {
+                "acronymes": ["LFC"],
+                "texte": [
+                  "The lateral femoral condyle has a similar appearance to the medial condyle. Since it is at the edge of the probe's field of view, only a thin portion of the ultrasound beam reaches it, which may explain why it appears more 'faded' (less clear and echogenic) than the medial condyle"
+                ]
+              },
+              {
+                "acronymes": ["MG"],
+                "texte": [
+                  "The medial head of the gastrocnemius muscle occupies the upper left portion of the image, appearing as a large triangular hyperechoic area with typical muscular echotexture"
+                ]
+              },
+              {
+                "acronymes": ["LG"],
+                "texte": [
+                  "The lateral head of the gastrocnemius muscle, notably smaller than its medial counterpart, appears in the upper right portion of the image. Like the lateral femoral condyle, the lateral head of the gastrocnemius appears darker and less well-focused (than the medial head of the gastrocnemius)"
+                ]
+              },
+              {
+                "acronymes": ["P"],
+                "texte": [
+                  "The popliteus muscle is present deep to the lateral head of the gastrocnemius. One can clearly distinguish the fascia separating these two muscles, as well as the rather rounded shape of the popliteus muscle"
+                ]
+              },
+              {
+                "acronymes": ["PA"],
+                "texte": [
+                  "The popliteal artery can be observed to the right of the lower end of the medial head of the gastrocnemius. It appears as a circular hypoechoic area of fairly large caliber"
+                ]
+              },
+              {
+                "acronymes": ["PV"],
+                "texte": [
+                  "The popliteal vein is located just superficial to the popliteal artery. In this image, the vein has a significantly smaller diameter than the artery, although this measurement is subject to change depending on the degree of knee flexion-extension (which affects venous filling versus the vein's tendency to collapse)"
+                ]
+              },
+              {
+                "acronymes": ["TN"],
+                "texte": [
+                  "The tibial nerve is visible just to the left and slightly superficial to the popliteal vein, slightly within the muscle belly of the medial head of the gastrocnemius. This structure has a fairly typical appearance for a nerve, i.e., a dense hyperechoic area with fairly homogeneous texture"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Medial femoral condyle"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Articular cartilage"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Lateral femoral condyle"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Medial head of gastrocnemius"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Lateral head of gastrocnemius"
+              },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Popliteus muscle"
+              },
+              {
+                "path": "identification8.jpg",
+                "descriptionText": "Popliteal artery"
+              },
+              {
+                "path": "identification9.jpg",
+                "descriptionText": "Popliteal vein"
+              },
+              {
+                "path": "identification10.jpg",
+                "descriptionText": "Tibial nerve"
+              },
+              { "path": "identification11.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The popliteal fossa (also known as the 'popliteal space') is a rhomboid-shaped anatomical space that contains several important muscular and neurovascular structures<a href='#ref2' class='reference'>[2]</a>. Given that this is a space rather than a 'palpable' structure, we will discuss the structures that traverse and border the popliteal fossa. According to Bianchi and Martinoli<a href='#ref2' class='reference'>[2]</a>, the margins of the popliteal fossa are those listed above, namely the tendons of the biceps femoris, semitendinosus, semimembranosus, and the two bellies of the gastrocnemius muscle.",
+          "The nomenclature of neurovascular structures crossing the popliteal fossa can be confusing, as almost all of them divide within it. Here are some examples:",
+          "<ul class='margin-left'><li>Popliteal artery: emerges from the femoral artery (cranially) and gives rise to the anterior and posterior tibial arteries as well as a group of genicular arteries</li><li>Popliteal vein: can be single (56%) or double (44%)<a href='#ref2' class='reference'>[2]</a>, joins (distally) with the small saphenous vein, genicular veins, and gemellus veins<a href='#ref9' class='reference'>[9]</a></li><li>Sciatic nerve: completes its division into tibial and common fibular (peroneal) nerves at the apex of the popliteal fossa</li></ul>",
+          "The posterior knee can be subdivided into 3 regions: medial, lateral, and central regions.",
+          "Medial Portion<a href='#ref2' class='reference'>[2]</a>",
+          "The medial portion includes the tendons that form the pes anserinus complex (sartorius, gracilis, and semitendinosus) as well as the semimembranosus tendon. Additionally, between the semimembranosus tendon and the medial head of the gastrocnemius lies the semimembranosus bursa, which normally does not appear during ultrasound examination of a healthy subject. One can also observe the medial femoral condyle and its articular cartilage, which are normally easily identifiable.",
+          "Lateral Portion<a href='#ref2' class='reference'>[2]</a>",
+          "In the lateral portion, one can visualize the muscular and tendinous portions of the biceps femoris, the lateral head of the gastrocnemius (smaller than the medial head), the popliteus muscle, the lateral femoral condyle (and its cartilage), and the common fibular (peroneal) nerve. The two heads of the biceps femoris join into a common tendon in the cranial portion of the popliteal fossa, which extends to the fibular head. Since the common fibular nerve has a small diameter (and an oblique course), it is preferable to observe it in transverse view during examination.",
+          "Central Portion<a href='#ref2' class='reference'>[2]</a>",
+          "The central portion allows observation of the intercondylar space, the popliteal neurovascular bundle, and the medial belly of the gastrocnemius. Within the neurovascular bundle, the popliteal artery is normally the deepest, followed by the popliteal vein, while the tibial nerve is the most superficial and often more lateral."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Baker's Cyst<a href='#ref2' class='reference'>[2]</a>",
+        "text": [
+          "Baker's cysts are palpable masses (classically) located at the posteromedial aspect of the knee. These masses are due to distension of the semimembranosus bursa ('semimembranous-gastrocnemius bursa')",
+          "Since its beginnings, musculoskeletal ultrasound imaging has been used for visualizing these structures, allowing determination of dimensions, location, and associated lesions (if applicable/possible). However, depending on the case (presence or absence of communication with the joint, size or location of the mass), other imaging techniques are commonly used to obtain more information about the lesion, e.g.: magnetic resonance imaging or arthrography (with contrast solution), standard radiography, or computed tomography (CT-Scan)<a href='#ref12' class='reference'>[12]</a><a href='#ref13' class='reference'>[13]</a>.",
+          "It is not possible to provide a single description for Baker's cysts, as their characteristics (composition, size, shape, site) vary greatly from one subject to another.",
+          "These masses can be either idiopathic or secondary to other conditions:",
+          "Idiopathic type:",
+          [
+            "This type of Baker's cyst is almost exclusively found in pediatric patients"
+          ],
+          "Secondary to another condition type:",
+          [
+            "The conditions most frequently associated with Baker's cysts are also the conditions that most affect the knee, namely chondral pathologies, meniscal pathologies, and cruciate ligament pathologies. Other conditions, unrelated to the knee, are also associated with Baker's cysts, including inflammatory pathologies and pathologies involving degenerative joint processes."
+          ],
+          "Although they often remain modest in size, Baker's cysts can come to occupy significant space. Indeed, they can progress down to the calf, reaching the medial malleolus (in subjects with rheumatoid arthritis)<a href='#ref1' class='reference'>[1]</a>.",
+          "Baker's cysts can either remain asymptomatic or cause mild pain/discomfort due to local tension they create. The most common complication is cyst rupture, which tends to cause diffuse and painful edema as well as great sensitivity to palpation. Some authors nickname this complication 'pseudothrombophlebitic syndrome' due to its clinical presentation similar to that of thrombophlebitis<a href='#ref7' class='reference'>[7]</a>. Other complications are also possible but rare, such as post-rupture bleeding or infection of the cyst, which occur, respectively, mainly in anticoagulated and immunosuppressed subjects."
+        ]
+      },
+      {
+        "subtitle": "Semimembranosus Bursitis<a href='#ref2' class='reference'>[2]</a>",
+        "text": [
+          "It is important to distinguish semimembranosus bursitis from Baker's Cyst, as these two conditions have distinct treatment plans. Semimembranosus bursitis is caused by impingement of the reflected tendon of the semimembranosus muscle and the semimembranosus bursa by osteophytes on the medial tibial plateau<a href='#ref2' class='reference'>[2]</a>.",
+          "Depending on the severity, conservative treatment (physiotherapy, NSAIDs) can be considered, otherwise a medical-surgical approach is necessary (classically, corticosteroid infiltration or excision of the semimembranosus tendon sheath)<a href='#ref2' class='reference'>[2]</a>."
+        ]
+      },
+      {
+        "subtitle": "Popliteal Artery Aneurysm",
+        "text": [
+          "Popliteal aneurysms are the most common peripheral arterial aneurysms (approximately 70% of cases). If untreated, they can pose serious risks to the affected lower limb, hence the importance of knowing their clinical presentation (their discovery can be incidental in asymptomatic subjects or more complex). They are significantly more prevalent in men (M:F ratio of 10:1 to 30:1) during their sixth to seventh decade.",
+          "Unfortunately, they often go unnoticed during physical examination, and it is therefore important to know the two main risk factors: the presence of severe atherosclerotic disease and a history of abdominal aneurysms. In 50% to 70% of cases, popliteal aneurysms are bilateral, and among subjects with a popliteal aneurysm, 30% to 50% also have an abdominal aneurysm.",
+          "The increase in volume occupied by the popliteal artery can lead to compression of the popliteal vein, which exposes to risks of edema and especially deep vein thrombosis [DVT]. The increased risk of DVT is not correlated with the severity (or dimensions) of the aneurysm, and 'small' aneurysms should therefore not be taken lightly.",
+          "When faced with a patient in whom a popliteal artery aneurysm is suspected (undiagnosed), the physiotherapist should refer to medicine without delay for further investigation."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Pes anserinus complex",
+          "link": "cuisse-et-genou/complexe-patte-d-oie"
+        },
+        {
+          "linkTitle": "Iliotibial band",
+          "link": "cuisse-et-genou/bandelette-ilio-tibiale"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Backhaus, M., G.-R. Burmester, T. Gerber, W. Grassi, K. P. Machold, W. A. Swen, R. J. Wakefield, and B. Manger. \"Guidelines for Musculoskeletal Ultrasound in Rheumatology.\" Annals of the Rheumatic Diseases 60, no. 7 (July 1, 2001): 641–49. doi:10.1136/ard.60.7.641."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Ellis, Richard, Wayne Hing, Andrew Dilley, and Peter McNair. \"Reliability of Measuring Sciatic and Tibial Nerve Movement with Diagnostic Ultrasound During a Neural Mobilisation Technique.\" Ultrasound in Medicine & Biology 34, no. 8 (August 2008): 1209–16. doi:10.1016/j.ultrasmedbio.2008.01.003."
+        },
+        {
+          "text": "Martinoli, Carlo. \"Musculoskeletal Ultrasound: Technical Guidelines.\" Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "McDonald, Daniel G., and George R. Leopold. \"Ultrasound B-Scanning in the Differentiation of Baker's Cyst and Thrombophlebitis.\" The British Journal of Radiology 45, no. 538 (October 1, 1972): 729–32. doi:10.1259/0007-1285-45-538-729."
+        },
+        {
+          "text": "O'Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        },
+        {
+          "text": "Quinlan, Daniel J., Raza Alikhan, Philip Gishen, and Paul S. Sidhu. \"Variations in Lower Limb Venous Anatomy: Implications for US Diagnosis of Deep Vein Thrombosis.\" Radiology 228, no. 2 (August 1, 2003): 443–48. doi:10.1148/radiol.2282020411."
+        },
+        {
+          "text": "Schwemmer, U, C K Markus, C A Greim, J Brederlau, M Kredel, and N Roewer. \"Sonographic Imaging of the Sciatic Nerve Division in the Popliteal Fossa.\" Ultraschall in der Medizin 26, no. 06 (2005): 496–500. doi:10.1055/s-2005-858531."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Practical Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Torreggiani, W. C., K. Al-Ismail, P. L. Munk, C. Roche, C. Keogh, S. Nicolaou, and L. O. Marchinkow. \"The Imaging Spectrum of Baker's (Popliteal) Cysts.\" Clinical Radiology 57, no. 8 (August 2002): 681–91. doi:10.1053/crad.2001.0917."
+        },
+        {
+          "text": "Ward, Eric E., Jon A. Jacobson, David P. Fessell, Curtis W. Hayes, and Marnix van Holsbeeck. \"Sonographic Detection of Baker's Cysts.\" American Journal of Roentgenology 176, no. 2 (February 1, 2001): 373–80. doi:10.2214/ajr.176.2.1760373."
+        }
+      ]
+    }
+  }
+}

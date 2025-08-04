@@ -1,0 +1,96 @@
+{
+  "title": "Advantages & limitations",
+  "sections": {
+    "sectionOne": {
+      "title": "Comparison: MRI vs MSU",
+      "text": [
+        "Musculoskeletal ultrasound [MSU] is compared to magnetic resonance imaging [MRI] since these two imaging methods are the most sensitive for visualizing soft tissues (muscles, tendons, ligaments)."
+      ]
+    },
+    "sectionTwo": {
+      "title": "Advantages of MSU",
+      "subsections": {
+        "subsectionOne": {
+          "title": "In general",
+          "text": [
+            "MSU resolution is superior to MRI resolution",
+            "Lower cost, portable, and relatively easy access",
+            "Very few/no known dangers (e.g., possibility of using ultrasonography in the presence of orthopedic fixators)",
+            "Easy to compare with the opposite side",
+            "Possibility to use planes (views) outside of pure orthogonal planes",
+            "Ability to follow a structure (e.g., peripheral nerve) along its entire length",
+            "Possibility to interact with the structure during ultrasound, e.g.:",
+            [
+              "Dynamic application",
+              "Mobilizations, tension applications",
+              "Symptom provocation testing",
+              "Resisted isometric movements (RISOM)",
+              "Palpation"
+            ]
+          ]
+        },
+        "subsectionTwo": {
+          "title": "By structure",
+          "text": [
+            "Muscles",
+            [
+              "Ability to evaluate muscle architecture",
+              "Ability to evaluate while applying resistance"
+            ],
+            "Tendons",
+            [
+              "Ability to evaluate fiber structure",
+              "Allows observation of degenerative changes",
+              "Allows observation of longitudinal tears"
+            ],
+            "Ligaments",
+            [
+              "Ability to evaluate fiber structure",
+              "Possibility of tension application during ultrasound"
+            ],
+            "Bursae",
+            ["Ability to visualize septa formation, presence of debris"]
+          ]
+        }
+      }
+    },
+    "sectionThree": {
+      "title": "Limitations of MSU",
+      "subsections": {
+        "subsectionOne": {
+          "title": "In general",
+          "text": [
+            "Image quality relies more heavily on evaluator experience/competence",
+            "Any structure located under a bone cannot be visualized",
+            "Limited potential when a thick layer of adipose tissue must be traversed, because:",
+            [
+              "Excessive attenuation of ultrasound before reaching musculoskeletal tissues",
+              "Difficulty obtaining adequate focal zone"
+            ]
+          ]
+        },
+        "subsectionTwo": {
+          "title": "By structure",
+          "text": [
+            "Joint surfaces/structures: difficult (sometimes impossible) to visualize",
+            "Bone structures: inability to reach/visualize subcortical bone",
+            "Respiratory system: inability to traverse 'tissue-air' interfaces (lungs)"
+          ]
+        }
+      }
+    }
+  },
+  "sectionFour": {
+    "title": "Specific applications of MSU",
+    "text": [
+      "Biological feedback (biofeedback) to help recruit stabilizing muscles, including:",
+      ["Transversus abdominis", "Lumbar multifidus"],
+      "Visualization of 'dynamic' issues (therefore impossible to visualize statically), including:",
+      [
+        "Motor control problems in the shoulder girdle (scapulohumeral rhythm)",
+        "Subacromial impingement syndrome",
+        "Long head of biceps brachii tendon instability"
+      ]
+    ]
+  }
+}

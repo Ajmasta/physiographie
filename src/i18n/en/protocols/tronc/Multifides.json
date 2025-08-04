@@ -1,0 +1,329 @@
+{
+  "title": "Multifidus",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Origin", "colspan": 0, "header": true },
+          { "data": "Spinous process", "colspan": 0 }
+        ],
+        [
+          { "data": "Insertion", "rowspan": 0, "header": true },
+          {
+            "data": "Sacrum, lamina of lower vertebrae, mamillary process, iliac crest, zygapophyseal joint capsule",
+            "colspan": 0
+          }
+        ],
+        [
+          { "data": "Main Function", "colspan": 0, "header": true },
+          {
+            "data": "Proprioceptive afference, lumbar spine lordosis",
+            "colspan": 0
+          }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values from Literature",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "At the level of", "header": true },
+          { "data": "Measurement", "header": true },
+          { "data": "Value", "header": true }
+        ],
+        [
+          { "data": "Lumbar multifidus muscles", "rowspan": 4 },
+          { "data": "Fourth lumbar vertebra (L4)", "rowspan": 2 },
+          { "data": "Thickness at rest (mm)" },
+          { "data": "31.7 ± 6.5 <a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          { "data": "Thickness during contraction (mm)" },
+          { "data": "39.2 ± 6.9 <a href='#ref7' class='reference'>[7]</a>" }
+        ],
+        [
+          {
+            "data": "Most posterior point of L4/L5 zygapophyseal joint",
+            "rowspan": 2
+          },
+          { "data": "Thickness at rest (mm)" },
+          { "data": "34.6 ± 6.2 <a href='#ref6' class='reference'>[6]</a>" }
+        ],
+        [
+          { "data": "Thickness during contraction (mm)" },
+          { "data": "37.9 ± 6.5 <a href='#ref6' class='reference'>[6]</a>" }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Prone position",
+          "Abdomen exposed",
+          "It is suggested to place a pillow under the abdomen for subjects with accentuated or normal lordosis (or sometimes just for additional comfort)"
+        ]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "Locate and palpate the sacrum and spinous processes of the lumbar vertebrae",
+          "Locate the iliac crest to use as a reference point for locating the junction between L4 and L5 (reliability varies depending on the subject)"
+        ]
+      }
+    ],
+    "applicationDynamique": {
+      "title": "Dynamic Application",
+      "iframe": "<iframe width=\"395\" height=\"296\" src=\"https://www.youtube.com/embed/zawsTTFcp-M\" title=\"Dynamic ultrasound of lumbar multifidus [PLR]\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "vues": [
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/Multifidus/transverseView/",
+        "objectifs": [
+          "Observation and evaluation of the quality/quantity of lumbar multifidus muscle recruitment",
+          "Compare the level of contraction of the multifidus relative to the spinal muscles"
+        ],
+        "parametres": ["Depth: 4 cm", "Gain: 80"],
+        "positionnement": [
+          "Position 1: Place the probe in transverse view at the level of the sacrum, with the center of the probe above the S1 spinous process",
+          "Position 2: Move the probe cranially to L4 or L5, taking care to keep the center of the probe aligned with the spinous process of the same vertebra",
+          "Position 3: Move the probe slightly laterally so that the medial end of the probe just overlaps the spinous process of L4 (or L5), then slowly scan the region immediately adjacent to the spinous process of L4 (or L5) to obtain the best possible image of the structures of interest (see below)"
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Starting position of the probe, in transverse view at the center of the sacrum (S1 spinous process)"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Probe moved cranially, above L4 (or L5)"
+          },
+          {
+            "path": "positionnement3.jpg",
+            "descriptionText": "Probe moved laterally, keeping the spinous process at the edge of the image"
+          }
+        ],
+        "identification": [
+          {
+            "title": "[Position 1: Transverse at the center of the sacrum]",
+            "legend": [
+              {
+                "acronymes": ["L"],
+                "texte": [
+                  "The laminae of the S1 vertebra appear at the bottom of the image (left and right) as curved hyperechoic areas, convex toward the top of the image"
+                ]
+              },
+              {
+                "acronymes": ["SP"],
+                "texte": [
+                  "The spine (or spinous process) of the S1 vertebra appears in the center of the image, between the two laminae"
+                ]
+              },
+              {
+                "acronymes": ["MF"],
+                "texte": [
+                  "The multifidus muscles occupy a space bounded by the laminae (below) and the spinous process (in the center) of the S1 vertebra. Their echotexture is that of muscle when the probe is perpendicular to the fiber direction, i.e., individual fibers cannot be distinguished, but muscle fascicles and the connective tissue traversing the muscle can be discerned (the dark and light portions that can be seen, respectively)"
+                ]
+              },
+              {
+                "acronymes": ["ES"],
+                "texte": [
+                  "The erector spinae muscles are present in the upper portion of the image, superficial to the multifidus. With this image, it is not possible to distinguish the nature of the muscle with more precision (e.g., spinal vs. iliocostal vs. longissimus thoracis muscles)"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg", "descriptionText": "" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Lamina of S1 vertebra"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Spine of S1 vertebra"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Multifidus"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Erector spinae muscles"
+              },
+              { "path": "identification6.jpg", "descriptionText": "" }
+            ]
+          },
+          {
+            "title": "[Position 2: Probe moved cranially, on the spinous process of L4 or L5]",
+            "legend": [
+              {
+                "acronymes": ["L"],
+                "texte": [
+                  "The laminae of the L4 vertebra appear in the lower-center of the image as slightly curved hyperechoic areas, convex toward the top of the image, and separated by the spinous process"
+                ]
+              },
+              {
+                "acronymes": ["SP"],
+                "texte": [
+                  "The tip of the L4 vertebra's spine appears in the upper-center of the image, which is recognized more by the shadowing beneath it (since the cortical bone reflects ultrasound)"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification7.jpg", "descriptionText": "" },
+              {
+                "path": "identification8.jpg",
+                "descriptionText": "Lamina of L4 vertebra"
+              },
+              {
+                "path": "identification9.jpg",
+                "descriptionText": "Spine of L4 vertebra"
+              },
+              { "path": "identification10.jpg", "descriptionText": "" }
+            ]
+          },
+          {
+            "title": "[Position 3: Probe moved laterally to view the spinous process, lamina, and paraspinal muscles]",
+            "legend": [
+              {
+                "acronymes": ["L"],
+                "texte": [
+                  "The lamina of the L4 vertebra appears in the lower-center of the image as a short, poorly defined hyperechoic area"
+                ]
+              },
+              {
+                "acronymes": ["SP"],
+                "texte": [
+                  "The spine of the L4 vertebra appears on the left side of the image, and its margin is difficult to see (i.e., the hyperechoic zone normally expected when ultrasound hits cortical bone is not observable), probably due to the angle of incidence of the beam not allowing optimal sound wave return. Nevertheless, its presence is undoubted due to the acoustic shadow observed in this region of the image"
+                ]
+              },
+              {
+                "acronymes": ["MF"],
+                "texte": [
+                  "The multifidus muscles occupy a space bounded by the lamina (below), the spinous process (on the left), and the erector spinae (on the right). The distinction between the multifidus and erector spinae is possible due to the fascia separating them, and the differing echotexture, suggesting that the fibers of these two structures have different orientations and/or architecture."
+                ]
+              },
+              {
+                "acronymes": ["ES"],
+                "texte": [
+                  "The erector spinae muscles are present on the right side of the image, lateral and inferior to the multifidus"
+                ]
+              },
+              {
+                "acronymes": ["TP"],
+                "texte": [
+                  "The transverse process is present in the lower right quadrant of the image, which can be identified by the hyperechoic margin suggesting the presence of a bony structure."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification11.jpg", "descriptionText": "" },
+              {
+                "path": "identification12.jpg",
+                "descriptionText": "Lamina of L4 vertebra"
+              },
+              {
+                "path": "identification13.jpg",
+                "descriptionText": "Spine of L4 vertebra"
+              },
+              {
+                "path": "identification14.jpg",
+                "descriptionText": "Multifidus"
+              },
+              {
+                "path": "identification15.jpg",
+                "descriptionText": "Erector spinae muscles"
+              },
+              {
+                "path": "identification16.jpg",
+                "descriptionText": "Transverse process of L4 vertebra"
+              },
+              { "path": "identification17.jpg", "descriptionText": "" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The multifidus muscles are deep spinal muscles that form part of the transversospinal muscle group. They are essential for spinal stability and proprioception.",
+          "These muscles are arranged in a complex pattern, with fibers extending from the spinous processes to the mamillary processes and laminae of vertebrae 2-4 segments below. The deepest fibers span two segments, while more superficial fibers span up to four segments.",
+          "In the lumbar region, the multifidus muscles are particularly well-developed and play a crucial role in maintaining lumbar lordosis and providing segmental stability. They work in conjunction with other deep spinal muscles to control intersegmental motion and provide proprioceptive feedback.",
+          "The muscle fibers are oriented obliquely, running from the spinous processes downward and laterally to their insertions. This orientation allows them to produce extension when contracting bilaterally and rotation when contracting unilaterally."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Low Back Pain",
+        "text": [
+          "The multifidus muscles are frequently implicated in low back pain conditions:",
+          "<ul class='margin-left'><li>Atrophy and fatty infiltration are common findings in chronic low back pain</li><li>Decreased activation and altered recruitment patterns may persist even after pain resolution</li><li>Ultrasound imaging can help monitor muscle size and function during rehabilitation</li></ul>"
+        ]
+      },
+      {
+        "subtitle": "Post-surgical Considerations",
+        "text": [
+          "Multifidus muscle status is important in various surgical contexts:",
+          "<ul class='margin-left'><li>Pre-operative assessment of muscle quality</li><li>Post-operative monitoring of muscle recovery</li><li>Evaluation of muscle preservation in minimally invasive approaches</li></ul>"
+        ]
+      },
+      {
+        "subtitle": "Rehabilitation Applications",
+        "text": [
+          "Ultrasound imaging of the multifidus can guide rehabilitation:",
+          "<ul class='margin-left'><li>Real-time feedback during exercise</li><li>Assessment of muscle recruitment patterns</li><li>Monitoring of muscle recovery and hypertrophy</li></ul>"
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Rectus Abdominis",
+          "link": "trunk/rectus-abdominis"
+        },
+        {
+          "linkTitle": "Transversus Abdominis",
+          "link": "trunk/transversus-abdominis"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Hides, J. A., et al. \"Evidence of Lumbar Multifidus Muscle Wasting Ipsilateral to Symptoms in Patients with Acute/Subacute Low Back Pain.\" Spine 19.2 (1994): 165-172."
+        },
+        {
+          "text": "Wallwork, T. L., et al. \"The Effect of Chronic Low Back Pain on Size and Contraction of the Lumbar Multifidus Muscle.\" Manual Therapy 14.5 (2009): 496-500."
+        },
+        {
+          "text": "Kiesel, K. B., et al. \"Measurement of Lumbar Multifidus Muscle Contraction with Rehabilitative Ultrasound Imaging.\" Manual Therapy 12.2 (2007): 161-166."
+        },
+        {
+          "text": "MacDonald, D. A., et al. \"The Lumbar Multifidus: Does the Evidence Support Clinical Beliefs?\" Manual Therapy 11.4 (2006): 254-263."
+        }
+      ]
+    }
+  }
+}

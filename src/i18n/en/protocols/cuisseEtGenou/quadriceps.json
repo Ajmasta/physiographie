@@ -1,0 +1,299 @@
+{
+  "title": "Quadriceps Femoris",
+  "latinName": "Quadriceps femoris",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "" },
+          { "data": "Rectus Femoris", "header": true },
+          { "data": "Vastus Intermedius", "header": true },
+          { "data": "Vastus Medialis", "header": true },
+          { "data": "Vastus Lateralis", "header": true }
+        ],
+        [
+          { "data": "Muscle Type", "header": true },
+          { "data": "Biarticular, unipennate**" },
+          { "data": "Monoarticular, unipennate" },
+          { "data": "Monoarticular, unipennate" },
+          { "data": "Monoarticular, unipennate" }
+        ],
+        [
+          { "data": "Origin", "header": true },
+          { "data": "Anterior inferior iliac spine [AIIS] (via 3 tendons)" },
+          { "data": "Fibula, tibia (medial surface)" },
+          { "data": "Linea aspera (posterior surface of femur)", "colspan": 2 }
+        ],
+        [
+          { "data": "Insertion", "header": true },
+          { "data": "Superficial layer of quadriceps tendon" },
+          { "data": "Deep layer of quadriceps tendon" },
+          {
+            "data": "Middle layer of quadriceps tendon; some fibers deviate from the medial line to directly join the patellar retinaculum",
+            "colspan": 2
+          }
+        ],
+        [
+          { "data": "Innervation", "header": true },
+          { "data": "Femoral nerve", "colspan": 4 }
+        ],
+        [
+          { "data": "Action", "header": true },
+          { "data": "Knee extension, Hip flexion" },
+          { "data": "Knee extension", "colspan": 3 }
+        ]
+      ],
+      "text": [
+        "** The structure of the rectus femoris being complex, it is discussed in more detail in the descriptive anatomy section below."
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [
+        [
+          { "data": "Measurement", "header": true },
+          { "data": "Structure", "header": true },
+          { "data": "Plane/Site", "header": true },
+          { "data": "Subject Type", "header": true },
+          { "data": "Mean ± SD", "header": true }
+        ],
+        [
+          { "data": "Thickness (mm)" },
+          { "data": "Rectus femoris [RF]", "rowspan": 3 },
+          {
+            "data": "RF muscle belly, at 60-70% of the distance between the popliteal fossa and greater trochanter"
+          },
+          { "data": "Healthy M & F ≈ 24 years" },
+          { "data": "20.7 ± 3.9<a href='#ref15' class='reference'>[15]</a>" }
+        ],
+        [
+          { "data": "Cross-sectional area (mm2)", "rowspan": 3 },
+          {
+            "data": "At 3/5 of the distance between ASIS and superior border of patella",
+            "rowspan": 2
+          },
+          { "data": "Healthy M & F, 63 ± 9 years" },
+          { "data": "463 ± 137<a href='#ref12' class='reference'>[12]</a>" }
+        ],
+        [
+          { "data": "COPD M & F, 67 ± 9 years" },
+          { "data": "348 ± 78<a href='#ref12' class='reference'>[12]</a>" }
+        ],
+        [
+          { "data": "Quadriceps", "rowspan": 5 },
+          {
+            "data": "Junction of proximal third and distal two-thirds of thigh"
+          },
+          { "data": "Healthy M & F 19 to 41 years", "rowspan": 2 },
+          { "data": "60.8 ± 10.5<a href='#ref14' class='reference'>[14]</a>" }
+        ],
+        [
+          { "data": "Volume* (cm3)" },
+          { "data": "N/A" },
+          { "data": "1641 ± 249<a href='#ref14' class='reference'>[14]</a>" }
+        ],
+        [
+          {
+            "data": "Thickness (mm)",
+            "rowspan": 3
+          },
+          {
+            "data": "Midpoint between greater trochanter and knee joint line",
+            "rowspan": 3
+          },
+          { "data": "Child (0-1 year)" },
+          { "data": "16.4 ± 2.8<a href='#ref5' class='reference'>[5]</a>" }
+        ],
+        [
+          { "data": "Child (5-6 years)" },
+          { "data": "26.3 ± 3.7<a href='#ref5' class='reference'>[5]</a>" }
+        ],
+        [
+          { "data": "Child (11-12 years)" },
+          { "data": "29.7 ± 4.9<a href='#ref5' class='reference'>[5]</a>" }
+        ]
+      ],
+      "text": ["* Estimated using the Cavalieri method"]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Supine position, with the lower two-thirds of the thigh exposed"
+        ]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "Ask the subject to perform an isometric contraction to locate and palpate the three superficial heads of the quadriceps"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/quadriceps/vueTransversale/",
+        "objectifs": [
+          "Examination of the four heads of the quadriceps femoris",
+          "Detailed observation of the rectus femoris structure (embedded internal layer, see above)"
+        ],
+        "parametres": ["Depth: 2 cm", "Gain: 80"],
+        "positionnement": [
+          "In transverse view (perpendicular to the long axis of the thigh), place the probe 15-20 cm proximal to the knee, approximately aligned with the midline",
+          "Scan mediolaterally as well as proximally and distally from the initial site to appreciate the different portions of the quadriceps femoris"
+        ],
+        "imagePositionnement": [
+          { "path": "positionnement1.jpg", "descriptionText": "" }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["F"],
+                "texte": [
+                  "The femur is visible in the lower third of the image and appears as a semicircular hyperechoic area."
+                ]
+              },
+              {
+                "acronymes": ["RF"],
+                "texte": [
+                  "The rectus femoris, a slightly hyperechoic area, is present in the upper third of the image, centrally, beneath the subcutaneous adipose tissue layer. Additionally, its outline is clearly defined by a thick hyperechoic fascia."
+                ]
+              },
+              {
+                "acronymes": ["VI"],
+                "texte": [
+                  "The vastus intermedius is located between the femoral shaft and the rectus femoris, right in the center of the image, and also has a fascia that clearly delimits its periphery."
+                ]
+              },
+              {
+                "acronymes": ["VL"],
+                "texte": [
+                  "The vastus lateralis appears on the left side of the image and extends from the compartment surface (under the subcutaneous fat) to the posterolateral aspect of the femoral shaft (outside the image frame). Note that its fibers appear to slightly intrude into the vastus intermedius/rectus femoris interface."
+                ]
+              },
+              {
+                "acronymes": ["VM"],
+                "texte": [
+                  "The vastus medialis, similar to the vastus lateralis, occupies the entire right portion of the image, from the surface to deep."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Femur" },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Rectus femoris"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Vastus intermedius"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Vastus lateralis"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Vastus medialis"
+              },
+              { "path": "identification7.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The quadriceps, as its etymology suggests, is a muscle formed of four heads, or distinct muscle bellies (from Latin 'quadri' for 'four', and 'caput' for 'head'). The quadriceps occupies almost the entire anterior compartment of the thigh<a href='#ref1' class='reference'>[1]</a>. These four heads share their role as knee extensors through their distal end, which (partially) converges to form the quadriceps tendon.",
+          "<strong>Rectus Femoris [RF]</strong>",
+          "The rectus femoris is a superficial head located on the anterior aspect of the thigh. It differs from the other three heads because it originates from the pelvic girdle, as opposed to the other heads which originate from the femoral shaft. This particularity makes the RF a biarticular muscle (being both a knee extensor and hip flexor).",
+          "The proximal insertion of the RF is mainly at the anterior inferior iliac spine [AIIS]. However, the RF has three distinct proximal tendons:",
+          "<ul class='margin-left'><li>Direct (or 'straight') tendon: Insertion at AIIS</li><li>Indirect tendon: Insertion at the superolateral rim of the acetabulum</li><li>Reflected tendon, the smallest of the three: Insertion at the anterior capsule of the hip joint</li></ul>",
+          "The internal structure of the rectus femoris is relatively complex, and a good understanding of its concepts helps better comprehend the sites and mechanisms of its rupture. Until the 1980s-1990s, the rectus femoris was described as having a 'simple' unipennate structure, originating from a proximal tendon and inserting via a distal tendon. Since the mid-1990s, numerous studies (cadaveric<a href='#ref4' class='reference'>[4]</a>, MRI<a href='#ref6' class='reference'>[6]</a>, ultrasound<a href='#ref2' class='reference'>[2]</a>, etc.) have revealed a structure quite different from what had previously been consensus. It is actually a small central muscle belly embedded within a larger muscle belly ('muscle-within-muscle structure'). The external muscle layer has the appearance of a 'classic' unipennate muscle, which explains why the entire muscle was long described as being unipennate. The aponeurosis of the internal (central) belly, which is closely connected to the direct proximal tendon, gives rise to the external belly. The internal belly, in turn, derives from the central aponeurosis, a fibrous band associated with the indirect proximal tendon. From this central aponeurosis, the muscle fibers of the internal belly diverge from both sides of the midline to insert into the distal deep aponeurosis. This results in an internal muscle with a bipennate appearance within a larger, unipennate external muscle<a href='#ref1' class='reference'>[1]</a>.",
+          "<strong>Vastus Intermedius</strong>",
+          "Among the four heads composing the quadriceps, the vastus intermedius is the deepest, being attached to the anterior surface of the femur. Its origin is the most caudal (lower) of the four heads, and its distal portion ends in the deep layer of the quadriceps tendon (see the <a href='/protocoles/cuisse-et-genou/tendon-quadricipital' class='underlined'>quadriceps tendon protocol</a> for more information on this)<a href='#ref1' class='reference'>[1]</a>.",
+          "<strong>Vastus Lateralis & Vastus Medialis</strong>",
+          "The vastus lateralis and vastus medialis muscles originate from either side of the linea aspera, a bony ridge located on the posterior surface of the femoral shaft. Their muscle bellies are located on each side of the femoral shaft and progress distally to join the middle layer of the quadriceps tendon. As indicated in the table above, some distal fibers of the vastus medialis and lateralis deviate from the midline and insert into the patellar retinaculum on the corresponding side, thus not progressing into the middle layer of the quadriceps tendon."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Tear/Rupture of One of the Quadriceps Heads",
+        "text": [
+          "This type of injury classically occurs in the context of intense sports activity, particularly those involving significant impulses (jumps, sprints) or in professional athletes<a href='#ref1' class='reference'>[1]</a>. Traditional physical examination is useful in this context but proves quite limited when it comes to distinguishing a simple contusion from a minor or intrasubstance rupture. An adequate assessment of the location and severity of the quadriceps injury is of great importance when developing an appropriate treatment plan<a href='#ref1' class='reference'>[1]</a>.",
+          "Rectus Femoris [RF]<a href='#ref1' class='reference'>[1]</a>:",
+          [
+            "The RF is particularly susceptible to ruptures due to certain intrinsic anatomical and structural characteristics. Among others, we mention the fact that the RF crosses two joints, which puts more stress on it during activities involving the entire lower limb (as it is tensioned by both hip and knee movements). Moreover, this muscle being composed largely of type II fibers (fast fibers), it participates in powerful eccentric contractions found during activities like running, which exposes it to risks of tearing.",
+            "RF ruptures that occur during significant eccentric force are mainly located at the proximal or distal musculotendinous junction [MTJ] (and not within the muscle belly). Tears within the distal MTJ of the RF seem more frequent (compared to the proximal MTJ), but it's also possible that they are more easily detected/diagnosed.",
+            "Acute rupture of the distal deep aponeurosis causes the appearance of a mass in the anterior thigh (middle third), which is more apparent when the subject performs active knee extension (due to muscle retraction). This type of clinical presentation normally doesn't require confirmation through ultrasound imaging due to its quite evocative nature.",
+            "In contrast, ruptures of the central aponeurosis are associated with a more subtle clinical presentation (no palpable mass) since the affected structure is deep and doesn't cause any muscle retraction. Signs and symptoms are non-specific (diffuse edema, local pain) and may be insufficient for diagnosis. In the case of an inconclusive physical examination, ultrasound imaging may be necessary.",
+            "In the event of an unrevealing static ultrasound examination, it may be useful to perform a longitudinal dynamic examination of the RF, asking the subject to perform an isometric quadriceps contraction, to highlight potential retraction of the injured muscle."
+          ],
+          "Vasti:",
+          [
+            "Injuries to the vasti muscles are less common than those to the RF, likely due to their monoarticular nature and their more protected anatomical position.",
+            "When they do occur, these injuries typically involve the musculotendinous junction or muscle belly, and are often associated with direct trauma or sudden eccentric loading.",
+            "Ultrasound examination is particularly useful for assessing the extent and location of vastus muscle injuries, as well as monitoring healing progress."
+          ]
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Quadriceps tendon",
+          "link": "protocoles/cuisse-genou/tendon-quadricipital"
+        },
+        {
+          "linkTitle": "Patellar ligament",
+          "link": "protocoles/cuisse-genou/ligament-patellaire"
+        },
+        {
+          "linkTitle": "Tibial tuberosity",
+          "link": "protocoles/cuisse-genou/tuberosite-tibiale"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Hasselman, C. T., Best, T. M., Hughes, C., Martinez, S., & Garrett, W. E. (1995). An explanation for various rectus femoris strain injuries using previously undescribed muscle architecture. The American Journal of Sports Medicine, 23(4), 493-499."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Garrett, W. E., Rich, F. R., Nikolaou, P. K., & Vogler, J. B. (1989). Computed tomography of hamstring muscle strains. Medicine and Science in Sports and Exercise, 21(5), 506-514."
+        },
+        {
+          "text": "O'Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        }
+      ]
+    }
+  }
+}

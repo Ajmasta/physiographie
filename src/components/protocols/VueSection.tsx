@@ -5,6 +5,7 @@ import { FaCog, FaSearch } from "react-icons/fa";
 import TextGenerator from "../TextGenerator";
 import Collapse from "../Collapse";
 import { Images } from "../../interfaces/protocol";
+import { useTranslation } from "react-i18next";
 
 interface LegendItem {
   acronymes: string[];
@@ -32,6 +33,8 @@ type Props = {
 };
 
 const VueSection = ({ vue }: Props) => {
+  const { t } = useTranslation("protocolSections");
+
   return (
     <div className="relative text-lg leading-8">
       <Collapse title={vue.title} subtitle>
@@ -44,7 +47,7 @@ const VueSection = ({ vue }: Props) => {
               className="text-xl font-semibold "
               style={{ fontVariant: "small-caps" }}
             >
-              Objectifs
+              {t("vueSection.objectives")}
             </p>
           </div>
           <ul className="ml-12">
@@ -71,7 +74,7 @@ const VueSection = ({ vue }: Props) => {
               className="text-xl font-semibold "
               style={{ fontVariant: "small-caps" }}
             >
-              Paramètres suggérés
+              {t("vueSection.suggestedParameters")}
             </p>
           </div>
           <ul className="ml-12">
@@ -87,7 +90,7 @@ const VueSection = ({ vue }: Props) => {
               className="text-xl font-semibold "
               style={{ fontVariant: "small-caps" }}
             >
-              Positionnement de la sonde
+              {t("vueSection.probePosition")}
             </p>
           </div>
           <ul className="ml-12">
@@ -105,7 +108,7 @@ const VueSection = ({ vue }: Props) => {
                 className="text-xl font-semibold "
                 style={{ fontVariant: "small-caps" }}
               >
-                Identification des structures
+                {t("vueSection.structureIdentification")}
               </p>
             </div>
             <div className="flex flex-col mt-4">

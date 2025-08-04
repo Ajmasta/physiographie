@@ -1,0 +1,356 @@
+{
+  "title": "Femoral Neck",
+  "latinName": "Collum femoris",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          {
+            "data": "Normal Orientation (degrees)",
+            "header": true,
+            "rowspan": 4
+          },
+          { "data": "Plane", "header": true },
+          { "data": "Value (± SD)", "header": true }
+        ],
+        [
+          { "data": "Anteversion", "header": true },
+          {
+            "data": "8 (±10) [up to 15-20]*<a href='#ref13' class='reference'>[13]</a><a href='#ref10' class='reference'>[10]</a>"
+          }
+        ],
+        [
+          { "data": "Femoral anatomical valgus", "header": true },
+          {
+            "data": "4 (±1.9)<a href='#ref13' class='reference'>[13]</a><a href='#ref9' class='reference'>[9]</a>"
+          }
+        ],
+        [
+          { "data": "Distal femoral anatomical valgus", "header": true },
+          { "data": "4.9<a href='#ref6' class='reference'>[6]</a>" }
+        ]
+      ],
+      "text": ["*Variations according to authors, subject ethnicity, etc."]
+    },
+    "extraTable": {
+      "rangees": [
+        [
+          {
+            "data": "Measurement",
+            "header": true
+          },
+          { "data": "Age-adjusted odds ratio*", "header": true }
+        ],
+        [
+          { "data": "BMD" },
+          { "data": "2.7 <a href='#ref5' class='reference'>[5]</a>" }
+        ],
+        [
+          { "data": "Hip axis length" },
+          { "data": "1.8 <a href='#ref5' class='reference'>[5]</a>" }
+        ],
+        [
+          { "data": "Femoral neck width" },
+          { "data": "1.1 <a href='#ref5' class='reference'>[5]</a>" }
+        ],
+        [
+          { "data": "Neck-shaft angle" },
+          { "data": "1.1 <a href='#ref5' class='reference'>[5]</a>" }
+        ]
+      ],
+      "text": ["*Age-adjusted odds ratio"]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Measurement", "header": true },
+          { "data": "Sex (F/M)", "header": true },
+          { "data": "Subject Type", "header": true },
+          { "data": "Mean ± SD", "header": true }
+        ],
+        [
+          { "data": "Femoral neck", "rowspan": 6 },
+          {
+            "data": "Angle [relative to femoral shaft] (degrees)",
+            "rowspan": 2
+          },
+          { "data": "Female", "rowspan": 10 },
+          { "data": "Healthy" },
+          {
+            "data": "<span class='red-text'>7 ± 1</span> <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Fracture cases" },
+          {
+            "data": "<span class='red-text'>49 ± 7</span> <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Width (cm)", "rowspan": 2 },
+          { "data": "Healthy" },
+          {
+            "data": "<span class='red-text'>1.98 ± 0.16</span> <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Fracture cases" },
+          {
+            "data": "<span class='red-text'>2.0 ± 0.16</span> <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Bone mineral density [BMD] (g/cm3)", "rowspan": 2 },
+          { "data": "Healthy" },
+          {
+            "data": "<span class='green-text'>0.652 ± 0.118</span> <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Fracture cases" },
+          {
+            "data": "<span class='green-text'>0.556 ± 0.094</span> <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "N/A", "rowspan": 2 },
+          {
+            "data": "Age (years)",
+            "rowspan": 2
+          },
+          { "data": "Healthy" },
+          {
+            "data": "<span class='green-text'>73.4 ± 5.4</span> <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Fracture cases" },
+          {
+            "data": "<span class='green-text'>76.5 ± 6.2</span> <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Hip axis", "rowspan": 2 },
+          {
+            "data": "Length (cm)",
+            "rowspan": 2
+          },
+          { "data": "Healthy" },
+          {
+            "data": "<span class='green-text'>6.70 ± 0.38</span> <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Fracture cases" },
+          {
+            "data": "<span class='green-text'>6.93 ± 0.40</span> <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ]
+      ],
+      "text": [
+        "Legend: [Green data] Statistically significant difference; [Red data] Not statistically significant difference"
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Supine position, lower limb at rest with the anterior aspect of the hip exposed<a href='#ref1' class='reference'>[1]</a>"
+        ]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": ["Locate and palpate the greater trochanter"]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/colFemoral/vueLongitudinale/",
+        "objectifs": [
+          "Observation of the femoral neck (and surrounding structures)"
+        ],
+        "parametres": [
+          "Exceptionally, a curvilinear probe will be used, considering the considerable depth of the imaged structures",
+          "Depth: 8 cm",
+          "Gain: 50",
+          "G/3/3"
+        ],
+        "positionnement": [
+          "As shown in the attached image, in oblique longitudinal view (almost parallel to the long axis of the femur), place the probe on the femoral neck, slightly distal to the greater trochanter [GT] (or at the same level in some subjects)",
+          "Scan slightly proximally and distally until obtaining an optimal image, i.e., one in which both the femoral head and neck are visible"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["Fh"],
+                "texte": [
+                  "The femoral head appears in the center of the image as a semi-circular area bounded by a hyperechoic line"
+                ]
+              },
+              {
+                "acronymes": ["Fn"],
+                "texte": [
+                  "The femoral neck appears to the right (distal) of the femoral head. It is a hyperechoic area with a concave relief (which is not very pronounced given that the image was obtained using a curvilinear probe)"
+                ]
+              },
+              {
+                "acronymes": ["A"],
+                "texte": [
+                  "The acetabulum is present just to the left (proximal) of the femoral head, and appears as a hyperechoic area with a poorly defined contour (the outline of this image suffers from some distortion)"
+                ]
+              },
+              {
+                "acronymes": ["IP"],
+                "texte": [
+                  "The iliopsoas is superficial to the femur (thus at the top of it in the image), and takes the form of a slightly hyperechoic area within which muscular echotexture (rather wide striations) is visible. The fascias surrounding the iliopsoas, more echogenic than the internal portion of the muscle, are also clearly visible"
+                ]
+              },
+              {
+                "acronymes": ["JC"],
+                "texte": [
+                  "The portion of the joint capsule visible in this image is located between the femoral neck and the lower border of the iliopsoas"
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Femoral head"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Femoral neck"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Acetabulum"
+              },
+              {
+                "path": "identification5.jpg",
+                "descriptionText": "Iliopsoas"
+              },
+              {
+                "path": "identification6.jpg",
+                "descriptionText": "Joint capsule"
+              },
+              { "path": "identification7.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The femoral neck is the portion of the proximal femur that connects the femoral head to the femoral shaft. It forms an angle of approximately 125° with the femoral shaft in adults<a href='#ref1' class='reference'>[1]</a>. This angle, called the neck-shaft angle or caput-collum-diaphyseal (CCD) angle, varies with age and can be an important clinical indicator.",
+          "The femoral neck is almost entirely intracapsular, meaning it is contained within the hip joint capsule. This anatomical arrangement has important clinical implications, particularly in cases of fracture, as it can affect blood supply and healing potential.",
+          "The surface of the femoral neck serves as an attachment site for the hip joint capsule and several ligaments. The capsular attachment extends further on the anterior surface than on the posterior surface, leaving a portion of the posterior neck extracapsular.",
+          "The blood supply to the femoral head passes primarily through vessels that run along the surface of the femoral neck, making this region particularly vulnerable to vascular compromise in cases of fracture or dislocation."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Femoral Neck Fractures",
+        "text": [
+          "While ultrasound is not the primary imaging modality for diagnosing femoral neck fractures, it can be useful in identifying joint effusion and assessing surrounding soft tissue injury.",
+          "The femoral neck is a common site of osteoporotic fractures, particularly in elderly patients. The orientation and architecture of the femoral neck make it particularly susceptible to fracture under certain loading conditions.",
+          "Understanding the normal ultrasonographic appearance of the femoral neck and surrounding structures can help in the assessment of post-fracture healing and complications."
+        ]
+      },
+      {
+        "subtitle": "Developmental Conditions",
+        "text": [
+          "Ultrasonographic examination of the femoral neck region can be helpful in screening for developmental hip dysplasia in infants.",
+          "Changes in the neck-shaft angle (coxa vara or coxa valga) can be assessed to some extent through careful ultrasonographic examination, though other imaging modalities are typically used for definitive diagnosis."
+        ]
+      },
+      {
+        "subtitle": "Osteoarthritis",
+        "text": [
+          "Ultrasound can be used to assess some aspects of hip osteoarthritis, particularly the presence of joint effusion and synovial thickening.",
+          "The relationship between femoral neck morphology and the development of hip osteoarthritis has been well-documented, making understanding of this region's anatomy particularly important."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Greater Trochanter",
+          "link": "/protocoles/hanche/grand-trochanter/"
+        },
+        {
+          "linkTitle": "Iliotibial Band",
+          "link": "/protocoles/hanche/bandelette-ilio-tibiale"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angelo Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. « Musculoskeletal Ultrasound Technical Guidelines (IV. Hip). » European Society of Musculoskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Clark, John M., M. A. R. Freeman, et David Witham. « The relationship of neck orientation to the shape of the proximal femur. » The Journal of Arthroplasty 2, nᵒ 2 (1987): 99‑109. doi:10.1016/S0883-5403(87)80016-5."
+        },
+        {
+          "text": "D'lima, Darryl D., Andrew G. Urquhart, Knute O. Buehler, Richard H. Walker, et Clifford W. Colwell. « The Effect of the Orientation of the Acetabular and Femoral Components on the Range of Motion of the Hip at Different Head-Neck Ratios*. » The Journal of Bone & Joint Surgery 82, nᵒ 3 (1 mars 2000): 315‑21."
+        },
+        {
+          "text": "Faulkner, Kenneth G., Steven R. Cummings, Dennis Black, Lisa Palermo, Claus-C. Glüer, et Harry K. Genant. « Simple Measurement of Femoral Geometry Predicts Hip Fracture: The Study of Osteoporotic Fractures. » Journal of Bone and Mineral Research 8, nᵒ 10 (1 octobre 1993): 1211‑17. doi:10.1002/jbmr.5650081008."
+        },
+        {
+          "text": "Hsu, RW, Himeno S, Coventry Mb, et Chao Ey. « Normal Axial Alignment of the Lower Extremity and Load-Bearing Distribution at the Knee. » Clinical Orthopaedics and Related Research, nᵒ 255 (juin 1990): 215‑27."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Nötzli, H. P., T. F. Wyss, C. H. Stoecklin, M. R. Schmid, K. Treiber, et J. Hodler. « The Contour of the Femoral Head-Neck Junction as a Predictor for the Risk of Anterior Impingement. » Journal of Bone & Joint Surgery, British Volume 84-B, nᵒ 4 (1 mai 2002): 556‑60. doi:10.1302/0301-620X.84B4.12014."
+        },
+        {
+          "text": "Oswald, Michael H., Roland P. Jakob, Erich Schneider, et Henri-Marcel Hoogewoud. « Radiological analysis of normal axial alignment of femur and tibia in view of total knee arthroplasty. » The Journal of Arthroplasty 8, nᵒ 4 (août 1993): 419‑26. doi:10.1016/S0883-5403(06)80042-2."
+        },
+        {
+          "text": "Reikeråls, Olav, Ingjald Bjerkreim, et Alf Kolbenstvedt. « Anteversion of the Acetabulum and Femoral Neck in Normals and in Patients with Osteoarthritis of the Hip. » Acta Orthopaedica 54, nᵒ 1 (1 janvier 1983): 18‑23. doi:10.3109/17453678308992864."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Practical Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Tönnis, D., et A. Heinecke. « Current Concepts Review - Acetabular and Femoral Anteversion: Relationship with Osteoarthritis of the Hip*. » The Journal of Bone & Joint Surgery 81, nᵒ 12 (1 décembre 1999): 1747‑70."
+        },
+        {
+          "text": "Yoshioka, Y., D. Siu, et T. D. Cooke. « The Anatomy and Functional Axes of the Femur. » The Journal of Bone and Joint Surgery. American Volume 69, nᵒ 6 (juillet 1987): 873‑80."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "title": "Lateral Collateral Ligament",
+  "latinName": "Ligamentum collaterale laterale",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Attachments", "header": true, "rowspan": 2 },
+          { "data": "Proximal: Femur, lateral epicondyle" }
+        ],
+        [{ "data": "Distal: Tibia, lateral aspect" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Measurement", "header": true },
+          { "data": "Plane / Site", "header": true },
+          { "data": "Knee Position", "header": true },
+          { "data": "Mean (min-max)", "header": true }
+        ],
+        [
+          { "data": "Lateral collateral ligament", "rowspan": 3 },
+          { "data": "Length (mm)" },
+          { "data": "Longitudinal plane (origin to insertion)" },
+          { "data": "Maximum extension" },
+          {
+            "data": "65.3 (53.8 - 72.8) <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Cross-sectional area (cm2)", "rowspan": 2 },
+          { "data": "Femoral attachment" },
+          { "data": "N/A (cadaveric study with dissection)", "rowspan": 2 },
+          {
+            "data": "0.48 (0.43 - 0.52) <a href='#ref12' class='reference'>[12]</a>"
+          }
+        ],
+        [
+          { "data": "Fibular attachment" },
+          {
+            "data": "0.43 (0.39 - 0.50) <a href='#ref12' class='reference'>[12]</a>"
+          }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Supine position, lower limb in slight internal rotation, with the knee maintained at approximately 20-30° of flexion<a href='#ref1' class='reference'>[1]</a>"
+        ]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "Locate and palpate the fibular head, lateral tibial plateau, and lateral femoral epicondyle"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/ligamentCollateralExterne/vueLongitudinale/",
+        "objectifs": ["Examination of the lateral collateral ligament"],
+        "parametres": ["Depth: 2 cm", "Gain: 80"],
+        "positionnement": [
+          "In longitudinal view (parallel to the long axis of the tibia), place the distal (caudal) end of the probe on the fibular head",
+          "Slowly rotate the probe until obtaining the longest possible image of the LCL, i.e., when the probe is optimally aligned with the ligament<a href='#ref1' class='reference'>[1]</a>"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["F"],
+                "texte": [
+                  "The femur appears in the lower left portion of the image as a curved area (two convex sides and a concave middle) with hyperechoic margins"
+                ]
+              },
+              {
+                "acronymes": ["T"],
+                "texte": [
+                  "The tibia appears to the right (distally) of the femur and can be recognized by its cortical bone (hyperechoic) which is highly impermeable to ultrasound waves (explaining the hypoechoic area beneath it)."
+                ]
+              },
+              {
+                "acronymes": ["LCL"],
+                "texte": [
+                  "The collateral ligament is visible superficial to the tibia and femur, appearing as a slightly hyperechoic band with fibrillar echotexture and well-defined margins."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Femur" },
+              { "path": "identification3.jpg", "descriptionText": "Tibia" },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Lateral collateral ligament"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "The lateral collateral ligament [LCL] is a ligament of the posterolateral aspect of the knee that is part of the lateral supporting structures of the knee. Similar to the medial aspect of the knee, the stabilizing structures of the lateral aspect of the knee are organized in three layers, according to their relative depth. From the most superficial to the deepest structures, we find:<a href='#ref1' class='reference'>[1]</a>",
+          "<ul class='margin-left'><li>Superficial layer: iliotibial band (anterior) and biceps femoris tendon (posterior)</li><li>Intermediate layer: lateral patellar retinaculum & patellofemoral ligaments (anterior) and lateral collateral ligament (posterior)</li><li>Deep layer: lateral portion of the joint capsule and the arcuate and fabellofibular ligaments</li></ul>",
+          "Some stabilizing structures of the knee are sometimes grouped under the terms 'arcuate ligament complex' or 'posterolateral ligament complex' of the knee, which includes:<a href='#ref4' class='reference'>[4]</a><a href='#ref9' class='reference'>[9]</a>",
+          "<ul class='margin-left'><li>The lateral collateral ligament</li><li>The arcuate popliteal ligament</li><li>The popliteofibular ligament</li><li>The fabellofibular ligament (if a fabella is present)</li><li>The posterior third of the lateral capsule</li></ul>",
+          "Also, depending on the authors, the term 'arcuate ligament complex of the knee' may also encompass:",
+          "<ul class='margin-left'><li>The tendon-aponeurosis unit formed by the popliteus muscle</li><li>The biceps femoris tendon</li><li>The popliteal meniscal ligament</li><li>The lateral head of the gastrocnemius muscle</li></ul>",
+          "The LCL is the primary restraint to varus stress of the knee and also helps prevent knee hyperextension. Additionally, it has been established that knee flexion movements cause relaxation of the lateral collateral ligament<a href='#ref1' class='reference'>[1]</a>. According to a 2009 study<a href='#ref12' class='reference'>[12]</a>, the LCL is isometric (or nearly so) for knee flexion angles from 0° to 70°, and for angles > 70°, it shortens (thus relaxes) at a rate of 1.2 mm/10° of knee flexion (see attached graph, where 'LCL' refers to 'lateral collateral ligament')."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Lateral Collateral Ligament Injury",
+        "text": [
+          "The LCL is less frequently injured than the medial collateral ligament (which is also true for all lateral knee stabilizing structures compared to medial ones). Sprains, strains, or ruptures of the LCL typically result from excessive varus stress and are often associated with anterior cruciate ligament injuries or other intra-articular lesions<a href='#ref1' class='reference'>[1]</a>.",
+          "Since ultrasonography imaging has limited utility in visualizing intra-articular knee structures, and considering that LCL injuries are often accompanied by intra-articular lesions, magnetic resonance imaging is generally used when an LCL injury is suspected<a href='#ref1' class='reference'>[1]</a>.",
+          "On ultrasound examination, the ruptured ligament appears thickened, and it can be difficult (if not impossible) to distinguish between a partial and complete rupture<a href='#ref1' class='reference'>[1]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Medial Collateral Ligament",
+          "link": "/protocoles/cuisse-genou/ligament-collateral-interne"
+        },
+        {
+          "linkTitle": "Iliotibial Band",
+          "link": "/protocoles/cuisse-genou/bandelette-ilio-tibiale"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Johnson, Donald Hugh, and Robert A. Pedowitz. Practical Orthopaedic Sports Medicine and Arthroscopy. Lippincott Williams & Wilkins, 2007."
+        },
+        {
+          "text": "Juhng, Seon-Kwan, Joong K. Lee, See-Sung Choi, Kwon-Ha Yoon, Byung-Suk Roh, and Jong-Jin Won. 'MR Evaluation of the \"Arcuate\" Sign of Posterolateral Knee Instability.' American Journal of Roentgenology 178, no. 3 (March 1, 2002): 583–88. doi:10.2214/ajr.178.3.1780583."
+        },
+        {
+          "text": "LaPrade, Robert F., Thuan V. Ly, Fred A. Wentorf, and Lars Engebretsen. 'The Posterolateral Attachments of the Knee A Qualitative and Quantitative Morphologic Analysis of the Fibular Collateral Ligament, Popliteus Tendon, Popliteofibular Ligament, and Lateral Gastrocnemius Tendon*.' The American Journal of Sports Medicine 31, no. 6 (November 1, 2003): 854–60."
+        },
+        {
+          "text": "Martinoli, Carlo. 'Musculoskeletal Ultrasound: Technical Guidelines.' Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Miller, T. T., P. Gladden, R. B. Staron, J. H. Henry, and F. Feldman. 'Posterolateral Stabilizers of the Knee: Anatomy and Injuries Assessed with MR Imaging.' AJR. American Journal of Roentgenology 169, no. 6 (December 1997): 1641–47. doi:10.2214/ajr.169.6.9393184."
+        },
+        {
+          "text": "Munshi, Muhammad, Michael L. Pretterklieber, Sandy Kwak, Gregory E. Antonio, Debra J. Trudell, and Donald Resnick. 'MR Imaging, MR Arthrography, and Specimen Correlation of the Posterolateral Corner of the Knee: An Anatomic Study.' American Journal of Roentgenology 180, no. 4 (April 2003): 1095–1101. doi:10.2214/ajr.180.4.1801095."
+        },
+        {
+          "text": "Pietrini, Sean D., Robert F. LaPrade, Chad J. Griffith, Coen A. Wijdicks, and Connor G. Ziegler. 'Radiographic Identification of the Primary Posterolateral Knee Structures.' The American Journal of Sports Medicine 37, no. 3 (March 1, 2009): 542–51. doi:10.1177/0363546508328117."
+        },
+        {
+          "text": "Sekiya, Jon K., Jon A. Jacobson, and Edward M. Wojtys. 'Sonographic Imaging of the Posterolateral Structures of the Knee: Findings in Human Cadavers.' Arthroscopy: The Journal of Arthroscopic & Related Surgery 18, no. 8 (October 2002): 872–81. doi:10.1053/jars.2002.32845."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Pratical [sic] Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Victor, Jan, Pius Wong, Eric Witvrouw, Jos Vander Sloten, and Johan Bellemans. 'How Isometric Are the Medial Patellofemoral, Superficial Medial Collateral, and Lateral Collateral Ligaments of the Knee?' The American Journal of Sports Medicine 37, no. 10 (October 1, 2009): 2028–36. doi:10.1177/0363546509337407."
+        }
+      ]
+    }
+  }
+}

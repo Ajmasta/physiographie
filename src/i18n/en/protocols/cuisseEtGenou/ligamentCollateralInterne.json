@@ -1,0 +1,197 @@
+{
+  "title": "Medial Collateral Ligament",
+  "latinName": "Ligamentum collaterale tibiale",
+  "normesEtGeneralites": {
+    "sectionTitle": "Standards and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Attachments", "header": true, "rowspan": 2 },
+          { "data": "Proximal: Femur, medial epicondyle" }
+        ],
+        [{ "data": "Distal: Tibia, medial surface of proximal epiphysis" }]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative Values",
+      "rangees": [
+        [
+          { "data": "Structure", "header": true },
+          { "data": "Measurement", "header": true },
+          { "data": "Plane / Site", "header": true },
+          { "data": "Subject Type", "header": true },
+          { "data": "Mean (min-max)", "header": true }
+        ],
+        [
+          { "data": "Medial collateral ligament", "rowspan": 4 },
+          { "data": "Thickness (mm)", "rowspan": 4 },
+          { "data": "Femoral attachment" },
+          { "data": "Asymptomatic", "rowspan": 2 },
+          {
+            "data": "4.3 (3.3 - 5.6) <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Tibial attachment" },
+          {
+            "data": "2.3 (1.3 - 3.2) <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Femoral attachment" },
+          { "data": "Symptomatic", "rowspan": 2 },
+          {
+            "data": "8.3 (6.1 - 12.5) <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ],
+        [
+          { "data": "Tibial attachment" },
+          {
+            "data": "3.9 (3.7 - 4.1) <a href='#ref5' class='reference'>[5]</a>"
+          }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject Positioning",
+        "text": [
+          "Supine position, lower limb in slight external rotation, with the knee maintained at approximately 20-30° of flexion<a href='#ref1' class='reference'>[1]</a>"
+        ]
+      },
+      {
+        "subtitle": "Anatomical Landmarks and Palpation",
+        "text": [
+          "Locate and palpate the medial joint line, medial tibial plateau, and medial femoral condyle"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/ligamentCollateralInterne/vueLongitudinale/",
+        "objectifs": [
+          "Examination of both portions of the medial collateral ligament",
+          "If possible (depending on equipment and subject anatomy), visualization of the medial meniscus"
+        ],
+        "parametres": ["Depth: 2 cm", "Gain: 80"],
+        "positionnement": [
+          "In longitudinal view (relative to the course of the medial collateral ligament), place the probe above it",
+          "To guide the necessary rotation angle, you can start with an axis almost parallel to that formed by the femoral shaft (see adjacent image), and then adjust the rotation angle until an adequate image is obtained"
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["F"],
+                "texte": [
+                  "The femur appears in the left portion of the image, where its outline is easily recognized by a hyperechoic line."
+                ]
+              },
+              {
+                "acronymes": ["T"],
+                "texte": [
+                  "The tibia occupies the right portion of the image. It is also recognizable by its hyperechoic outline, under which is a hypoechoic shadowing area (due to the very low permeability of cortical bone to ultrasound)"
+                ]
+              },
+              {
+                "acronymes": ["MCL"],
+                "texte": [
+                  "The medial collateral ligament is present in the upper portion of the image, with its curved course clearly visible."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              { "path": "identification2.jpg", "descriptionText": "Femur" },
+              { "path": "identification3.jpg", "descriptionText": "Tibia" },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Medial collateral ligament"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Descriptive Anatomy",
+    "content": [
+      {
+        "text": [
+          "Along with the cruciate ligaments, the collateral ligaments (medial and lateral) are the most important ligaments of the knee. The medial collateral ligament [MCL] is a band of fibrous tissue located on the medial (inner) aspect of the knee. The origin of the MCL (about 5 cm above the joint line) and its insertion (6-7 cm below the joint line, behind the insertion of the pes anserinus complex) give it an almost vertical orientation. Considering the essentially horizontal plane of the tibiofemoral joint, it becomes clear why the MCL is tensioned by a valgus movement at the knee. In addition to valgus, the MCL restrains excessive external rotation and anterior translation of the tibia. Note that the MCL remains taut during isolated knee flexion and extension movements<a href='#ref1' class='reference'>[1]</a>.",
+          "The stabilizing structures located on the medial aspect of the knee are organized in 3 layers, classified according to their depth. The most superficial layer includes the crural fascia, which blends into the intermediate layer to form the medial patellar retinaculum. The superficial bundle of the MCL belongs to the intermediate layer, while its deep bundle merges to form the joint capsule within the deep layer of the medial knee stabilizers<a href='#ref1' class='reference'>[1]</a>.",
+          "During ultrasound examination, the superficial portion of the MCL appears as a broad fibrous band measuring approximately 15 mm in width and 10-11 cm in length. The deep portion of the MCL is thicker where it merges with the joint capsule. It should be noted that the deep layer of the MCL is closely related to the medial meniscus through its common attachments with the meniscofemoral and meniscotibial ligaments<a href='#ref1' class='reference'>[1]</a><a href='#ref2' class='reference'>[2]</a>."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Medial Collateral Ligament Injury / Rupture",
+        "text": [
+          "Due to its superficial location, the MCL is frequently subject to direct or indirect traumatic injuries, especially during sports activities (soccer, skiing). The classic injury mechanism involves excessive force on a knee positioned in valgus, flexion, and external rotation<a href='#ref1' class='reference'>[1]</a>. Injuries more often affect the superficial portion of the MCL in its proximal region and tend to also affect the deep meniscofemoral ligament.",
+          "Clinical presentation typically includes pain on the medial aspect of the knee, accompanied by localized edema (in acute phase). The presence of intra-articular edema suggests a more significant mechanism with injury to intra-articular structures (meniscus, anterior cruciate ligament, etc.). Traumas involving great force may also be accompanied by bone fragments avulsed from the cranial (femoral) attachment, which appear as an irregular hyperechoic area within the space normally occupied by the ligament<a href='#ref1' class='reference'>[1]</a>.",
+          "Ultrasound imaging can be useful in visualizing such injuries, considering the superficial location of the medial collateral ligament. When injured, the MCL takes on a heterogeneous and thickened appearance. It can be difficult to distinguish complete tears from partial (intrasubstance) tears that involve the meniscofemoral ligament. In such cases, the distinction is made by the presence (or absence) of a portion of the MCL that has maintained its normal appearance, following comparison with the MCL of the healthy side<a href='#ref1' class='reference'>[1]</a>.",
+          "Clinical management depends on the degree of severity and the nature of the affected structures. Isolated MCL ruptures typically respond well to conservative treatment, while a surgical approach is usually necessary in the presence of combined injuries<a href='#ref1' class='reference'>[1]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See Also",
+      "content": [
+        {
+          "linkTitle": "Pes anserinus complex",
+          "link": "/protocoles/cuisse-genou/complexe-patte-d-oie"
+        },
+        {
+          "linkTitle": "Lateral collateral ligament",
+          "link": "/protocoles/cuisse-genou/ligament-collateral-externe"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "De Maeseneer, Michel, Frans Van Roy, Leon Lenchik, Eric Barbaix, Filip De Ridder, and Michel Osteaux. 'Three Layers of the Medial Capsular and Supporting Structures of the Knee: MR Imaging—Anatomic Correlation.' RadioGraphics 20, no. suppl_1 (October 1, 2000): S83–89. doi:10.1148/radiographics.20.suppl_1.g00oc05s83."
+        },
+        {
+          "text": "Martinoli, Carlo. 'Musculoskeletal Ultrasound: Technical Guidelines.' Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "Lee, J. I., I. S. Song, Y. B. Jung, Y. G. Kim, C. H. Wang, H. Yu, Y. S. Kim, K. S. Kim, and T. L. Pope. 'Medial Collateral Ligament Injuries of the Knee: Ultrasonographic Findings.' Journal of Ultrasound in Medicine 15, no. 9 (September 1, 1996): 621–25."
+        },
+        {
+          "text": "Martinoli, Carlo. 'Musculoskeletal Ultrasound: Technical Guidelines.' Insights into Imaging 1, no. 3 (July 2010): 99–141. doi:10.1007/s13244-010-0032-9."
+        },
+        {
+          "text": "O'Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        },
+        {
+          "text": "Silvestri, Enzo, Muda, Alessandro, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System a Practical [sic] Guide. Milan; New York: Springer Milan, 2012."
+        }
+      ]
+    }
+  }
+}

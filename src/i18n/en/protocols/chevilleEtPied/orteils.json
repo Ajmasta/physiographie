@@ -1,0 +1,209 @@
+{
+  "title": "Toes",
+  "latinName": "Digiti pedis",
+  "normesEtGeneralites": {
+    "sectionTitle": "Norms and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "", "header": true },
+          { "data": "Hallux", "header": true },
+          { "data": "Toes 2 to 5", "header": true },
+          { "data": "5th toe only", "header": true }
+        ],
+        [
+          { "data": "Bony components", "header": true },
+          { "data": "2: Proximal phalanx; distal phalanx" },
+          {
+            "data": "3: Proximal phalanx; middle phalanx*; distal phalanx*"
+          },
+          { "data": "N/A" }
+        ],
+        [
+          { "data": "Main mobilizing muscles", "header": true },
+          {
+            "data": "6: Hallux adductor and abductor; extensor hallucis longus and brevis; flexor hallucis longus and brevis"
+          },
+          {
+            "data": "7: Extensor digitorum longus and brevis; flexor digitorum longus and brevis; dorsal and plantar interossei; lumbricals"
+          },
+          {
+            "data": "2: Flexor digiti minimi brevis; abductor digiti minimi"
+          }
+        ],
+        [
+          { "data": "Sensory innervation", "header": true },
+          {
+            "data": "Nerves: superficial fibular (L4-S1); deep fibular (L4-L5)"
+          },
+          {
+            "data": "Nerves: superficial fibular (L4-S1); deep fibular (L4-L5) [2nd toe only]"
+          },
+          { "data": "Sural nerve" }
+        ],
+        [
+          { "data": "Motor innervation", "header": true },
+          {
+            "data": "Nerves: tibial (S1-S2); deep fibular (L4-L5); medial and lateral plantar (branches of tibial nerve)"
+          },
+          {
+            "data": "Nerves: deep fibular (L4-L5); tibial (S1-S2); medial and lateral plantar"
+          },
+          { "data": "Lateral plantar nerve" }
+        ]
+      ],
+      "extraText": "*  For the 4th and/or 5th toe, the middle and distal phalanges may be fused<a href='#ref5' class='reference'>[5]</a>."
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative values",
+      "rangees": [],
+      "extraText": ["No data available"]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject positioning",
+        "text": [
+          "Supine position",
+          "The position of the lower limb (extended vs. flexed with foot flat on the bed) is optional, depending on patient comfort and the degree of stability needed by the examiner"
+        ]
+      },
+      {
+        "subtitle": "Anatomical landmarks and palpation",
+        "text": [
+          "Locate and palpate the distal portion (head) of the metatarsals, as well as the proximal, middle, and distal phalanges"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/orteils/vueLongitudinale/",
+        "objectifs": [
+          "Educational: Observation of forefoot anatomy, particularly the toes"
+        ],
+        "parametres": ["Depth: 1 cm", "Gain: 70"],
+        "positionnement": [
+          "Place the probe along the long axis of the toe, ensuring coverage of all three phalanges (which may not be possible depending on the subject's morphology and the probe's footprint).",
+          "Slowly scan proximally to observe the metatarsophalangeal joint and the metatarsal bone."
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["PP"],
+                "texte": [
+                  "The proximal phalanx, the largest of the three phalanges, is located on the left of the image. Note the presence of a hyperechoic line at the (dorsal) surface of the phalanx, which is due to significant reflection of the ultrasound beam by the cortical bone of the phalanx."
+                ]
+              },
+              {
+                "acronymes": ["PM"],
+                "texte": [
+                  "The middle phalanx, in the center of the image, appears similar to the proximal phalanx, except that it is more superficial and less voluminous than the latter."
+                ]
+              },
+              {
+                "acronymes": ["PD"],
+                "texte": [
+                  "The distal phalanx, the smallest of the three phalanges, is on the right of the image and is distinguished by its more tapered (almost pointed) distal end. Note the presence of the nail just superficial to (thus at the top of the image) the distal phalanx."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "initial.jpg" },
+              { "path": "PP.jpg", "descriptionText": "Proximal phalanx" },
+              { "path": "PM.jpg", "descriptionText": "Middle phalanx" },
+              { "path": "PD.jpg", "descriptionText": "Distal phalanx" },
+              { "path": "initial.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomical Description",
+    "content": [
+      {
+        "text": [
+          "Like the hand, the foot is a complex structure comprising numerous delicately organized components, despite the significant forces that pass through it hundreds or thousands of times per day. Indeed, the foot contains 28 bones, 30 joints, and more than a hundred ligaments, tendons, and muscles<a href='#ref2' class='reference'>[2]</a>.",
+          "The content of this section will focus on the structures of the forefoot, specifically the toes. For brevity, the second toe will be used as a 'model,' since the 2nd to 4th toes have practically identical anatomy (as does the 5th toe, albeit to a lesser extent)."
+        ]
+      }
+    ],
+    "images": [{ "path": "descriptionAnatomique.gif" }],
+    "source": "/Protocols/orteils/"
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Stress fracture",
+        "text": [
+          "Stress fractures, also known as 'insufficiency fractures,' are fractures that occur in weakened bone, usually after repeated loading. Classically, this type of injury is most commonly found in post-menopausal women or in those who participate in activities (sports or professional) involving repeated loading of the foot bones (dancers, runners, military personnel). Moreover, with the increasing popularity of outdoor sports activities, particularly running, the prevalence of this type of injury tends to increase<a href='#ref3' class='reference'>[3]</a>. Certain biomechanical/morphological factors are also associated with an additional predisposition to stress fractures, including excessive hindfoot inversion, significant forefoot varus, or a high longitudinal arch<a href='#ref2' class='reference'>[2]</a>."
+        ]
+      },
+      {
+        "subtitle": "Inflammatory conditions",
+        "text": [
+          "Various inflammatory (autoimmune) pathologies affecting the forefoot can be investigated using ultrasound imaging, e.g., rheumatoid arthritis (RA), gouty arthritis, psoriasis, or Reiter's syndrome (RA being the most prevalent)<a href='#ref6' class='reference'>[6]</a><a href='#ref12' class='reference'>[12]</a>. In the case of RA, ultrasound can help demonstrate joint erosion, signs of tenosynovitis, or observe/qualify the pannus within the synovial membrane<a href='#ref2' class='reference'>[2]</a>."
+        ]
+      },
+      {
+        "subtitle": "Morton's neuroma / Mechanical neuropathies",
+        "text": [
+          "Morton's neuroma is a condition characterized by mechanical impairment of a common plantar digital nerve, particularly the third (especially) and fourth interdigital nerves<a href='#ref2' class='reference'>[2]</a>.",
+          "The pathophysiological mechanism is classically multifactorial, often combining local trauma and certain anatomical factors: the 3rd interdigital nerve is larger and also located closer to the metatarsal head than other interdigital nerves, making it more vulnerable to trauma. Additionally, the greater relative mobility of the 3rd and 4th metatarsals can facilitate nerve impingement between these two structures<a href='#ref8' class='reference'>[8]</a><a href='#ref15' class='reference'>[15]</a>.",
+          "Clinically, these patients typically report significant pain that tends to be aggravated by wearing narrow shoes, high heels, or walking. Symptoms are normally relieved by reducing weight-bearing and rest<a href='#ref2' class='reference'>[2]</a>.",
+          "Numerous scientific articles have been published regarding the evaluation of Morton's neuromas using ultrasound imaging. This approach is thus recognized for its excellent sensitivity (100%) and specificity (83.3%) in this matter when compared with surgical findings<a href='#ref14' class='reference'>[14]</a>. Another study, published in 2000, concluded that ultrasound can detect Morton's neuroma in 85% of cases<a href='#ref11' class='reference'>[11]</a>."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See also",
+      "content": [
+        {
+          "linkTitle": "Plantar fascia",
+          "link": "/protocoles/cheville-et-pied/fascia-plantaire/"
+        },
+        {
+          "linkTitle": "Tibial mortise",
+          "link": "/protocoles/cheville-et-pied/mortaise-tibiale/"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "McNally, Eugene G. Practical Musculoskeletal Ultrasound. Churchill Livingstone/Elsevier, 2014."
+        },
+        {
+          "text": "O'Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        },
+        {
+          "text": "Silvestri, Enzo, Alessandro Muda, and Luca Maria Sconfienza. Normal Ultrasound Anatomy of the Musculoskeletal System: A Practical Guide. Milan; New York: Springer Milan, 2012."
+        },
+        {
+          "text": "Sobiesk, George A., Stuart J. Wertheimer, Ronald Schulz, and Michelle Dalfovo. 'Sonographic Evaluation of Interdigital Neuromas.' The Journal of Foot and Ankle Surgery 36, no. 5 (September 1997): 364–66. doi:10.1016/S1067-2516(97)80038-5."
+        },
+        {
+          "text": "Wu, Kent K. 'Morton's Interdigital Neuroma: A Clinical Review of Its Etiology, Treatment, and Results.' The Journal of Foot and Ankle Surgery 35, no. 2 (March 1996): 112–19. doi:10.1016/S1067-2516(96)80027-5."
+        }
+      ]
+    }
+  }
+}

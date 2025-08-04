@@ -1,0 +1,346 @@
+{
+  "title": "Humeroradial joint",
+  "latinName": "Articulatio humeroradialis",
+  "normesEtGeneralites": {
+    "sectionTitle": "Norms and General Information",
+    "generalites": {
+      "sectionTitle": "General Information",
+      "rangees": [
+        [
+          { "data": "Joint type", "header": true },
+          { "data": "Modified ball-and-socket joint" }
+        ],
+        [
+          { "data": "Articular surfaces", "header": true, "rowspan": 2 },
+          { "data": "Humeral capitulum" }
+        ],
+        [{ "data": "Radial fossa (radial head)" }],
+        [
+          {
+            "data": "Stabilizing structures",
+            "header": true,
+            "rowspan": 3
+          },
+          { "data": "Annular ligament" }
+        ],
+        [{ "data": "Elbow joint capsule" }],
+        [{ "data": "Lateral (external) collateral ligament" }],
+        [
+          { "data": "Stressed during", "header": true },
+          { "data": "Mainly elbow flexion-extension" }
+        ],
+        [
+          { "data": "Degrees of freedom", "header": true },
+          { "data": "2: Flexion-extension & Pronation-supination" }
+        ]
+      ]
+    },
+    "valeursNormatives": {
+      "sectionTitle": "Normative values",
+      "rangees": [
+        [
+          {
+            "data": "No normative values in the literature",
+            "header": true
+          }
+        ]
+      ]
+    }
+  },
+  "technique": {
+    "sectionTitle": "Technique",
+    "content": [
+      {
+        "subtitle": "Subject positioning",
+        "text": [
+          "Subject seated facing the examiner, upper limb placed on the examination surface",
+          "The examination of the humeroradial joint will begin here with the anterior approach, which requires the subject's elbow to be in full extension",
+          "For more comfort, the examination surface (e.g., adjustable height electric table) can be raised, and a pillow can be placed under the subject's elbow",
+          "For the lateral aspect of the humeroradial joint, place the subject's elbow in slight flexion<a href='#ref2' class='reference'>[2]</a>"
+        ]
+      },
+      {
+        "subtitle": "Anatomical landmarks and palpation",
+        "text": [
+          "Locate and palpate the radial head and the (lateral) epicondyle of the humerus",
+          "To confirm that it is indeed the radial head, you can ask the subject to perform some pronation-supination movements while palpating the radial head"
+        ]
+      }
+    ],
+    "vues": [
+      {
+        "title": "Longitudinal View",
+        "source": "/Protocols/articulationHumeroRadiale/vueLongitudinale/",
+        "objectifs": ["Observation of the humeroradial joint"],
+        "parametres": ["Depth: 2-4 cm", "Gain: 70"],
+        "positionnement": [
+          "Anterior aspect",
+          [
+            "In longitudinal view (parallel to the long axis of the forearm), place the proximal end of the probe proximal to the radial head, in the lateral third of the elbow"
+          ],
+          "Lateral aspect",
+          [
+            "Still in longitudinal view, place the proximal end of the probe on the (lateral) epicondyle of the humerus"
+          ]
+        ],
+        "imagePositionnement": [
+          {
+            "path": "positionnement1.jpg",
+            "descriptionText": "Probe position, anterior approach, longitudinal view"
+          },
+          {
+            "path": "positionnement2.jpg",
+            "descriptionText": "Probe position, lateral approach, longitudinal view"
+          }
+        ],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["HC"],
+                "texte": [
+                  "The humeral capitulum appears in the lower left portion of the image. It can be recognized by its semi-circular relief, as well as by its proximal location to the adjacent joint space"
+                ]
+              },
+              {
+                "acronymes": ["R"],
+                "texte": [
+                  "The radius, which is visible to the right of the humerus, has a profile clearly defined by a hyperechoic line that allows clear distinction of the shaft, neck, and head of the radius"
+                ]
+              },
+              {
+                "acronymes": ["RH"],
+                "texte": [
+                  "The radial head is the most proximal segment (leftmost) of the radius, just to the right of the joint space that separates the humeral capitulum from the radius."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Humeral capitulum"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Radius"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Radial head"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          },
+          {
+            "legend": [
+              {
+                "acronymes": ["H"],
+                "texte": [
+                  "The humerus appears in the upper left portion of the image as an area bounded upward by a curved hyperechoic line, and to the right by the joint space."
+                ]
+              },
+              {
+                "acronymes": ["LE"],
+                "texte": [
+                  "The lateral epicondyle is the convex end of the lateral aspect of the distal humerus."
+                ]
+              },
+              {
+                "acronymes": ["R"],
+                "texte": [
+                  "The radius is visible to the right of the humerus as a vast area bounded upward by a curved hyperechoic line."
+                ]
+              },
+              {
+                "acronymes": ["RH"],
+                "texte": [
+                  "The radial head is the most proximal portion (to the left) of the radius, and has a convex profile clearly visible in this image."
+                ]
+              },
+              {
+                "acronymes": ["ET"],
+                "texte": [
+                  "The extensor tendons are visible here superficial to the humeral head. Their fibrillar echotexture can be observed, as well as the presence of constituent fibers with heterogeneous echotexture, suggesting belonging to different muscles."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification6.jpg" },
+              {
+                "path": "identification7.jpg",
+                "descriptionText": "Humerus"
+              },
+              {
+                "path": "identification8.jpg",
+                "descriptionText": "Lateral epicondyle"
+              },
+              {
+                "path": "identification9.jpg",
+                "descriptionText": "Radius"
+              },
+              {
+                "path": "identification10.jpg",
+                "descriptionText": "Radial head"
+              },
+              {
+                "path": "identification11.jpg",
+                "descriptionText": "Extensor tendons"
+              },
+              {
+                "path": "identification12.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Transverse View",
+        "source": "/Protocols/articulationHumeroRadiale/vueTransversale/",
+        "objectifs": [
+          "Visualization of the humeroradial joint",
+          "Observation of the annular ligament of the elbow"
+        ],
+        "parametres": ["Depth: 4 cm", "Gain: 70"],
+        "positionnement": [
+          "Rotate the probe 90° from the longitudinal view (anterior approach)",
+          "",
+          ""
+        ],
+        "imagePositionnement": [{ "path": "positionnement1.jpg" }],
+        "identification": [
+          {
+            "legend": [
+              {
+                "acronymes": ["RH"],
+                "texte": [
+                  "The radial head is visible as a large circular hyperechoic area in the center of the image"
+                ]
+              },
+              {
+                "acronymes": ["AL"],
+                "texte": [
+                  "The annular ligament, a thin hyperechoic layer that follows the contour of the radial head, is visible here in the upper right quadrant of the radial head."
+                ]
+              },
+              {
+                "acronymes": ["BR"],
+                "texte": [
+                  "The brachioradialis is located in the upper right portion of the image. It can be recognized by its typical muscular echotexture (when the probe is oriented perpendicular to the fiber direction) and by its location at the anterolateral aspect of the radial head."
+                ]
+              }
+            ],
+            "imageIdentification": [
+              { "path": "identification1.jpg" },
+              {
+                "path": "identification2.jpg",
+                "descriptionText": "Radial head"
+              },
+              {
+                "path": "identification3.jpg",
+                "descriptionText": "Annular ligament"
+              },
+              {
+                "path": "identification4.jpg",
+                "descriptionText": "Brachioradialis"
+              },
+              { "path": "identification5.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionAnatomique": {
+    "sectionTitle": "Anatomical Description",
+    "content": [
+      {
+        "text": [
+          "The humeroradial joint is one of the three joints that make up the elbow complex, along with the humeroulnar joint and the proximal radioulnar joint. It is a modified ball-and-socket joint that allows two degrees of freedom: flexion-extension and pronation-supination.",
+          "The articular surfaces consist of the humeral capitulum, which is convex and spherical, and the concave radial fossa of the radial head. The joint is stabilized by several structures, including the annular ligament, which wraps around the radial head and maintains its contact with the ulna during pronation-supination movements.",
+          "The lateral collateral ligament complex also contributes to joint stability, particularly during varus stress. The joint capsule encompasses all three joints of the elbow complex and contains synovial fluid that lubricates the articular surfaces and provides nutrition to the articular cartilage."
+        ]
+      }
+    ],
+    "images": [{ "path": "" }],
+    "source": ""
+  },
+  "pertinenceClinique": {
+    "sectionTitle": "Clinical Relevance",
+    "content": [
+      {
+        "subtitle": "Radial head fractures",
+        "text": [
+          "Radial head fractures are common elbow injuries, often resulting from a fall on an outstretched hand. They account for approximately one-third of all elbow fractures. The Mason classification system categorizes these fractures into four types:",
+          [
+            "Type I: Non-displaced fractures",
+            "Type II: Displaced partial articular fractures",
+            "Type III: Comminuted fractures involving the entire radial head",
+            "Type IV: Radial head fracture with associated elbow dislocation"
+          ],
+          "Ultrasound can be useful in detecting joint effusion and assessing the integrity of surrounding soft tissues, although CT or MRI is typically needed for detailed fracture characterization."
+        ]
+      },
+      {
+        "subtitle": "Osteoarthritis",
+        "text": [
+          "Humeroradial joint osteoarthritis can develop following trauma (particularly after radial head fractures) or as part of primary osteoarthritis affecting the entire elbow. Ultrasound findings may include:",
+          [
+            "Osteophyte formation at the joint margins",
+            "Joint space narrowing",
+            "Synovial thickening",
+            "Joint effusion",
+            "Increased vascularity on power Doppler in cases of active inflammation"
+          ]
+        ]
+      },
+      {
+        "subtitle": "Posterolateral rotatory instability",
+        "text": [
+          "This condition involves dysfunction of the lateral collateral ligament complex and can affect the stability of the humeroradial joint. Dynamic ultrasound examination can be valuable in assessing the integrity of the lateral ligamentous structures and detecting abnormal joint motion.",
+          "The European Society of Musculoskeletal Radiology recommends ultrasound as a first-line imaging modality for assessing lateral elbow instability, with a grade 2 consensus level, indicating that ultrasound provides significant diagnostic information, although other imaging modalities may sometimes be necessary for complete evaluation."
+        ]
+      }
+    ]
+  },
+  "liensEtRefs": {
+    "sectionTitle": "Links and References",
+    "voirAussi": {
+      "sectionTitle": "See also",
+      "content": [
+        {
+          "linkTitle": "Common extensor tendon",
+          "link": "/protocoles/coude/tendon-extenseur-commun"
+        },
+        {
+          "linkTitle": "Distal biceps brachii tendon",
+          "link": "/protocoles/coude/tendon-distal-biceps"
+        },
+        {
+          "linkTitle": "Common flexor tendon",
+          "link": "/protocoles/coude/tendon-flechisseur-commun"
+        }
+      ]
+    },
+    "references": {
+      "sectionTitle": "References",
+      "content": [
+        {
+          "text": "Beggs, Ian, Stefano Bianchi, Angel Bueno, Michel Cohen, Michel Court-Payen, Andrew Grainger, Franz Kainberger, et al. 'Musculoskeletal Ultrasound Technical Guidelines (V. Elbow).' European Society of Musculoskeletal Radiology (ESSR), 2010."
+        },
+        {
+          "text": "Bianchi, S., and C. Martinoli, eds. Ultrasound of the Musculoskeletal System. Medical Radiology. Berlin; New York: Springer, 2007."
+        },
+        {
+          "text": "Jacobson, Jon A. Fundamentals of Musculoskeletal Ultrasound. Philadelphia, PA: Elsevier/Saunders, 2013."
+        },
+        {
+          "text": "McNally, Eugene G. Practical Musculoskeletal Ultrasound. Churchill Livingstone/Elsevier, 2014."
+        },
+        {
+          "text": "O'Neill, John M. D. Musculoskeletal Ultrasound: Anatomy and Technique. Springer Science & Business Media, 2008."
+        }
+      ]
+    }
+  }
+}
